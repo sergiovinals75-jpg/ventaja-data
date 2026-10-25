@@ -1,7 +1,7 @@
 {
  "meta": {
   "date": "2026-10-25",
-  "created_at": "2026-10-25T15:44:31+00:00",
+  "created_at": "2026-10-25T17:07:58+00:00",
   "model": "dc-poisson-v0.2",
   "source": "espn-temporary",
   "note": "Sin cuotas: se publica probabilidad del modelo, no EV ni stake.",
@@ -9,4966 +9,6 @@
   "chain_prev": "0000000000000000000000000000000000000000000000000000000000000000"
  },
  "picks": [
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T15:45Z",
-   "kickoff_local": "16:45",
-   "league": "Eredivisie",
-   "league_slug": "ned.1",
-   "event_id": "401875567",
-   "home": "Sparta Rotterdam",
-   "away": "Ajax Amsterdam",
-   "home_id": "151",
-   "away_id": "139",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-   "home_color": "F31522",
-   "away_color": "DF1B27",
-   "status": "PICK",
-   "market": "2",
-   "selection_label": "Gana VISITANTE",
-   "prob": 0.6807,
-   "edge_vs_league": 0.2459,
-   "detail": "sin ventaja",
-   "mejor_candidato_label": null,
-   "probs": {
-    "xg_home": 1.31,
-    "xg_away": 3.44,
-    "p_home": 0.1577,
-    "p_draw": 0.1616,
-    "p_away": 0.6807,
-    "p_over": 0.8507,
-    "p_under": 0.1493,
-    "p_btts_yes": 0.7014,
-    "p_btts_no": 0.2986,
-    "score": "1-3"
-   },
-   "base_league": {
-    "p_home": 0.3188,
-    "p_draw": 0.2464,
-    "p_away": 0.4348,
-    "p_over": 0.7681,
-    "p_under": 0.2319,
-    "p_btts_yes": 0.7101,
-    "p_btts_no": 0.2899
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 8,
-     "jugadores": [
-      {
-       "id": "177022",
-       "nombre": "Michael Brouwer",
-       "corto": "M. Brouwer",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9011,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "388712",
-       "nombre": "Marvin Young",
-       "corto": "M. Young",
-       "dorsal": "3",
-       "posicion": "CD-R",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "188458",
-       "nombre": "Bas Kuipers",
-       "corto": "B. Kuipers",
-       "dorsal": "5",
-       "posicion": "LB",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "415046",
-       "nombre": "Lushendry Martes",
-       "corto": "L. Martes",
-       "dorsal": "2",
-       "posicion": "RB",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "379191",
-       "nombre": "Cedric Hatenboer",
-       "corto": "C. Hatenboer",
-       "dorsal": "10",
-       "posicion": "CM-L",
-       "p_titular": 0.9011,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "297252",
-       "nombre": "Shunsuke Mito",
-       "corto": "S. Mito",
-       "dorsal": "10",
-       "posicion": "AM",
-       "p_titular": 0.8185,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "318782",
-       "nombre": "Isaac Babadi",
-       "corto": "I. Babadi",
-       "dorsal": "11",
-       "posicion": "LM",
-       "p_titular": 0.6593,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "324585",
-       "nombre": "Milan Zonneveld",
-       "corto": "M. Zonneveld",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.8028,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "149301",
-       "nombre": "Bruno Martins Indi",
-       "corto": "B. Martins Indi",
-       "dorsal": "4",
-       "posicion": "CD-L",
-       "p_titular": 0.8668,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "356979",
-       "nombre": "Nökkvi Thórisson",
-       "corto": "N. Thórisson",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.7115,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "405673",
-       "nombre": "Ayoni Santos",
-       "corto": "A. Santos",
-       "dorsal": "11",
-       "posicion": "CF-L",
-       "p_titular": 0.7115,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "368324",
-       "nombre": "Nick Verschuren",
-       "corto": "N. Verschuren",
-       "dorsal": "6",
-       "posicion": "CD",
-       "p_titular": 0.6323,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "408739",
-       "nombre": "Robin Van Cruijsen",
-       "corto": "R. Van Cruijsen",
-       "dorsal": "7",
-       "posicion": "RM",
-       "p_titular": 0.6004,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "304485",
-       "nombre": "Julian Baas",
-       "corto": "J. Baas",
-       "dorsal": "16",
-       "posicion": "",
-       "p_titular": 0.5915,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "142517",
-       "nombre": "Jens Toornstra",
-       "corto": "J. Toornstra",
-       "dorsal": "8",
-       "posicion": "CM-R",
-       "p_titular": 0.5364,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "231832",
-       "nombre": "Mitchell van Bergen",
-       "corto": "M. van Bergen",
-       "dorsal": "17",
-       "posicion": "",
-       "p_titular": 0.4828,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "320298",
-       "nombre": "Casper Terho",
-       "corto": "C. Terho",
-       "dorsal": "21",
-       "posicion": "",
-       "p_titular": 0.4529,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "3105443",
-       "nombre": "Duncan Lindhout",
-       "corto": "D. Lindhout",
-       "dorsal": "30",
-       "posicion": "",
-       "p_titular": 0.375,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "4-3-3",
-     "partidos_base": 8,
-     "jugadores": [
-      {
-       "id": "140740",
-       "nombre": "Marc-André ter Stegen",
-       "corto": "M. ter Stegen",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.8135,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "240353",
-       "nombre": "Caio Henrique",
-       "corto": "C. Henrique",
-       "dorsal": "12",
-       "posicion": "LB",
-       "p_titular": 0.7222,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "384127",
-       "nombre": "Aaron Bouwman",
-       "corto": "A. Bouwman",
-       "dorsal": "30",
-       "posicion": "CD-R",
-       "p_titular": 0.6606,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "333312",
-       "nombre": "Anton Gaaei",
-       "corto": "A. Gaaei",
-       "dorsal": "3",
-       "posicion": "RB",
-       "p_titular": 0.6429,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "197628",
-       "nombre": "Julian Brandt",
-       "corto": "J. Brandt",
-       "dorsal": "8",
-       "posicion": "AM",
-       "p_titular": 0.8668,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "381074",
-       "nombre": "Jorthy Mokio",
-       "corto": "J. Mokio",
-       "dorsal": "24",
-       "posicion": "RM",
-       "p_titular": 0.8668,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "297292",
-       "nombre": "Youri Regeer",
-       "corto": "Y. Regeer",
-       "dorsal": "6",
-       "posicion": "LM",
-       "p_titular": 0.625,
-       "titularidades": 1,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "219284",
-       "nombre": "Kasper Dolberg",
-       "corto": "K. Dolberg",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.5423,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "149577",
-       "nombre": "Steven Berghuis",
-       "corto": "S. Berghuis",
-       "dorsal": "23",
-       "posicion": "RF",
-       "p_titular": 0.8539,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "325609",
-       "nombre": "Oscar Gloukh",
-       "corto": "O. Gloukh",
-       "dorsal": "10",
-       "posicion": "AM-L",
-       "p_titular": 0.8313,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "168993",
-       "nombre": "Davy Klaassen",
-       "corto": "D. Klaassen",
-       "dorsal": "18",
-       "posicion": "AM-R",
-       "p_titular": 0.6803,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "305590",
-       "nombre": "Youri Baas",
-       "corto": "Y. Baas",
-       "dorsal": "15",
-       "posicion": "",
-       "p_titular": 0.6785,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "214401",
-       "nombre": "Thilo Kehrer",
-       "corto": "T. Kehrer",
-       "dorsal": "6",
-       "posicion": "",
-       "p_titular": 0.6237,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "351281",
-       "nombre": "Lucas Rosa",
-       "corto": "L. Rosa",
-       "dorsal": "2",
-       "posicion": "RB",
-       "p_titular": 0.6072,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "195226",
-       "nombre": "Sofyan Amrabat",
-       "corto": "S. Amrabat",
-       "dorsal": "4",
-       "posicion": "LM",
-       "p_titular": 0.5634,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "241392",
-       "nombre": "Owen Wijndal",
-       "corto": "O. Wijndal",
-       "dorsal": "5",
-       "posicion": "LB",
-       "p_titular": 0.5151,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "305372",
-       "nombre": "Tolu Arokodare",
-       "corto": "T. Arokodare",
-       "dorsal": "99",
-       "posicion": "",
-       "p_titular": 0.4583,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "212231",
-       "nombre": "Viktor Tsygankov",
-       "corto": "V. Tsygankov",
-       "dorsal": "11",
-       "posicion": "",
-       "p_titular": 0.4024,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "68 % a que gane el visitante · +25 pp respecto a la media de Eredivisie.",
-   "razon": [
-    "Forma: Sparta Rotterdam llega con E D D E V en sus últimos 5 (16 goles a favor, 22 en contra en 9 partidos); Ajax Amsterdam con V V E E V.",
-    "En casa Sparta Rotterdam promedia 1,60 goles a favor y 2,40 en contra en 5 partidos.",
-    "Fuera Ajax Amsterdam promedia 4,00 a favor y 0,75 en contra en 4 partidos.",
-    "El modelo da 68 % a que gane el visitante; la media de Eredivisie en ese mercado es 43 %: se aparta +25 pp de la media (referencia, no es una ventaja real).",
-    "El modelo estima xG 1,31 - 3,44 y da como marcador más probable 1-3.",
-    "Confianza media (68 %). No hay cuota publicada todavía, así que no hay valor esperado ni stake: esto no es una recomendación de dinero."
-   ],
-   "forma_home": [
-    "E",
-    "D",
-    "D",
-    "E",
-    "V"
-   ],
-   "forma_away": [
-    "V",
-    "V",
-    "E",
-    "E",
-    "V"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
-   "pick_hash": "7c28f2774ad58244ee04b83679763341b21bbc44dd488b761ec8090a05a1c3af"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:00Z",
-   "kickoff_local": "17:00",
-   "league": "Super Lig",
-   "league_slug": "tur.1",
-   "event_id": "401888376",
-   "home": "Goztepe",
-   "away": "Çorum FK",
-   "home_id": "789",
-   "away_id": "132334",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png",
-   "home_color": "000000",
-   "away_color": "000000",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.4336,
-   "edge_vs_league": 0.0465,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
-   "probs": {
-    "xg_home": 1.9,
-    "xg_away": 2.22,
-    "p_home": 0.3484,
-    "p_draw": 0.218,
-    "p_away": 0.4336,
-    "p_over": 0.778,
-    "p_under": 0.222,
-    "p_btts_yes": 0.7471,
-    "p_btts_no": 0.2529,
-    "score": "1-2"
-   },
-   "base_league": {
-    "p_home": 0.3548,
-    "p_draw": 0.2581,
-    "p_away": 0.3871,
-    "p_over": 0.6774,
-    "p_under": 0.3226,
-    "p_btts_yes": 0.5484,
-    "p_btts_no": 0.4516
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "3-4-1-2",
-     "partidos_base": 8,
-     "jugadores": [
-      {
-       "id": "258926",
-       "nombre": "Luka Gugeshashvili",
-       "corto": "L. Gugeshashvili",
-       "dorsal": "25",
-       "posicion": "G",
-       "p_titular": 0.8185,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "330711",
-       "nombre": "Taha Altikardes",
-       "corto": "T. Altikardes",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "319440",
-       "nombre": "Malcom Bokele",
-       "corto": "M. Bokele",
-       "dorsal": "26",
-       "posicion": "CD-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "195086",
-       "nombre": "Noah Sonko Sundberg",
-       "corto": "N. Sonko Sundberg",
-       "dorsal": "19",
-       "posicion": "CD",
-       "p_titular": 0.8364,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "325022",
-       "nombre": "Arda Okan Kurtulan",
-       "corto": "A. Kurtulan",
-       "dorsal": "2",
-       "posicion": "RM",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "320217",
-       "nombre": "Novatus Miroshi",
-       "corto": "N. Miroshi",
-       "dorsal": "20",
-       "posicion": "CM-L",
-       "p_titular": 0.8961,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "355150",
-       "nombre": "Richard Akonnor",
-       "corto": "R. Akonnor",
-       "dorsal": "12",
-       "posicion": "LM",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "303072",
-       "nombre": "Rhaldney",
-       "corto": "Rhaldney",
-       "dorsal": "5",
-       "posicion": "CM-R",
-       "p_titular": 0.8028,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "361901",
-       "nombre": "André Henrique",
-       "corto": "André Henrique",
-       "dorsal": "7",
-       "posicion": "CF-R",
-       "p_titular": 0.7691,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "297074",
-       "nombre": "Juan",
-       "corto": "Juan",
-       "dorsal": "9",
-       "posicion": "CF-L",
-       "p_titular": 0.7282,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "285141",
-       "nombre": "Santos",
-       "corto": "Santos",
-       "dorsal": "3",
-       "posicion": "CD",
-       "p_titular": 0.7115,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "290184",
-       "nombre": "Alexis Antunes",
-       "corto": "A. Antunes",
-       "dorsal": "8",
-       "posicion": "AM",
-       "p_titular": 0.6598,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "284251",
-       "nombre": "Arda Ozcimen",
-       "corto": "A. Ozcimen",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.6394,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "364744",
-       "nombre": "Amine Cherni",
-       "corto": "A. Cherni",
-       "dorsal": "15",
-       "posicion": "LM",
-       "p_titular": 0.625,
-       "titularidades": 1,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "387319",
-       "nombre": "Ege Yildirim",
-       "corto": "E. Yildirim",
-       "dorsal": "13",
-       "posicion": "",
-       "p_titular": 0.5275,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "358165",
-       "nombre": "Janderson",
-       "corto": "Janderson",
-       "dorsal": "39",
-       "posicion": "",
-       "p_titular": 0.5187,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "335913",
-       "nombre": "Alex Matos",
-       "corto": "A. Matos",
-       "dorsal": "6",
-       "posicion": "",
-       "p_titular": 0.4281,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "400878",
-       "nombre": "Guilherme Luiz",
-       "corto": "Guilherme Luiz",
-       "dorsal": "11",
-       "posicion": "",
-       "p_titular": 0.375,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "4-1-4-1",
-     "partidos_base": 8,
-     "jugadores": [
-      {
-       "id": "191997",
-       "nombre": "Marcos Felipe",
-       "corto": "Marcos Felipe",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "292170",
-       "nombre": "Hrvoje Smolcic",
-       "corto": "H. Smolcic",
-       "dorsal": "6",
-       "posicion": "CD-L",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "308739",
-       "nombre": "Serdar Saatci",
-       "corto": "S. Saatci",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.6696,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "306510",
-       "nombre": "Alexandre Penetra",
-       "corto": "A. Penetra",
-       "dorsal": "5",
-       "posicion": "CD-R",
-       "p_titular": 0.6004,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "335861",
-       "nombre": "Andrei Borza",
-       "corto": "A. Borza",
-       "dorsal": "24",
-       "posicion": "LM",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "292231",
-       "nombre": "Gokhan Sazdagi",
-       "corto": "G. Sazdagi",
-       "dorsal": "11",
-       "posicion": "RM",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "303049",
-       "nombre": "Mohammed Diomande",
-       "corto": "M. Diomande",
-       "dorsal": "10",
-       "posicion": "CM-L",
-       "p_titular": 0.8668,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "82009",
-       "nombre": "Jesús Ramírez",
-       "corto": "J. Ramírez",
-       "dorsal": "19",
-       "posicion": "F",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "298350",
-       "nombre": "Alexandros Kyziridis",
-       "corto": "A. Kyziridis",
-       "dorsal": "89",
-       "posicion": "CF-L",
-       "p_titular": 0.9072,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "239706",
-       "nombre": "Cengiz Ünder",
-       "corto": "C. Ünder",
-       "dorsal": "7",
-       "posicion": "CF-R",
-       "p_titular": 0.8249,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "141884",
-       "nombre": "Serdar Gürler",
-       "corto": "S. Gürler",
-       "dorsal": "7",
-       "posicion": "AM-R",
-       "p_titular": 0.7727,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "205323",
-       "nombre": "Fredy",
-       "corto": "Fredy",
-       "dorsal": "16",
-       "posicion": "",
-       "p_titular": 0.6285,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "237455",
-       "nombre": "Ylber Ramadani",
-       "corto": "Y. Ramadani",
-       "dorsal": "20",
-       "posicion": "",
-       "p_titular": 0.5685,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "230757",
-       "nombre": "Çaglar Söyüncü",
-       "corto": "Ç. Söyüncü",
-       "dorsal": "2",
-       "posicion": "CD",
-       "p_titular": 0.5679,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "292081",
-       "nombre": "Berat Özdemir",
-       "corto": "B. Özdemir",
-       "dorsal": "3",
-       "posicion": "CM-R",
-       "p_titular": 0.5364,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "364422",
-       "nombre": "Emircan Gürlük",
-       "corto": "E. Gürlük",
-       "dorsal": "17",
-       "posicion": "",
-       "p_titular": 0.3246,
-       "titularidades": 1,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "3106690",
-       "nombre": "Kenan Fakılı",
-       "corto": "K. Fakılı",
-       "dorsal": "42",
-       "posicion": "",
-       "p_titular": 0.2885,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "331620",
-       "nombre": "Hasan Abdulkareem",
-       "corto": "H. Abdulkareem",
-       "dorsal": "99",
-       "posicion": "",
-       "p_titular": 0.2885,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 43 %.",
-   "razon": [
-    "Forma: Goztepe llega con D E E V V en sus últimos 5 (17 goles a favor, 16 en contra en 8 partidos); Çorum FK con V V D V V.",
-    "En casa Goztepe promedia 1,33 goles a favor y 2,33 en contra en 3 partidos.",
-    "Fuera Çorum FK promedia 3,00 a favor y 2,25 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 43 %, con +5 pp sobre la media de Super Lig.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,90 - 2,22 y da como marcador más probable 1-2."
-   ],
-   "forma_home": [
-    "D",
-    "E",
-    "E",
-    "V",
-    "V"
-   ],
-   "forma_away": [
-    "V",
-    "V",
-    "D",
-    "V",
-    "V"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "7c28f2774ad58244ee04b83679763341b21bbc44dd488b761ec8090a05a1c3af",
-   "pick_hash": "227cdd847731e5b52a6173b7571bc03c1e421d2b07833bc9216127dc9091dd8b"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:15Z",
-   "kickoff_local": "17:15",
-   "league": "Ligue 1",
-   "league_slug": "fra.1",
-   "event_id": "401876429",
-   "home": "AJ Auxerre",
-   "away": "Le Mans",
-   "home_id": "172",
-   "away_id": "2697",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-   "home_color": "ffffff",
-   "away_color": "d62b11",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.362,
-   "edge_vs_league": 0.0344,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
-   "probs": {
-    "xg_home": 1.98,
-    "xg_away": 1.84,
-    "p_home": 0.4007,
-    "p_draw": 0.2374,
-    "p_away": 0.362,
-    "p_over": 0.7353,
-    "p_under": 0.2647,
-    "p_btts_yes": 0.7226,
-    "p_btts_no": 0.2774,
-    "score": "2-1"
-   },
-   "base_league": {
-    "p_home": 0.431,
-    "p_draw": 0.2414,
-    "p_away": 0.3276,
-    "p_over": 0.6379,
-    "p_under": 0.3621,
-    "p_btts_yes": 0.6552,
-    "p_btts_no": 0.3448
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "3-4-2-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "159312",
-       "nombre": "Paul Nardi",
-       "corto": "P. Nardi",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.272,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "344520",
-       "nombre": "Clément Akpa",
-       "corto": "C. Akpa",
-       "dorsal": "92",
-       "posicion": "CD-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "362476",
-       "nombre": "Christ Makosso",
-       "corto": "C. Makosso",
-       "dorsal": "15",
-       "posicion": "CD-R",
-       "p_titular": 0.8892,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "229524",
-       "nombre": "Axel Tuanzebe",
-       "corto": "A. Tuanzebe",
-       "dorsal": "4",
-       "posicion": "CD",
-       "p_titular": 0.8889,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "323722",
-       "nombre": "Kévin Danois",
-       "corto": "K. Danois",
-       "dorsal": "5",
-       "posicion": "CM-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "335320",
-       "nombre": "Lamine Sy",
-       "corto": "L. Sy",
-       "dorsal": "27",
-       "posicion": "RM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "310134",
-       "nombre": "Fredrik Oppegard",
-       "corto": "F. Oppegard",
-       "dorsal": "22",
-       "posicion": "LM",
-       "p_titular": 0.7453,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "293347",
-       "nombre": "Cameron Archer",
-       "corto": "C. Archer",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.9011,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "243748",
-       "nombre": "Danny Namaso",
-       "corto": "D. Namaso",
-       "dorsal": "10",
-       "posicion": "CF-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "345926",
-       "nombre": "Mamadou Diop",
-       "corto": "M. Diop",
-       "dorsal": "23",
-       "posicion": "",
-       "p_titular": 0.728,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "359360",
-       "nombre": "Arthur Piedfort",
-       "corto": "A. Piedfort",
-       "dorsal": "46",
-       "posicion": "",
-       "p_titular": 0.728,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "349185",
-       "nombre": "Remy Labeau Lascary",
-       "corto": "R. Labeau Lascary",
-       "dorsal": "3",
-       "posicion": "",
-       "p_titular": 0.6725,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "297775",
-       "nombre": "Naouirou Ahamada",
-       "corto": "N. Ahamada",
-       "dorsal": "8",
-       "posicion": "CM-R",
-       "p_titular": 0.6717,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "268591",
-       "nombre": "Romain Faivre",
-       "corto": "R. Faivre",
-       "dorsal": "21",
-       "posicion": "CF-R",
-       "p_titular": 0.5779,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "323175",
-       "nombre": "Lasso Coulibaly",
-       "corto": "L. Coulibaly",
-       "dorsal": "18",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "255625",
-       "nombre": "Thelonius Bair",
-       "corto": "T. Bair",
-       "dorsal": "14",
-       "posicion": "",
-       "p_titular": 0.3409,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "403125",
-       "nombre": "Telli Siwe",
-       "corto": "T. Siwe",
-       "dorsal": "13",
-       "posicion": "",
-       "p_titular": 0.3409,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "252136",
-       "nombre": "Sekou Fofana",
-       "corto": "S. Fofana",
-       "dorsal": "93",
-       "posicion": "",
-       "p_titular": 0.2812,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "3-1-4-2",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "233308",
-       "nombre": "Nicolas Kocik",
-       "corto": "N. Kocik",
-       "dorsal": "98",
-       "posicion": "G",
-       "p_titular": 0.7826,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "393721",
-       "nombre": "Harold Voyer",
-       "corto": "H. Voyer",
-       "dorsal": "5",
-       "posicion": "CD-L",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "223117",
-       "nombre": "Samuel Yohou",
-       "corto": "S. Yohou",
-       "dorsal": "17",
-       "posicion": "CD",
-       "p_titular": 0.7912,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "330722",
-       "nombre": "Lucas Bretelle",
-       "corto": "L. Bretelle",
-       "dorsal": "29",
-       "posicion": "SW",
-       "p_titular": 0.7542,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "418536",
-       "nombre": "Adil Bourabaa",
-       "corto": "A. Bourabaa",
-       "dorsal": "11",
-       "posicion": "CM-R",
-       "p_titular": 0.8707,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "315460",
-       "nombre": "Jean Vercruysse",
-       "corto": "J. Vercruysse",
-       "dorsal": "10",
-       "posicion": "CM-L",
-       "p_titular": 0.8249,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "262482",
-       "nombre": "Lucas Buades",
-       "corto": "L. Buades",
-       "dorsal": "18",
-       "posicion": "RM",
-       "p_titular": 0.5533,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "268720",
-       "nombre": "Louis Mafouta",
-       "corto": "L. Mafouta",
-       "dorsal": "14",
-       "posicion": "CF-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "397317",
-       "nombre": "Théo Eyoum",
-       "corto": "T. Eyoum",
-       "dorsal": "21",
-       "posicion": "CD",
-       "p_titular": 0.7321,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "382872",
-       "nombre": "Rayan Bamba",
-       "corto": "R. Bamba",
-       "dorsal": "26",
-       "posicion": "",
-       "p_titular": 0.7047,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "233702",
-       "nombre": "Dame Guèye",
-       "corto": "D. Guèye",
-       "dorsal": "25",
-       "posicion": "CF-L",
-       "p_titular": 0.6248,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "397394",
-       "nombre": "Noa Boissé",
-       "corto": "N. Boissé",
-       "dorsal": "15",
-       "posicion": "",
-       "p_titular": 0.5966,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "30302",
-       "nombre": "Djibril Sidibé",
-       "corto": "D. Sidibé",
-       "dorsal": "19",
-       "posicion": "CD-R",
-       "p_titular": 0.5402,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "331636",
-       "nombre": "Lucas Calodat",
-       "corto": "L. Calodat",
-       "dorsal": "22",
-       "posicion": "",
-       "p_titular": 0.5291,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "289837",
-       "nombre": "Yasser Larouci",
-       "corto": "Y. Larouci",
-       "dorsal": "76",
-       "posicion": "LM",
-       "p_titular": 0.5112,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "287606",
-       "nombre": "Alexandre Lauray",
-       "corto": "A. Lauray",
-       "dorsal": "8",
-       "posicion": "",
-       "p_titular": 0.4841,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "223376",
-       "nombre": "Habib Diallo",
-       "corto": "H. Diallo",
-       "dorsal": "13",
-       "posicion": "",
-       "p_titular": 0.4396,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "357006",
-       "nombre": "Erwan Colas",
-       "corto": "E. Colas",
-       "dorsal": "28",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 36 %.",
-   "razon": [
-    "Forma: AJ Auxerre llega con D V V D V en sus últimos 5 (11 goles a favor, 17 en contra en 7 partidos); Le Mans con E E V D D.",
-    "En casa AJ Auxerre promedia 1,33 goles a favor y 1,33 en contra en 3 partidos.",
-    "Fuera Le Mans promedia 1,33 a favor y 2,33 en contra en 3 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 36 %, con +3 pp sobre la media de Ligue 1.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,98 - 1,84 y da como marcador más probable 2-1."
-   ],
-   "forma_home": [
-    "D",
-    "V",
-    "V",
-    "D",
-    "V"
-   ],
-   "forma_away": [
-    "E",
-    "E",
-    "V",
-    "D",
-    "D"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "227cdd847731e5b52a6173b7571bc03c1e421d2b07833bc9216127dc9091dd8b",
-   "pick_hash": "0a9f708324e2353e933a7d9c8e09e71a9b1bb9f5efd07c72f44a63bce6ff17f7"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:15Z",
-   "kickoff_local": "17:15",
-   "league": "Ligue 1",
-   "league_slug": "fra.1",
-   "event_id": "401876430",
-   "home": "Angers",
-   "away": "Lorient",
-   "home_id": "7868",
-   "away_id": "273",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-   "home_color": "1a1a1a",
-   "away_color": "f46100",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.4164,
-   "edge_vs_league": 0.0888,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
-   "probs": {
-    "xg_home": 1.11,
-    "xg_away": 1.43,
-    "p_home": 0.3086,
-    "p_draw": 0.2751,
-    "p_away": 0.4164,
-    "p_over": 0.4657,
-    "p_under": 0.5343,
-    "p_btts_yes": 0.5044,
-    "p_btts_no": 0.4956,
-    "score": "1-1"
-   },
-   "base_league": {
-    "p_home": 0.431,
-    "p_draw": 0.2414,
-    "p_away": 0.3276,
-    "p_over": 0.6379,
-    "p_under": 0.3621,
-    "p_btts_yes": 0.6552,
-    "p_btts_no": 0.3448
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "131743",
-       "nombre": "Anthony Lopes",
-       "corto": "A. Lopes",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "191712",
-       "nombre": "Jordan Lefort",
-       "corto": "J. Lefort",
-       "dorsal": "21",
-       "posicion": "CD-L",
-       "p_titular": 0.8961,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "412232",
-       "nombre": "Ousmane Camara",
-       "corto": "O. Camara",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.8961,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "218703",
-       "nombre": "Carlens Arcus",
-       "corto": "C. Arcus",
-       "dorsal": "2",
-       "posicion": "RB",
-       "p_titular": 0.6886,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "196234",
-       "nombre": "Branco van den Boomen",
-       "corto": "B. van den Boomen",
-       "dorsal": "8",
-       "posicion": "LM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "338006",
-       "nombre": "Yassin Belkhdim",
-       "corto": "Y. Belkhdim",
-       "dorsal": "14",
-       "posicion": "RM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "206993",
-       "nombre": "Haris Belkebla",
-       "corto": "H. Belkebla",
-       "dorsal": "93",
-       "posicion": "CM",
-       "p_titular": 0.5306,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "301262",
-       "nombre": "Amine El Ouazzani",
-       "corto": "A. El Ouazzani",
-       "dorsal": "19",
-       "posicion": "F",
-       "p_titular": 0.7561,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "314388",
-       "nombre": "Amine Sbaï",
-       "corto": "A. Sbaï",
-       "dorsal": "10",
-       "posicion": "AM-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "284333",
-       "nombre": "Jim Allevinah",
-       "corto": "J. Allevinah",
-       "dorsal": "18",
-       "posicion": "AM-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "377899",
-       "nombre": "Joseph Kalulu Kyatengwa",
-       "corto": "J. Kalulu Kyatengwa",
-       "dorsal": "17",
-       "posicion": "",
-       "p_titular": 0.6604,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "333218",
-       "nombre": "Jacques Ekomie",
-       "corto": "J. Ekomie",
-       "dorsal": "3",
-       "posicion": "LB",
-       "p_titular": 0.6429,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "333845",
-       "nombre": "Louis Mouton",
-       "corto": "L. Mouton",
-       "dorsal": "6",
-       "posicion": "AM",
-       "p_titular": 0.4328,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "403232",
-       "nombre": "Prosper Peter",
-       "corto": "P. Peter",
-       "dorsal": "9",
-       "posicion": "",
-       "p_titular": 0.3752,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "357154",
-       "nombre": "Lilian Raolisoa",
-       "corto": "L. Raolisoa",
-       "dorsal": "27",
-       "posicion": "LB",
-       "p_titular": 0.3686,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "416401",
-       "nombre": "Maël Gernigon",
-       "corto": "M. Gernigon",
-       "dorsal": "34",
-       "posicion": "CD-L",
-       "p_titular": 0.3598,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "379227",
-       "nombre": "Anthony Bermont",
-       "corto": "A. Bermont",
-       "dorsal": "26",
-       "posicion": "",
-       "p_titular": 0.3246,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "356211",
-       "nombre": "Emmanuel Biumla",
-       "corto": "E. Biumla",
-       "dorsal": "24",
-       "posicion": "CD-R",
-       "p_titular": 0.272,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "3-4-2-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "199381",
-       "nombre": "Yvon Mvogo",
-       "corto": "Y. Mvogo",
-       "dorsal": "38",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "265099",
-       "nombre": "Montassar Talbi",
-       "corto": "M. Talbi",
-       "dorsal": "3",
-       "posicion": "CD",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "345563",
-       "nombre": "Nathaniel Adjei",
-       "corto": "N. Adjei",
-       "dorsal": "32",
-       "posicion": "CD-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "306535",
-       "nombre": "Isaak Touré",
-       "corto": "I. Touré",
-       "dorsal": "95",
-       "posicion": "CD-L",
-       "p_titular": 0.5437,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "315215",
-       "nombre": "Noah Cadiou",
-       "corto": "N. Cadiou",
-       "dorsal": "8",
-       "posicion": "CM-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "381626",
-       "nombre": "Arsène Kouassi",
-       "corto": "A. Kouassi",
-       "dorsal": "43",
-       "posicion": "LM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "347940",
-       "nombre": "Dembo Sylla",
-       "corto": "D. Sylla",
-       "dorsal": "20",
-       "posicion": "RM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "324565",
-       "nombre": "Ibrahima Baldé",
-       "corto": "I. Baldé",
-       "dorsal": "18",
-       "posicion": "F",
-       "p_titular": 0.6044,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "225557",
-       "nombre": "Jean-Victor Makengo",
-       "corto": "J. Makengo",
-       "dorsal": "17",
-       "posicion": "CF-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "397392",
-       "nombre": "Gabin Bernardeau",
-       "corto": "G. Bernardeau",
-       "dorsal": "33",
-       "posicion": "CF-L",
-       "p_titular": 0.7561,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "315454",
-       "nombre": "Noah Mbamba",
-       "corto": "N. Mbamba",
-       "dorsal": "72",
-       "posicion": "CM-L",
-       "p_titular": 0.5576,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "355870",
-       "nombre": "Arthur Avom",
-       "corto": "A. Avom",
-       "dorsal": "62",
-       "posicion": "CM-L",
-       "p_titular": 0.5497,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "364754",
-       "nombre": "Panos Katseris",
-       "corto": "P. Katseris",
-       "dorsal": "77",
-       "posicion": "",
-       "p_titular": 0.5022,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "416429",
-       "nombre": "Mamadou Koné",
-       "corto": "M. Koné",
-       "dorsal": "42",
-       "posicion": "",
-       "p_titular": 0.4841,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "307263",
-       "nombre": "Bandiougou Fadiga",
-       "corto": "B. Fadiga",
-       "dorsal": "7",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "417372",
-       "nombre": "Daniel Semedo",
-       "corto": "D. Semedo",
-       "dorsal": "23",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "309651",
-       "nombre": "Isak Jensen",
-       "corto": "I. Jensen",
-       "dorsal": "10",
-       "posicion": "CF-L",
-       "p_titular": 0.3275,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "3145437",
-       "nombre": "Samir Said Haribou",
-       "corto": "S. Haribou",
-       "dorsal": "31",
-       "posicion": "",
-       "p_titular": 0.2571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 42 %.",
-   "razon": [
-    "Forma: Angers llega con D E V D D en sus últimos 5 (9 goles a favor, 15 en contra en 7 partidos); Lorient con V E D V V.",
-    "En casa Angers promedia 1,25 goles a favor y 2,25 en contra en 4 partidos.",
-    "Fuera Lorient promedia 0,67 a favor y 0,67 en contra en 3 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 42 %, con +9 pp sobre la media de Ligue 1.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,11 - 1,43 y da como marcador más probable 1-1."
-   ],
-   "forma_home": [
-    "D",
-    "E",
-    "V",
-    "D",
-    "D"
-   ],
-   "forma_away": [
-    "V",
-    "E",
-    "D",
-    "V",
-    "V"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "0a9f708324e2353e933a7d9c8e09e71a9b1bb9f5efd07c72f44a63bce6ff17f7",
-   "pick_hash": "266d13f5d3627cdf93ed995d76b63c16fb153d6f693005e6bd273d02f07f4aec"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:15Z",
-   "kickoff_local": "17:15",
-   "league": "Ligue 1",
-   "league_slug": "fra.1",
-   "event_id": "401876426",
-   "home": "Marseille",
-   "away": "Le Havre AC",
-   "home_id": "176",
-   "away_id": "3236",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-   "home_color": "ffffff",
-   "away_color": "011F68",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.5148,
-   "edge_vs_league": 0.0838,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
-   "probs": {
-    "xg_home": 1.83,
-    "xg_away": 0.97,
-    "p_home": 0.5148,
-    "p_draw": 0.2501,
-    "p_away": 0.2351,
-    "p_over": 0.5299,
-    "p_under": 0.4701,
-    "p_btts_yes": 0.5157,
-    "p_btts_no": 0.4843,
-    "score": "1-0"
-   },
-   "base_league": {
-    "p_home": 0.431,
-    "p_draw": 0.2414,
-    "p_away": 0.3276,
-    "p_over": 0.6379,
-    "p_under": 0.3621,
-    "p_btts_yes": 0.6552,
-    "p_btts_no": 0.3448
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "228707",
-       "nombre": "Jeffrey de Lange",
-       "corto": "J. de Lange",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "307115",
-       "nombre": "CJ Egan-Riley",
-       "corto": "C. Egan-Riley",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "159051",
-       "nombre": "Emerson",
-       "corto": "Emerson",
-       "dorsal": "33",
-       "posicion": "LB",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "266027",
-       "nombre": "Timothy Weah",
-       "corto": "T. Weah",
-       "dorsal": "22",
-       "posicion": "RB",
-       "p_titular": 0.8996,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "277525",
-       "nombre": "Himad Abdelli",
-       "corto": "H. Abdelli",
-       "dorsal": "8",
-       "posicion": "AM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "159543",
-       "nombre": "Pierre-Emile Højbjerg",
-       "corto": "P. Højbjerg",
-       "dorsal": "23",
-       "posicion": "CM-R",
-       "p_titular": 0.8707,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "421851",
-       "nombre": "Nouhoum Kamissoko",
-       "corto": "N. Kamissoko",
-       "dorsal": "42",
-       "posicion": "LM",
-       "p_titular": 0.5974,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "259743",
-       "nombre": "Amine Gouiri",
-       "corto": "A. Gouiri",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "238917",
-       "nombre": "Amine Harit",
-       "corto": "A. Harit",
-       "dorsal": "77",
-       "posicion": "AM-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "289114",
-       "nombre": "Igor Paixão",
-       "corto": "Igor Paixão",
-       "dorsal": "14",
-       "posicion": "AM-L",
-       "p_titular": 0.9084,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "282230",
-       "nombre": "Quinten Timber",
-       "corto": "Q. Timber",
-       "dorsal": "27",
-       "posicion": "AM-L",
-       "p_titular": 0.6591,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "152270",
-       "nombre": "Geoffrey Kondogbia",
-       "corto": "G. Kondogbia",
-       "dorsal": "19",
-       "posicion": "CD-L",
-       "p_titular": 0.6317,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "256773",
-       "nombre": "Angel Gomes",
-       "corto": "A. Gomes",
-       "dorsal": "7",
-       "posicion": "",
-       "p_titular": 0.5966,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "245243",
-       "nombre": "Nayef Aguerd",
-       "corto": "N. Aguerd",
-       "dorsal": "21",
-       "posicion": "",
-       "p_titular": 0.5816,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "343114",
-       "nombre": "Tochukwu Nnadi",
-       "corto": "T. Nnadi",
-       "dorsal": "6",
-       "posicion": "RM",
-       "p_titular": 0.4108,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "422095",
-       "nombre": "Kelyann Bezahaf",
-       "corto": "K. Bezahaf",
-       "dorsal": "74",
-       "posicion": "",
-       "p_titular": 0.3412,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "178760",
-       "nombre": "Neal Maupay",
-       "corto": "N. Maupay",
-       "dorsal": "11",
-       "posicion": "",
-       "p_titular": 0.2158,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "389351",
-       "nombre": "Alexi Koum",
-       "corto": "A. Koum",
-       "dorsal": "46",
-       "posicion": "",
-       "p_titular": 0.1837,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "3-4-2-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "211669",
-       "nombre": "Lionel Mpasi",
-       "corto": "L. Mpasi",
-       "dorsal": "77",
-       "posicion": "G",
-       "p_titular": 0.7936,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "246847",
-       "nombre": "Ahmed Touba",
-       "corto": "A. Touba",
-       "dorsal": "5",
-       "posicion": "CD-L",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "258270",
-       "nombre": "Ayumu Seko",
-       "corto": "A. Seko",
-       "dorsal": "15",
-       "posicion": "CD-R",
-       "p_titular": 0.8961,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "3132216",
-       "nombre": "Djibril Ouziad",
-       "corto": "D. Ouziad",
-       "dorsal": "20",
-       "posicion": "RB",
-       "p_titular": 0.7542,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "346519",
-       "nombre": "Simon Ebonog",
-       "corto": "S. Ebonog",
-       "dorsal": "26",
-       "posicion": "CM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "319285",
-       "nombre": "Amir Richardson",
-       "corto": "A. Richardson",
-       "dorsal": "7",
-       "posicion": "LM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "297167",
-       "nombre": "Timothee Pembélé",
-       "corto": "T. Pembélé",
-       "dorsal": "32",
-       "posicion": "LM",
-       "p_titular": 0.7936,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "243514",
-       "nombre": "Josh Maja",
-       "corto": "J. Maja",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.7692,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "231366",
-       "nombre": "Mbwana Samatta",
-       "corto": "M. Samatta",
-       "dorsal": "25",
-       "posicion": "LF",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "291982",
-       "nombre": "Rassoul Ndiaye",
-       "corto": "R. Ndiaye",
-       "dorsal": "14",
-       "posicion": "RM",
-       "p_titular": 0.7569,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "329755",
-       "nombre": "Elias Jelert",
-       "corto": "E. Jelert",
-       "dorsal": "12",
-       "posicion": "LM",
-       "p_titular": 0.6466,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "190293",
-       "nombre": "Gauthier Gallon",
-       "corto": "G. Gallon",
-       "dorsal": "93",
-       "posicion": "G",
-       "p_titular": 0.7243,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "386384",
-       "nombre": "Yanis Zouaoui",
-       "corto": "Y. Zouaoui",
-       "dorsal": "18",
-       "posicion": "LM",
-       "p_titular": 0.6429,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "340583",
-       "nombre": "Junior Mwanga",
-       "corto": "J. Mwanga",
-       "dorsal": "6",
-       "posicion": "CD-R",
-       "p_titular": 0.5772,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "408085",
-       "nombre": "Mouhamed N'Diaye",
-       "corto": "M. N'Diaye",
-       "dorsal": "97",
-       "posicion": "LB",
-       "p_titular": 0.5679,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "399434",
-       "nombre": "Sota Nakamura",
-       "corto": "S. Nakamura",
-       "dorsal": "30",
-       "posicion": "RF",
-       "p_titular": 0.5441,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "306548",
-       "nombre": "Fodé Doucouré",
-       "corto": "F. Doucouré",
-       "dorsal": "13",
-       "posicion": "",
-       "p_titular": 0.4821,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "197631",
-       "nombre": "Mory Diaw",
-       "corto": "M. Diaw",
-       "dorsal": "99",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 51 %.",
-   "razon": [
-    "Forma: Marseille llega con D D D V V en sus últimos 5 (14 goles a favor, 10 en contra en 7 partidos); Le Havre AC con D E D D D.",
-    "En casa Marseille promedia 2,33 goles a favor y 1,67 en contra en 3 partidos.",
-    "Fuera Le Havre AC promedia 1,00 a favor y 1,67 en contra en 3 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 51 %, con +8 pp sobre la media de Ligue 1.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,83 - 0,97 y da como marcador más probable 1-0."
-   ],
-   "forma_home": [
-    "D",
-    "D",
-    "D",
-    "V",
-    "V"
-   ],
-   "forma_away": [
-    "D",
-    "E",
-    "D",
-    "D",
-    "D"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "266d13f5d3627cdf93ed995d76b63c16fb153d6f693005e6bd273d02f07f4aec",
-   "pick_hash": "9c0f67461c403c2dac632f36a1594b1591a3b22478db2e021ac9d90f34faca73"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:15Z",
-   "kickoff_local": "17:15",
-   "league": "Ligue 1",
-   "league_slug": "fra.1",
-   "event_id": "401876424",
-   "home": "Stade Rennais",
-   "away": "Strasbourg",
-   "home_id": "169",
-   "away_id": "180",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-   "home_color": "ef2f24",
-   "away_color": "0000bf",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.4696,
-   "edge_vs_league": 0.0386,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
-   "probs": {
-    "xg_home": 2.39,
-    "xg_away": 1.77,
-    "p_home": 0.4696,
-    "p_draw": 0.2253,
-    "p_away": 0.3052,
-    "p_over": 0.785,
-    "p_under": 0.215,
-    "p_btts_yes": 0.7518,
-    "p_btts_no": 0.2482,
-    "score": "2-1"
-   },
-   "base_league": {
-    "p_home": 0.431,
-    "p_draw": 0.2414,
-    "p_away": 0.3276,
-    "p_over": 0.6379,
-    "p_under": 0.3621,
-    "p_btts_yes": 0.6552,
-    "p_btts_no": 0.3448
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-1-4-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "164126",
-       "nombre": "Brice Samba",
-       "corto": "B. Samba",
-       "dorsal": "30",
-       "posicion": "G",
-       "p_titular": 0.9084,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "307713",
-       "nombre": "Charlie Cresswell",
-       "corto": "C. Cresswell",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "190806",
-       "nombre": "Przemyslaw Frankowski",
-       "corto": "P. Frankowski",
-       "dorsal": "95",
-       "posicion": "LB",
-       "p_titular": 0.7561,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "291614",
-       "nombre": "Anthony Rouault",
-       "corto": "A. Rouault",
-       "dorsal": "24",
-       "posicion": "CD-L",
-       "p_titular": 0.6379,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "173266",
-       "nombre": "Adrien Thomasson",
-       "corto": "A. Thomasson",
-       "dorsal": "28",
-       "posicion": "LM",
-       "p_titular": 0.8218,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "355982",
-       "nombre": "Djaoui Cissé",
-       "corto": "D. Cissé",
-       "dorsal": "6",
-       "posicion": "CM",
-       "p_titular": 0.5273,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "243844",
-       "nombre": "Sebastian Szymanski",
-       "corto": "S. Szymanski",
-       "dorsal": "17",
-       "posicion": "RM",
-       "p_titular": 0.5122,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "323850",
-       "nombre": "Esteban Lepaul",
-       "corto": "E. Lepaul",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.7842,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "297743",
-       "nombre": "Issa Soumaré",
-       "corto": "I. Soumaré",
-       "dorsal": "90",
-       "posicion": "LF",
-       "p_titular": 0.7948,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "207136",
-       "nombre": "Valentin Rongier",
-       "corto": "V. Rongier",
-       "dorsal": "21",
-       "posicion": "",
-       "p_titular": 0.728,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "268966",
-       "nombre": "Mahdi Camara",
-       "corto": "M. Camara",
-       "dorsal": "45",
-       "posicion": "",
-       "p_titular": 0.6237,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "313890",
-       "nombre": "Quentin Merlin",
-       "corto": "Q. Merlin",
-       "dorsal": "26",
-       "posicion": "LB",
-       "p_titular": 0.5948,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "257489",
-       "nombre": "Mousa Al-Tamari",
-       "corto": "M. Al-Tamari",
-       "dorsal": "11",
-       "posicion": "",
-       "p_titular": 0.4841,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "223120",
-       "nombre": "Ludovic Blas",
-       "corto": "L. Blas",
-       "dorsal": "10",
-       "posicion": "RF",
-       "p_titular": 0.4784,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "250758",
-       "nombre": "Bryan Reynolds",
-       "corto": "B. Reynolds",
-       "dorsal": "14",
-       "posicion": "RB",
-       "p_titular": 0.4315,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "372260",
-       "nombre": "Mahamadou Nagida",
-       "corto": "M. Nagida",
-       "dorsal": "18",
-       "posicion": "",
-       "p_titular": 0.424,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "376339",
-       "nombre": "Abdelhamid Aït Boudlal",
-       "corto": "A. Aït Boudlal",
-       "dorsal": "48",
-       "posicion": "",
-       "p_titular": 0.3996,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "415193",
-       "nombre": "Elias Legendre",
-       "corto": "E. Legendre",
-       "dorsal": "35",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "4-3-3",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "304256",
-       "nombre": "Filip Jørgensen",
-       "corto": "F. Jørgensen",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "374221",
-       "nombre": "Genesis Antwi",
-       "corto": "G. Antwi",
-       "dorsal": "16",
-       "posicion": "RB",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "377782",
-       "nombre": "Oso",
-       "corto": "Oso",
-       "dorsal": "36",
-       "posicion": "LB",
-       "p_titular": 0.9011,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "362926",
-       "nombre": "Jeyland Mitchell",
-       "corto": "J. Mitchell",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "303787",
-       "nombre": "Sebastian Nanasi",
-       "corto": "S. Nanasi",
-       "dorsal": "11",
-       "posicion": "LM",
-       "p_titular": 0.8707,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "353378",
-       "nombre": "Pape Diop",
-       "corto": "P. Diop",
-       "dorsal": "21",
-       "posicion": "LM",
-       "p_titular": 0.7167,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "290230",
-       "nombre": "Giovanni Reyna",
-       "corto": "G. Reyna",
-       "dorsal": "10",
-       "posicion": "AM",
-       "p_titular": 0.6886,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "362794",
-       "nombre": "Conrad Harder",
-       "corto": "C. Harder",
-       "dorsal": "40",
-       "posicion": "F",
-       "p_titular": 0.5055,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "379012",
-       "nombre": "Gessime Yassine",
-       "corto": "G. Yassine",
-       "dorsal": "80",
-       "posicion": "AM-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "305935",
-       "nombre": "Ismael Doukoure",
-       "corto": "I. Doukoure",
-       "dorsal": "6",
-       "posicion": "CD-L",
-       "p_titular": 0.8333,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "290101",
-       "nombre": "Andrew Omobamidele",
-       "corto": "A. Omobamidele",
-       "dorsal": "2",
-       "posicion": "CD-L",
-       "p_titular": 0.7321,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "368325",
-       "nombre": "Diogo Sousa",
-       "corto": "Diogo Sousa",
-       "dorsal": "23",
-       "posicion": "",
-       "p_titular": 0.728,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "346636",
-       "nombre": "Guela Doué",
-       "corto": "G. Doué",
-       "dorsal": "22",
-       "posicion": "RB",
-       "p_titular": 0.6429,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "316560",
-       "nombre": "Dário Essugo",
-       "corto": "D. Essugo",
-       "dorsal": "14",
-       "posicion": "RM",
-       "p_titular": 0.5055,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "3117410",
-       "nombre": "Jacobo Ortega Conde",
-       "corto": "J. Ortega Conde",
-       "dorsal": "30",
-       "posicion": "",
-       "p_titular": 0.5009,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "305797",
-       "nombre": "Sékou Mara",
-       "corto": "S. Mara",
-       "dorsal": "14",
-       "posicion": "",
-       "p_titular": 0.4821,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "224074",
-       "nombre": "Karim Coulibaly",
-       "corto": "K. Coulibaly",
-       "dorsal": "31",
-       "posicion": "CD-L",
-       "p_titular": 0.4628,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "388392",
-       "nombre": "Fabio Baldé",
-       "corto": "Fabio Baldé",
-       "dorsal": "19",
-       "posicion": "AM-L",
-       "p_titular": 0.4108,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 47 %.",
-   "razon": [
-    "Forma: Stade Rennais llega con V V D V D en sus últimos 5 (15 goles a favor, 14 en contra en 7 partidos); Strasbourg con V E D D D.",
-    "En casa Stade Rennais promedia 2,50 goles a favor y 1,25 en contra en 4 partidos.",
-    "Fuera Strasbourg promedia 2,00 a favor y 2,50 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 47 %, con +4 pp sobre la media de Ligue 1.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 2,39 - 1,77 y da como marcador más probable 2-1."
-   ],
-   "forma_home": [
-    "V",
-    "V",
-    "D",
-    "V",
-    "D"
-   ],
-   "forma_away": [
-    "V",
-    "E",
-    "D",
-    "D",
-    "D"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "9c0f67461c403c2dac632f36a1594b1591a3b22478db2e021ac9d90f34faca73",
-   "pick_hash": "4533d4ceb36626469a237ab21ba743af45877cb24ad1ad2ee61d4329fcd4b2a5"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:15Z",
-   "kickoff_local": "17:15",
-   "league": "Ligue 1",
-   "league_slug": "fra.1",
-   "event_id": "401876423",
-   "home": "Toulouse",
-   "away": "Troyes",
-   "home_id": "179",
-   "away_id": "170",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-   "home_color": "560080",
-   "away_color": "0000bf",
-   "status": "PICK",
-   "market": "1",
-   "selection_label": "Gana LOCAL",
-   "prob": 0.6044,
-   "edge_vs_league": 0.1734,
-   "detail": "sin ventaja",
-   "mejor_candidato_label": null,
-   "probs": {
-    "xg_home": 2.48,
-    "xg_away": 1.04,
-    "p_home": 0.6044,
-    "p_draw": 0.2084,
-    "p_away": 0.1872,
-    "p_over": 0.6826,
-    "p_under": 0.3174,
-    "p_btts_yes": 0.5884,
-    "p_btts_no": 0.4116,
-    "score": "2-1"
-   },
-   "base_league": {
-    "p_home": 0.431,
-    "p_draw": 0.2414,
-    "p_away": 0.3276,
-    "p_over": 0.6379,
-    "p_under": 0.3621,
-    "p_btts_yes": 0.6552,
-    "p_btts_no": 0.3448
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "324289",
-       "nombre": "Guillaume Restes",
-       "corto": "G. Restes",
-       "dorsal": "16",
-       "posicion": "G",
-       "p_titular": 0.9049,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "77072",
-       "nombre": "Mark McKenzie",
-       "corto": "M. McKenzie",
-       "dorsal": "3",
-       "posicion": "CD-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "385000",
-       "nombre": "Christ Tapé",
-       "corto": "C. Tapé",
-       "dorsal": "12",
-       "posicion": "LB",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "238213",
-       "nombre": "Rasmus Nicolaisen",
-       "corto": "R. Nicolaisen",
-       "dorsal": "2",
-       "posicion": "CD-L",
-       "p_titular": 0.8585,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "271244",
-       "nombre": "Cristian Cásseres Jr.",
-       "corto": "C. Cásseres Jr.",
-       "dorsal": "23",
-       "posicion": "CM-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "362777",
-       "nombre": "Thomas Jørgensen",
-       "corto": "T. Jørgensen",
-       "dorsal": "8",
-       "posicion": "LM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "363538",
-       "nombre": "Niko Sigur",
-       "corto": "N. Sigur",
-       "dorsal": "14",
-       "posicion": "CM-L",
-       "p_titular": 0.4725,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "297121",
-       "nombre": "Jacen Russell-Rowe",
-       "corto": "J. Russell-Rowe",
-       "dorsal": "13",
-       "posicion": "CF-R",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "384162",
-       "nombre": "Rafik Messali",
-       "corto": "R. Messali",
-       "dorsal": "22",
-       "posicion": "RB",
-       "p_titular": 0.7692,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "277383",
-       "nombre": "Yann Gboho",
-       "corto": "Y. Gboho",
-       "dorsal": "10",
-       "posicion": "AM-L",
-       "p_titular": 0.7321,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "403310",
-       "nombre": "Ilyas Azizi",
-       "corto": "I. Azizi",
-       "dorsal": "37",
-       "posicion": "AM-L",
-       "p_titular": 0.7159,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "306664",
-       "nombre": "Casper Tengstedt",
-       "corto": "C. Tengstedt",
-       "dorsal": "20",
-       "posicion": "CF-L",
-       "p_titular": 0.6593,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "408252",
-       "nombre": "Seny Koumbassa",
-       "corto": "S. Koumbassa",
-       "dorsal": "5",
-       "posicion": "",
-       "p_titular": 0.4878,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "408251",
-       "nombre": "Alexis Vossah",
-       "corto": "A. Vossah",
-       "dorsal": "6",
-       "posicion": "",
-       "p_titular": 0.4467,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "252740",
-       "nombre": "Aron Donnum",
-       "corto": "A. Donnum",
-       "dorsal": "15",
-       "posicion": "RM",
-       "p_titular": 0.4203,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "338873",
-       "nombre": "Santiago Hidalgo",
-       "corto": "S. Hidalgo",
-       "dorsal": "9",
-       "posicion": "",
-       "p_titular": 0.3583,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "386251",
-       "nombre": "Mathis Saka",
-       "corto": "M. Saka",
-       "dorsal": "28",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "322205",
-       "nombre": "Mario Sauer",
-       "corto": "M. Sauer",
-       "dorsal": "77",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "335240",
-       "nombre": "Patrick Beach",
-       "corto": "P. Beach",
-       "dorsal": "33",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "112988",
-       "nombre": "Michel Diaz",
-       "corto": "M. Diaz",
-       "dorsal": "4",
-       "posicion": "CD-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "181582",
-       "nombre": "Adrien Monfray",
-       "corto": "A. Monfray",
-       "dorsal": "6",
-       "posicion": "CD-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "408780",
-       "nombre": "Anis Ouzenadji",
-       "corto": "A. Ouzenadji",
-       "dorsal": "3",
-       "posicion": "LB",
-       "p_titular": 0.8707,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "346359",
-       "nombre": "Mouhamed Diop",
-       "corto": "M. Diop",
-       "dorsal": "8",
-       "posicion": "LM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "270173",
-       "nombre": "Antoine Mille",
-       "corto": "A. Mille",
-       "dorsal": "17",
-       "posicion": "RM",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "323058",
-       "nombre": "Dermane Karim",
-       "corto": "D. Karim",
-       "dorsal": "29",
-       "posicion": "CM",
-       "p_titular": 0.7692,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "176406",
-       "nombre": "Renaud Ripart",
-       "corto": "R. Ripart",
-       "dorsal": "20",
-       "posicion": "F",
-       "p_titular": 0.5122,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "334281",
-       "nombre": "Lucas Maronnier",
-       "corto": "L. Maronnier",
-       "dorsal": "2",
-       "posicion": "RB",
-       "p_titular": 0.7686,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "386387",
-       "nombre": "Merwan Ifnaoui",
-       "corto": "M. Ifnaoui",
-       "dorsal": "10",
-       "posicion": "RF",
-       "p_titular": 0.6774,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "287576",
-       "nombre": "Paolo Gozzi Iweru",
-       "corto": "P. Gozzi Iweru",
-       "dorsal": "5",
-       "posicion": "LB",
-       "p_titular": 0.6516,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "371562",
-       "nombre": "Yvann Titi",
-       "corto": "Y. Titi",
-       "dorsal": "44",
-       "posicion": "RB",
-       "p_titular": 0.6429,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "305693",
-       "nombre": "Jeremy Le Douaron",
-       "corto": "J. Le Douaron",
-       "dorsal": "9",
-       "posicion": "",
-       "p_titular": 0.5714,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "286972",
-       "nombre": "Iron Gomis",
-       "corto": "I. Gomis",
-       "dorsal": "11",
-       "posicion": "",
-       "p_titular": 0.5216,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "287514",
-       "nombre": "Timothé Nkada",
-       "corto": "T. Nkada",
-       "dorsal": "23",
-       "posicion": "LF",
-       "p_titular": 0.4725,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "351379",
-       "nombre": "Hugo Picard",
-       "corto": "H. Picard",
-       "dorsal": "22",
-       "posicion": "",
-       "p_titular": 0.4371,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "298511",
-       "nombre": "Kandet Diawara",
-       "corto": "K. Diawara",
-       "dorsal": "7",
-       "posicion": "",
-       "p_titular": 0.424,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "414398",
-       "nombre": "Noah Donkor",
-       "corto": "N. Donkor",
-       "dorsal": "31",
-       "posicion": "",
-       "p_titular": 0.2158,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "60 % a que gane el local · +17 pp respecto a la media de Ligue 1.",
-   "razon": [
-    "Forma: Toulouse llega con D E V E V en sus últimos 5 (12 goles a favor, 11 en contra en 7 partidos); Troyes con D D D D D.",
-    "En casa Toulouse promedia 1,00 goles a favor y 1,67 en contra en 3 partidos.",
-    "Fuera Troyes promedia 0,67 a favor y 1,67 en contra en 3 partidos.",
-    "El modelo da 60 % a que gane el local; la media de Ligue 1 en ese mercado es 43 %: se aparta +17 pp de la media (referencia, no es una ventaja real).",
-    "El modelo estima xG 2,48 - 1,04 y da como marcador más probable 2-1.",
-    "Confianza media (60 %). No hay cuota publicada todavía, así que no hay valor esperado ni stake: esto no es una recomendación de dinero."
-   ],
-   "forma_home": [
-    "D",
-    "E",
-    "V",
-    "E",
-    "V"
-   ],
-   "forma_away": [
-    "D",
-    "D",
-    "D",
-    "D",
-    "D"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "4533d4ceb36626469a237ab21ba743af45877cb24ad1ad2ee61d4329fcd4b2a5",
-   "pick_hash": "b4a64855afb3f5fd994c7661a0b37d39ae7d9a9070cfddfb2e5909b50b769292"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:30Z",
-   "kickoff_local": "17:30",
-   "league": "Bundesliga",
-   "league_slug": "ger.1",
-   "event_id": "401884759",
-   "home": "SC Freiburg",
-   "away": "Bayern Munich",
-   "home_id": "126",
-   "away_id": "132",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "home_color": "DA0308",
-   "away_color": "dc052d",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.254,
-   "edge_vs_league": 0.0801,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "EMPATE",
-   "probs": {
-    "xg_home": 2.14,
-    "xg_away": 1.48,
-    "p_home": 0.4672,
-    "p_draw": 0.254,
-    "p_away": 0.2788,
-    "p_over": 0.6996,
-    "p_under": 0.3004,
-    "p_btts_yes": 0.6892,
-    "p_btts_no": 0.3108,
-    "score": "1-1"
-   },
-   "base_league": {
-    "p_home": 0.5652,
-    "p_draw": 0.1739,
-    "p_away": 0.2609,
-    "p_over": 0.8696,
-    "p_under": 0.1304,
-    "p_btts_yes": 0.7391,
-    "p_btts_no": 0.2609
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 6,
-     "jugadores": [
-      {
-       "id": "338852",
-       "nombre": "Mio Backhaus",
-       "corto": "M. Backhaus",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "219316",
-       "nombre": "Philipp Lienhart",
-       "corto": "P. Lienhart",
-       "dorsal": "3",
-       "posicion": "CD-L",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "170209",
-       "nombre": "Matthias Ginter",
-       "corto": "M. Ginter",
-       "dorsal": "28",
-       "posicion": "CD-R",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "367558",
-       "nombre": "Jordy Makengo",
-       "corto": "J. Makengo",
-       "dorsal": "33",
-       "posicion": "LB",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "337079",
-       "nombre": "Yannick Engelhardt",
-       "corto": "Y. Engelhardt",
-       "dorsal": "16",
-       "posicion": "LM",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "214203",
-       "nombre": "Maximilian Eggestein",
-       "corto": "M. Eggestein",
-       "dorsal": "8",
-       "posicion": "RM",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "303031",
-       "nombre": "Yuito Suzuki",
-       "corto": "Y. Suzuki",
-       "dorsal": "14",
-       "posicion": "AM",
-       "p_titular": 0.8866,
-       "titularidades": 5,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "310883",
-       "nombre": "Igor Matanovic",
-       "corto": "I. Matanovic",
-       "dorsal": "31",
-       "posicion": "F",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "346619",
-       "nombre": "Derry Scherhant",
-       "corto": "D. Scherhant",
-       "dorsal": "7",
-       "posicion": "AM-L",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "231190",
-       "nombre": "Niklas Beste",
-       "corto": "N. Beste",
-       "dorsal": "19",
-       "posicion": "AM-R",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "364596",
-       "nombre": "Philipp Treu",
-       "corto": "P. Treu",
-       "dorsal": "29",
-       "posicion": "RB",
-       "p_titular": 0.8249,
-       "titularidades": 5,
-       "partidos": 6,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "387474",
-       "nombre": "Ifechukwu Ogbus",
-       "corto": "I. Ogbus",
-       "dorsal": "43",
-       "posicion": "",
-       "p_titular": 0.3214,
-       "titularidades": 0,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "346208",
-       "nombre": "Keisuke Goto",
-       "corto": "K. Goto",
-       "dorsal": "42",
-       "posicion": "AM",
-       "p_titular": 0.2918,
-       "titularidades": 1,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "224246",
-       "nombre": "Jannik Huth",
-       "corto": "J. Huth",
-       "dorsal": "24",
-       "posicion": "",
-       "p_titular": 0.2571,
-       "titularidades": 0,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "347980",
-       "nombre": "Rihito Yamamoto",
-       "corto": "R. Yamamoto",
-       "dorsal": "20",
-       "posicion": "",
-       "p_titular": 0.2368,
-       "titularidades": 0,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "171701",
-       "nombre": "Lukas Kübler",
-       "corto": "L. Kübler",
-       "dorsal": "17",
-       "posicion": "",
-       "p_titular": 0.1751,
-       "titularidades": 1,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "291203",
-       "nombre": "Patrick Osterhage",
-       "corto": "P. Osterhage",
-       "dorsal": "6",
-       "posicion": "",
-       "p_titular": 0.1636,
-       "titularidades": 0,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "387472",
-       "nombre": "Berkay Yilmaz",
-       "corto": "B. Yilmaz",
-       "dorsal": "27",
-       "posicion": "",
-       "p_titular": 0.1442,
-       "titularidades": 0,
-       "partidos": 6,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 6,
-     "jugadores": [
-      {
-       "id": "84774",
-       "nombre": "Manuel Neuer",
-       "corto": "M. Neuer",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.7355,
-       "titularidades": 4,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "222793",
-       "nombre": "Dayot Upamecano",
-       "corto": "D. Upamecano",
-       "dorsal": "2",
-       "posicion": "CD-R",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "169189",
-       "nombre": "Konrad Laimer",
-       "corto": "K. Laimer",
-       "dorsal": "27",
-       "posicion": "RB",
-       "p_titular": 0.693,
-       "titularidades": 3,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "120829",
-       "nombre": "Nathaniel Brown",
-       "corto": "N. Brown",
-       "dorsal": "11",
-       "posicion": "LB",
-       "p_titular": 0.5976,
-       "titularidades": 4,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "359370",
-       "nombre": "Aleksandar Pavlovic",
-       "corto": "A. Pavlovic",
-       "dorsal": "45",
-       "posicion": "LM",
-       "p_titular": 0.9095,
-       "titularidades": 6,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "190161",
-       "nombre": "Joshua Kimmich",
-       "corto": "J. Kimmich",
-       "dorsal": "6",
-       "posicion": "RM",
-       "p_titular": 0.7887,
-       "titularidades": 5,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "304572",
-       "nombre": "Ismael Saibari",
-       "corto": "I. Saibari",
-       "dorsal": "34",
-       "posicion": "AM",
-       "p_titular": 0.6841,
-       "titularidades": 4,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "142200",
-       "nombre": "Harry Kane",
-       "corto": "H. Kane",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.8089,
-       "titularidades": 5,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "286831",
-       "nombre": "Michael Olise",
-       "corto": "M. Olise",
-       "dorsal": "17",
-       "posicion": "AM-R",
-       "p_titular": 0.8089,
-       "titularidades": 5,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "257390",
-       "nombre": "Luis Díaz",
-       "corto": "L. Díaz",
-       "dorsal": "14",
-       "posicion": "AM-L",
-       "p_titular": 0.7887,
-       "titularidades": 5,
-       "partidos": 6,
-       "suplente": false
-      },
-      {
-       "id": "236721",
-       "nombre": "Alphonso Davies",
-       "corto": "A. Davies",
-       "dorsal": "19",
-       "posicion": "",
-       "p_titular": 0.5875,
-       "titularidades": 4,
-       "partidos": 6,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "276329",
-       "nombre": "Josip Stanisic",
-       "corto": "J. Stanisic",
-       "dorsal": "44",
-       "posicion": "",
-       "p_titular": 0.5231,
-       "titularidades": 3,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "188052",
-       "nombre": "Jonathan Tah",
-       "corto": "J. Tah",
-       "dorsal": "4",
-       "posicion": "",
-       "p_titular": 0.503,
-       "titularidades": 3,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "157688",
-       "nombre": "Kim Min-Jae",
-       "corto": "K. Min-Jae",
-       "dorsal": "3",
-       "posicion": "CD-L",
-       "p_titular": 0.497,
-       "titularidades": 3,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "303821",
-       "nombre": "Jamal Musiala",
-       "corto": "J. Musiala",
-       "dorsal": "10",
-       "posicion": "AM",
-       "p_titular": 0.4259,
-       "titularidades": 1,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "323790",
-       "nombre": "Jonas Urbig",
-       "corto": "J. Urbig",
-       "dorsal": "40",
-       "posicion": "G",
-       "p_titular": 0.4125,
-       "titularidades": 2,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "333400",
-       "nombre": "Arijon Ibrahimovic",
-       "corto": "A. Ibrahimovic",
-       "dorsal": "22",
-       "posicion": "",
-       "p_titular": 0.3409,
-       "titularidades": 0,
-       "partidos": 6,
-       "suplente": true
-      },
-      {
-       "id": "402841",
-       "nombre": "Lennart Karl",
-       "corto": "L. Karl",
-       "dorsal": "42",
-       "posicion": "",
-       "p_titular": 0.3119,
-       "titularidades": 2,
-       "partidos": 6,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 25 %.",
-   "razon": [
-    "Forma: SC Freiburg llega con V V E V D en sus últimos 5 (15 goles a favor, 6 en contra en 6 partidos); Bayern Munich con E V V E V.",
-    "En casa SC Freiburg promedia 3,67 goles a favor y 0,67 en contra en 3 partidos.",
-    "Fuera Bayern Munich promedia 1,33 a favor y 1,00 en contra en 3 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era EMPATE al 25 %, con +8 pp sobre la media de Bundesliga.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 2,14 - 1,48 y da como marcador más probable 1-1."
-   ],
-   "forma_home": [
-    "V",
-    "V",
-    "E",
-    "V",
-    "D"
-   ],
-   "forma_away": [
-    "E",
-    "V",
-    "V",
-    "E",
-    "V"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "b4a64855afb3f5fd994c7661a0b37d39ae7d9a9070cfddfb2e5909b50b769292",
-   "pick_hash": "05a9556364de65846aa155df386745106961a79e10e986acc29798f4eb891b73"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T16:30Z",
-   "kickoff_local": "17:30",
-   "league": "Premier League",
-   "league_slug": "eng.1",
-   "event_id": "401878764",
-   "home": "Sunderland",
-   "away": "Leeds United",
-   "home_id": "366",
-   "away_id": "357",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-   "home_color": "EB172B",
-   "away_color": "ffffff",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.3919,
-   "edge_vs_league": 0.1141,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
-   "probs": {
-    "xg_home": 0.98,
-    "xg_away": 1.26,
-    "p_home": 0.2924,
-    "p_draw": 0.3157,
-    "p_away": 0.3919,
-    "p_over": 0.3882,
-    "p_under": 0.6118,
-    "p_btts_yes": 0.4597,
-    "p_btts_no": 0.5403,
-    "score": "1-1"
-   },
-   "base_league": {
-    "p_home": 0.3889,
-    "p_draw": 0.3333,
-    "p_away": 0.2778,
-    "p_over": 0.5556,
-    "p_under": 0.4444,
-    "p_btts_yes": 0.5556,
-    "p_btts_no": 0.4444
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "301449",
-       "nombre": "Robin Roefs",
-       "corto": "R. Roefs",
-       "dorsal": "22",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "230081",
-       "nombre": "Reinildo Mandava",
-       "corto": "R. Mandava",
-       "dorsal": "17",
-       "posicion": "LB",
-       "p_titular": 0.9028,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "250543",
-       "nombre": "Kevin Danso",
-       "corto": "K. Danso",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.9011,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "282645",
-       "nombre": "Danny Ballard",
-       "corto": "D. Ballard",
-       "dorsal": "5",
-       "posicion": "CD-L",
-       "p_titular": 0.8707,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "340240",
-       "nombre": "Noah Sadiki",
-       "corto": "N. Sadiki",
-       "dorsal": "27",
-       "posicion": "LM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "149981",
-       "nombre": "Granit Xhaka",
-       "corto": "G. Xhaka",
-       "dorsal": "34",
-       "posicion": "RM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "356295",
-       "nombre": "Chris Rigg",
-       "corto": "C. Rigg",
-       "dorsal": "11",
-       "posicion": "AM",
-       "p_titular": 0.272,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "282229",
-       "nombre": "Brian Brobbey",
-       "corto": "B. Brobbey",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.8707,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "288340",
-       "nombre": "Enzo Le Fée",
-       "corto": "E. Le Fée",
-       "dorsal": "28",
-       "posicion": "AM-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "166473",
-       "nombre": "Thomas Meunier",
-       "corto": "T. Meunier",
-       "dorsal": "12",
-       "posicion": "AM-R",
-       "p_titular": 0.8961,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "214188",
-       "nombre": "Nordi Mukiele",
-       "corto": "N. Mukiele",
-       "dorsal": "20",
-       "posicion": "RB",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "387460",
-       "nombre": "Tymur Tutierov",
-       "corto": "T. Tutierov",
-       "dorsal": "57",
-       "posicion": "F",
-       "p_titular": 0.7632,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "318090",
-       "nombre": "Nilson Angulo",
-       "corto": "N. Angulo",
-       "dorsal": "10",
-       "posicion": "",
-       "p_titular": 0.728,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "290207",
-       "nombre": "Trai Hume",
-       "corto": "T. Hume",
-       "dorsal": "32",
-       "posicion": "AM-R",
-       "p_titular": 0.5779,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "265915",
-       "nombre": "Wilson Isidor",
-       "corto": "W. Isidor",
-       "dorsal": "18",
-       "posicion": "F",
-       "p_titular": 0.3002,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "215401",
-       "nombre": "Omar Alderete",
-       "corto": "O. Alderete",
-       "dorsal": "15",
-       "posicion": "CD-L",
-       "p_titular": 0.272,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "323084",
-       "nombre": "Romaine Mundle",
-       "corto": "R. Mundle",
-       "dorsal": "14",
-       "posicion": "",
-       "p_titular": 0.2679,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "388070",
-       "nombre": "Dayann Methalie",
-       "corto": "D. Methalie",
-       "dorsal": "6",
-       "posicion": "",
-       "p_titular": 0.2527,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "3-4-2-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "307118",
-       "nombre": "James Trafford",
-       "corto": "J. Trafford",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "318390",
-       "nombre": "Tarik Muharemovic",
-       "corto": "T. Muharemovic",
-       "dorsal": "5",
-       "posicion": "CD-L",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "231863",
-       "nombre": "James Justin",
-       "corto": "J. Justin",
-       "dorsal": "24",
-       "posicion": "CD-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "212237",
-       "nombre": "Nico Elvedi",
-       "corto": "N. Elvedi",
-       "dorsal": "30",
-       "posicion": "CD",
-       "p_titular": 0.7692,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "241317",
-       "nombre": "Ethan Ampadu",
-       "corto": "E. Ampadu",
-       "dorsal": "4",
-       "posicion": "CM-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "243408",
-       "nombre": "Jayden Bogle",
-       "corto": "J. Bogle",
-       "dorsal": "2",
-       "posicion": "RM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "250166",
-       "nombre": "Gabriel Gudmundsson",
-       "corto": "G. Gudmundsson",
-       "dorsal": "3",
-       "posicion": "LM",
-       "p_titular": 0.8249,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "197717",
-       "nombre": "Dominic Calvert-Lewin",
-       "corto": "D. Calvert-Lewin",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "304802",
-       "nombre": "Anton Stach",
-       "corto": "A. Stach",
-       "dorsal": "18",
-       "posicion": "CF-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "270641",
-       "nombre": "Noah Okafor",
-       "corto": "N. Okafor",
-       "dorsal": "19",
-       "posicion": "CF-L",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "253173",
-       "nombre": "Ao Tanaka",
-       "corto": "A. Tanaka",
-       "dorsal": "22",
-       "posicion": "CM-L",
-       "p_titular": 0.7692,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "232325",
-       "nombre": "Joe Rodon",
-       "corto": "J. Rodon",
-       "dorsal": "6",
-       "posicion": "CD-R",
-       "p_titular": 0.7321,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "408489",
-       "nombre": "Alfie Cresswell",
-       "corto": "A. Cresswell",
-       "dorsal": "50",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "252406",
-       "nombre": "Lucas Perri",
-       "corto": "L. Perri",
-       "dorsal": "23",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "408959",
-       "nombre": "Jayden Lienou",
-       "corto": "J. Lienou",
-       "dorsal": "65",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "297784",
-       "nombre": "Wilfried Gnonto",
-       "corto": "W. Gnonto",
-       "dorsal": "29",
-       "posicion": "",
-       "p_titular": 0.3409,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "164148",
-       "nombre": "Alex Cairns",
-       "corto": "A. Cairns",
-       "dorsal": "21",
-       "posicion": "",
-       "p_titular": 0.3409,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "259653",
-       "nombre": "Brenden Aaronson",
-       "corto": "B. Aaronson",
-       "dorsal": "11",
-       "posicion": "",
-       "p_titular": 0.2308,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 39 %.",
-   "razon": [
-    "Forma: Sunderland llega con E D D D D en sus últimos 5 (6 goles a favor, 14 en contra en 7 partidos); Leeds United con E V E D E.",
-    "En casa Sunderland promedia 0,33 goles a favor y 1,33 en contra en 3 partidos.",
-    "Fuera Leeds United promedia 1,00 a favor y 1,00 en contra en 3 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 39 %, con +11 pp sobre la media de Premier League.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 0,98 - 1,26 y da como marcador más probable 1-1."
-   ],
-   "forma_home": [
-    "E",
-    "D",
-    "D",
-    "D",
-    "D"
-   ],
-   "forma_away": [
-    "E",
-    "V",
-    "E",
-    "D",
-    "E"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "05a9556364de65846aa155df386745106961a79e10e986acc29798f4eb891b73",
-   "pick_hash": "f288e00cd12bfafc75b4115e7364686b50d066474467f301d8c7b3bfb2d750c7"
-  },
-  {
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T17:00Z",
-   "kickoff_local": "18:00",
-   "league": "Serie A",
-   "league_slug": "ita.1",
-   "event_id": "401874772",
-   "home": "Lecce",
-   "away": "Juventus",
-   "home_id": "113",
-   "away_id": "111",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-   "home_color": "FCED0B",
-   "away_color": "000000",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.2487,
-   "edge_vs_league": 0.1032,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "EMPATE",
-   "probs": {
-    "xg_home": 1.22,
-    "xg_away": 1.48,
-    "p_home": 0.3345,
-    "p_draw": 0.2487,
-    "p_away": 0.4168,
-    "p_over": 0.506,
-    "p_under": 0.494,
-    "p_btts_yes": 0.5261,
-    "p_btts_no": 0.4739,
-    "score": "0-1"
-   },
-   "base_league": {
-    "p_home": 0.4909,
-    "p_draw": 0.1455,
-    "p_away": 0.3636,
-    "p_over": 0.6182,
-    "p_under": 0.3818,
-    "p_btts_yes": 0.5818,
-    "p_btts_no": 0.4182
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-3-3",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "177812",
-       "nombre": "Wladimiro Falcone",
-       "corto": "W. Falcone",
-       "dorsal": "30",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "344844",
-       "nombre": "Danilo Veiga",
-       "corto": "D. Veiga",
-       "dorsal": "17",
-       "posicion": "RB",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "277441",
-       "nombre": "Antonino Gallo",
-       "corto": "A. Gallo",
-       "dorsal": "25",
-       "posicion": "LB",
-       "p_titular": 0.8368,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "379865",
-       "nombre": "Tiago Gabriel",
-       "corto": "Tiago Gabriel",
-       "dorsal": "44",
-       "posicion": "CD-L",
-       "p_titular": 0.8251,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "223947",
-       "nombre": "Lassana Coulibaly",
-       "corto": "L. Coulibaly",
-       "dorsal": "29",
-       "posicion": "RM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "260004",
-       "nombre": "Ivan Ilic",
-       "corto": "I. Ilic",
-       "dorsal": "20",
-       "posicion": "CM",
-       "p_titular": 0.7809,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "241405",
-       "nombre": "Youssef Maleh",
-       "corto": "Y. Maleh",
-       "dorsal": "14",
-       "posicion": "LM",
-       "p_titular": 0.6754,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "259744",
-       "nombre": "Willem Geubbels",
-       "corto": "W. Geubbels",
-       "dorsal": "69",
-       "posicion": "F",
-       "p_titular": 0.6317,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "318604",
-       "nombre": "Kialonda Gaspar",
-       "corto": "K. Gaspar",
-       "dorsal": "4",
-       "posicion": "CD-R",
-       "p_titular": 0.6435,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "307391",
-       "nombre": "Jamil Siebert",
-       "corto": "J. Siebert",
-       "dorsal": "5",
-       "posicion": "",
-       "p_titular": 0.6341,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "288429",
-       "nombre": "Santiago Pierotti",
-       "corto": "S. Pierotti",
-       "dorsal": "50",
-       "posicion": "",
-       "p_titular": 0.6154,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "334793",
-       "nombre": "Oumar Ngom",
-       "corto": "O. Ngom",
-       "dorsal": "79",
-       "posicion": "CM",
-       "p_titular": 0.5122,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "304512",
-       "nombre": "Nikola Stulic",
-       "corto": "N. Stulic",
-       "dorsal": "9",
-       "posicion": "",
-       "p_titular": 0.5022,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "307893",
-       "nombre": "Joel Monteiro",
-       "corto": "Joel Monteiro",
-       "dorsal": "99",
-       "posicion": "",
-       "p_titular": 0.4945,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "330550",
-       "nombre": "Amar Ahmed",
-       "corto": "A. Ahmed",
-       "dorsal": "7",
-       "posicion": "LF",
-       "p_titular": 0.4628,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "286582",
-       "nombre": "Konan N’Dri",
-       "corto": "K. N’Dri",
-       "dorsal": "11",
-       "posicion": "RF",
-       "p_titular": 0.4522,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "3099569",
-       "nombre": "Hjalte Morel Lærke",
-       "corto": "H. Morel Lærke",
-       "dorsal": "34",
-       "posicion": "",
-       "p_titular": 0.2679,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "341756",
-       "nombre": "Medon Berisha",
-       "corto": "M. Berisha",
-       "dorsal": "10",
-       "posicion": "",
-       "p_titular": 0.2473,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 7,
-     "jugadores": [
-      {
-       "id": "204082",
-       "nombre": "Guglielmo Vicario",
-       "corto": "G. Vicario",
-       "dorsal": "25",
-       "posicion": "G",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "258307",
-       "nombre": "Bremer",
-       "corto": "Bremer",
-       "dorsal": "3",
-       "posicion": "CD-R",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "271873",
-       "nombre": "Zeki Çelik",
-       "corto": "Z. Çelik",
-       "dorsal": "2",
-       "posicion": "LB",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "290129",
-       "nombre": "Pierre Kalulu",
-       "corto": "P. Kalulu",
-       "dorsal": "15",
-       "posicion": "RB",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "320074",
-       "nombre": "Douglas Luiz",
-       "corto": "D. Luiz",
-       "dorsal": "12",
-       "posicion": "RM",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "256715",
-       "nombre": "Weston McKennie",
-       "corto": "W. McKennie",
-       "dorsal": "22",
-       "posicion": "AM",
-       "p_titular": 0.8819,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "217538",
-       "nombre": "Manuel Locatelli",
-       "corto": "M. Locatelli",
-       "dorsal": "5",
-       "posicion": "RM",
-       "p_titular": 0.7936,
-       "titularidades": 3,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "252971",
-       "nombre": "Randal Kolo Muani",
-       "corto": "R. Kolo Muani",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.9156,
-       "titularidades": 7,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "227697",
-       "nombre": "Jhon Lucumí",
-       "corto": "J. Lucumí",
-       "dorsal": "26",
-       "posicion": "CD-L",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "76017",
-       "nombre": "Nico González",
-       "corto": "N. González",
-       "dorsal": "31",
-       "posicion": "AM-R",
-       "p_titular": 0.7692,
-       "titularidades": 5,
-       "partidos": 7,
-       "suplente": false
-      },
-      {
-       "id": "312659",
-       "nombre": "Francisco Conceição",
-       "corto": "F. Conceição",
-       "dorsal": "7",
-       "posicion": "",
-       "p_titular": 0.728,
-       "titularidades": 6,
-       "partidos": 7,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "366509",
-       "nombre": "Kenan Yildiz",
-       "corto": "K. Yildiz",
-       "dorsal": "10",
-       "posicion": "AM-L",
-       "p_titular": 0.6429,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "391034",
-       "nombre": "Kerim Alajbegovic",
-       "corto": "K. Alajbegovic",
-       "dorsal": "17",
-       "posicion": "AM-L",
-       "p_titular": 0.6098,
-       "titularidades": 4,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "297337",
-       "nombre": "Pape Matar Sarr",
-       "corto": "P. Sarr",
-       "dorsal": "29",
-       "posicion": "LM",
-       "p_titular": 0.5679,
-       "titularidades": 2,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "273499",
-       "nombre": "Jonathan David",
-       "corto": "J. David",
-       "dorsal": "30",
-       "posicion": "CF-L",
-       "p_titular": 0.5179,
-       "titularidades": 1,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "283139",
-       "nombre": "Khéphren Thuram",
-       "corto": "K. Thuram",
-       "dorsal": "19",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "146683",
-       "nombre": "Mattia Perin",
-       "corto": "M. Perin",
-       "dorsal": "1",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      },
-      {
-       "id": "323975",
-       "nombre": "Fabio Miretti",
-       "corto": "F. Miretti",
-       "dorsal": "21",
-       "posicion": "",
-       "p_titular": 0.3571,
-       "titularidades": 0,
-       "partidos": 7,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 25 %.",
-   "razon": [
-    "Forma: Lecce llega con D V D D V en sus últimos 5 (9 goles a favor, 12 en contra en 7 partidos); Juventus con E D V E D.",
-    "En casa Lecce promedia 1,33 goles a favor y 2,67 en contra en 3 partidos.",
-    "Fuera Juventus promedia 1,33 a favor y 1,33 en contra en 3 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era EMPATE al 25 %, con +10 pp sobre la media de Serie A.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,22 - 1,48 y da como marcador más probable 0-1."
-   ],
-   "forma_home": [
-    "D",
-    "V",
-    "D",
-    "D",
-    "V"
-   ],
-   "forma_away": [
-    "E",
-    "D",
-    "V",
-    "E",
-    "D"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "f288e00cd12bfafc75b4115e7364686b50d066474467f301d8c7b3bfb2d750c7",
-   "pick_hash": "f4e844ec56d15a636afb0be4fd587a96241c2dc1fd7f6659e1e4d0ac125fbc81"
-  },
   {
    "date": "2026-10-25",
    "kickoff": "2026-10-25T17:30Z",
@@ -4984,13 +24,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
    "home_color": "3366CC",
    "away_color": "C8142F",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.2824,
-   "edge_vs_league": 0.0065,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.4669,
+   "edge_vs_league": 0.0014,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 2.3,
     "xg_away": 1.63,
@@ -5437,14 +479,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 28 %.",
+   "razon_titular": "Lo más probable: gana Real Sociedad, 47 %.",
    "razon": [
     "Forma: Real Sociedad llega con V D V V V en sus últimos 5 (17 goles a favor, 17 en contra en 9 partidos); Levante con D D E E V.",
     "En casa Real Sociedad promedia 1,25 goles a favor y 1,50 en contra en 4 partidos.",
     "Fuera Levante promedia 0,40 a favor y 1,40 en contra en 5 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 28 %, con +1 pp sobre la media de LaLiga.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 2,30 - 1,63 y da como marcador más probable 2-1."
+    "El modelo da 47 % a que gane el local; la media de LaLiga en ese mercado es 47 %: se aparta +0 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 2,30 - 1,63 y da como marcador más probable 2-1.",
+    "Lectura SIN ventaja: 47 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -5462,8 +504,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "f4e844ec56d15a636afb0be4fd587a96241c2dc1fd7f6659e1e4d0ac125fbc81",
-   "pick_hash": "8b444e0959bb6b8ba1b234a6502a06e455918bc993e3e6f0f7544a1bcf4e08fa"
+   "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+   "pick_hash": "48e947773c61bdbb159b985bf18678124b7fc4fbba870e8cd3f2280e6aa6c0f2"
   },
   {
    "date": "2026-10-25",
@@ -5480,13 +522,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3788.png",
    "home_color": "000000",
    "away_color": "C8142F",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.5321,
    "edge_vs_league": 0.0909,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.54,
     "xg_away": 0.6,
@@ -5933,14 +977,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 53 %.",
+   "razon_titular": "Lo más probable: gana Castellón, 53 %.",
    "razon": [
     "Forma: Castellón llega con V V E D V en sus últimos 5 (18 goles a favor, 4 en contra en 10 partidos); Sporting Gijón con V D V V V.",
     "En casa Castellón promedia 2,00 goles a favor y 0,25 en contra en 4 partidos.",
     "Fuera Sporting Gijón promedia 1,25 a favor y 0,75 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 53 %, con +9 pp sobre la media de LaLiga Hypermotion.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,54 - 0,60 y da como marcador más probable 1-0."
+    "El modelo da 53 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 44 %: se aparta +9 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,54 - 0,60 y da como marcador más probable 1-0.",
+    "Lectura SIN ventaja: 53 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -5958,8 +1002,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8b444e0959bb6b8ba1b234a6502a06e455918bc993e3e6f0f7544a1bcf4e08fa",
-   "pick_hash": "211a0cc100b46684e90cd5a4b7647850d9524f90f0da5a0070f587bdc6720d59"
+   "prev_hash": "48e947773c61bdbb159b985bf18678124b7fc4fbba870e8cd3f2280e6aa6c0f2",
+   "pick_hash": "3833d04bb3a8d115937d97f76284b2247b828ac072ee146c6c75383e178bdb9f"
   },
   {
    "date": "2026-10-25",
@@ -5976,13 +1020,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
    "home_color": "288A00",
    "away_color": "0060f0",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.4557,
    "edge_vs_league": 0.158,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 0.64,
     "xg_away": 1.25,
@@ -6429,14 +1475,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 46 %.",
+   "razon_titular": "Lo más probable: gana Belgrano (Córdoba), 46 %.",
    "razon": [
     "Forma: Aldosivi llega con D V D D D en sus últimos 5 (20 goles a favor, 41 en contra en 29 partidos); Belgrano (Córdoba) con E V V V D.",
     "En casa Aldosivi promedia 0,71 goles a favor y 1,00 en contra en 14 partidos.",
     "Fuera Belgrano (Córdoba) promedia 1,00 a favor y 0,71 en contra en 17 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 46 %, con +16 pp sobre la media de Liga Profesional (ARG).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 0,64 - 1,25 y da como marcador más probable 0-1."
+    "El modelo da 46 % a que gane el visitante; la media de Liga Profesional (ARG) en ese mercado es 30 %: se aparta +16 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 0,64 - 1,25 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 46 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "D",
@@ -6454,8 +1500,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "211a0cc100b46684e90cd5a4b7647850d9524f90f0da5a0070f587bdc6720d59",
-   "pick_hash": "27c870041f3cb936aa913130e3f4a1974ba734cbd6e3db78fddb7572b432e059"
+   "prev_hash": "3833d04bb3a8d115937d97f76284b2247b828ac072ee146c6c75383e178bdb9f",
+   "pick_hash": "6399644ce89ec021116b99ccdb9b4038817b16340aa857409bb26b0e070ca3bb"
   },
   {
    "date": "2026-10-25",
@@ -6472,13 +1518,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
    "home_color": "000000",
    "away_color": "de1f26",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.498,
    "edge_vs_league": 0.1326,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.09,
     "xg_away": 1.81,
@@ -6925,14 +1973,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 50 %.",
+   "razon_titular": "Lo más probable: gana Braga, 50 %.",
    "razon": [
     "Forma: C.D. Nacional llega con D D D D D en sus últimos 5 (9 goles a favor, 18 en contra en 8 partidos); Braga con D V E D D.",
     "En casa C.D. Nacional promedia 1,25 goles a favor y 2,50 en contra en 4 partidos.",
     "Fuera Braga promedia 1,25 a favor y 1,25 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 50 %, con +13 pp sobre la media de Primeira Liga.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,09 - 1,81 y da como marcador más probable 0-1."
+    "El modelo da 50 % a que gane el visitante; la media de Primeira Liga en ese mercado es 37 %: se aparta +13 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,09 - 1,81 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 50 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "D",
@@ -6950,8 +1998,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "27c870041f3cb936aa913130e3f4a1974ba734cbd6e3db78fddb7572b432e059",
-   "pick_hash": "afb7dfa27f85d7c1092adfc74bd9e40fa0e6ed6c2ec4325acb7620face9d5d6c"
+   "prev_hash": "6399644ce89ec021116b99ccdb9b4038817b16340aa857409bb26b0e070ca3bb",
+   "pick_hash": "0d0d2810bd75d65f8c7e3f7e0642800b2b372efc6a68a2d00baa4a9f70546c9b"
   },
   {
    "date": "2026-10-25",
@@ -6968,13 +2016,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
    "home_color": "3b8649",
    "away_color": "FFFFFF",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.4861,
    "edge_vs_league": 0.1207,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.09,
     "xg_away": 1.75,
@@ -7421,14 +2471,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 49 %.",
+   "razon_titular": "Lo más probable: gana FC Famalicao, 49 %.",
    "razon": [
     "Forma: Rio Ave llega con D D E D V en sus últimos 5 (8 goles a favor, 17 en contra en 8 partidos); FC Famalicao con E E E V D.",
     "En casa Rio Ave promedia 1,50 goles a favor y 2,75 en contra en 4 partidos.",
     "Fuera FC Famalicao promedia 1,75 a favor y 1,00 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 49 %, con +12 pp sobre la media de Primeira Liga.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,09 - 1,75 y da como marcador más probable 0-1."
+    "El modelo da 49 % a que gane el visitante; la media de Primeira Liga en ese mercado es 37 %: se aparta +12 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,09 - 1,75 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 49 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "D",
@@ -7446,8 +2496,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "afb7dfa27f85d7c1092adfc74bd9e40fa0e6ed6c2ec4325acb7620face9d5d6c",
-   "pick_hash": "45dda995f36c9da813e60d29221fbfd6de42694ac162a6d714b87e27cfc961a1"
+   "prev_hash": "0d0d2810bd75d65f8c7e3f7e0642800b2b372efc6a68a2d00baa4a9f70546c9b",
+   "pick_hash": "26c5fd3776007607098b82e44c9c1b02ce1d1bd58b0e29b4e52d1d3df47249e4"
   },
   {
    "date": "2026-10-25",
@@ -7464,13 +2514,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/885.png",
    "home_color": "fd0000",
    "away_color": "0a4f8d",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.5147,
    "edge_vs_league": 0.1858,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.12,
     "xg_away": 1.95,
@@ -7917,14 +2969,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 51 %.",
+   "razon_titular": "Lo más probable: gana Universidad Católica, 51 %.",
    "razon": [
     "Forma: Unión La Calera llega con E D D V E en sus últimos 5 (20 goles a favor, 41 en contra en 24 partidos); Universidad Católica con D V V V V.",
     "En casa Unión La Calera promedia 1,17 goles a favor y 1,42 en contra en 12 partidos.",
     "Fuera Universidad Católica promedia 1,75 a favor y 1,42 en contra en 12 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 51 %, con +19 pp sobre la media de Primera Division (CHI).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,12 - 1,95 y da como marcador más probable 0-1."
+    "El modelo da 51 % a que gane el visitante; la media de Primera Division (CHI) en ese mercado es 33 %: se aparta +19 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,12 - 1,95 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 51 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -7942,8 +2994,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "45dda995f36c9da813e60d29221fbfd6de42694ac162a6d714b87e27cfc961a1",
-   "pick_hash": "3217aabfba77442e9e6b7f222597f088476382a048ac1f07a962d0e908e7f3a7"
+   "prev_hash": "26c5fd3776007607098b82e44c9c1b02ce1d1bd58b0e29b4e52d1d3df47249e4",
+   "pick_hash": "d29c9a87342a6af934e0bab28806c62beefcb84d55f31a38a1ad71057008161a"
   },
   {
    "date": "2026-10-25",
@@ -7960,13 +3012,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
    "home_color": "ef2f24",
    "away_color": "F31522",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.3512,
-   "edge_vs_league": 0.0324,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
+   "prob": 0.3962,
+   "edge_vs_league": -0.0386,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.35,
     "xg_away": 1.49,
@@ -8413,14 +3467,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 35 %.",
+   "razon_titular": "Lo más probable: gana FC Twente, 40 %.",
    "razon": [
     "Forma: AZ Alkmaar llega con V E V D E en sus últimos 5 (20 goles a favor, 10 en contra en 9 partidos); FC Twente con V V V E D.",
     "En casa AZ Alkmaar promedia 2,25 goles a favor y 0,75 en contra en 4 partidos.",
     "Fuera FC Twente promedia 1,75 a favor y 1,25 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 35 %, con +3 pp sobre la media de Eredivisie.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,35 - 1,49 y da como marcador más probable 1-1."
+    "El modelo da 40 % a que gane el visitante; la media de Eredivisie en ese mercado es 43 %: se aparta -4 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,35 - 1,49 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 40 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -8438,8 +3492,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "3217aabfba77442e9e6b7f222597f088476382a048ac1f07a962d0e908e7f3a7",
-   "pick_hash": "44ee29d175646284ef2c04b53c86a2d98fb826272e7f7130aca60e50a586b974"
+   "prev_hash": "d29c9a87342a6af934e0bab28806c62beefcb84d55f31a38a1ad71057008161a",
+   "pick_hash": "35c140d12f454d054cf3ddb72983fa6a017401377a363a49dff5de78b87e6ecb"
   },
   {
    "date": "2026-10-25",
@@ -8456,13 +3510,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2672.png",
    "home_color": "DC0000",
    "away_color": "046d04",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.4018,
    "edge_vs_league": 0.1463,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 0.86,
     "xg_away": 1.21,
@@ -8909,14 +3965,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 40 %.",
+   "razon_titular": "Lo más probable: gana Deportivo Cali, 40 %.",
    "razon": [
     "Forma: Fortaleza CEIF llega con D E E E D en sus últimos 5 (37 goles a favor, 48 en contra en 33 partidos); Deportivo Cali con V V E E V.",
     "En casa Fortaleza CEIF promedia 1,29 goles a favor y 1,24 en contra en 17 partidos.",
     "Fuera Deportivo Cali promedia 1,06 a favor y 0,88 en contra en 17 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 40 %, con +15 pp sobre la media de Liga BetPlay (COL).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 0,86 - 1,21 y da como marcador más probable 1-1."
+    "El modelo da 40 % a que gane el visitante; la media de Liga BetPlay (COL) en ese mercado es 26 %: se aparta +15 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 0,86 - 1,21 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 40 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "D",
@@ -8934,8 +3990,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "44ee29d175646284ef2c04b53c86a2d98fb826272e7f7130aca60e50a586b974",
-   "pick_hash": "faca54b7d3c5f036ec17e69976f5270707a62d9c4fd2e0ffe146e5a4a1777ae4"
+   "prev_hash": "35c140d12f454d054cf3ddb72983fa6a017401377a363a49dff5de78b87e6ecb",
+   "pick_hash": "92123944c526aa676171ff6515b0d5f2b3aa08b83380d8f303bdc3ef6d7b715c"
   },
   {
    "date": "2026-10-25",
@@ -8952,13 +4008,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
    "home_color": "19161D",
    "away_color": "e4002b",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.527,
    "edge_vs_league": 0.1634,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.2,
     "xg_away": 2.11,
@@ -9405,14 +4463,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 53 %.",
+   "razon_titular": "Lo más probable: gana AC Milan, 53 %.",
    "razon": [
     "Forma: Udinese llega con D D D D D en sus últimos 5 (9 goles a favor, 16 en contra en 7 partidos); AC Milan con E E V E V.",
     "En casa Udinese promedia 0,50 goles a favor y 1,75 en contra en 4 partidos.",
     "Fuera AC Milan promedia 1,50 a favor y 1,25 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 53 %, con +16 pp sobre la media de Serie A.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,20 - 2,11 y da como marcador más probable 1-2."
+    "El modelo da 53 % a que gane el visitante; la media de Serie A en ese mercado es 36 %: se aparta +16 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,20 - 2,11 y da como marcador más probable 1-2.",
+    "Lectura SIN ventaja: 53 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "D",
@@ -9430,8 +4488,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "faca54b7d3c5f036ec17e69976f5270707a62d9c4fd2e0ffe146e5a4a1777ae4",
-   "pick_hash": "fdd65a3faba49fb8fd93d020ca04106a3fe3d4a388e7a5fb4ef34dcaac39b258"
+   "prev_hash": "92123944c526aa676171ff6515b0d5f2b3aa08b83380d8f303bdc3ef6d7b715c",
+   "pick_hash": "862c0af765691b71294cfbe38ca96d8390d3e0bdd8945f74e16195319d9cf49a"
   },
   {
    "date": "2026-10-25",
@@ -9453,6 +4511,8 @@
    "selection_label": "Gana LOCAL",
    "prob": 0.6182,
    "edge_vs_league": 0.1527,
+   "recomendado": true,
+   "nivel": "alta",
    "detail": "sin ventaja",
    "mejor_candidato_label": null,
    "probs": {
@@ -9901,14 +4961,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "62 % a que gane el local · +15 pp respecto a la media de LaLiga.",
+   "razon_titular": "Lo más probable: gana Barcelona, 62 %.",
    "razon": [
     "Forma: Barcelona llega con V V V V V en sus últimos 5 (39 goles a favor, 9 en contra en 9 partidos); Real Madrid con V V D V V.",
     "En casa Barcelona promedia 4,25 goles a favor y 1,00 en contra en 4 partidos.",
     "Fuera Real Madrid promedia 1,50 a favor y 1,50 en contra en 4 partidos.",
     "El modelo da 62 % a que gane el local; la media de LaLiga en ese mercado es 47 %: se aparta +15 pp de la media (referencia, no es una ventaja real).",
     "El modelo estima xG 3,11 - 1,39 y da como marcador más probable 3-1.",
-    "Confianza media (62 %). No hay cuota publicada todavía, así que no hay valor esperado ni stake: esto no es una recomendación de dinero."
+    "Lectura media (62 %): es de las que sostenemos. Aun así, sin cuota no hay valor esperado ni stake; esto no es una recomendación de dinero."
    ],
    "forma_home": [
     "V",
@@ -9926,8 +4986,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "fdd65a3faba49fb8fd93d020ca04106a3fe3d4a388e7a5fb4ef34dcaac39b258",
-   "pick_hash": "2d67316e49731e54cfeba745c54b465328338be8108edb6d7802f8bfba045c54"
+   "prev_hash": "862c0af765691b71294cfbe38ca96d8390d3e0bdd8945f74e16195319d9cf49a",
+   "pick_hash": "88caee10a8d2c0d3351acf6a68adaaacd03a17bb1165f71eb4e9af239e6259cf"
   },
   {
    "date": "2026-10-25",
@@ -9944,13 +5004,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
    "home_color": "C60000",
    "away_color": "fcb000",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.4018,
    "edge_vs_league": 0.1041,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.08,
     "xg_away": 1.39,
@@ -10397,14 +5459,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 40 %.",
+   "razon_titular": "Lo más probable: gana Boca Juniors, 40 %.",
    "razon": [
     "Forma: Independiente llega con E V D E E en sus últimos 5 (37 goles a favor, 36 en contra en 30 partidos); Boca Juniors con V V V E V.",
     "En casa Independiente promedia 1,29 goles a favor y 1,29 en contra en 14 partidos.",
     "Fuera Boca Juniors promedia 1,60 a favor y 1,13 en contra en 15 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 40 %, con +10 pp sobre la media de Liga Profesional (ARG).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,08 - 1,39 y da como marcador más probable 1-1."
+    "El modelo da 40 % a que gane el visitante; la media de Liga Profesional (ARG) en ese mercado es 30 %: se aparta +10 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,08 - 1,39 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 40 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -10422,8 +5484,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "2d67316e49731e54cfeba745c54b465328338be8108edb6d7802f8bfba045c54",
-   "pick_hash": "807c8ccc578d8a4066b1d20f5b9ffb63c8ff65af74442c1f31b9d0f97fb737ff"
+   "prev_hash": "88caee10a8d2c0d3351acf6a68adaaacd03a17bb1165f71eb4e9af239e6259cf",
+   "pick_hash": "469532f38393d395fab68c8329ed35360572ee394a9b82f68f335d4fb774e6d1"
   },
   {
    "date": "2026-10-25",
@@ -10440,13 +5502,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
    "home_color": "008127",
    "away_color": "000000",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.4461,
    "edge_vs_league": 0.0807,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.75,
     "xg_away": 1.33,
@@ -10893,14 +5957,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 45 %.",
+   "razon_titular": "Lo más probable: gana Sporting CP, 45 %.",
    "razon": [
     "Forma: Sporting CP llega con V V E E V en sus últimos 5 (20 goles a favor, 9 en contra en 8 partidos); Académico de Viseu con D V V V V.",
     "En casa Sporting CP promedia 2,50 goles a favor y 1,25 en contra en 4 partidos.",
     "Fuera Académico de Viseu promedia 1,75 a favor y 1,00 en contra en 4 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 45 %, con +8 pp sobre la media de Primeira Liga.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,75 - 1,33 y da como marcador más probable 1-0."
+    "El modelo da 45 % a que gane el local; la media de Primeira Liga en ese mercado es 37 %: se aparta +8 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,75 - 1,33 y da como marcador más probable 1-0.",
+    "Lectura SIN ventaja: 45 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -10918,8 +5982,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "807c8ccc578d8a4066b1d20f5b9ffb63c8ff65af74442c1f31b9d0f97fb737ff",
-   "pick_hash": "f2becc37c7d6978c31206d4a8a42753d5556422884eba7977e24c6f0323dfdf6"
+   "prev_hash": "469532f38393d395fab68c8329ed35360572ee394a9b82f68f335d4fb774e6d1",
+   "pick_hash": "d5d3779ae7f6265eae43dd3bc2c0f18606702455dc572a1fd6cb0e4f3c5c1c77"
   },
   {
    "date": "2026-10-25",
@@ -10936,13 +6000,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2688.png",
    "home_color": "2a1b07",
    "away_color": "050505",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.4053,
    "edge_vs_league": 0.0764,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.49,
     "xg_away": 1.64,
@@ -11389,14 +6455,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 41 %.",
+   "razon_titular": "Lo más probable: gana Colo Colo, 41 %.",
    "razon": [
     "Forma: Palestino llega con V D V D E en sus últimos 5 (38 goles a favor, 35 en contra en 24 partidos); Colo Colo con V V E E D.",
     "En casa Palestino promedia 2,17 goles a favor y 1,08 en contra en 12 partidos.",
     "Fuera Colo Colo promedia 1,83 a favor y 1,42 en contra en 12 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 41 %, con +8 pp sobre la media de Primera Division (CHI).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,49 - 1,64 y da como marcador más probable 1-1."
+    "El modelo da 41 % a que gane el visitante; la media de Primera Division (CHI) en ese mercado es 33 %: se aparta +8 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,49 - 1,64 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 41 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -11414,8 +6480,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "f2becc37c7d6978c31206d4a8a42753d5556422884eba7977e24c6f0323dfdf6",
-   "pick_hash": "2e37b3aebdaf921889b55a37288054d8613d3066ed43397a3fd3e52c4b2b584c"
+   "prev_hash": "d5d3779ae7f6265eae43dd3bc2c0f18606702455dc572a1fd6cb0e4f3c5c1c77",
+   "pick_hash": "d97dc92adc481aa394aae6cc879206ee8246f885cda9728439c72e4e1b5c887f"
   },
   {
    "date": "2026-10-25",
@@ -11432,13 +6498,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7445.png",
    "home_color": "000000",
    "away_color": "C5A065",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.3729,
    "edge_vs_league": 0.1174,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.27,
     "xg_away": 1.39,
@@ -11885,14 +6953,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 37 %.",
+   "razon_titular": "Lo más probable: gana Internacional de Bogotá, 37 %.",
    "razon": [
     "Forma: Alianza FC llega con D V D E V en sus últimos 5 (28 goles a favor, 53 en contra en 33 partidos); Internacional de Bogotá con D E E E V.",
     "En casa Alianza FC promedia 0,94 goles a favor y 1,53 en contra en 17 partidos.",
     "Fuera Internacional de Bogotá promedia 0,94 a favor y 1,83 en contra en 18 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 37 %, con +12 pp sobre la media de Liga BetPlay (COL).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,27 - 1,39 y da como marcador más probable 1-1."
+    "El modelo da 37 % a que gane el visitante; la media de Liga BetPlay (COL) en ese mercado es 26 %: se aparta +12 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,27 - 1,39 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 37 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "D",
@@ -11910,8 +6978,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "2e37b3aebdaf921889b55a37288054d8613d3066ed43397a3fd3e52c4b2b584c",
-   "pick_hash": "81a90ea99ac2985bd6f098f50a69294483b05735e807c6250b2dd1f3e1d09e5d"
+   "prev_hash": "d97dc92adc481aa394aae6cc879206ee8246f885cda9728439c72e4e1b5c887f",
+   "pick_hash": "b9c5a39c678d8e122a396defb9fe7e322620103ef12f6f7b5976688e15cba786"
   },
   {
    "date": "2026-10-25",
@@ -11928,13 +6996,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
    "home_color": "C60000",
    "away_color": "409fff",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.4769,
    "edge_vs_league": 0.08,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.58,
     "xg_away": 0.87,
@@ -12381,14 +7451,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 48 %.",
+   "razon_titular": "Lo más probable: gana River Plate, 48 %.",
    "razon": [
     "Forma: River Plate llega con V D V E V en sus últimos 5 (47 goles a favor, 30 en contra en 33 partidos); Racing Club con D V V D E.",
     "En casa River Plate promedia 1,58 goles a favor y 1,05 en contra en 19 partidos.",
     "Fuera Racing Club promedia 1,06 a favor y 1,12 en contra en 16 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 48 %, con +8 pp sobre la media de Liga Profesional (ARG).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,58 - 0,87 y da como marcador más probable 1-1."
+    "El modelo da 48 % a que gane el local; la media de Liga Profesional (ARG) en ese mercado es 40 %: se aparta +8 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,58 - 0,87 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 48 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -12406,8 +7476,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "81a90ea99ac2985bd6f098f50a69294483b05735e807c6250b2dd1f3e1d09e5d",
-   "pick_hash": "19f3bd845fb205e32001d4bf14a4ed37a28623dd6047e24fe0271127c6329286"
+   "prev_hash": "b9c5a39c678d8e122a396defb9fe7e322620103ef12f6f7b5976688e15cba786",
+   "pick_hash": "7a54f621af079966b186b5370fa1a2d58e1e61e8ea0082bf2e40219f40eeede8"
   },
   {
    "date": "2026-10-25",
@@ -12424,13 +7494,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
    "home_color": "EF0107",
    "away_color": "ffffff",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.3904,
    "edge_vs_league": 0.0529,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.4,
     "xg_away": 1.21,
@@ -12877,14 +7949,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 39 %.",
+   "razon_titular": "Lo más probable: gana Atlas, 39 %.",
    "razon": [
     "Forma: Atlas llega con E V E V D en sus últimos 5 (21 goles a favor, 23 en contra en 13 partidos); Puebla con E D E E D.",
     "En casa Atlas promedia 1,14 goles a favor y 2,00 en contra en 7 partidos.",
     "Fuera Puebla promedia 0,86 a favor y 1,00 en contra en 7 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 39 %, con +5 pp sobre la media de Liga MX.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,40 - 1,21 y da como marcador más probable 1-1."
+    "El modelo da 39 % a que gane el local; la media de Liga MX en ese mercado es 34 %: se aparta +5 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,40 - 1,21 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 39 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -12902,8 +7974,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "19f3bd845fb205e32001d4bf14a4ed37a28623dd6047e24fe0271127c6329286",
-   "pick_hash": "0e61ba85d9f6235aa9f05a32167139bb355766ecff70a9c3517c181abe2ff82b"
+   "prev_hash": "7a54f621af079966b186b5370fa1a2d58e1e61e8ea0082bf2e40219f40eeede8",
+   "pick_hash": "91c688897f0d404238177392da7096ba6eadd77379bc9d514031aa8e236f8779"
   },
   {
    "date": "2026-10-25",
@@ -12920,13 +7992,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19195.png",
    "home_color": "0C4DA2",
    "away_color": "000000",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.4637,
    "edge_vs_league": 0.1348,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.12,
     "xg_away": 1.64,
@@ -13373,14 +8447,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 46 %.",
+   "razon_titular": "Lo más probable: gana Deportes Limache, 46 %.",
    "razon": [
     "Forma: Universidad de Concepción llega con V D D D E en sus últimos 5 (18 goles a favor, 40 en contra en 24 partidos); Deportes Limache con D V V D E.",
     "En casa Universidad de Concepción promedia 0,73 goles a favor y 1,09 en contra en 11 partidos.",
     "Fuera Deportes Limache promedia 1,67 a favor y 1,83 en contra en 12 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 46 %, con +13 pp sobre la media de Primera Division (CHI).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,12 - 1,64 y da como marcador más probable 0-1."
+    "El modelo da 46 % a que gane el visitante; la media de Primera Division (CHI) en ese mercado es 33 %: se aparta +13 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,12 - 1,64 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 46 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -13398,8 +8472,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "0e61ba85d9f6235aa9f05a32167139bb355766ecff70a9c3517c181abe2ff82b",
-   "pick_hash": "44740c569670b20dd7b68648ca318e39034043c4df64b3697c20fbe89c13ea5b"
+   "prev_hash": "91c688897f0d404238177392da7096ba6eadd77379bc9d514031aa8e236f8779",
+   "pick_hash": "78ac515fb5c7430e79fc565c91ee28aa11d1545ca5f2c91ae09149cbc6195550"
   },
   {
    "date": "2026-10-25",
@@ -13416,13 +8490,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2690.png",
    "home_color": "06933c",
    "away_color": "d70000",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.598,
    "edge_vs_league": 0.1531,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 2.29,
     "xg_away": 0.88,
@@ -13869,14 +8945,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 60 %.",
+   "razon_titular": "Lo más probable: gana Atlético Nacional, 60 %.",
    "razon": [
     "Forma: Atlético Nacional llega con V E V D V en sus últimos 5 (77 goles a favor, 33 en contra en 39 partidos); Independiente Medellín con D E D V D.",
     "En casa Atlético Nacional promedia 2,44 goles a favor y 0,44 en contra en 18 partidos.",
     "Fuera Independiente Medellín promedia 1,47 a favor y 1,33 en contra en 15 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 60 %, con +15 pp sobre la media de Liga BetPlay (COL).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 2,29 - 0,88 y da como marcador más probable 2-0."
+    "El modelo da 60 % a que gane el local; la media de Liga BetPlay (COL) en ese mercado es 44 %: se aparta +15 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 2,29 - 0,88 y da como marcador más probable 2-0.",
+    "Lectura SIN ventaja: 60 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "V",
@@ -13894,8 +8970,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "44740c569670b20dd7b68648ca318e39034043c4df64b3697c20fbe89c13ea5b",
-   "pick_hash": "85ba1854dccbf0f40fbbaf6495562c673f1c523291286b30c711c1d4ec4430ba"
+   "prev_hash": "78ac515fb5c7430e79fc565c91ee28aa11d1545ca5f2c91ae09149cbc6195550",
+   "pick_hash": "5673cc48943b16c5be9711e12a7282e389694ad26607d07d26fc21384117967c"
   },
   {
    "date": "2026-10-25",
@@ -13912,13 +8988,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19685.png",
    "home_color": "000000",
    "away_color": "008bd0",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.4942,
    "edge_vs_league": 0.0973,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.24,
     "xg_away": 0.46,
@@ -14365,14 +9443,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 49 %.",
+   "razon_titular": "Lo más probable: gana Barracas Central, 49 %.",
    "razon": [
     "Forma: Barracas Central llega con E D V V E en sus últimos 5 (26 goles a favor, 25 en contra en 29 partidos); Estudiantes de Río Cuarto con D D D D V.",
     "En casa Barracas Central promedia 0,93 goles a favor y 0,86 en contra en 14 partidos.",
     "Fuera Estudiantes de Río Cuarto promedia 0,36 a favor y 1,79 en contra en 14 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 49 %, con +10 pp sobre la media de Liga Profesional (ARG).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,24 - 0,46 y da como marcador más probable 1-0."
+    "El modelo da 49 % a que gane el local; la media de Liga Profesional (ARG) en ese mercado es 40 %: se aparta +10 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,24 - 0,46 y da como marcador más probable 1-0.",
+    "Lectura SIN ventaja: 49 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -14390,8 +9468,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "85ba1854dccbf0f40fbbaf6495562c673f1c523291286b30c711c1d4ec4430ba",
-   "pick_hash": "9b66507883f3b153520d2c3ba60745badbca5c1f09078a44a791b0f39a37bf8f"
+   "prev_hash": "5673cc48943b16c5be9711e12a7282e389694ad26607d07d26fc21384117967c",
+   "pick_hash": "18d67f55d98aafb4dd27e88b53978439fc1c3baadab5bec82f21cfb8b14fab84"
   },
   {
    "date": "2026-10-25",
@@ -14408,13 +9486,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
    "home_color": "000000",
    "away_color": "0070b0",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.4375,
    "edge_vs_league": 0.1398,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 0.73,
     "xg_away": 1.25,
@@ -14861,14 +9941,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 44 %.",
+   "razon_titular": "Lo más probable: gana Vélez Sarsfield, 44 %.",
    "razon": [
     "Forma: Central Córdoba (Santiago del Estero) llega con D E E E D en sus últimos 5 (22 goles a favor, 39 en contra en 29 partidos); Vélez Sarsfield con E V E D V.",
     "En casa Central Córdoba (Santiago del Estero) promedia 1,07 goles a favor y 1,21 en contra en 14 partidos.",
     "Fuera Vélez Sarsfield promedia 1,21 a favor y 1,00 en contra en 14 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 44 %, con +14 pp sobre la media de Liga Profesional (ARG).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 0,73 - 1,25 y da como marcador más probable 0-1."
+    "El modelo da 44 % a que gane el visitante; la media de Liga Profesional (ARG) en ese mercado es 30 %: se aparta +14 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 0,73 - 1,25 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 44 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "D",
@@ -14886,8 +9966,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "9b66507883f3b153520d2c3ba60745badbca5c1f09078a44a791b0f39a37bf8f",
-   "pick_hash": "56e507c21937843644ebe61b2857f5adabecf21d907d37a3b9a6dd2096d6edef"
+   "prev_hash": "18d67f55d98aafb4dd27e88b53978439fc1c3baadab5bec82f21cfb8b14fab84",
+   "pick_hash": "766266d3353bbfc5632e4e26d01a5bd8e61481f74f2e9b29cfcd6d1ce60b14cb"
   },
   {
    "date": "2026-10-25",
@@ -14904,13 +9984,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
    "home_color": "212121",
    "away_color": "0000ff",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
    "prob": 0.3958,
    "edge_vs_league": 0.0083,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana VISITANTE",
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.54,
     "xg_away": 1.72,
@@ -15357,14 +10439,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 40 %.",
+   "razon_titular": "Lo más probable: gana Cruz Azul, 40 %.",
    "razon": [
     "Forma: Querétaro llega con E V V D D en sus últimos 5 (16 goles a favor, 15 en contra en 12 partidos); Cruz Azul con D E E V V.",
     "En casa Querétaro promedia 1,40 goles a favor y 1,20 en contra en 5 partidos.",
     "Fuera Cruz Azul promedia 2,00 a favor y 1,67 en contra en 6 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana VISITANTE al 40 %, con +1 pp sobre la media de Liga MX.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,54 - 1,72 y da como marcador más probable 1-1."
+    "El modelo da 40 % a que gane el visitante; la media de Liga MX en ese mercado es 39 %: se aparta +1 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,54 - 1,72 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 40 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -15382,8 +10464,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "56e507c21937843644ebe61b2857f5adabecf21d907d37a3b9a6dd2096d6edef",
-   "pick_hash": "ebc639b632bc6abd53fcf23404b10680b6bb3cd937f5ae16ec337d6e362941e9"
+   "prev_hash": "766266d3353bbfc5632e4e26d01a5bd8e61481f74f2e9b29cfcd6d1ce60b14cb",
+   "pick_hash": "97f8d4b5707a530a67aa524dbe7fa6675b04ba03fc196358f3bf5c409d4beb11"
   },
   {
    "date": "2026-10-25",
@@ -15400,13 +10482,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
    "home_color": "000000",
    "away_color": "00235d",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.5594,
    "edge_vs_league": 0.1004,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 2.11,
     "xg_away": 0.9,
@@ -15853,14 +10937,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 56 %.",
+   "razon_titular": "Lo más probable: gana LAFC, 56 %.",
    "razon": [
     "Forma: LAFC llega con E D E V E en sus últimos 5 (48 goles a favor, 33 en contra en 31 partidos); LA Galaxy con V V D V E.",
     "En casa LAFC promedia 1,93 goles a favor y 0,87 en contra en 15 partidos.",
     "Fuera LA Galaxy promedia 1,40 a favor y 2,13 en contra en 15 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 56 %, con +10 pp sobre la media de MLS.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 2,11 - 0,90 y da como marcador más probable 2-0."
+    "El modelo da 56 % a que gane el local; la media de MLS en ese mercado es 46 %: se aparta +10 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 2,11 - 0,90 y da como marcador más probable 2-0.",
+    "Lectura SIN ventaja: 56 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -15878,8 +10962,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "ebc639b632bc6abd53fcf23404b10680b6bb3cd937f5ae16ec337d6e362941e9",
-   "pick_hash": "71a8d1aef6c1b7a8f7183bc5bb8b949b4e59f1c9510bda0046c21b39976f2232"
+   "prev_hash": "97f8d4b5707a530a67aa524dbe7fa6675b04ba03fc196358f3bf5c409d4beb11",
+   "pick_hash": "38daee2308fde639a5eb76831cd690785c0ceb06467f31107c0f35bc30df5080"
   },
   {
    "date": "2026-10-25",
@@ -15896,13 +10980,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
    "home_color": "ffff91",
    "away_color": "001C58",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.5235,
    "edge_vs_league": 0.186,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 2.4,
     "xg_away": 1.41,
@@ -16349,14 +11435,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 52 %.",
+   "razon_titular": "Lo más probable: gana América, 52 %.",
    "razon": [
     "Forma: América llega con E V E V V en sus últimos 5 (32 goles a favor, 16 en contra en 12 partidos); Pachuca con E D E D D.",
     "En casa América promedia 2,20 goles a favor y 0,60 en contra en 5 partidos.",
     "Fuera Pachuca promedia 1,43 a favor y 0,71 en contra en 7 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 52 %, con +19 pp sobre la media de Liga MX.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 2,40 - 1,41 y da como marcador más probable 2-1."
+    "El modelo da 52 % a que gane el local; la media de Liga MX en ese mercado es 34 %: se aparta +19 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 2,40 - 1,41 y da como marcador más probable 2-1.",
+    "Lectura SIN ventaja: 52 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -16374,8 +11460,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "71a8d1aef6c1b7a8f7183bc5bb8b949b4e59f1c9510bda0046c21b39976f2232",
-   "pick_hash": "d6619b3c49035ea56b1189ff19465823921461f247ca2471f81c6f73d53daa20"
+   "prev_hash": "38daee2308fde639a5eb76831cd690785c0ceb06467f31107c0f35bc30df5080",
+   "pick_hash": "4c0f7962707ca07833cfc46fa6e11d1577540f3117a0762376ffb95ecfbc40e7"
   },
   {
    "date": "2026-10-25",
@@ -16392,13 +11478,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5485.png",
    "home_color": "5b0528",
    "away_color": "fc0100",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
    "prob": 0.5065,
    "edge_vs_league": 0.0616,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "Gana LOCAL",
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.66,
     "xg_away": 0.79,
@@ -16845,14 +11933,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 51 %.",
+   "razon_titular": "Lo más probable: gana Deportes Tolima, 51 %.",
    "razon": [
     "Forma: Deportes Tolima llega con E E E D D en sus últimos 5 (49 goles a favor, 39 en contra en 38 partidos); Deportivo Pasto con V D E D D.",
     "En casa Deportes Tolima promedia 1,53 goles a favor y 0,79 en contra en 19 partidos.",
     "Fuera Deportivo Pasto promedia 1,24 a favor y 1,88 en contra en 17 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era Gana LOCAL al 51 %, con +6 pp sobre la media de Liga BetPlay (COL).",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,66 - 0,79 y da como marcador más probable 1-0."
+    "El modelo da 51 % a que gane el local; la media de Liga BetPlay (COL) en ese mercado es 44 %: se aparta +6 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,66 - 0,79 y da como marcador más probable 1-0.",
+    "Lectura SIN ventaja: 51 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -16870,8 +11958,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d6619b3c49035ea56b1189ff19465823921461f247ca2471f81c6f73d53daa20",
-   "pick_hash": "331eb9346a2662cb533c06cfb23176d758b7768005b3ced2960bf69b2ceddf13"
+   "prev_hash": "4c0f7962707ca07833cfc46fa6e11d1577540f3117a0762376ffb95ecfbc40e7",
+   "pick_hash": "2e938edee458aa9b458c1688913f76fb19a7f9d4be27e86570c15c3787b848dc"
   },
   {
    "date": "2026-10-25",
@@ -16888,13 +11976,15 @@
    "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
    "home_color": "EF0107",
    "away_color": "15926d",
-   "status": "NO_BET",
-   "market": null,
-   "selection_label": "HOY NO",
-   "prob": 0.287,
-   "edge_vs_league": 0.012,
-   "detail": "probabilidad baja",
-   "mejor_candidato_label": "EMPATE",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
+   "prob": 0.3784,
+   "edge_vs_league": -0.0091,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
    "probs": {
     "xg_home": 1.22,
     "xg_away": 1.35,
@@ -17341,14 +12431,14 @@
    },
    "bajas": null,
    "bajas_fuente": "sin-fuente",
-   "razon_titular": "Sin ventaja suficiente: el mejor candidato se queda en 29 %.",
+   "razon_titular": "Lo más probable: gana Santos, 38 %.",
    "razon": [
     "Forma: Tijuana llega con E D E E E en sus últimos 5 (17 goles a favor, 16 en contra en 12 partidos); Santos con V V V V V.",
     "En casa Tijuana promedia 1,43 goles a favor y 0,86 en contra en 7 partidos.",
     "Fuera Santos promedia 1,50 a favor y 2,17 en contra en 6 partidos.",
-    "Ningún mercado pasa el filtro: el mejor era EMPATE al 29 %, con +1 pp sobre la media de Liga MX.",
-    "La probabilidad no llega al 55 %: con esa incertidumbre un pronóstico sería una moneda, no una ventaja.",
-    "El modelo estima xG 1,22 - 1,35 y da como marcador más probable 1-1."
+    "El modelo da 38 % a que gane el visitante; la media de Liga MX en ese mercado es 39 %: se aparta -1 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,22 - 1,35 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 38 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
    ],
    "forma_home": [
     "E",
@@ -17366,8 +12456,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "331eb9346a2662cb533c06cfb23176d758b7768005b3ced2960bf69b2ceddf13",
-   "pick_hash": "ee3154f49d5500e53eb699c2be626c585e70f3a2e3c961026cfcfe924d8f79a9"
+   "prev_hash": "2e938edee458aa9b458c1688913f76fb19a7f9d4be27e86570c15c3787b848dc",
+   "pick_hash": "16943a15cff95f089ee221fa6754d064d680ef4e75491dbde8c7c4211650bfcd"
   }
  ]
 }
