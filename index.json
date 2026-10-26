@@ -1,10 +1,10 @@
 {
  "days": [
   {
-   "date": "2026-10-25",
-   "n_picks": 1,
-   "n_no_bet": 24,
-   "chain_head": "16943a15cff95f089ee221fa6754d064d680ef4e75491dbde8c7c4211650bfcd"
+   "date": "2026-10-26",
+   "n_picks": 18,
+   "n_no_bet": 170,
+   "chain_head": "f356ed324a4e4c429bfcf17843bae4a734e5e0a4903abc2a83cc37a1a45d280e"
   }
  ]
 }
