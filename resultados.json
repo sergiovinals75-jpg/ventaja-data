@@ -1,0 +1,472 @@
+{
+ "actualizado": "2026-10-26T10:48:04+00:00",
+ "totales": {
+  "liquidados": 25,
+  "ganados": 13,
+  "perdidos": 12,
+  "acierto": 0.52,
+  "pendientes": 188
+ },
+ "con_ventaja": {
+  "n": 1,
+  "acierto": 0.0
+ },
+ "sin_ventaja": {
+  "n": 24,
+  "acierto": 0.5417
+ },
+ "por_mercado": {
+  "1": {
+   "n": 11,
+   "acierto": 0.5455
+  },
+  "X": {
+   "n": 0,
+   "acierto": 0.0
+  },
+  "2": {
+   "n": 14,
+   "acierto": 0.5
+  },
+  "O2.5": {
+   "n": 0,
+   "acierto": 0.0
+  },
+  "U2.5": {
+   "n": 0,
+   "acierto": 0.0
+  },
+  "BTTS": {
+   "n": 0,
+   "acierto": 0.0
+  },
+  "NOBTTS": {
+   "n": 0,
+   "acierto": 0.0
+  }
+ },
+ "ultimos": [
+  {
+   "resultado": "WON",
+   "partido": "Real Sociedad - Levante",
+   "liga": "LaLiga",
+   "dia": "2026-10-25",
+   "pick": "Gana LOCAL",
+   "marcador": "2-1",
+   "prob": 0.4669,
+   "recomendado": false
+  },
+  {
+   "resultado": "WON",
+   "partido": "Castellón - Sporting Gijón",
+   "liga": "LaLiga Hypermotion",
+   "dia": "2026-10-25",
+   "pick": "Gana LOCAL",
+   "marcador": "4-0",
+   "prob": 0.5321,
+   "recomendado": false
+  },
+  {
+   "resultado": "LOST",
+   "partido": "Aldosivi - Belgrano (Córdoba)",
+   "liga": "Liga Profesional (ARG)",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "1-0",
+   "prob": 0.4557,
+   "recomendado": false
+  },
+  {
+   "resultado": "LOST",
+   "partido": "C.D. Nacional - Braga",
+   "liga": "Primeira Liga",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "1-0",
+   "prob": 0.498,
+   "recomendado": false
+  },
+  {
+   "resultado": "WON",
+   "partido": "Rio Ave - FC Famalicao",
+   "liga": "Primeira Liga",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "0-4",
+   "prob": 0.4861,
+   "recomendado": false
+  },
+  {
+   "resultado": "LOST",
+   "partido": "Unión La Calera - Universidad Católica",
+   "liga": "Primera Division (CHI)",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "3-1",
+   "prob": 0.5147,
+   "recomendado": false
+  },
+  {
+   "resultado": "WON",
+   "partido": "AZ Alkmaar - FC Twente",
+   "liga": "Eredivisie",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "0-2",
+   "prob": 0.3962,
+   "recomendado": false
+  },
+  {
+   "resultado": "LOST",
+   "partido": "Fortaleza CEIF - Deportivo Cali",
+   "liga": "Liga BetPlay (COL)",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "1-1",
+   "prob": 0.4018,
+   "recomendado": false
+  },
+  {
+   "resultado": "WON",
+   "partido": "Udinese - AC Milan",
+   "liga": "Serie A",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "0-2",
+   "prob": 0.527,
+   "recomendado": false
+  },
+  {
+   "resultado": "LOST",
+   "partido": "Barcelona - Real Madrid",
+   "liga": "LaLiga",
+   "dia": "2026-10-25",
+   "pick": "Gana LOCAL",
+   "marcador": "1-2",
+   "prob": 0.6182,
+   "recomendado": true
+  },
+  {
+   "resultado": "WON",
+   "partido": "Independiente - Boca Juniors",
+   "liga": "Liga Profesional (ARG)",
+   "dia": "2026-10-25",
+   "pick": "Gana VISITANTE",
+   "marcador": "0-1",
+   "prob": 0.4018,
+   "recomendado": false
+  },
+  {
+   "resultado": "LOST",
+   "partido": "Sporting CP - Académico de Viseu",
+   "liga": "Primeira Liga",
+   "dia": "2026-10-25",
+   "pick": "Gana LOCAL",
+   "marcador": "1-2",
+   "prob": 0.4461,
+   "recomendado": false
+  }
+ ],
+ "por_pick": {
+  "48e947773c61bdbb159b985bf18678124b7fc4fbba870e8cd3f2280e6aa6c0f2": {
+   "resultado": "WON",
+   "marcador": "2-1",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Real Sociedad - Levante",
+   "liga": "LaLiga",
+   "dia": "2026-10-25",
+   "prob": 0.4669,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "3833d04bb3a8d115937d97f76284b2247b828ac072ee146c6c75383e178bdb9f": {
+   "resultado": "WON",
+   "marcador": "4-0",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Castellón - Sporting Gijón",
+   "liga": "LaLiga Hypermotion",
+   "dia": "2026-10-25",
+   "prob": 0.5321,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "6399644ce89ec021116b99ccdb9b4038817b16340aa857409bb26b0e070ca3bb": {
+   "resultado": "LOST",
+   "marcador": "1-0",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Aldosivi - Belgrano (Córdoba)",
+   "liga": "Liga Profesional (ARG)",
+   "dia": "2026-10-25",
+   "prob": 0.4557,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "0d0d2810bd75d65f8c7e3f7e0642800b2b372efc6a68a2d00baa4a9f70546c9b": {
+   "resultado": "LOST",
+   "marcador": "1-0",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "C.D. Nacional - Braga",
+   "liga": "Primeira Liga",
+   "dia": "2026-10-25",
+   "prob": 0.498,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "26c5fd3776007607098b82e44c9c1b02ce1d1bd58b0e29b4e52d1d3df47249e4": {
+   "resultado": "WON",
+   "marcador": "0-4",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Rio Ave - FC Famalicao",
+   "liga": "Primeira Liga",
+   "dia": "2026-10-25",
+   "prob": 0.4861,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "d29c9a87342a6af934e0bab28806c62beefcb84d55f31a38a1ad71057008161a": {
+   "resultado": "LOST",
+   "marcador": "3-1",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Unión La Calera - Universidad Católica",
+   "liga": "Primera Division (CHI)",
+   "dia": "2026-10-25",
+   "prob": 0.5147,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "35c140d12f454d054cf3ddb72983fa6a017401377a363a49dff5de78b87e6ecb": {
+   "resultado": "WON",
+   "marcador": "0-2",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "AZ Alkmaar - FC Twente",
+   "liga": "Eredivisie",
+   "dia": "2026-10-25",
+   "prob": 0.3962,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "92123944c526aa676171ff6515b0d5f2b3aa08b83380d8f303bdc3ef6d7b715c": {
+   "resultado": "LOST",
+   "marcador": "1-1",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Fortaleza CEIF - Deportivo Cali",
+   "liga": "Liga BetPlay (COL)",
+   "dia": "2026-10-25",
+   "prob": 0.4018,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "862c0af765691b71294cfbe38ca96d8390d3e0bdd8945f74e16195319d9cf49a": {
+   "resultado": "WON",
+   "marcador": "0-2",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Udinese - AC Milan",
+   "liga": "Serie A",
+   "dia": "2026-10-25",
+   "prob": 0.527,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "88caee10a8d2c0d3351acf6a68adaaacd03a17bb1165f71eb4e9af239e6259cf": {
+   "resultado": "LOST",
+   "marcador": "1-2",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Barcelona - Real Madrid",
+   "liga": "LaLiga",
+   "dia": "2026-10-25",
+   "prob": 0.6182,
+   "recomendado": true,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "469532f38393d395fab68c8329ed35360572ee394a9b82f68f335d4fb774e6d1": {
+   "resultado": "WON",
+   "marcador": "0-1",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Independiente - Boca Juniors",
+   "liga": "Liga Profesional (ARG)",
+   "dia": "2026-10-25",
+   "prob": 0.4018,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "d5d3779ae7f6265eae43dd3bc2c0f18606702455dc572a1fd6cb0e4f3c5c1c77": {
+   "resultado": "LOST",
+   "marcador": "1-2",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Sporting CP - Académico de Viseu",
+   "liga": "Primeira Liga",
+   "dia": "2026-10-25",
+   "prob": 0.4461,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "d97dc92adc481aa394aae6cc879206ee8246f885cda9728439c72e4e1b5c887f": {
+   "resultado": "LOST",
+   "marcador": "1-1",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Palestino - Colo Colo",
+   "liga": "Primera Division (CHI)",
+   "dia": "2026-10-25",
+   "prob": 0.4053,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "b9c5a39c678d8e122a396defb9fe7e322620103ef12f6f7b5976688e15cba786": {
+   "resultado": "LOST",
+   "marcador": "1-0",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Alianza FC - Internacional de Bogotá",
+   "liga": "Liga BetPlay (COL)",
+   "dia": "2026-10-25",
+   "prob": 0.3729,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "7a54f621af079966b186b5370fa1a2d58e1e61e8ea0082bf2e40219f40eeede8": {
+   "resultado": "WON",
+   "marcador": "1-0",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "River Plate - Racing Club",
+   "liga": "Liga Profesional (ARG)",
+   "dia": "2026-10-25",
+   "prob": 0.4769,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "91c688897f0d404238177392da7096ba6eadd77379bc9d514031aa8e236f8779": {
+   "resultado": "WON",
+   "marcador": "4-3",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Atlas - Puebla",
+   "liga": "Liga MX",
+   "dia": "2026-10-25",
+   "prob": 0.3904,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "78ac515fb5c7430e79fc565c91ee28aa11d1545ca5f2c91ae09149cbc6195550": {
+   "resultado": "WON",
+   "marcador": "0-1",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Universidad de Concepción - Deportes Limache",
+   "liga": "Primera Division (CHI)",
+   "dia": "2026-10-25",
+   "prob": 0.4637,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "5673cc48943b16c5be9711e12a7282e389694ad26607d07d26fc21384117967c": {
+   "resultado": "WON",
+   "marcador": "2-1",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Atlético Nacional - Independiente Medellín",
+   "liga": "Liga BetPlay (COL)",
+   "dia": "2026-10-25",
+   "prob": 0.598,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "18d67f55d98aafb4dd27e88b53978439fc1c3baadab5bec82f21cfb8b14fab84": {
+   "resultado": "WON",
+   "marcador": "2-1",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Barracas Central - Estudiantes de Río Cuarto",
+   "liga": "Liga Profesional (ARG)",
+   "dia": "2026-10-25",
+   "prob": 0.4942,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "766266d3353bbfc5632e4e26d01a5bd8e61481f74f2e9b29cfcd6d1ce60b14cb": {
+   "resultado": "WON",
+   "marcador": "0-5",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Central Córdoba (Santiago del Estero) - Vélez Sarsfield",
+   "liga": "Liga Profesional (ARG)",
+   "dia": "2026-10-25",
+   "prob": 0.4375,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "97f8d4b5707a530a67aa524dbe7fa6675b04ba03fc196358f3bf5c409d4beb11": {
+   "resultado": "WON",
+   "marcador": "1-3",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Querétaro - Cruz Azul",
+   "liga": "Liga MX",
+   "dia": "2026-10-25",
+   "prob": 0.3958,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "38daee2308fde639a5eb76831cd690785c0ceb06467f31107c0f35bc30df5080": {
+   "resultado": "LOST",
+   "marcador": "2-2",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "LAFC - LA Galaxy",
+   "liga": "MLS",
+   "dia": "2026-10-25",
+   "prob": 0.5594,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "4c0f7962707ca07833cfc46fa6e11d1577540f3117a0762376ffb95ecfbc40e7": {
+   "resultado": "LOST",
+   "marcador": "1-2",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "América - Pachuca",
+   "liga": "Liga MX",
+   "dia": "2026-10-25",
+   "prob": 0.5235,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "2e938edee458aa9b458c1688913f76fb19a7f9d4be27e86570c15c3787b848dc": {
+   "resultado": "LOST",
+   "marcador": "0-1",
+   "mercado": "1",
+   "pick": "Gana LOCAL",
+   "partido": "Deportes Tolima - Deportivo Pasto",
+   "liga": "Liga BetPlay (COL)",
+   "dia": "2026-10-25",
+   "prob": 0.5065,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  },
+  "16943a15cff95f089ee221fa6754d064d680ef4e75491dbde8c7c4211650bfcd": {
+   "resultado": "LOST",
+   "marcador": "4-1",
+   "mercado": "2",
+   "pick": "Gana VISITANTE",
+   "partido": "Tijuana - Santos",
+   "liga": "Liga MX",
+   "dia": "2026-10-25",
+   "prob": 0.3784,
+   "recomendado": false,
+   "liquidado": "2026-10-26T10:48:04+00:00"
+  }
+ }
+}
