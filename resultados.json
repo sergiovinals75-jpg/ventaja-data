@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-10-27T07:58:00+00:00",
+ "actualizado": "2026-10-27T17:00:08+00:00",
  "totales": {
   "liquidados": 25,
   "ganados": 13,
   "perdidos": 12,
   "acierto": 0.52,
-  "pendientes": 186
+  "pendientes": 363
  },
  "con_ventaja": {
   "n": 1,
