@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-29T16:30:46+00:00",
+ "generado": "2026-10-30T07:40:06+00:00",
  "dia": "2026-10-29",
  "modelo": "dc-poisson-v0.2",
  "ficheros": {
@@ -16,7 +16,7 @@
    "bytes": 56244
   },
   "live.json": {
-   "sha256": "6e52f39d6a8379e81d8e43e84a281df4a51b7454e71e199e09c115f917a21b48",
+   "sha256": "d4a2e4437ea6d3f7439cb9d6497349c2ff98965adbbeda1148878b54e434cbae",
    "bytes": 99
   },
   "resultados.json": {
