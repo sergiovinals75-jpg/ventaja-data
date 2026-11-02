@@ -1,507 +1,15 @@
 {
- "generado": "2026-11-02T21:26:10+00:00",
+ "generado": "2026-11-02T22:30:46+00:00",
  "dia": "2026-11-02",
- "en_juego": 8,
+ "en_juego": 4,
  "partidos": [
-  {
-   "id": "401874971",
-   "liga": "Serie A",
-   "slug": "ita.1",
-   "hora": "19:45",
-   "estado": "EN JUEGO",
-   "minuto": "83'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "105",
-    "nombre": "Atalanta",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "115",
-    "nombre": "Parma",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-    "goles": 3
-   },
-   "stats": {
-    "local": {
-     "posesion": 69,
-     "tiros": 15,
-     "a_puerta": 4,
-     "faltas": 6,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 7,
-     "paradas": 0,
-     "pases": 497
-    },
-    "visit": {
-     "posesion": 31,
-     "tiros": 5,
-     "a_puerta": 2,
-     "faltas": 9,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 4,
-     "paradas": 4,
-     "pases": 197
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Substitution, Parma. Abdoulaye Ndiaye replaces Dominik Drobnic.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "47'",
-     "tipo": "own-goal",
-     "texto": "Own Goal by Davide Zappacosta, Atalanta. Atalanta 0, Parma 2.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "58'",
-     "tipo": "goal",
-     "texto": "Goal! Atalanta 0, Parma 3. Simone Lontani (Parma) right footed shot from outside the box to the bottom right corner. Assisted by Giovanni Fabbian.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "62'",
-     "tipo": "substitution",
-     "texto": "Substitution, Atalanta. Eljif Elmas replaces Éderson.",
-     "lado": "local"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "substitution",
-     "texto": "Substitution, Atalanta. Kamaldeen Sulemana replaces Jonathan Rowe.",
-     "lado": "local"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "substitution",
-     "texto": "Substitution, Parma. Christian Ordóñez replaces Simone Lontani.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "74'",
-     "tipo": "substitution",
-     "texto": "Substitution, Parma. Nesta Elphege replaces El Bilal Touré.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "74'",
-     "tipo": "substitution",
-     "texto": "Substitution, Parma. Matija Frigan replaces Giovanni Fabbian.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "substitution",
-     "texto": "Substitution, Atalanta. Lazar Samardzic replaces Nicola Zalewski.",
-     "lado": "local"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "substitution",
-     "texto": "Substitution, Atalanta. Javison Idele replaces Davide Zappacosta.",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401876419",
-   "liga": "Ligue 1",
-   "slug": "fra.1",
-   "hora": "19:45",
-   "estado": "EN JUEGO",
-   "minuto": "84'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "273",
-    "nombre": "Lorient",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "6997",
-    "nombre": "Brest",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 50.9,
-     "tiros": 13,
-     "a_puerta": 0,
-     "faltas": 9,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 7,
-     "paradas": 2,
-     "pases": 411
-    },
-    "visit": {
-     "posesion": 49.1,
-     "tiros": 11,
-     "a_puerta": 3,
-     "faltas": 13,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 0,
-     "pases": 408
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "41'",
-     "tipo": "yellow-card",
-     "texto": "Mama Baldé (Brest) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "58'",
-     "tipo": "yellow-card",
-     "texto": "Isaak Touré (Lorient) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "66'",
-     "tipo": "substitution",
-     "texto": "Substitution, Lorient. Aiyegun Tosin replaces Ibrahima Baldé.",
-     "lado": "local"
-    },
-    {
-     "minuto": "66'",
-     "tipo": "substitution",
-     "texto": "Substitution, Lorient. Gabin Bernardeau replaces Souleymane Faye.",
-     "lado": "local"
-    },
-    {
-     "minuto": "69'",
-     "tipo": "goal",
-     "texto": "Goal! Lorient 0, Brest 1. Ludovic Ajorque (Brest) right footed shot from outside the box to the bottom right corner.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "substitution",
-     "texto": "Substitution, Brest. Giovani Versini replaces Kamory Doumbia.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "substitution",
-     "texto": "Substitution, Brest. Noah Edjouma replaces Mama Baldé.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "79'",
-     "tipo": "substitution",
-     "texto": "Substitution, Lorient. Noah Mbamba replaces Noah Cadiou.",
-     "lado": "local"
-    },
-    {
-     "minuto": "79'",
-     "tipo": "substitution",
-     "texto": "Substitution, Lorient. Théo Le Bris replaces Jean-Victor Makengo.",
-     "lado": "local"
-    },
-    {
-     "minuto": "82'",
-     "tipo": "substitution",
-     "texto": "Substitution, Brest. Mamady Diambou replaces Pathé Mboup.",
-     "lado": "visit"
-    }
-   ]
-  },
-  {
-   "id": "401883147",
-   "liga": "LaLiga Hypermotion",
-   "slug": "esp.2",
-   "hora": "20:00",
-   "estado": "EN JUEGO",
-   "minuto": "66'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "84",
-    "nombre": "Mallorca",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
-    "goles": 1
-   },
-   "visit": {
-    "id": "3842",
-    "nombre": "Cádiz",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 61.9,
-     "tiros": 16,
-     "a_puerta": 5,
-     "faltas": 14,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 7,
-     "paradas": 1,
-     "pases": 263
-    },
-    "visit": {
-     "posesion": 38.1,
-     "tiros": 7,
-     "a_puerta": 2,
-     "faltas": 12,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 4,
-     "pases": 160
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "5'",
-     "tipo": "yellow-card",
-     "texto": "Antonio Sánchez (Mallorca) Yellow Card at 5'",
-     "lado": "local"
-    },
-    {
-     "minuto": "23'",
-     "tipo": "yellow-card",
-     "texto": "Sergi Darder (Mallorca) Yellow Card at 23'",
-     "lado": "local"
-    },
-    {
-     "minuto": "43'",
-     "tipo": "yellow-card",
-     "texto": "Bojan Kovacevic (Cádiz) Yellow Card at 43'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "50'",
-     "tipo": "goal",
-     "texto": "Antonio Cordero (Cádiz) Goal at 50'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "55'",
-     "tipo": "yellow-card",
-     "texto": "Antonio Cordero (Cádiz) Yellow Card at 55'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "63'",
-     "tipo": "goal",
-     "texto": "Pablo Torre (Mallorca) Goal at 63'",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401878762",
-   "liga": "Premier League",
-   "slug": "eng.1",
-   "hora": "20:00",
-   "estado": "EN JUEGO",
-   "minuto": "68'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "361",
-    "nombre": "Newcastle United",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "368",
-    "nombre": "Everton",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 50.9,
-     "tiros": 13,
-     "a_puerta": 0,
-     "faltas": 9,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 3,
-     "paradas": 4,
-     "pases": 211
-    },
-    "visit": {
-     "posesion": 49.1,
-     "tiros": 16,
-     "a_puerta": 5,
-     "faltas": 7,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 4,
-     "paradas": 0,
-     "pases": 203
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "32'",
-     "tipo": "yellow-card",
-     "texto": "Dan Burn (Newcastle United) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "49'",
-     "tipo": "goal",
-     "texto": "Goal! Newcastle United 0, Everton 1. Thierno Barry (Everton) right footed shot from very close range to the centre of the goal following a set piece situation.Goal confirmed follow",
-     "lado": "visit"
-    },
-    {
-     "minuto": "52'",
-     "tipo": "yellow-card",
-     "texto": "Tyrique George (Everton) is shown the yellow card.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "64'",
-     "tipo": "substitution",
-     "texto": "Substitution, Newcastle United. Yoane Wissa replaces Joe Willock.",
-     "lado": "local"
-    },
-    {
-     "minuto": "64'",
-     "tipo": "substitution",
-     "texto": "Substitution, Newcastle United. Sean Steur replaces Nico González.",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401885403",
-   "liga": "Primeira Liga",
-   "slug": "por.1",
-   "hora": "20:15",
-   "estado": "EN JUEGO",
-   "minuto": "49'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "1929",
-    "nombre": "Benfica",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "21613",
-    "nombre": "Alverca",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 69,
-     "tiros": 6,
-     "a_puerta": 2,
-     "faltas": 7,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 6,
-     "paradas": 1,
-     "pases": 258
-    },
-    "visit": {
-     "posesion": 31,
-     "tiros": 1,
-     "a_puerta": 1,
-     "faltas": 7,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 2,
-     "pases": 90
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "15'",
-     "tipo": "yellow-card",
-     "texto": "Yaya Bojang (Alverca) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Claudio Echeverri (Benfica) Substitution at 45'",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401885407",
-   "liga": "Primeira Liga",
-   "slug": "por.1",
-   "hora": "20:15",
-   "estado": "EN JUEGO",
-   "minuto": "52'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "3699",
-    "nombre": "Gil Vicente",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "5309",
-    "nombre": "Vitória de Guimaraes",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 48.9,
-     "tiros": 3,
-     "a_puerta": 0,
-     "faltas": 10,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 0,
-     "pases": 187
-    },
-    "visit": {
-     "posesion": 51.1,
-     "tiros": 2,
-     "a_puerta": 0,
-     "faltas": 10,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 0,
-     "pases": 193
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "40'",
-     "tipo": "yellow-card",
-     "texto": "Santi García (Gil Vicente) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    }
-   ]
-  },
   {
    "id": "401850678",
    "liga": "Primera Division (CHI)",
    "slug": "chi.1",
    "hora": "21:00",
    "estado": "EN JUEGO",
-   "minuto": "24'",
+   "minuto": "67'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -518,26 +26,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 52,
-     "tiros": 2,
-     "a_puerta": 2,
-     "faltas": 2,
+     "posesion": 47.4,
+     "tiros": 6,
+     "a_puerta": 3,
+     "faltas": 5,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 1,
-     "paradas": 1,
-     "pases": 100
+     "corners": 2,
+     "paradas": 5,
+     "pases": 240
     },
     "visit": {
-     "posesion": 48,
-     "tiros": 2,
-     "a_puerta": 1,
-     "faltas": 0,
+     "posesion": 52.6,
+     "tiros": 12,
+     "a_puerta": 5,
+     "faltas": 7,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 1,
-     "paradas": 1,
-     "pases": 91
+     "corners": 4,
+     "paradas": 2,
+     "pases": 268
     }
    },
    "eventos": [
@@ -555,7 +63,7 @@
    "slug": "col.1",
    "hora": "21:05",
    "estado": "EN JUEGO",
-   "minuto": "21'",
+   "minuto": "67'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -572,26 +80,158 @@
    },
    "stats": {
     "local": {
-     "posesion": 50.2,
-     "tiros": 1,
+     "posesion": 58.4,
+     "tiros": 8,
+     "a_puerta": 1,
+     "faltas": 6,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 0,
+     "pases": 273
+    },
+    "visit": {
+     "posesion": 41.6,
+     "tiros": 6,
+     "a_puerta": 0,
+     "faltas": 5,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 1,
+     "pases": 184
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "21'",
+     "tipo": "yellow-card",
+     "texto": "Santiago Vivas (Fortaleza FC) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "23'",
+     "tipo": "yellow-card",
+     "texto": "Franco Pulicastro (Fortaleza FC) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "39'",
+     "tipo": "substitution",
+     "texto": "Substitution, Águilas Doradas. Eduar Arízalas replaces Dylan Lozano because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Fortaleza FC. Juan Garcia replaces Armando Larrans.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Fortaleza FC. David Ramírez replaces Jeferson Medina.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401841657",
+   "liga": "Liga Profesional (ARG)",
+   "slug": "arg.1",
+   "hora": "22:00",
+   "estado": "EN JUEGO",
+   "minuto": "29'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "8950",
+    "nombre": "Defensa y Justicia",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "11",
+    "nombre": "Independiente",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 60.7,
+     "tiros": 0,
      "a_puerta": 0,
      "faltas": 3,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 0,
+     "corners": 2,
      "paradas": 0,
-     "pases": 91
+     "pases": 122
     },
     "visit": {
-     "posesion": 49.8,
-     "tiros": 2,
+     "posesion": 39.3,
+     "tiros": 0,
      "a_puerta": 0,
+     "faltas": 6,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 0,
+     "pases": 70
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "24'",
+     "tipo": "yellow-card",
+     "texto": "Santiago Arias (Independiente) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401841649",
+   "liga": "Liga Profesional (ARG)",
+   "slug": "arg.1",
+   "hora": "22:00",
+   "estado": "EN JUEGO",
+   "minuto": "31'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "7764",
+    "nombre": "Platense",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "11989",
+    "nombre": "Central Córdoba (Santiago del Estero)",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 66.4,
+     "tiros": 4,
+     "a_puerta": 1,
      "faltas": 1,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 0,
-     "paradas": 0,
-     "pases": 86
+     "corners": 4,
+     "paradas": 2,
+     "pases": 114
+    },
+    "visit": {
+     "posesion": 33.6,
+     "tiros": 4,
+     "a_puerta": 2,
+     "faltas": 2,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 1,
+     "pases": 44
     }
    },
    "eventos": []
@@ -1469,6 +1109,930 @@
      "tipo": "yellow-card",
      "texto": "Gabriel Kulla (Sassuolo) is shown the yellow card.",
      "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401874971",
+   "liga": "Serie A",
+   "slug": "ita.1",
+   "hora": "19:45",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "105",
+    "nombre": "Atalanta",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "115",
+    "nombre": "Parma",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+    "goles": 3
+   },
+   "stats": {
+    "local": {
+     "posesion": 69.6,
+     "tiros": 20,
+     "a_puerta": 6,
+     "faltas": 8,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 1,
+     "pases": 586
+    },
+    "visit": {
+     "posesion": 30.4,
+     "tiros": 6,
+     "a_puerta": 3,
+     "faltas": 10,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 6,
+     "pases": 227
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Abdoulaye Ndiaye replaces Dominik Drobnic.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "47'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Davide Zappacosta, Atalanta. Atalanta 0, Parma 2.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "goal",
+     "texto": "Goal! Atalanta 0, Parma 3. Simone Lontani (Parma) right footed shot from outside the box to the bottom right corner. Assisted by Giovanni Fabbian.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Atalanta. Eljif Elmas replaces Éderson.",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Atalanta. Kamaldeen Sulemana replaces Jonathan Rowe.",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Christian Ordóñez replaces Simone Lontani.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Nesta Elphege replaces El Bilal Touré.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Matija Frigan replaces Giovanni Fabbian.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Atalanta. Lazar Samardzic replaces Nicola Zalewski.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Atalanta. Javison Idele replaces Davide Zappacosta.",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Hans Nicolussi Caviglia replaces Vincent Sierro.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401876419",
+   "liga": "Ligue 1",
+   "slug": "fra.1",
+   "hora": "19:45",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "273",
+    "nombre": "Lorient",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "6997",
+    "nombre": "Brest",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 51.9,
+     "tiros": 15,
+     "a_puerta": 0,
+     "faltas": 11,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 2,
+     "pases": 446
+    },
+    "visit": {
+     "posesion": 48.1,
+     "tiros": 12,
+     "a_puerta": 4,
+     "faltas": 16,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 0,
+     "pases": 420
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "41'",
+     "tipo": "yellow-card",
+     "texto": "Mama Baldé (Brest) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "yellow-card",
+     "texto": "Isaak Touré (Lorient) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lorient. Aiyegun Tosin replaces Ibrahima Baldé.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lorient. Gabin Bernardeau replaces Souleymane Faye.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "goal",
+     "texto": "Goal! Lorient 0, Brest 1. Ludovic Ajorque (Brest) right footed shot from outside the box to the bottom right corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Brest. Giovani Versini replaces Kamory Doumbia.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Brest. Noah Edjouma replaces Mama Baldé.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lorient. Noah Mbamba replaces Noah Cadiou.",
+     "lado": "local"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lorient. Théo Le Bris replaces Jean-Victor Makengo.",
+     "lado": "local"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "substitution",
+     "texto": "Substitution, Brest. Mamady Diambou replaces Pathé Mboup.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lorient. Srdjan Kuzmic replaces Dembo Sylla.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "penalty---missed",
+     "texto": "Penalty missed! Still Lorient 0, Brest 1. Aiyegun Tosin (Lorient) hits the left post with a right footed shot.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+2'",
+     "tipo": "goal",
+     "texto": "Goal! Lorient 0, Brest 2. Noah Edjouma (Brest) left footed shot from the left side of the six yard box to the centre of the goal. Assisted by Giovani Versini.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401882824",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "20:00",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "90",
+    "nombre": "Deportivo",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "97",
+    "nombre": "Osasuna",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 61.9,
+     "tiros": 18,
+     "a_puerta": 7,
+     "faltas": 5,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 2,
+     "pases": 495
+    },
+    "visit": {
+     "posesion": 38.1,
+     "tiros": 11,
+     "a_puerta": 2,
+     "faltas": 13,
+     "amarillas": 4,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 5,
+     "pases": 277
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "32'",
+     "tipo": "goal",
+     "texto": "Goal! Deportivo de A Coruña 0, Osasuna 1. Ante Budimir (Osasuna) right footed shot from the centre of the box to the bottom left corner. Assisted by Moi Gómez.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "35'",
+     "tipo": "yellow-card",
+     "texto": "Moi Gómez (Osasuna) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Adama Traoré replaces Giacomo Quagliata.",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Alejandro Catena (Osasuna) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Pierre-Emerick Aubameyang replaces Luismi Cruz.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Osasuna. Rubén García replaces Jonathan Dubasin.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Osasuna. Asier Osambela replaces Raúl Moro.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Osasuna. Iñigo Arguibide replaces Jon Moncayola.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Osasuna. Raúl García replaces Ante Budimir.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "yellow-card",
+     "texto": "Abel Bretones (Osasuna) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "yellow-card",
+     "texto": "Kike Barja (Osasuna) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "goal",
+     "texto": "Goal! Deportivo de A Coruña 2, Osasuna 1. Bil Nsongo (Deportivo de A Coruña) right footed shot from very close range to the bottom left corner.",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Substitution, Osasuna. Kike Barja replaces Valentin Rosier.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Ximo Navarro replaces David Mella.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Riki Rodríguez replaces Mario Soriano.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401883147",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "20:00",
+   "estado": "FINAL",
+   "minuto": "90'+7'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "84",
+    "nombre": "Mallorca",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "3842",
+    "nombre": "Cádiz",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 63.8,
+     "tiros": 23,
+     "a_puerta": 6,
+     "faltas": 17,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 10,
+     "paradas": 2,
+     "pases": 415
+    },
+    "visit": {
+     "posesion": 36.2,
+     "tiros": 10,
+     "a_puerta": 3,
+     "faltas": 15,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 4,
+     "pases": 217
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "5'",
+     "tipo": "yellow-card",
+     "texto": "Antonio Sánchez (Mallorca) Yellow Card at 5'",
+     "lado": "local"
+    },
+    {
+     "minuto": "23'",
+     "tipo": "yellow-card",
+     "texto": "Sergi Darder (Mallorca) Yellow Card at 23'",
+     "lado": "local"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "yellow-card",
+     "texto": "Bojan Kovacevic (Cádiz) Yellow Card at 43'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "50'",
+     "tipo": "goal",
+     "texto": "Antonio Cordero (Cádiz) Goal at 50'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "55'",
+     "tipo": "yellow-card",
+     "texto": "Antonio Cordero (Cádiz) Yellow Card at 55'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "goal",
+     "texto": "Pablo Torre (Mallorca) Goal at 63'",
+     "lado": "local"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "substitution",
+     "texto": "Urko Izeta (Cádiz) Substitution at 72'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Toni Lato (Mallorca) Substitution at 76'",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Adam Buksa (Mallorca) Substitution at 76'",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Cristian Gutiérrez (Cádiz) Substitution at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Miguel Calatayud (Mallorca) Substitution at 83'",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Guille Fernández (Mallorca) Substitution at 83'",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Beñat De Jesús (Cádiz) Substitution at 89'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Javi Ontiveros (Cádiz) Substitution at 89'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Aimen Moueffek (Cádiz) Substitution at 89'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Josep Cerdà (Mallorca) Substitution at 89'",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "goal",
+     "texto": "Fuentes (Mallorca) Goal at 89'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401878762",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "20:00",
+   "estado": "FINAL",
+   "minuto": "90'+10'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "361",
+    "nombre": "Newcastle United",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "368",
+    "nombre": "Everton",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 51.6,
+     "tiros": 17,
+     "a_puerta": 2,
+     "faltas": 13,
+     "amarillas": 2,
+     "rojas": 1,
+     "corners": 4,
+     "paradas": 4,
+     "pases": 332
+    },
+    "visit": {
+     "posesion": 48.4,
+     "tiros": 16,
+     "a_puerta": 5,
+     "faltas": 9,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 2,
+     "pases": 314
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "32'",
+     "tipo": "yellow-card",
+     "texto": "Dan Burn (Newcastle United) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "49'",
+     "tipo": "goal",
+     "texto": "Goal! Newcastle United 0, Everton 1. Thierno Barry (Everton) right footed shot from very close range to the centre of the goal following a set piece situation.Goal confirmed follow",
+     "lado": "visit"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "yellow-card",
+     "texto": "Tyrique George (Everton) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Newcastle United. Yoane Wissa replaces Joe Willock.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Newcastle United. Sean Steur replaces Nico González.",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Substitution, Newcastle United. Jacob Ramsey replaces Joelinton.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Newcastle United. Jacob Murphy replaces Anthony Elanga.",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton. Brennan Johnson replaces Thierno Barry.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton. Michael Keane replaces Jarrad Branthwaite.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Substitution, Newcastle United. Bazoumana Touré replaces Amar Dedic.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+2'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton. Hayden Hackney replaces Tyrique George.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+6'",
+     "tipo": "yellow-card",
+     "texto": "Jacob Ramsey (Newcastle United) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+8'",
+     "tipo": "red-card",
+     "texto": "Second yellow card to Jacob Ramsey (Newcastle United) for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+9'",
+     "tipo": "yellow-card",
+     "texto": "Brennan Johnson (Everton) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+9'",
+     "tipo": "yellow-card",
+     "texto": "Fabian Schär (Newcastle United) is shown the yellow card.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401885403",
+   "liga": "Primeira Liga",
+   "slug": "por.1",
+   "hora": "20:15",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "1929",
+    "nombre": "Benfica",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "21613",
+    "nombre": "Alverca",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 65.2,
+     "tiros": 13,
+     "a_puerta": 4,
+     "faltas": 11,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 4,
+     "pases": 501
+    },
+    "visit": {
+     "posesion": 34.8,
+     "tiros": 8,
+     "a_puerta": 4,
+     "faltas": 15,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 3,
+     "pases": 223
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "15'",
+     "tipo": "yellow-card",
+     "texto": "Yaya Bojang (Alverca) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Benfica. Claudio Echeverri replaces Andreas Schjelderup.",
+     "lado": "local"
+    },
+    {
+     "minuto": "51'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Benfica 1, Alverca 0. Vangelis Pavlidis (Benfica) converts the penalty with a right footed shot to the centre of the goal.",
+     "lado": "local"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "yellow-card",
+     "texto": "Chiquinho (Alverca) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alverca. Matheus França replaces Figueiredo because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alverca. Diogo Spencer replaces Francisco Chissumba.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Ian Luccas (Alverca) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "yellow-card",
+     "texto": "Clément Lenglet (Benfica) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Benfica. Rafa replaces Dodi Lukébakio because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alverca. Vivaldo Semedo replaces Dawda Camara.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alverca. Zé Rafael replaces Ian Luccas.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alverca. Cédric Nuozzi replaces Isaac James.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+2'",
+     "tipo": "substitution",
+     "texto": "Substitution, Benfica. Manu Silva replaces João Palhinha.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+2'",
+     "tipo": "substitution",
+     "texto": "Substitution, Benfica. Jhon Durán replaces Vangelis Pavlidis.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "substitution",
+     "texto": "Substitution, Benfica. Jakub Kaminski replaces Gianluca Prestianni.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401885407",
+   "liga": "Primeira Liga",
+   "slug": "por.1",
+   "hora": "20:15",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "3699",
+    "nombre": "Gil Vicente",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "5309",
+    "nombre": "Vitória de Guimaraes",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 48.3,
+     "tiros": 10,
+     "a_puerta": 1,
+     "faltas": 17,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 2,
+     "pases": 332
+    },
+    "visit": {
+     "posesion": 51.7,
+     "tiros": 11,
+     "a_puerta": 2,
+     "faltas": 21,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 1,
+     "pases": 362
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "40'",
+     "tipo": "yellow-card",
+     "texto": "Santi García (Gil Vicente) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "yellow-card",
+     "texto": "Ricardo Esgaio (Gil Vicente) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "yellow-card",
+     "texto": "Toni Borevković (Vitoria Guimaraes) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Substitution, Vitoria Guimaraes. Alioune Ndoye replaces Arnel Jakupović.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Gil Vicente. Mohamed Kaba replaces Walace França.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Gil Vicente. Joelson Fernandes replaces Tidjany Touré.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Vitoria Guimaraes. Alan replaces Samu.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Gil Vicente. Guilherme Gomes replaces Andreas Lausen.",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Substitution, Gil Vicente. Zé Carlos replaces Diogo Prioste.",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Substitution, Gil Vicente. Weverson replaces José Silva because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Substitution, Vitoria Guimaraes. Lohann Doucet replaces Beni Mukendi.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Substitution, Vitoria Guimaraes. Miguel Nogueira replaces Gustavo Silva because of an injury.",
+     "lado": "visit"
     }
    ]
   }
