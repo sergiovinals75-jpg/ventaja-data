@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-02T20:30:43+00:00",
+ "generado": "2026-11-02T21:00:40+00:00",
  "dia": "2026-11-02",
  "en_juego": 7,
  "partidos": [
@@ -9,7 +9,7 @@
    "slug": "ita.1",
    "hora": "19:45",
    "estado": "EN JUEGO",
-   "minuto": "45'",
+   "minuto": "57'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -22,33 +22,46 @@
     "id": "115",
     "nombre": "Parma",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-    "goles": 1
+    "goles": 2
    },
    "stats": {
     "local": {
-     "posesion": 70.3,
-     "tiros": 6,
-     "a_puerta": 1,
+     "posesion": 68.6,
+     "tiros": 9,
+     "a_puerta": 2,
      "faltas": 2,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 5,
+     "corners": 6,
      "paradas": 0,
-     "pases": 253
+     "pases": 324
     },
     "visit": {
-     "posesion": 29.7,
-     "tiros": 2,
+     "posesion": 31.4,
+     "tiros": 3,
      "a_puerta": 1,
-     "faltas": 7,
+     "faltas": 8,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 3,
-     "paradas": 1,
-     "pases": 87
+     "corners": 5,
+     "paradas": 2,
+     "pases": 128
     }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Abdoulaye Ndiaye replaces Dominik Drobnic.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "47'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Davide Zappacosta, Atalanta. Atalanta 0, Parma 2.",
+     "lado": "visit"
+    }
+   ]
   },
   {
    "id": "401876419",
@@ -56,7 +69,7 @@
    "slug": "fra.1",
    "hora": "19:45",
    "estado": "EN JUEGO",
-   "minuto": "45'+1'",
+   "minuto": "59'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -73,26 +86,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 50.2,
-     "tiros": 7,
+     "posesion": 48.7,
+     "tiros": 12,
      "a_puerta": 0,
-     "faltas": 4,
+     "faltas": 7,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 4,
+     "corners": 6,
      "paradas": 1,
-     "pases": 228
+     "pases": 287
     },
     "visit": {
-     "posesion": 49.8,
+     "posesion": 51.3,
      "tiros": 3,
      "a_puerta": 1,
-     "faltas": 7,
+     "faltas": 9,
      "amarillas": 1,
      "rojas": 0,
      "corners": 2,
      "paradas": 0,
-     "pases": 241
+     "pases": 320
     }
    },
    "eventos": [
@@ -110,7 +123,7 @@
    "slug": "esp.1",
    "hora": "20:00",
    "estado": "EN JUEGO",
-   "minuto": "28'",
+   "minuto": "45'+2'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -123,33 +136,46 @@
     "id": "97",
     "nombre": "Osasuna",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-    "goles": 0
+    "goles": 1
    },
    "stats": {
     "local": {
-     "posesion": 62,
-     "tiros": 4,
-     "a_puerta": 1,
-     "faltas": 1,
+     "posesion": 60.3,
+     "tiros": 8,
+     "a_puerta": 2,
+     "faltas": 2,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 2,
-     "paradas": 1,
-     "pases": 155
+     "corners": 3,
+     "paradas": 2,
+     "pases": 271
     },
     "visit": {
-     "posesion": 38,
-     "tiros": 3,
-     "a_puerta": 0,
-     "faltas": 4,
-     "amarillas": 0,
+     "posesion": 39.7,
+     "tiros": 7,
+     "a_puerta": 2,
+     "faltas": 7,
+     "amarillas": 1,
      "rojas": 0,
      "corners": 1,
-     "paradas": 1,
-     "pases": 86
+     "paradas": 2,
+     "pases": 165
     }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "32'",
+     "tipo": "goal",
+     "texto": "Goal! Deportivo de A Coruña 0, Osasuna 1. Ante Budimir (Osasuna) right footed shot from the centre of the box to the bottom left corner. Assisted by Moi Gómez.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "35'",
+     "tipo": "yellow-card",
+     "texto": "Moi Gómez (Osasuna) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
   },
   {
    "id": "401883147",
@@ -157,7 +183,7 @@
    "slug": "esp.2",
    "hora": "20:00",
    "estado": "EN JUEGO",
-   "minuto": "28'",
+   "minuto": "45'+2'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -174,26 +200,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 65.9,
-     "tiros": 6,
+     "posesion": 61.4,
+     "tiros": 9,
      "a_puerta": 2,
-     "faltas": 5,
+     "faltas": 10,
      "amarillas": 2,
      "rojas": 0,
      "corners": 5,
      "paradas": 0,
-     "pases": 123
+     "pases": 183
     },
     "visit": {
-     "posesion": 34.1,
-     "tiros": 0,
+     "posesion": 38.6,
+     "tiros": 4,
      "a_puerta": 0,
-     "faltas": 5,
-     "amarillas": 0,
+     "faltas": 10,
+     "amarillas": 1,
      "rojas": 0,
      "corners": 0,
      "paradas": 2,
-     "pases": 60
+     "pases": 112
     }
    },
    "eventos": [
@@ -208,6 +234,12 @@
      "tipo": "yellow-card",
      "texto": "Sergi Darder (Mallorca) Yellow Card at 23'",
      "lado": "local"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "yellow-card",
+     "texto": "Bojan Kovacevic (Cádiz) Yellow Card at 43'",
+     "lado": "visit"
     }
    ]
   },
@@ -217,7 +249,7 @@
    "slug": "eng.1",
    "hora": "20:00",
    "estado": "EN JUEGO",
-   "minuto": "30'",
+   "minuto": "45'+3'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -234,29 +266,36 @@
    },
    "stats": {
     "local": {
-     "posesion": 44.6,
-     "tiros": 2,
+     "posesion": 49.7,
+     "tiros": 5,
      "a_puerta": 0,
-     "faltas": 3,
-     "amarillas": 0,
+     "faltas": 7,
+     "amarillas": 1,
      "rojas": 0,
-     "corners": 1,
+     "corners": 2,
      "paradas": 0,
-     "pases": 83
+     "pases": 157
     },
     "visit": {
-     "posesion": 55.4,
-     "tiros": 6,
+     "posesion": 50.3,
+     "tiros": 10,
      "a_puerta": 0,
-     "faltas": 6,
+     "faltas": 7,
      "amarillas": 0,
      "rojas": 0,
      "corners": 0,
      "paradas": 0,
-     "pases": 113
+     "pases": 164
     }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "32'",
+     "tipo": "yellow-card",
+     "texto": "Dan Burn (Newcastle United) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    }
+   ]
   },
   {
    "id": "401885403",
@@ -264,7 +303,7 @@
    "slug": "por.1",
    "hora": "20:15",
    "estado": "EN JUEGO",
-   "minuto": "13'",
+   "minuto": "43'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -281,29 +320,36 @@
    },
    "stats": {
     "local": {
-     "posesion": 72.8,
-     "tiros": 3,
-     "a_puerta": 1,
-     "faltas": 3,
+     "posesion": 68.1,
+     "tiros": 6,
+     "a_puerta": 2,
+     "faltas": 6,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 2,
-     "paradas": 0,
-     "pases": 88
+     "corners": 5,
+     "paradas": 1,
+     "pases": 229
     },
     "visit": {
-     "posesion": 27.2,
-     "tiros": 0,
-     "a_puerta": 0,
-     "faltas": 1,
-     "amarillas": 0,
+     "posesion": 31.9,
+     "tiros": 1,
+     "a_puerta": 1,
+     "faltas": 7,
+     "amarillas": 1,
      "rojas": 0,
      "corners": 1,
-     "paradas": 1,
-     "pases": 26
+     "paradas": 2,
+     "pases": 84
     }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "15'",
+     "tipo": "yellow-card",
+     "texto": "Yaya Bojang (Alverca) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
   },
   {
    "id": "401885407",
@@ -311,7 +357,7 @@
    "slug": "por.1",
    "hora": "20:15",
    "estado": "EN JUEGO",
-   "minuto": "13'",
+   "minuto": "44'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -328,29 +374,36 @@
    },
    "stats": {
     "local": {
-     "posesion": 33,
-     "tiros": 0,
+     "posesion": 50.6,
+     "tiros": 2,
      "a_puerta": 0,
-     "faltas": 2,
-     "amarillas": 0,
+     "faltas": 7,
+     "amarillas": 1,
      "rojas": 0,
-     "corners": 0,
+     "corners": 1,
      "paradas": 0,
-     "pases": 30
+     "pases": 161
     },
     "visit": {
-     "posesion": 67,
-     "tiros": 0,
+     "posesion": 49.4,
+     "tiros": 2,
      "a_puerta": 0,
-     "faltas": 2,
+     "faltas": 8,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 0,
+     "corners": 1,
      "paradas": 0,
-     "pases": 61
+     "pases": 149
     }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "40'",
+     "tipo": "yellow-card",
+     "texto": "Santi García (Gil Vicente) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    }
+   ]
   },
   {
    "id": "401883144",
