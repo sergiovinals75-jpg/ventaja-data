@@ -1,6 +1,79 @@
 {
- "generado": "2026-11-02T07:20:33+00:00",
+ "generado": "2026-11-02T13:30:46+00:00",
  "dia": "2026-11-02",
- "en_juego": 0,
- "partidos": []
+ "en_juego": 1,
+ "partidos": [
+  {
+   "id": "401883144",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "13:00",
+   "estado": "EN JUEGO",
+   "minuto": "29'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "245",
+    "nombre": "Tenerife",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/245.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "20179",
+    "nombre": "FC Andorra",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 20.8,
+     "tiros": 1,
+     "a_puerta": 1,
+     "faltas": 3,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 1,
+     "pases": 32
+    },
+    "visit": {
+     "posesion": 79.2,
+     "tiros": 1,
+     "a_puerta": 1,
+     "faltas": 4,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 0,
+     "pases": 166
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "3'",
+     "tipo": "goal",
+     "texto": "Christian Gomis (Tenerife) Goal at 3'",
+     "lado": "local"
+    },
+    {
+     "minuto": "20'",
+     "tipo": "yellow-card",
+     "texto": "Lautaro Spatz (FC Andorra) Yellow Card at 20'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "23'",
+     "tipo": "yellow-card",
+     "texto": "Lautaro De León (FC Andorra) Yellow Card at 23'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "26'",
+     "tipo": "yellow-card",
+     "texto": "Efe Akman (FC Andorra) Yellow Card at 26'",
+     "lado": "visit"
+    }
+   ]
+  }
+ ]
 }
