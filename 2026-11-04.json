@@ -1,7 +1,7 @@
 {
  "meta": {
   "date": "2026-11-04",
-  "created_at": "2026-11-04T09:39:08+00:00",
+  "created_at": "2026-11-04T10:20:07+00:00",
   "model": "dc-poisson-v0.2",
   "source": "espn-temporary",
   "note": "Sin cuotas: se publica probabilidad del modelo, no EV ni stake.",
