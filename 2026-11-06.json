@@ -1,7 +1,7 @@
 {
  "meta": {
   "date": "2026-11-06",
-  "created_at": "2026-11-06T17:00:32+00:00",
+  "created_at": "2026-11-06T19:02:01+00:00",
   "model": "dc-poisson-v0.2",
   "source": "espn-temporary",
   "note": "Sin cuotas: se publica probabilidad del modelo, no EV ni stake.",
@@ -10,505 +10,6 @@
   "chain_prev": "d0a434711c8f2c65653293a5fcad21ec6a09a5c6df51cde2046ea99561e42189"
  },
  "picks": [
-  {
-   "date": "2026-11-06",
-   "kickoff": "2026-11-06T19:00Z",
-   "kickoff_local": "20:00",
-   "dia": "hoy",
-   "league": "Eredivisie",
-   "league_slug": "ned.1",
-   "event_id": "401875556",
-   "home": "Willem II",
-   "away": "PEC Zwolle",
-   "home_id": "156",
-   "away_id": "2565",
-   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
-   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
-   "home_color": "1a316b",
-   "away_color": "0000d4",
-   "status": "PICK",
-   "market": "2",
-   "selection_label": "Gana VISITANTE",
-   "prob": 0.5075,
-   "edge_vs_league": 0.1075,
-   "recomendado": false,
-   "nivel": "media",
-   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
-   "mejor_candidato_label": null,
-   "probs": {
-    "xg_home": 1.29,
-    "xg_away": 2.18,
-    "p_home": 0.2465,
-    "p_draw": 0.246,
-    "p_away": 0.5075,
-    "p_over": 0.6732,
-    "p_under": 0.3268,
-    "p_btts_yes": 0.6475,
-    "p_btts_no": 0.3525,
-    "score": "1-2"
-   },
-   "base_league": {
-    "p_home": 0.3176,
-    "p_draw": 0.2824,
-    "p_away": 0.4,
-    "p_over": 0.7529,
-    "p_under": 0.2471,
-    "p_btts_yes": 0.7294,
-    "p_btts_no": 0.2706
-   },
-   "odds_at_publish": null,
-   "stake_units": null,
-   "settle": {
-    "result": "PENDING",
-    "final_score": null,
-    "odds_close": null,
-    "clv": null
-   },
-   "alineacion": null,
-   "once": {
-    "home": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 8,
-     "jugadores": [
-      {
-       "id": "188221",
-       "nombre": "Thomas Didillon",
-       "corto": "T. Didillon",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.7632,
-       "titularidades": 1,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "320464",
-       "nombre": "Finn Stam",
-       "corto": "F. Stam",
-       "dorsal": "3",
-       "posicion": "CD-R",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "291612",
-       "nombre": "Nathan Tjoe-A-On",
-       "corto": "N. Tjoe-A-On",
-       "dorsal": "24",
-       "posicion": "LB",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "208840",
-       "nombre": "Hidde ter Avest",
-       "corto": "H. ter Avest",
-       "dorsal": "5",
-       "posicion": "RB",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "397219",
-       "nombre": "Uriel Van Aalst",
-       "corto": "U. Van Aalst",
-       "dorsal": "19",
-       "posicion": "AM",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "307375",
-       "nombre": "Calvin Twigt",
-       "corto": "C. Twigt",
-       "dorsal": "6",
-       "posicion": "RM",
-       "p_titular": 0.9059,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "170327",
-       "nombre": "Tonny Vilhena",
-       "corto": "T. Vilhena",
-       "dorsal": "52",
-       "posicion": "LM",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "315631",
-       "nombre": "Devin Haen",
-       "corto": "D. Haen",
-       "dorsal": "9",
-       "posicion": "F",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "344195",
-       "nombre": "Jaden Slory",
-       "corto": "J. Slory",
-       "dorsal": "7",
-       "posicion": "AM-R",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "318531",
-       "nombre": "Maxim Dekker",
-       "corto": "M. Dekker",
-       "dorsal": "23",
-       "posicion": "CD-L",
-       "p_titular": 0.848,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "200194",
-       "nombre": "Vito van Crooij",
-       "corto": "V. van Crooij",
-       "dorsal": "32",
-       "posicion": "AM-L",
-       "p_titular": 0.7407,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "286946",
-       "nombre": "Maxime Delanghe",
-       "corto": "M. Delanghe",
-       "dorsal": "26",
-       "posicion": "",
-       "p_titular": 0.728,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "234375",
-       "nombre": "Justin Hoogma",
-       "corto": "J. Hoogma",
-       "dorsal": "4",
-       "posicion": "CD-L",
-       "p_titular": 0.625,
-       "titularidades": 1,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "421271",
-       "nombre": "Julian Van Esdonk",
-       "corto": "J. Van Esdonk",
-       "dorsal": "48",
-       "posicion": "",
-       "p_titular": 0.375,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "3124606",
-       "nombre": "Divano Iglesias",
-       "corto": "D. Iglesias",
-       "dorsal": "40",
-       "posicion": "",
-       "p_titular": 0.375,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "395480",
-       "nombre": "Eser Gürbüz",
-       "corto": "E. Gürbüz",
-       "dorsal": "50",
-       "posicion": "",
-       "p_titular": 0.3037,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "388668",
-       "nombre": "Per Van Loon",
-       "corto": "P. Van Loon",
-       "dorsal": "22",
-       "posicion": "",
-       "p_titular": 0.2959,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "380174",
-       "nombre": "Kasper Boogaard",
-       "corto": "K. Boogaard",
-       "dorsal": "8",
-       "posicion": "",
-       "p_titular": 0.2898,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": true
-      }
-     ]
-    },
-    "away": {
-     "formacion": "4-2-3-1",
-     "partidos_base": 8,
-     "jugadores": [
-      {
-       "id": "263619",
-       "nombre": "Jasper Schendelaar",
-       "corto": "J. Schendelaar",
-       "dorsal": "1",
-       "posicion": "G",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "131354",
-       "nombre": "Nick Viergever",
-       "corto": "N. Viergever",
-       "dorsal": "24",
-       "posicion": "CD-L",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "271210",
-       "nombre": "Simon Graves",
-       "corto": "S. Graves",
-       "dorsal": "28",
-       "posicion": "CD-R",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "333618",
-       "nombre": "Olivier Aertssen",
-       "corto": "O. Aertssen",
-       "dorsal": "3",
-       "posicion": "RB",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "313342",
-       "nombre": "Tobias Sommer",
-       "corto": "T. Sommer",
-       "dorsal": "8",
-       "posicion": "LM",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "156146",
-       "nombre": "Ryan Thomas",
-       "corto": "R. Thomas",
-       "dorsal": "30",
-       "posicion": "RM",
-       "p_titular": 0.9007,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "272329",
-       "nombre": "Thijs Oosting",
-       "corto": "T. Oosting",
-       "dorsal": "25",
-       "posicion": "AM",
-       "p_titular": 0.8313,
-       "titularidades": 7,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "276819",
-       "nombre": "Sydney van Hooijdonk",
-       "corto": "S. van Hooijdonk",
-       "dorsal": "17",
-       "posicion": "F",
-       "p_titular": 0.4628,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "286854",
-       "nombre": "Dylan Mbayo",
-       "corto": "D. Mbayo",
-       "dorsal": "11",
-       "posicion": "AM-L",
-       "p_titular": 0.9201,
-       "titularidades": 8,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "224786",
-       "nombre": "Sherel Floranus",
-       "corto": "S. Floranus",
-       "dorsal": "2",
-       "posicion": "LB",
-       "p_titular": 0.8825,
-       "titularidades": 5,
-       "partidos": 8,
-       "suplente": false
-      },
-      {
-       "id": "241527",
-       "nombre": "Koen Kostons",
-       "corto": "K. Kostons",
-       "dorsal": "10",
-       "posicion": "",
-       "p_titular": 0.5915,
-       "titularidades": 6,
-       "partidos": 8,
-       "suplente": false
-      }
-     ],
-     "suplentes": [
-      {
-       "id": "297340",
-       "nombre": "Ibrahim Cissoko",
-       "corto": "I. Cissoko",
-       "dorsal": "22",
-       "posicion": "",
-       "p_titular": 0.4742,
-       "titularidades": 4,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "415365",
-       "nombre": "Gilles Van Der Wal",
-       "corto": "G. Van Der Wal",
-       "dorsal": "37",
-       "posicion": "AM-R",
-       "p_titular": 0.4085,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "333760",
-       "nombre": "Damian Van Der Haar",
-       "corto": "D. Van Der Haar",
-       "dorsal": "33",
-       "posicion": "LB",
-       "p_titular": 0.3996,
-       "titularidades": 3,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "3131926",
-       "nombre": "Milan Westerhuis",
-       "corto": "M. Westerhuis",
-       "dorsal": "39",
-       "posicion": "",
-       "p_titular": 0.375,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "408619",
-       "nombre": "Givaro Rahajaän",
-       "corto": "G. Rahajaän",
-       "dorsal": "38",
-       "posicion": "",
-       "p_titular": 0.2778,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "365026",
-       "nombre": "Nick Fichtinger",
-       "corto": "N. Fichtinger",
-       "dorsal": "34",
-       "posicion": "",
-       "p_titular": 0.2753,
-       "titularidades": 2,
-       "partidos": 8,
-       "suplente": true
-      },
-      {
-       "id": "215159",
-       "nombre": "Younes Namli",
-       "corto": "Y. Namli",
-       "dorsal": "7",
-       "posicion": "",
-       "p_titular": 0.2368,
-       "titularidades": 0,
-       "partidos": 8,
-       "suplente": true
-      }
-     ]
-    }
-   },
-   "bajas": null,
-   "bajas_fuente": "sin-fuente",
-   "razon_titular": "Lo más probable: gana PEC Zwolle, 51 %.",
-   "razon": [
-    "Forma: Willem II llega con D D D D D en sus últimos 5 (10 goles a favor, 32 en contra en 10 partidos); PEC Zwolle con D D D V E.",
-    "En casa Willem II promedia 0,80 goles a favor y 3,20 en contra en 5 partidos.",
-    "Fuera PEC Zwolle promedia 1,20 a favor y 1,80 en contra en 5 partidos.",
-    "El modelo da 51 % a que gane el visitante; la media de Eredivisie en ese mercado es 40 %: se aparta +11 pp de la media (referencia, no es una ventaja real).",
-    "El modelo estima xG 1,29 - 2,18 y da como marcador más probable 1-2.",
-    "Lectura SIN ventaja: 51 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
-   ],
-   "forma_home": [
-    "D",
-    "D",
-    "D",
-    "D",
-    "D"
-   ],
-   "forma_away": [
-    "D",
-    "D",
-    "D",
-    "V",
-    "E"
-   ],
-   "model": "dc-poisson-v0.2",
-   "source": "espn-temporary",
-   "prev_hash": "d0a434711c8f2c65653293a5fcad21ec6a09a5c6df51cde2046ea99561e42189",
-   "pick_hash": "21f5f3ca9922fd6deafade0b9181b12b7b84a65b1b4968b89b61713ffd21ccf3"
-  },
   {
    "date": "2026-11-06",
    "kickoff": "2026-11-06T19:30Z",
@@ -1005,8 +506,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "21f5f3ca9922fd6deafade0b9181b12b7b84a65b1b4968b89b61713ffd21ccf3",
-   "pick_hash": "2ec98d6ce67a7bf3d63d01575ec075c0bd741be0f0c20d549f9c6fbd9ad36b11"
+   "prev_hash": "d0a434711c8f2c65653293a5fcad21ec6a09a5c6df51cde2046ea99561e42189",
+   "pick_hash": "4444746f3f9cb0e1691d916062992be958f4a8a6e7d53c30e58fbcca55d544a7"
   },
   {
    "date": "2026-11-06",
@@ -1504,8 +1005,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "2ec98d6ce67a7bf3d63d01575ec075c0bd741be0f0c20d549f9c6fbd9ad36b11",
-   "pick_hash": "fddb7faf4a3cd98f7fc4c445ade7e90ffb216db56800a1f157f92875c8854a26"
+   "prev_hash": "4444746f3f9cb0e1691d916062992be958f4a8a6e7d53c30e58fbcca55d544a7",
+   "pick_hash": "5ec02b4d9fab872103e0d1520b2ce55aee9223e7c75d8ab616528733d56a2308"
   },
   {
    "date": "2026-11-06",
@@ -2003,8 +1504,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "fddb7faf4a3cd98f7fc4c445ade7e90ffb216db56800a1f157f92875c8854a26",
-   "pick_hash": "32436a21038a6a55659ef98c52d378b983e96dd994d1505292f82fd3003ed863"
+   "prev_hash": "5ec02b4d9fab872103e0d1520b2ce55aee9223e7c75d8ab616528733d56a2308",
+   "pick_hash": "5c12772db8a5cc7f04a23a9347af6b5651ca65573798432af7014aac84324a91"
   },
   {
    "date": "2026-11-06",
@@ -2502,8 +2003,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "32436a21038a6a55659ef98c52d378b983e96dd994d1505292f82fd3003ed863",
-   "pick_hash": "8744efc8398be5b3fc61729dc6ad165c2cca84b2a1f553c817fa2cf2ffebbfe6"
+   "prev_hash": "5c12772db8a5cc7f04a23a9347af6b5651ca65573798432af7014aac84324a91",
+   "pick_hash": "fe9ff294c8e7f7c0bdfc59e0d63e296f03403539d497b697f2538f21f094f0cc"
   },
   {
    "date": "2026-11-06",
@@ -3001,8 +2502,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8744efc8398be5b3fc61729dc6ad165c2cca84b2a1f553c817fa2cf2ffebbfe6",
-   "pick_hash": "5d46a302a991b265ea0d21811c4ce9e6ee5304cacd672e58392cdd4fb9c72802"
+   "prev_hash": "fe9ff294c8e7f7c0bdfc59e0d63e296f03403539d497b697f2538f21f094f0cc",
+   "pick_hash": "ec5f340d6d698b8daad2d8cd9da6117968696869da1d4b8955d79ca9cd720139"
   },
   {
    "date": "2026-11-06",
@@ -3500,8 +3001,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "5d46a302a991b265ea0d21811c4ce9e6ee5304cacd672e58392cdd4fb9c72802",
-   "pick_hash": "b41bf3d80f3f3b0657cfe91ed2a9629128cc3cedc405a05636bfe5893eaacb7c"
+   "prev_hash": "ec5f340d6d698b8daad2d8cd9da6117968696869da1d4b8955d79ca9cd720139",
+   "pick_hash": "09d3a6a8af603fbfdd01be94149211cc38bdb7ae3ec102e8b803627af3c73ba9"
   },
   {
    "date": "2026-11-06",
@@ -3999,8 +3500,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "b41bf3d80f3f3b0657cfe91ed2a9629128cc3cedc405a05636bfe5893eaacb7c",
-   "pick_hash": "bb600d39381c9c5b3e7f29261be753dcb2ea2271de1ec6ec7d1935eadb5a987b"
+   "prev_hash": "09d3a6a8af603fbfdd01be94149211cc38bdb7ae3ec102e8b803627af3c73ba9",
+   "pick_hash": "8cab0ad43c8663dc8fe67533c5418e107dee3350903b9d992eff0c26271dde54"
   },
   {
    "date": "2026-11-06",
@@ -4498,8 +3999,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "bb600d39381c9c5b3e7f29261be753dcb2ea2271de1ec6ec7d1935eadb5a987b",
-   "pick_hash": "45e13389dd28ddb918e5e91065cd64eb855f061797a4b0ee896f95e0194e55a3"
+   "prev_hash": "8cab0ad43c8663dc8fe67533c5418e107dee3350903b9d992eff0c26271dde54",
+   "pick_hash": "475dc8e1a37d2c8ae11d7d6c32097e87fabc88f0a777f82e2289383e3baff867"
   },
   {
    "date": "2026-11-06",
@@ -4997,8 +4498,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "45e13389dd28ddb918e5e91065cd64eb855f061797a4b0ee896f95e0194e55a3",
-   "pick_hash": "227afdfca37d0b0a6e542ba77cf8e27baa46bc84ea9dde42b0f7c6bbfe294ea4"
+   "prev_hash": "475dc8e1a37d2c8ae11d7d6c32097e87fabc88f0a777f82e2289383e3baff867",
+   "pick_hash": "3c22bb0b541efe9736170cf08d0e04ed0dd6b6b6bc36072ae807601760fc7bef"
   },
   {
    "date": "2026-11-06",
@@ -5496,8 +4997,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "227afdfca37d0b0a6e542ba77cf8e27baa46bc84ea9dde42b0f7c6bbfe294ea4",
-   "pick_hash": "f2cdb3391d05a35146ba6a680b95889e42b6eb50fcee069ca51354fe0adafa96"
+   "prev_hash": "3c22bb0b541efe9736170cf08d0e04ed0dd6b6b6bc36072ae807601760fc7bef",
+   "pick_hash": "0c2c14b9d767f16107c259c52089643b06167fd518a7eb115c4a0e1914b9aa38"
   },
   {
    "date": "2026-11-06",
@@ -5995,8 +5496,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "f2cdb3391d05a35146ba6a680b95889e42b6eb50fcee069ca51354fe0adafa96",
-   "pick_hash": "b7874186b57a68f02e3d66f3afd70ea7ef5b67a16e9b58407b04c9d8f84d6e24"
+   "prev_hash": "0c2c14b9d767f16107c259c52089643b06167fd518a7eb115c4a0e1914b9aa38",
+   "pick_hash": "df2a1d53e2c7479cefa790a71c009872dd4f245fd3078167fc1727faae366ee9"
   },
   {
    "date": "2026-11-06",
@@ -6494,8 +5995,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "b7874186b57a68f02e3d66f3afd70ea7ef5b67a16e9b58407b04c9d8f84d6e24",
-   "pick_hash": "048de81011ce061b1f981be4a394e433609270d36591277ee89d422b7e0a2efb"
+   "prev_hash": "df2a1d53e2c7479cefa790a71c009872dd4f245fd3078167fc1727faae366ee9",
+   "pick_hash": "f93b2bf75a207a2c56a4c19c173d3253aceb201e8c06203ad7a9fb0f5105a4e8"
   },
   {
    "date": "2026-11-06",
@@ -6993,8 +6494,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "048de81011ce061b1f981be4a394e433609270d36591277ee89d422b7e0a2efb",
-   "pick_hash": "10e43eb5a97d09cb8c08dbf9b2f580e2600558a6c5c24c24e4112d17a5c4895a"
+   "prev_hash": "f93b2bf75a207a2c56a4c19c173d3253aceb201e8c06203ad7a9fb0f5105a4e8",
+   "pick_hash": "8625c9612d7f282e62f047e45ab4941e61fea9f68948fc00fff120922d778074"
   },
   {
    "date": "2026-11-06",
@@ -7492,8 +6993,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "10e43eb5a97d09cb8c08dbf9b2f580e2600558a6c5c24c24e4112d17a5c4895a",
-   "pick_hash": "3f11a40e1a9bf224bf4d702daef881102c3dcd631d72d63e5ced6ed1ed5d91a5"
+   "prev_hash": "8625c9612d7f282e62f047e45ab4941e61fea9f68948fc00fff120922d778074",
+   "pick_hash": "58ca51d371d19ed5f658d1ee19b1a67b7a2a249be6fc171b705875cce2d4a63d"
   },
   {
    "date": "2026-11-06",
@@ -7991,8 +7492,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "3f11a40e1a9bf224bf4d702daef881102c3dcd631d72d63e5ced6ed1ed5d91a5",
-   "pick_hash": "5729421fe5d53ee2f2773e8ff9585d40e7aa89da34b5eeec2295c2a60912c2df"
+   "prev_hash": "58ca51d371d19ed5f658d1ee19b1a67b7a2a249be6fc171b705875cce2d4a63d",
+   "pick_hash": "6fc945a426cbc2a2dfe16aab47e475e1bdb7ae783ce2119845ad0909681533b2"
   },
   {
    "date": "2026-11-06",
@@ -8490,8 +7991,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "5729421fe5d53ee2f2773e8ff9585d40e7aa89da34b5eeec2295c2a60912c2df",
-   "pick_hash": "d53669705e6bbf13ca1bf15f17ceac6b462e2183be06ea322dae3cd47b988e1b"
+   "prev_hash": "6fc945a426cbc2a2dfe16aab47e475e1bdb7ae783ce2119845ad0909681533b2",
+   "pick_hash": "2403b2c429d505a902fc829f42098594483940a65aac7808037a911558c38f85"
   },
   {
    "date": "2026-11-06",
@@ -8989,8 +8490,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d53669705e6bbf13ca1bf15f17ceac6b462e2183be06ea322dae3cd47b988e1b",
-   "pick_hash": "87056922a8d9f802fa0d0d1198ebbd8b37ad2d28af4343259ac7c4d960c65602"
+   "prev_hash": "2403b2c429d505a902fc829f42098594483940a65aac7808037a911558c38f85",
+   "pick_hash": "cc115609bc5e7e6343b9c1067859a06a4cd6283a575505d7eeaa4b65f73dae2d"
   },
   {
    "date": "2026-11-06",
@@ -9488,8 +8989,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "87056922a8d9f802fa0d0d1198ebbd8b37ad2d28af4343259ac7c4d960c65602",
-   "pick_hash": "738de04d499b695aa446f190a7ffc6568d16640977ca105ef68b2d9c20aea611"
+   "prev_hash": "cc115609bc5e7e6343b9c1067859a06a4cd6283a575505d7eeaa4b65f73dae2d",
+   "pick_hash": "e9d317784183ee2ad1b33bab5519fbb7f8cb87252aa97c21a6f26c8ca057ce20"
   },
   {
    "date": "2026-11-06",
@@ -9987,8 +9488,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "738de04d499b695aa446f190a7ffc6568d16640977ca105ef68b2d9c20aea611",
-   "pick_hash": "68419a196e5fbdfeda539fd90cea1974d909348cde8719b998f8c37622f1c15b"
+   "prev_hash": "e9d317784183ee2ad1b33bab5519fbb7f8cb87252aa97c21a6f26c8ca057ce20",
+   "pick_hash": "e5355e0cb21816929e798eeee72ecba582d15713ea22ac97bf3f04e9ca677af7"
   },
   {
    "date": "2026-11-06",
@@ -10486,8 +9987,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "68419a196e5fbdfeda539fd90cea1974d909348cde8719b998f8c37622f1c15b",
-   "pick_hash": "d4b8e19e7d77d58584903f2fafa1a7e0b9db0a35d52a66ba54a96793117d0cad"
+   "prev_hash": "e5355e0cb21816929e798eeee72ecba582d15713ea22ac97bf3f04e9ca677af7",
+   "pick_hash": "5dda74e265de748ba8ee03bd37461371912af42e44dd958b7a1cf4d7c06a6f32"
   },
   {
    "date": "2026-11-06",
@@ -10985,8 +10486,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d4b8e19e7d77d58584903f2fafa1a7e0b9db0a35d52a66ba54a96793117d0cad",
-   "pick_hash": "3834f764b19cd30afe5a055c3aa74986765a943187c591b2b721e286105e51c6"
+   "prev_hash": "5dda74e265de748ba8ee03bd37461371912af42e44dd958b7a1cf4d7c06a6f32",
+   "pick_hash": "53515e31c2342fb4799d9add81fb58822f6f3dc193eff135bfd8ab06a261a49a"
   },
   {
    "date": "2026-11-06",
@@ -11484,8 +10985,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "3834f764b19cd30afe5a055c3aa74986765a943187c591b2b721e286105e51c6",
-   "pick_hash": "995b3c7810ae9de93f330afa7ece6632ae481183208fac9937df7517a5cd363a"
+   "prev_hash": "53515e31c2342fb4799d9add81fb58822f6f3dc193eff135bfd8ab06a261a49a",
+   "pick_hash": "09b0378f92d50ab5fde16f1cb99c0bb8f4b976fcced849974e60b4cf9320a758"
   },
   {
    "date": "2026-11-06",
@@ -11983,8 +11484,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "995b3c7810ae9de93f330afa7ece6632ae481183208fac9937df7517a5cd363a",
-   "pick_hash": "933451abca77a5aa881492c00fc32cff513cd9f740b34b78946d1e20b87fe7c6"
+   "prev_hash": "09b0378f92d50ab5fde16f1cb99c0bb8f4b976fcced849974e60b4cf9320a758",
+   "pick_hash": "111b253b6495ded6a168c51f75e52aa3f2ee01e44798725f3b7617bbb214368d"
   },
   {
    "date": "2026-11-06",
@@ -12482,8 +11983,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "933451abca77a5aa881492c00fc32cff513cd9f740b34b78946d1e20b87fe7c6",
-   "pick_hash": "ec057710bab5d53adc1d008be23603bf88232d1b4704037b3a1df94084e69c9b"
+   "prev_hash": "111b253b6495ded6a168c51f75e52aa3f2ee01e44798725f3b7617bbb214368d",
+   "pick_hash": "6fad163e71eebf394354a9d83cdeedeb1e2798c4938f3f579ba761abd72923ac"
   },
   {
    "date": "2026-11-06",
@@ -12981,8 +12482,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "ec057710bab5d53adc1d008be23603bf88232d1b4704037b3a1df94084e69c9b",
-   "pick_hash": "046467d960f97efd1da7b8e264994a202436e14781f7a1164a6d775b5f3da635"
+   "prev_hash": "6fad163e71eebf394354a9d83cdeedeb1e2798c4938f3f579ba761abd72923ac",
+   "pick_hash": "f49d8b268d7c78f8577bee0bf12f8866c1cb786b939a2e0d5336cca022ea09bc"
   },
   {
    "date": "2026-11-06",
@@ -13480,8 +12981,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "046467d960f97efd1da7b8e264994a202436e14781f7a1164a6d775b5f3da635",
-   "pick_hash": "09ba0f5937b03c90daa2c55ebe5a185d570ef43d1b557563229aa2af04326b94"
+   "prev_hash": "f49d8b268d7c78f8577bee0bf12f8866c1cb786b939a2e0d5336cca022ea09bc",
+   "pick_hash": "c695dba42bdd3e626da3b36c1d0cd3ca8b0bd7a6563a292f89683e96bc6304f5"
   },
   {
    "date": "2026-11-06",
@@ -13979,8 +13480,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "09ba0f5937b03c90daa2c55ebe5a185d570ef43d1b557563229aa2af04326b94",
-   "pick_hash": "8cddf51084d6168e5f867d9072e35cdbdce5393602b61bbbd4b84e6a08b04d6b"
+   "prev_hash": "c695dba42bdd3e626da3b36c1d0cd3ca8b0bd7a6563a292f89683e96bc6304f5",
+   "pick_hash": "3b0a8150e5e830e163c1e53a3c403a98cb8a917437468abbb2b583d0acff8d81"
   },
   {
    "date": "2026-11-06",
@@ -14478,8 +13979,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8cddf51084d6168e5f867d9072e35cdbdce5393602b61bbbd4b84e6a08b04d6b",
-   "pick_hash": "131b4abecbb6fe9279a07ccca2243dcc2fddcce475f85b436ab3ad74079d7853"
+   "prev_hash": "3b0a8150e5e830e163c1e53a3c403a98cb8a917437468abbb2b583d0acff8d81",
+   "pick_hash": "fc221ed75504822c4194e2cb2084f6f0f1b3840a7c3a94ce6a968be092998459"
   },
   {
    "date": "2026-11-06",
@@ -14977,8 +14478,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "131b4abecbb6fe9279a07ccca2243dcc2fddcce475f85b436ab3ad74079d7853",
-   "pick_hash": "aa808441d7dfa4e05696017729302400621646fb5d9686bbb93578e6037e5d0e"
+   "prev_hash": "fc221ed75504822c4194e2cb2084f6f0f1b3840a7c3a94ce6a968be092998459",
+   "pick_hash": "730d646b9294a9538d94e58b307146957f8275b94704386239d2e25241ff7bd3"
   },
   {
    "date": "2026-11-06",
@@ -15476,8 +14977,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "aa808441d7dfa4e05696017729302400621646fb5d9686bbb93578e6037e5d0e",
-   "pick_hash": "aaa45d3a074df0794916ca5a858abebaca5a9528de403655cc434390662f9bd1"
+   "prev_hash": "730d646b9294a9538d94e58b307146957f8275b94704386239d2e25241ff7bd3",
+   "pick_hash": "788923fa9e41e7a9b45e7a0865ec0c2381289f25a53f1499d12e61b9b571cbc7"
   },
   {
    "date": "2026-11-06",
@@ -15975,8 +15476,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "aaa45d3a074df0794916ca5a858abebaca5a9528de403655cc434390662f9bd1",
-   "pick_hash": "206b2b65b730c812abea93fe2f4befeb8b059295875da4d20f4b9a1cbd24ee1d"
+   "prev_hash": "788923fa9e41e7a9b45e7a0865ec0c2381289f25a53f1499d12e61b9b571cbc7",
+   "pick_hash": "60ce1c38e145131045fbe4d7dfe91a1012d9f565b41ef6e5e5b3c3d0ca303b7c"
   },
   {
    "date": "2026-11-06",
@@ -16474,8 +15975,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "206b2b65b730c812abea93fe2f4befeb8b059295875da4d20f4b9a1cbd24ee1d",
-   "pick_hash": "73b0b6ac8905123d975aaf16f5c525f2d129768a9a4c7f3f2151e4efe553af96"
+   "prev_hash": "60ce1c38e145131045fbe4d7dfe91a1012d9f565b41ef6e5e5b3c3d0ca303b7c",
+   "pick_hash": "869d331b95acbf27051628c0eef40f912043eb05c30de3be8a51c8371db5e8f7"
   },
   {
    "date": "2026-11-06",
@@ -16973,8 +16474,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "73b0b6ac8905123d975aaf16f5c525f2d129768a9a4c7f3f2151e4efe553af96",
-   "pick_hash": "c4e6af884883e77447e7cd8e89273424fbdd50e0b8c80955a60b40fcd8705ec8"
+   "prev_hash": "869d331b95acbf27051628c0eef40f912043eb05c30de3be8a51c8371db5e8f7",
+   "pick_hash": "e1fbf7a37649194435206eb9f5ccb82cd1248fb2963719c7865ae62f2fe416a0"
   },
   {
    "date": "2026-11-06",
@@ -17472,8 +16973,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c4e6af884883e77447e7cd8e89273424fbdd50e0b8c80955a60b40fcd8705ec8",
-   "pick_hash": "2d0864ad6a82d227fb4ca85056c22cf36ae04037023f9af984c6acba85dc8767"
+   "prev_hash": "e1fbf7a37649194435206eb9f5ccb82cd1248fb2963719c7865ae62f2fe416a0",
+   "pick_hash": "12ae1dc714db422d3ca8ae1c999da4b30ded83d5c228ee363a831581824f808f"
   },
   {
    "date": "2026-11-06",
@@ -17971,8 +17472,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "2d0864ad6a82d227fb4ca85056c22cf36ae04037023f9af984c6acba85dc8767",
-   "pick_hash": "8eb7998d20c3017f50708ab22e04016e76b1078be562ac80497e1721b96c4efc"
+   "prev_hash": "12ae1dc714db422d3ca8ae1c999da4b30ded83d5c228ee363a831581824f808f",
+   "pick_hash": "4668429442ef43a3f1b8df5d591228c7e133bd77b1a6bd6a7afc982f88c0c9c6"
   },
   {
    "date": "2026-11-06",
@@ -18470,8 +17971,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8eb7998d20c3017f50708ab22e04016e76b1078be562ac80497e1721b96c4efc",
-   "pick_hash": "82af35934370b02c7439accded8cdb4ec2931720f5f23b5e044b153e1b06feac"
+   "prev_hash": "4668429442ef43a3f1b8df5d591228c7e133bd77b1a6bd6a7afc982f88c0c9c6",
+   "pick_hash": "1e9bd9263ee63a691a5fd9dfca040f7c21ef799a84799635bc4ed987ef56bf41"
   },
   {
    "date": "2026-11-06",
@@ -18969,8 +18470,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "82af35934370b02c7439accded8cdb4ec2931720f5f23b5e044b153e1b06feac",
-   "pick_hash": "e3055458eff1e3e4ba7a88298b260f2059263d78bc1f763aff73be767e4abfce"
+   "prev_hash": "1e9bd9263ee63a691a5fd9dfca040f7c21ef799a84799635bc4ed987ef56bf41",
+   "pick_hash": "14625d3518385d8ef5af304e6a7261f2c44a27b69b16c798472a8d66c56b9276"
   },
   {
    "date": "2026-11-06",
@@ -19468,8 +18969,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "e3055458eff1e3e4ba7a88298b260f2059263d78bc1f763aff73be767e4abfce",
-   "pick_hash": "94ccfd59610e7d7dc51cbb7a3e2d8d95c3a4391c3ea02389ded6f57ed6e5f6a2"
+   "prev_hash": "14625d3518385d8ef5af304e6a7261f2c44a27b69b16c798472a8d66c56b9276",
+   "pick_hash": "c4ac6e02f32e69aabf8ee70e287fe2e8ac2c09f79858f155ceff247ba75b4525"
   },
   {
    "date": "2026-11-06",
@@ -19967,8 +19468,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "94ccfd59610e7d7dc51cbb7a3e2d8d95c3a4391c3ea02389ded6f57ed6e5f6a2",
-   "pick_hash": "3ab345eb014a7a1c910b4092ead1186069f5f26ec7139fa3ffd527b9efc7a1ee"
+   "prev_hash": "c4ac6e02f32e69aabf8ee70e287fe2e8ac2c09f79858f155ceff247ba75b4525",
+   "pick_hash": "8dc04db3e769a6a1e223351d0b2e984b74665e96722fccc47c998950622a8b23"
   },
   {
    "date": "2026-11-06",
@@ -20466,8 +19967,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "3ab345eb014a7a1c910b4092ead1186069f5f26ec7139fa3ffd527b9efc7a1ee",
-   "pick_hash": "12f441afe54241a2af8ee15a92f42a5adcc159a9ccfcd6ca9009920a591d1652"
+   "prev_hash": "8dc04db3e769a6a1e223351d0b2e984b74665e96722fccc47c998950622a8b23",
+   "pick_hash": "4ea6407573df6b2fb660e9ae029b98ff3ad938526b2e906ab4ef192b5e9ce5c8"
   },
   {
    "date": "2026-11-06",
@@ -20965,8 +20466,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "12f441afe54241a2af8ee15a92f42a5adcc159a9ccfcd6ca9009920a591d1652",
-   "pick_hash": "9d63c4ac79eb348db11c761758fd7084bf99d49ab91dda6892cbdf0632741265"
+   "prev_hash": "4ea6407573df6b2fb660e9ae029b98ff3ad938526b2e906ab4ef192b5e9ce5c8",
+   "pick_hash": "4a4577a5783edc119029f8a21c42f0ab9627d89fb89902d1b99e9546c297ca88"
   },
   {
    "date": "2026-11-06",
@@ -21464,8 +20965,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "9d63c4ac79eb348db11c761758fd7084bf99d49ab91dda6892cbdf0632741265",
-   "pick_hash": "c70cc51290dba47a5246618b9797c55474790eca4ca86660ed8af1415591b9c9"
+   "prev_hash": "4a4577a5783edc119029f8a21c42f0ab9627d89fb89902d1b99e9546c297ca88",
+   "pick_hash": "1fd4fdba6c9178b8c008fd4b5683b93eeed2fce378b2ddfe6958d985ba4658e4"
   },
   {
    "date": "2026-11-06",
@@ -21963,8 +21464,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c70cc51290dba47a5246618b9797c55474790eca4ca86660ed8af1415591b9c9",
-   "pick_hash": "b9ee0695936ecf7f738c169bc2e972d5842370b0293b48935c22dbeaaaac52f0"
+   "prev_hash": "1fd4fdba6c9178b8c008fd4b5683b93eeed2fce378b2ddfe6958d985ba4658e4",
+   "pick_hash": "b610c0e6e804215d48a2d8ceb4f2103a0334af66b9a23eacd57b1b7da97df4f1"
   },
   {
    "date": "2026-11-06",
@@ -22462,8 +21963,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "b9ee0695936ecf7f738c169bc2e972d5842370b0293b48935c22dbeaaaac52f0",
-   "pick_hash": "a28c9e881258fe8215bdf511becb01b8655e0a9b8fe1a28b5ff5b62ef42d78aa"
+   "prev_hash": "b610c0e6e804215d48a2d8ceb4f2103a0334af66b9a23eacd57b1b7da97df4f1",
+   "pick_hash": "4df4245cbe5e568b4adcbd10e0d585cbe772c5eb1a68a37d59c7db72df73d179"
   },
   {
    "date": "2026-11-06",
@@ -22961,8 +22462,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "a28c9e881258fe8215bdf511becb01b8655e0a9b8fe1a28b5ff5b62ef42d78aa",
-   "pick_hash": "4d9f2cfa375b5478c875c06b66e053624ae5ec9d3ddd85bcb7d6f49181872e6a"
+   "prev_hash": "4df4245cbe5e568b4adcbd10e0d585cbe772c5eb1a68a37d59c7db72df73d179",
+   "pick_hash": "4e3d5efc9056c2d5feba41e22d559039928a90723c85d7d0702df2fc4b83a604"
   },
   {
    "date": "2026-11-06",
@@ -23460,8 +22961,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "4d9f2cfa375b5478c875c06b66e053624ae5ec9d3ddd85bcb7d6f49181872e6a",
-   "pick_hash": "46392eef671c73fdfff9fc9748dcea765e648e35cf6c33ca7c487a05503c25d4"
+   "prev_hash": "4e3d5efc9056c2d5feba41e22d559039928a90723c85d7d0702df2fc4b83a604",
+   "pick_hash": "0860dc51a79d78af795b3a7ef876d436de32fae3ecc6e6e807e025ff2a12277b"
   },
   {
    "date": "2026-11-06",
@@ -23959,8 +23460,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "46392eef671c73fdfff9fc9748dcea765e648e35cf6c33ca7c487a05503c25d4",
-   "pick_hash": "1c09963dfd70bc161d6f4e099dc99d5386a45c6af6dff49c4353ff1213a237f6"
+   "prev_hash": "0860dc51a79d78af795b3a7ef876d436de32fae3ecc6e6e807e025ff2a12277b",
+   "pick_hash": "24437cc54efdba0105ffcaf434dff2d135b013bba805694756d74cd82972ffe3"
   },
   {
    "date": "2026-11-06",
@@ -24458,8 +23959,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "1c09963dfd70bc161d6f4e099dc99d5386a45c6af6dff49c4353ff1213a237f6",
-   "pick_hash": "6fa0d21f96794229bfe77105efcdc8b64ee39c4787f74c4f3a5ed98c76065618"
+   "prev_hash": "24437cc54efdba0105ffcaf434dff2d135b013bba805694756d74cd82972ffe3",
+   "pick_hash": "1756c1686867f4d0a4c4ddaf373b5c53403e88553e5de8376a22ca893407e315"
   },
   {
    "date": "2026-11-06",
@@ -24957,8 +24458,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "6fa0d21f96794229bfe77105efcdc8b64ee39c4787f74c4f3a5ed98c76065618",
-   "pick_hash": "fb4a0b97c9e50fc13cd8bdca3081bdbe130a490fe5b4ed3025786f40061cf327"
+   "prev_hash": "1756c1686867f4d0a4c4ddaf373b5c53403e88553e5de8376a22ca893407e315",
+   "pick_hash": "e4834983db08fb7ae618c2afc7cb2465f782d097429fbff31f84d9dbeb823e70"
   },
   {
    "date": "2026-11-06",
@@ -25456,8 +24957,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "fb4a0b97c9e50fc13cd8bdca3081bdbe130a490fe5b4ed3025786f40061cf327",
-   "pick_hash": "95cd45f2b54afe28259a1c20ce0ab26adf68ca409264f97eb6276c88dd430f1d"
+   "prev_hash": "e4834983db08fb7ae618c2afc7cb2465f782d097429fbff31f84d9dbeb823e70",
+   "pick_hash": "977b601b000c280c4aaf63a7fc975e2d30e31a161c6b2e79eb32594318ef9c37"
   },
   {
    "date": "2026-11-06",
@@ -25955,8 +25456,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "95cd45f2b54afe28259a1c20ce0ab26adf68ca409264f97eb6276c88dd430f1d",
-   "pick_hash": "782190a24f390bc4ff786221f989d2d7442d4cff66bee8c4556f5b7b944c39b3"
+   "prev_hash": "977b601b000c280c4aaf63a7fc975e2d30e31a161c6b2e79eb32594318ef9c37",
+   "pick_hash": "15dc31a7775770ab41142262f3fdd04a8a6c909bf0a1747cf69d83a5e583619a"
   },
   {
    "date": "2026-11-06",
@@ -26454,8 +25955,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "782190a24f390bc4ff786221f989d2d7442d4cff66bee8c4556f5b7b944c39b3",
-   "pick_hash": "8d05e81a1cd0ab62af616c946d551ab4af863b8944a66d7f3e0e50dfded1cb54"
+   "prev_hash": "15dc31a7775770ab41142262f3fdd04a8a6c909bf0a1747cf69d83a5e583619a",
+   "pick_hash": "946cf3b9d84696d6730a4ace732742c6abcd5a1fa8de443dfcaa00807e110831"
   },
   {
    "date": "2026-11-06",
@@ -26953,8 +26454,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8d05e81a1cd0ab62af616c946d551ab4af863b8944a66d7f3e0e50dfded1cb54",
-   "pick_hash": "8d430308bdf391fcf6d0191df899ad9d3c59e66334102a1fff0dfa627cdd745c"
+   "prev_hash": "946cf3b9d84696d6730a4ace732742c6abcd5a1fa8de443dfcaa00807e110831",
+   "pick_hash": "aa2f0308612383ca32848c837f9a2ce1fce9ff513e9f86dd18433b870c79aac1"
   },
   {
    "date": "2026-11-06",
@@ -27452,8 +26953,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8d430308bdf391fcf6d0191df899ad9d3c59e66334102a1fff0dfa627cdd745c",
-   "pick_hash": "c893eb444e8633538b7a128fa2a79d25b9ae38a4daed4dc171e8e731c6a28994"
+   "prev_hash": "aa2f0308612383ca32848c837f9a2ce1fce9ff513e9f86dd18433b870c79aac1",
+   "pick_hash": "7050d88f867b742f25623d6bb8aa57631265a164f1867bdf9dbd73f93c874765"
   },
   {
    "date": "2026-11-06",
@@ -27951,8 +27452,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c893eb444e8633538b7a128fa2a79d25b9ae38a4daed4dc171e8e731c6a28994",
-   "pick_hash": "bd23d3e6c7c0cb4f68f853e326c3f6664a78e5a5f78b70b8b88a16e2548011ce"
+   "prev_hash": "7050d88f867b742f25623d6bb8aa57631265a164f1867bdf9dbd73f93c874765",
+   "pick_hash": "6868686cf3887b2523d481c090ca1de3506a0084afaaccc9e46cd6d38e2ce2d1"
   },
   {
    "date": "2026-11-06",
@@ -28450,8 +27951,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "bd23d3e6c7c0cb4f68f853e326c3f6664a78e5a5f78b70b8b88a16e2548011ce",
-   "pick_hash": "cc7506e75df7234c67483c7f04c29518229a2a56b3e8c334c6d991afe50b3f60"
+   "prev_hash": "6868686cf3887b2523d481c090ca1de3506a0084afaaccc9e46cd6d38e2ce2d1",
+   "pick_hash": "18455b3e266896876b163bf2488922ea67a3f57aad4d90dff309f689100449ee"
   },
   {
    "date": "2026-11-06",
@@ -28949,8 +28450,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "cc7506e75df7234c67483c7f04c29518229a2a56b3e8c334c6d991afe50b3f60",
-   "pick_hash": "862ea4922dd5eb11cfae33dc6d536e581094cf0b03de2efb578a4fe5730e5e31"
+   "prev_hash": "18455b3e266896876b163bf2488922ea67a3f57aad4d90dff309f689100449ee",
+   "pick_hash": "a7ba861e61a35572f56db897893364ab062a1f64a96c81c3f1ffd0aff2227c98"
   },
   {
    "date": "2026-11-06",
@@ -29448,8 +28949,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "862ea4922dd5eb11cfae33dc6d536e581094cf0b03de2efb578a4fe5730e5e31",
-   "pick_hash": "0a48f8313bbd6dc6a50db2471770dd4eb040fdce697b3a308cac4524bf830774"
+   "prev_hash": "a7ba861e61a35572f56db897893364ab062a1f64a96c81c3f1ffd0aff2227c98",
+   "pick_hash": "ebb3c28805ad37aab9b7f910f9da4b696dbc58f86866be512162138896fcc575"
   },
   {
    "date": "2026-11-06",
@@ -29947,8 +29448,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "0a48f8313bbd6dc6a50db2471770dd4eb040fdce697b3a308cac4524bf830774",
-   "pick_hash": "81393f5d8de2d12c1f781b045551122d2383658ca63c6be73b4a383bb767af71"
+   "prev_hash": "ebb3c28805ad37aab9b7f910f9da4b696dbc58f86866be512162138896fcc575",
+   "pick_hash": "5632d7e74681c28d469d7c7629a303bcd85906c034d2cbeae4626123fd22f47e"
   },
   {
    "date": "2026-11-06",
@@ -30446,8 +29947,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "81393f5d8de2d12c1f781b045551122d2383658ca63c6be73b4a383bb767af71",
-   "pick_hash": "f8a9f8dd3519bb29279e2eacd4fa9341578c978f1c6684bda59beb71b7a97af7"
+   "prev_hash": "5632d7e74681c28d469d7c7629a303bcd85906c034d2cbeae4626123fd22f47e",
+   "pick_hash": "879f5937be079fbedc72e7b415de406a0b83e37400e710afd385889feff4cb1c"
   },
   {
    "date": "2026-11-06",
@@ -30945,8 +30446,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "f8a9f8dd3519bb29279e2eacd4fa9341578c978f1c6684bda59beb71b7a97af7",
-   "pick_hash": "9e5851707af03a7df135af62295f301beb456d70a98148f86186b09cf8d7bda8"
+   "prev_hash": "879f5937be079fbedc72e7b415de406a0b83e37400e710afd385889feff4cb1c",
+   "pick_hash": "af60a7510f4ef2debb96a9a3e8a915f53d2bdea79c642a0eb43ed76d0c1f4ff3"
   },
   {
    "date": "2026-11-06",
@@ -31444,8 +30945,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "9e5851707af03a7df135af62295f301beb456d70a98148f86186b09cf8d7bda8",
-   "pick_hash": "59166ba4797bddb40c2b06b2f4d6139498df44627e0a6b10cefe96ac92ee3968"
+   "prev_hash": "af60a7510f4ef2debb96a9a3e8a915f53d2bdea79c642a0eb43ed76d0c1f4ff3",
+   "pick_hash": "cba6f7778c8521405482e48c433c888bf23c61a48535cfb1efd8b53b72529b62"
   },
   {
    "date": "2026-11-06",
@@ -31943,8 +31444,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "59166ba4797bddb40c2b06b2f4d6139498df44627e0a6b10cefe96ac92ee3968",
-   "pick_hash": "771e3d7d8f0aacfcaf270fa338c484205a8b03287c8993f362f43ccb91c3e1d4"
+   "prev_hash": "cba6f7778c8521405482e48c433c888bf23c61a48535cfb1efd8b53b72529b62",
+   "pick_hash": "3a38b617d7bd70d5c9afdb613db521db7c2220ea557dbc92f3ac5a257d39a62b"
   },
   {
    "date": "2026-11-06",
@@ -32442,8 +31943,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "771e3d7d8f0aacfcaf270fa338c484205a8b03287c8993f362f43ccb91c3e1d4",
-   "pick_hash": "6891e97a11651225ab96de32e40f41f7391382ff98ec9b65a0dc1fc6fa3c1911"
+   "prev_hash": "3a38b617d7bd70d5c9afdb613db521db7c2220ea557dbc92f3ac5a257d39a62b",
+   "pick_hash": "3ff2523381b9d4298ae1b1801b1b62287172696bc80ac01bcf284ce1ed44cd6c"
   },
   {
    "date": "2026-11-06",
@@ -32941,8 +32442,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "6891e97a11651225ab96de32e40f41f7391382ff98ec9b65a0dc1fc6fa3c1911",
-   "pick_hash": "b9a5605ad265978f0e47aaea09e158f314c96ad8e57f57f9afa1848bfa1c8309"
+   "prev_hash": "3ff2523381b9d4298ae1b1801b1b62287172696bc80ac01bcf284ce1ed44cd6c",
+   "pick_hash": "d8965c5d6f2b52046a7b6c65ded49dfe9b85a3fc6635050cc821cc00baba000e"
   },
   {
    "date": "2026-11-06",
@@ -33440,8 +32941,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "b9a5605ad265978f0e47aaea09e158f314c96ad8e57f57f9afa1848bfa1c8309",
-   "pick_hash": "68e5cf844fa49fde7a3dfa287fc1721558fb94cf0b67694094785ed7999fcd14"
+   "prev_hash": "d8965c5d6f2b52046a7b6c65ded49dfe9b85a3fc6635050cc821cc00baba000e",
+   "pick_hash": "4dc6fd65b7e50c0f20168b31f02226aa2c64b767abad261bf8740b90d284b4de"
   },
   {
    "date": "2026-11-06",
@@ -33939,8 +33440,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "68e5cf844fa49fde7a3dfa287fc1721558fb94cf0b67694094785ed7999fcd14",
-   "pick_hash": "062b1fd09f2224bd0a60872c9deb61d6d8e8740a1afc6912c6d7ffecc7015ef8"
+   "prev_hash": "4dc6fd65b7e50c0f20168b31f02226aa2c64b767abad261bf8740b90d284b4de",
+   "pick_hash": "341e178490abd332ae690b3b03b0396db51b6220d7a643829d7afc12cdf6f46a"
   },
   {
    "date": "2026-11-06",
@@ -34438,8 +33939,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "062b1fd09f2224bd0a60872c9deb61d6d8e8740a1afc6912c6d7ffecc7015ef8",
-   "pick_hash": "8766e7a8c61d1ea805a838089fcbdd5dcb1ff72e7667b7ceb477e4432fd29690"
+   "prev_hash": "341e178490abd332ae690b3b03b0396db51b6220d7a643829d7afc12cdf6f46a",
+   "pick_hash": "3ac6f31c1dceed729396ab5b08441c8aa7839e315235ea772b95c9a02d90338e"
   },
   {
    "date": "2026-11-06",
@@ -34937,8 +34438,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8766e7a8c61d1ea805a838089fcbdd5dcb1ff72e7667b7ceb477e4432fd29690",
-   "pick_hash": "c2324c38032577ffa192bc9eb662b283309c26b4f7762c3517be1593ea6316cb"
+   "prev_hash": "3ac6f31c1dceed729396ab5b08441c8aa7839e315235ea772b95c9a02d90338e",
+   "pick_hash": "c38b763781efab8e3df4226758b432fc7dec35ba849df5495e64b69cf647fb80"
   },
   {
    "date": "2026-11-06",
@@ -35436,8 +34937,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c2324c38032577ffa192bc9eb662b283309c26b4f7762c3517be1593ea6316cb",
-   "pick_hash": "c0e3c6858e5bc3a9f01cc019a90b782aacfac1580c1963558a142ab65bf73ff1"
+   "prev_hash": "c38b763781efab8e3df4226758b432fc7dec35ba849df5495e64b69cf647fb80",
+   "pick_hash": "34b6195b0a818989b116402ae288e6d492948795aa1dfd2472463b308fb1fab2"
   },
   {
    "date": "2026-11-06",
@@ -35935,8 +35436,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c0e3c6858e5bc3a9f01cc019a90b782aacfac1580c1963558a142ab65bf73ff1",
-   "pick_hash": "bc8a1743786b5e0db3801122b931b9f43cefbaf3f67e85de7424d9d5c934ce4d"
+   "prev_hash": "34b6195b0a818989b116402ae288e6d492948795aa1dfd2472463b308fb1fab2",
+   "pick_hash": "3fdbc8ff3fc02aed7dc0eae76fe2235af8bb82ee3d8c5daa818a37d487176fd2"
   },
   {
    "date": "2026-11-06",
@@ -36434,8 +35935,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "bc8a1743786b5e0db3801122b931b9f43cefbaf3f67e85de7424d9d5c934ce4d",
-   "pick_hash": "06eb9ae1abf3c4ae3f402dcf945740d6b096d3ad48007071b9306406636d5177"
+   "prev_hash": "3fdbc8ff3fc02aed7dc0eae76fe2235af8bb82ee3d8c5daa818a37d487176fd2",
+   "pick_hash": "fc66ac49fbd88ddf8cb4559b28f12de5f9c359e07b0a4104b90f6e8be0be96cc"
   },
   {
    "date": "2026-11-06",
@@ -36933,8 +36434,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "06eb9ae1abf3c4ae3f402dcf945740d6b096d3ad48007071b9306406636d5177",
-   "pick_hash": "bc46e319ff26c222b4d47a203edc1b5a5af7e145d3c112ca958dca7f46839909"
+   "prev_hash": "fc66ac49fbd88ddf8cb4559b28f12de5f9c359e07b0a4104b90f6e8be0be96cc",
+   "pick_hash": "8931667e2ab58761e8db7b9d065bb1bf889b7989e71a868f7915fb0205ff0265"
   },
   {
    "date": "2026-11-06",
@@ -37432,8 +36933,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "bc46e319ff26c222b4d47a203edc1b5a5af7e145d3c112ca958dca7f46839909",
-   "pick_hash": "22624031d26a160a8944142cbdd1425e03627f3994cf8e13970fa7480f4bb9ae"
+   "prev_hash": "8931667e2ab58761e8db7b9d065bb1bf889b7989e71a868f7915fb0205ff0265",
+   "pick_hash": "60ba237a4bd8858abff69667ce2e0f07d5e129bfc4a7b66cd6a665d78deda6ec"
   },
   {
    "date": "2026-11-06",
@@ -37931,8 +37432,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "22624031d26a160a8944142cbdd1425e03627f3994cf8e13970fa7480f4bb9ae",
-   "pick_hash": "a1277685a678aba64686fb1a66ee35c3748332eb4759dddcfa72235b4e5561c5"
+   "prev_hash": "60ba237a4bd8858abff69667ce2e0f07d5e129bfc4a7b66cd6a665d78deda6ec",
+   "pick_hash": "0a4937a4112e50a945affe607e47a94ab74c36661e10b3e54242d3330c039583"
   },
   {
    "date": "2026-11-06",
@@ -38430,8 +37931,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "a1277685a678aba64686fb1a66ee35c3748332eb4759dddcfa72235b4e5561c5",
-   "pick_hash": "593f939ee9f2e20e4550f93983117de74e40fb33b9e0fe8128d12d22987711e9"
+   "prev_hash": "0a4937a4112e50a945affe607e47a94ab74c36661e10b3e54242d3330c039583",
+   "pick_hash": "00029d87533e3a1f10937309061fced577e0a9eb8c7f6b130f6faf9c017f5122"
   },
   {
    "date": "2026-11-06",
@@ -38929,8 +38430,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "593f939ee9f2e20e4550f93983117de74e40fb33b9e0fe8128d12d22987711e9",
-   "pick_hash": "7ab92449688ecc1abb2eb0d00332d864db9dcd5498967e8942f6420fb16b71dd"
+   "prev_hash": "00029d87533e3a1f10937309061fced577e0a9eb8c7f6b130f6faf9c017f5122",
+   "pick_hash": "1de054832ac09200cbb00ffa8f8eaf0ec9986c7dea90621da3d84599660a39b1"
   },
   {
    "date": "2026-11-06",
@@ -39428,8 +38929,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "7ab92449688ecc1abb2eb0d00332d864db9dcd5498967e8942f6420fb16b71dd",
-   "pick_hash": "31027a70ee8a68d6b013390a7fd52ae29eb11c670d7060d7e63f2eafcb7c552e"
+   "prev_hash": "1de054832ac09200cbb00ffa8f8eaf0ec9986c7dea90621da3d84599660a39b1",
+   "pick_hash": "995266435ed4a3d12d883c62532db68344d82d554b09e441ea97396b033bf76e"
   },
   {
    "date": "2026-11-06",
@@ -39927,8 +39428,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "31027a70ee8a68d6b013390a7fd52ae29eb11c670d7060d7e63f2eafcb7c552e",
-   "pick_hash": "1453b72e01317d14b1ef568f321fd08d80d4f2ce2c4974dcb8726b619a5566a9"
+   "prev_hash": "995266435ed4a3d12d883c62532db68344d82d554b09e441ea97396b033bf76e",
+   "pick_hash": "cc2c4093b7156e532e67884d07bd75f6099fc7809cc85a47aac2cf75570f0281"
   },
   {
    "date": "2026-11-06",
@@ -40426,8 +39927,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "1453b72e01317d14b1ef568f321fd08d80d4f2ce2c4974dcb8726b619a5566a9",
-   "pick_hash": "d07f7b3a8a25dff4de492757c7d174fa99b5cbbf010124e073bc09083fc2e2cb"
+   "prev_hash": "cc2c4093b7156e532e67884d07bd75f6099fc7809cc85a47aac2cf75570f0281",
+   "pick_hash": "6fc81de5a71438a33021bb63d248dcb00773ae7a464f9220944b1eaf64ecaec7"
   },
   {
    "date": "2026-11-06",
@@ -40925,8 +40426,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d07f7b3a8a25dff4de492757c7d174fa99b5cbbf010124e073bc09083fc2e2cb",
-   "pick_hash": "e94ffa778b78c803e656d26056cf2ecaf39e446c0040f2c6cdcf96c435bc76a1"
+   "prev_hash": "6fc81de5a71438a33021bb63d248dcb00773ae7a464f9220944b1eaf64ecaec7",
+   "pick_hash": "47089b2922561d25ab4b80e37d11cd37de9c16964c36bfbcaca4b4c792c5d84d"
   },
   {
    "date": "2026-11-06",
@@ -41424,8 +40925,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "e94ffa778b78c803e656d26056cf2ecaf39e446c0040f2c6cdcf96c435bc76a1",
-   "pick_hash": "604c8abc1b8a6c985e96e07002ee2886853a8fa3235370356881bd9f5d72135e"
+   "prev_hash": "47089b2922561d25ab4b80e37d11cd37de9c16964c36bfbcaca4b4c792c5d84d",
+   "pick_hash": "28f93c24a70b70862469344bd761970ee4e8c0ffa175a89b1832360e7f93df76"
   },
   {
    "date": "2026-11-06",
@@ -41923,8 +41424,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "604c8abc1b8a6c985e96e07002ee2886853a8fa3235370356881bd9f5d72135e",
-   "pick_hash": "d3ef9c41e8f3ca2b82eaec70b4f60e59a0a15c2cabb20477ebd92c8e5373cb77"
+   "prev_hash": "28f93c24a70b70862469344bd761970ee4e8c0ffa175a89b1832360e7f93df76",
+   "pick_hash": "d03d8debd2450ce2b08ec9d9012ded4a23e8fff6a4d6dcc3d66ea4b889dd4cf3"
   },
   {
    "date": "2026-11-06",
@@ -42422,8 +41923,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d3ef9c41e8f3ca2b82eaec70b4f60e59a0a15c2cabb20477ebd92c8e5373cb77",
-   "pick_hash": "e17b437ba416f86544f7281f5943967af8c3e7bf104595e98d77327d484fdb5e"
+   "prev_hash": "d03d8debd2450ce2b08ec9d9012ded4a23e8fff6a4d6dcc3d66ea4b889dd4cf3",
+   "pick_hash": "a2c023f66636f66dbb4412a9cde1b68bd6c2282ad772c9194b7dd8fa12e0a01c"
   },
   {
    "date": "2026-11-06",
@@ -42921,8 +42422,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "e17b437ba416f86544f7281f5943967af8c3e7bf104595e98d77327d484fdb5e",
-   "pick_hash": "537a06cf47257a830a535166402dd8f7bbc3a5a6e8c7f68de3672d035a623569"
+   "prev_hash": "a2c023f66636f66dbb4412a9cde1b68bd6c2282ad772c9194b7dd8fa12e0a01c",
+   "pick_hash": "7c38179908dab96e89b867eee80973217e3de09918908c14f11a32316e8b9f88"
   },
   {
    "date": "2026-11-06",
@@ -43420,8 +42921,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "537a06cf47257a830a535166402dd8f7bbc3a5a6e8c7f68de3672d035a623569",
-   "pick_hash": "70e95eb93e0d40eade8b7b27368b3919625c3e1818cb2a9f78f9a3c750035242"
+   "prev_hash": "7c38179908dab96e89b867eee80973217e3de09918908c14f11a32316e8b9f88",
+   "pick_hash": "0a3fdd426722000edda488ecc9ef0715a2f3997e7159d69080c11efb3259a2e6"
   },
   {
    "date": "2026-11-06",
@@ -43919,8 +43420,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "70e95eb93e0d40eade8b7b27368b3919625c3e1818cb2a9f78f9a3c750035242",
-   "pick_hash": "6d09343a0ee97a76f93472e807a311318097aec943bcc6e37003d6595574e8cf"
+   "prev_hash": "0a3fdd426722000edda488ecc9ef0715a2f3997e7159d69080c11efb3259a2e6",
+   "pick_hash": "a7502b99d7fb436b1a89efa931c336231d2c43c5befddca9d3030302b58b3ccf"
   },
   {
    "date": "2026-11-06",
@@ -44418,8 +43919,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "6d09343a0ee97a76f93472e807a311318097aec943bcc6e37003d6595574e8cf",
-   "pick_hash": "c9efa530cadfe26aadb5e13d05b66a141d4f945ae8fd3f7d26cf0fe9223576d5"
+   "prev_hash": "a7502b99d7fb436b1a89efa931c336231d2c43c5befddca9d3030302b58b3ccf",
+   "pick_hash": "03287ec00b1cec75da2a113afc9b8c71c82388d4a262773e818aaf3989a834c7"
   },
   {
    "date": "2026-11-06",
@@ -44917,8 +44418,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c9efa530cadfe26aadb5e13d05b66a141d4f945ae8fd3f7d26cf0fe9223576d5",
-   "pick_hash": "e81f2be3aa4993cb7607950ee696df478ec645145d9ebe731d9a2a169affe140"
+   "prev_hash": "03287ec00b1cec75da2a113afc9b8c71c82388d4a262773e818aaf3989a834c7",
+   "pick_hash": "a5ab9467e997c811f9198333cb21226ba6aed8d1b1321f5084914d2334568dc2"
   },
   {
    "date": "2026-11-06",
@@ -45416,8 +44917,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "e81f2be3aa4993cb7607950ee696df478ec645145d9ebe731d9a2a169affe140",
-   "pick_hash": "cb5b942422d1ddf158ece471d762129734bc00b2c2bc3e409aaa70a64b57b1e6"
+   "prev_hash": "a5ab9467e997c811f9198333cb21226ba6aed8d1b1321f5084914d2334568dc2",
+   "pick_hash": "f4f9664f426bdeb3f4b88b8eb49aed2b6aa8327488ec728c328d224cac59ce2a"
   },
   {
    "date": "2026-11-06",
@@ -45915,8 +45416,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "cb5b942422d1ddf158ece471d762129734bc00b2c2bc3e409aaa70a64b57b1e6",
-   "pick_hash": "a486c1a86f3c2863f74ecf3918142ab86cb21aac6c1e1d9ee3b05f415f8ba2c0"
+   "prev_hash": "f4f9664f426bdeb3f4b88b8eb49aed2b6aa8327488ec728c328d224cac59ce2a",
+   "pick_hash": "adca65947abc8c65cf52efcc93b9dd8e8c1b9ab68ea5bbef1afa2f6d55dc971c"
   },
   {
    "date": "2026-11-06",
@@ -46414,8 +45915,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "a486c1a86f3c2863f74ecf3918142ab86cb21aac6c1e1d9ee3b05f415f8ba2c0",
-   "pick_hash": "08392995ce18a6e60820dcda7ac48c78eb601d1424e2abe76dbe933eceacbb34"
+   "prev_hash": "adca65947abc8c65cf52efcc93b9dd8e8c1b9ab68ea5bbef1afa2f6d55dc971c",
+   "pick_hash": "7b26aa6450d6d3992cd92cc0836fe6903e4dd7d1f900c885b2bdf74780f30f3f"
   },
   {
    "date": "2026-11-06",
@@ -46913,8 +46414,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "08392995ce18a6e60820dcda7ac48c78eb601d1424e2abe76dbe933eceacbb34",
-   "pick_hash": "d746c5e4d55bf05b003968ebd298346d86c4b27189d5e60bf79cfac1e31ccff4"
+   "prev_hash": "7b26aa6450d6d3992cd92cc0836fe6903e4dd7d1f900c885b2bdf74780f30f3f",
+   "pick_hash": "a0015f4f20cab66f0461a95553951152f6b92e21005119fab480f63d85a6ec34"
   },
   {
    "date": "2026-11-06",
@@ -47412,8 +46913,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d746c5e4d55bf05b003968ebd298346d86c4b27189d5e60bf79cfac1e31ccff4",
-   "pick_hash": "c7ceb32178f6786c54199ddaecdfa4d5842bb146858a4ef30541aa3f7fb9ac0f"
+   "prev_hash": "a0015f4f20cab66f0461a95553951152f6b92e21005119fab480f63d85a6ec34",
+   "pick_hash": "0e92ce9960df00fde6746cd7ae9922bbdabdb808e7c6d965d4e6d41d40c48829"
   },
   {
    "date": "2026-11-06",
@@ -47911,8 +47412,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c7ceb32178f6786c54199ddaecdfa4d5842bb146858a4ef30541aa3f7fb9ac0f",
-   "pick_hash": "670a8c1c60b1a18fde2d887edee8f54d20250edf8ca73132ef0bf2c0231e9f9f"
+   "prev_hash": "0e92ce9960df00fde6746cd7ae9922bbdabdb808e7c6d965d4e6d41d40c48829",
+   "pick_hash": "a9a9959130cf0c02e622914b8fd3eba292b2a3cd390be01180dae187bce4a584"
   },
   {
    "date": "2026-11-06",
@@ -48410,8 +47911,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "670a8c1c60b1a18fde2d887edee8f54d20250edf8ca73132ef0bf2c0231e9f9f",
-   "pick_hash": "79209252d6027aac051ee690000b4a411f1c97d5b1099fa052479ac6db2c92ec"
+   "prev_hash": "a9a9959130cf0c02e622914b8fd3eba292b2a3cd390be01180dae187bce4a584",
+   "pick_hash": "cf53bb6761e26aff4ad01b77a7f603d0fca762baef664699bc357a8ea3470eb6"
   },
   {
    "date": "2026-11-06",
@@ -48909,8 +48410,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "79209252d6027aac051ee690000b4a411f1c97d5b1099fa052479ac6db2c92ec",
-   "pick_hash": "f1d190fa21e8aa0f845998af738a831af5b1c84d09dbeca20e20afccc7144062"
+   "prev_hash": "cf53bb6761e26aff4ad01b77a7f603d0fca762baef664699bc357a8ea3470eb6",
+   "pick_hash": "98a2dbe8b2ea1049e351781bc85a33d6ee05015e0214e64c5a16b4f12fff2608"
   },
   {
    "date": "2026-11-06",
@@ -49408,8 +48909,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "f1d190fa21e8aa0f845998af738a831af5b1c84d09dbeca20e20afccc7144062",
-   "pick_hash": "26cea74ad96097b80e2d3fb3c69664a8766dc90c34448c61d54121952dfd0724"
+   "prev_hash": "98a2dbe8b2ea1049e351781bc85a33d6ee05015e0214e64c5a16b4f12fff2608",
+   "pick_hash": "2e0a23e0f1f09f8afc6585eb6e9ee0d138b5d2f7c07d75f9e79b0cae624a59e4"
   },
   {
    "date": "2026-11-06",
@@ -49907,8 +49408,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "26cea74ad96097b80e2d3fb3c69664a8766dc90c34448c61d54121952dfd0724",
-   "pick_hash": "cb4c24ee12d4d01f99e2acf51f97498195831d83d1395caed5845935917bcb49"
+   "prev_hash": "2e0a23e0f1f09f8afc6585eb6e9ee0d138b5d2f7c07d75f9e79b0cae624a59e4",
+   "pick_hash": "fc56b26e9e9a70c038d7426381fd1b44d3ce9c47c6f0d6c572a8644028cc302f"
   },
   {
    "date": "2026-11-06",
@@ -50406,8 +49907,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "cb4c24ee12d4d01f99e2acf51f97498195831d83d1395caed5845935917bcb49",
-   "pick_hash": "c45c24b00bea0f752b1a89e5db53bea4d08c3992d5c3f21983635763a87ed45f"
+   "prev_hash": "fc56b26e9e9a70c038d7426381fd1b44d3ce9c47c6f0d6c572a8644028cc302f",
+   "pick_hash": "35808b1ad62e09e69e7f70914d666c36f06ee9923486175ac4f157265ca9cd1c"
   },
   {
    "date": "2026-11-06",
@@ -50905,8 +50406,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "c45c24b00bea0f752b1a89e5db53bea4d08c3992d5c3f21983635763a87ed45f",
-   "pick_hash": "d859ff4a5488fd36d02ec86ffd9ba7f0a5597225c309aefa2418240fcdaa898c"
+   "prev_hash": "35808b1ad62e09e69e7f70914d666c36f06ee9923486175ac4f157265ca9cd1c",
+   "pick_hash": "c42ce140c48fc5d603c7f73523d9c21e93204036537dc5c60cde3e65ed189b41"
   },
   {
    "date": "2026-11-06",
@@ -51404,8 +50905,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d859ff4a5488fd36d02ec86ffd9ba7f0a5597225c309aefa2418240fcdaa898c",
-   "pick_hash": "4a1907dd8256799cbc47751dd21480974a1d4107a51ebe23b8c6a6dddeac034c"
+   "prev_hash": "c42ce140c48fc5d603c7f73523d9c21e93204036537dc5c60cde3e65ed189b41",
+   "pick_hash": "074839a8460f38f8936ea1ebb549c736689afcde3bd1ef03426c4c06602a2cb0"
   },
   {
    "date": "2026-11-06",
@@ -51903,8 +51404,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "4a1907dd8256799cbc47751dd21480974a1d4107a51ebe23b8c6a6dddeac034c",
-   "pick_hash": "81795a6f8ec22947a394fba269202389e08f57581f1ccd95f7f0b80c9ed45bab"
+   "prev_hash": "074839a8460f38f8936ea1ebb549c736689afcde3bd1ef03426c4c06602a2cb0",
+   "pick_hash": "5bc9b000aa791c4f4fca0e37026e33efa1c85cc22acc8524b63f12cfc4d89164"
   },
   {
    "date": "2026-11-06",
@@ -52402,8 +51903,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "81795a6f8ec22947a394fba269202389e08f57581f1ccd95f7f0b80c9ed45bab",
-   "pick_hash": "5fbc50fe9267d0f4fb37043488437aa5bcacca629b0da8d5b41a5daa10f22197"
+   "prev_hash": "5bc9b000aa791c4f4fca0e37026e33efa1c85cc22acc8524b63f12cfc4d89164",
+   "pick_hash": "5a530beb9b01594a015a93c7c9602d7d2236912e0342622348abfdb7ca97288a"
   },
   {
    "date": "2026-11-06",
@@ -52901,8 +52402,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "5fbc50fe9267d0f4fb37043488437aa5bcacca629b0da8d5b41a5daa10f22197",
-   "pick_hash": "7e3849a211e1987df5e981cea1ec1a0bf80e0ade590b2f3e21e1094e8fd66af1"
+   "prev_hash": "5a530beb9b01594a015a93c7c9602d7d2236912e0342622348abfdb7ca97288a",
+   "pick_hash": "81298355232dd0d74a8df6091090bbf1e67c8671b93f1122ab1284c6ee7d0e0d"
   },
   {
    "date": "2026-11-06",
@@ -53400,8 +52901,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "7e3849a211e1987df5e981cea1ec1a0bf80e0ade590b2f3e21e1094e8fd66af1",
-   "pick_hash": "1ddf7930c92e7780d3ac884b19b8f0de4bff1316999acbb8c4346beca1f27aef"
+   "prev_hash": "81298355232dd0d74a8df6091090bbf1e67c8671b93f1122ab1284c6ee7d0e0d",
+   "pick_hash": "ed404f4280fcd3b5f9723e5b6b41db16095d622b1ae39e28dd9696660b1a7050"
   },
   {
    "date": "2026-11-06",
@@ -53899,8 +53400,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "1ddf7930c92e7780d3ac884b19b8f0de4bff1316999acbb8c4346beca1f27aef",
-   "pick_hash": "2fc81138422e9eb9ef7e9b04a655b8729d1a5293ffb394015a5267587e267879"
+   "prev_hash": "ed404f4280fcd3b5f9723e5b6b41db16095d622b1ae39e28dd9696660b1a7050",
+   "pick_hash": "6910d1e9a7fbd13ab60bf1f95a208fc327f8557b7e9482153441b15ee3180bfb"
   },
   {
    "date": "2026-11-06",
@@ -54398,8 +53899,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "2fc81138422e9eb9ef7e9b04a655b8729d1a5293ffb394015a5267587e267879",
-   "pick_hash": "865d2ea7174bd1a837e43aa16244e23d8c9f23a674008c070234f19da0b7e61e"
+   "prev_hash": "6910d1e9a7fbd13ab60bf1f95a208fc327f8557b7e9482153441b15ee3180bfb",
+   "pick_hash": "0acafef291a6107e817373abe3cf77650ab759809601cd2d77e542eae4c5786c"
   },
   {
    "date": "2026-11-06",
@@ -54897,8 +54398,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "865d2ea7174bd1a837e43aa16244e23d8c9f23a674008c070234f19da0b7e61e",
-   "pick_hash": "15bf6b48bf30c6e041fb1a237a2446430ac84f6e0e4b0d465adfbd5789d82d95"
+   "prev_hash": "0acafef291a6107e817373abe3cf77650ab759809601cd2d77e542eae4c5786c",
+   "pick_hash": "e7a0a19203976248e4b39a78e8db598f3feb3f463a08c9dc00bbfdbec0a1e06c"
   },
   {
    "date": "2026-11-06",
@@ -55396,8 +54897,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "15bf6b48bf30c6e041fb1a237a2446430ac84f6e0e4b0d465adfbd5789d82d95",
-   "pick_hash": "9dbbb69796aa1e9281bdb24357c205e723acd59a55fad78688b336718e1b54c5"
+   "prev_hash": "e7a0a19203976248e4b39a78e8db598f3feb3f463a08c9dc00bbfdbec0a1e06c",
+   "pick_hash": "6875535c67ac99686b4d0b9d3f8b3a974dc2c531ef2ba4717d19582273106321"
   },
   {
    "date": "2026-11-06",
@@ -55895,8 +55396,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "9dbbb69796aa1e9281bdb24357c205e723acd59a55fad78688b336718e1b54c5",
-   "pick_hash": "587610c7fb98eacf469f6a5e7c70739d1eb901bbb30f167424a29e76c7859f1e"
+   "prev_hash": "6875535c67ac99686b4d0b9d3f8b3a974dc2c531ef2ba4717d19582273106321",
+   "pick_hash": "3413386fe01b260381f6b70a4dee6d8896f0e2fbf5b27bea5ce00ec1d21541e9"
   },
   {
    "date": "2026-11-06",
@@ -56394,8 +55895,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "587610c7fb98eacf469f6a5e7c70739d1eb901bbb30f167424a29e76c7859f1e",
-   "pick_hash": "49a933e6563916a21b79b939740dc1ba0f632ba9638c180ea02541d9843dae01"
+   "prev_hash": "3413386fe01b260381f6b70a4dee6d8896f0e2fbf5b27bea5ce00ec1d21541e9",
+   "pick_hash": "fe91516f2f64376543c98d2ec53fc8e8965be6f5e2f730ad68255fe068669b91"
   },
   {
    "date": "2026-11-06",
@@ -56893,8 +56394,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "49a933e6563916a21b79b939740dc1ba0f632ba9638c180ea02541d9843dae01",
-   "pick_hash": "897bccfc231ef4d586ef8c66c48be041525161c52f35cb48d40c0d3d7980ef10"
+   "prev_hash": "fe91516f2f64376543c98d2ec53fc8e8965be6f5e2f730ad68255fe068669b91",
+   "pick_hash": "46f21f4c007ace0c2ea5626d958485e193d0de5c49c83a5c970efad6c48108b3"
   },
   {
    "date": "2026-11-06",
@@ -57392,8 +56893,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "897bccfc231ef4d586ef8c66c48be041525161c52f35cb48d40c0d3d7980ef10",
-   "pick_hash": "914f92b36fda97a5f3b4d07e4b7f8be53f260ba1f20871cf571abb3fac83b05b"
+   "prev_hash": "46f21f4c007ace0c2ea5626d958485e193d0de5c49c83a5c970efad6c48108b3",
+   "pick_hash": "c12a01c8c01b05bdb38ed20c83d4f826a4a51a58102939755730da6a994ccc57"
   },
   {
    "date": "2026-11-06",
@@ -57891,8 +57392,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "914f92b36fda97a5f3b4d07e4b7f8be53f260ba1f20871cf571abb3fac83b05b",
-   "pick_hash": "47de279c61eabce3993e9dfb0d7595eb5291fd2c25eebc01d553a6c99fc02257"
+   "prev_hash": "c12a01c8c01b05bdb38ed20c83d4f826a4a51a58102939755730da6a994ccc57",
+   "pick_hash": "7ceaa030472d6e845935861550193b6befcef30e9a6eaa05a9545f1a73a7f6c5"
   },
   {
    "date": "2026-11-06",
@@ -58390,8 +57891,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "47de279c61eabce3993e9dfb0d7595eb5291fd2c25eebc01d553a6c99fc02257",
-   "pick_hash": "8b088f0a41d0fc14b63b96ba37376dea8ba03ecce4089e0ef72de143ae0621ce"
+   "prev_hash": "7ceaa030472d6e845935861550193b6befcef30e9a6eaa05a9545f1a73a7f6c5",
+   "pick_hash": "f9822393c8303c002c3fc7a300aa607cee8bd1c53f900ce27c47e1b52cfa4bbc"
   },
   {
    "date": "2026-11-06",
@@ -58889,8 +58390,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8b088f0a41d0fc14b63b96ba37376dea8ba03ecce4089e0ef72de143ae0621ce",
-   "pick_hash": "8a10b4c7dc218510848f065ec49c3760e65f66e92d8e7a604447420096103a2c"
+   "prev_hash": "f9822393c8303c002c3fc7a300aa607cee8bd1c53f900ce27c47e1b52cfa4bbc",
+   "pick_hash": "da546285e9785ad226cdd558d9307189e3ac4521f2a936e6994ef41937112995"
   },
   {
    "date": "2026-11-06",
@@ -59388,8 +58889,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8a10b4c7dc218510848f065ec49c3760e65f66e92d8e7a604447420096103a2c",
-   "pick_hash": "0e97c72fa0ef914ce5e6c7532bf8b00f35a54ff00d71bf91e212ecd216516fd8"
+   "prev_hash": "da546285e9785ad226cdd558d9307189e3ac4521f2a936e6994ef41937112995",
+   "pick_hash": "fcb2a388c3c75753a35362ac7221f8e4d4ee3fc8ecdef0951e34a854c4cb406c"
   },
   {
    "date": "2026-11-06",
@@ -59887,8 +59388,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "0e97c72fa0ef914ce5e6c7532bf8b00f35a54ff00d71bf91e212ecd216516fd8",
-   "pick_hash": "9407f1b40f450aee72a1e929dfbbdb865069755952633869e28004e9351d1793"
+   "prev_hash": "fcb2a388c3c75753a35362ac7221f8e4d4ee3fc8ecdef0951e34a854c4cb406c",
+   "pick_hash": "fc45b1bdb01b2f0292f4722ae4be93b0d1efac4fd63915f0848e448034381572"
   },
   {
    "date": "2026-11-06",
@@ -60386,8 +59887,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "9407f1b40f450aee72a1e929dfbbdb865069755952633869e28004e9351d1793",
-   "pick_hash": "4d97c7c584d079c0b9c414884a68951ac80cbc9cf1b158ee45a5d984bb3563d3"
+   "prev_hash": "fc45b1bdb01b2f0292f4722ae4be93b0d1efac4fd63915f0848e448034381572",
+   "pick_hash": "63a620994c259813d8837bd1f0fa96420b01637df42f0d6d58f26b368ea93f53"
   },
   {
    "date": "2026-11-06",
@@ -60885,8 +60386,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "4d97c7c584d079c0b9c414884a68951ac80cbc9cf1b158ee45a5d984bb3563d3",
-   "pick_hash": "7f287fd820808780400ec60f8937a27eaced46d876f2b6f4ada12560b8c3e8b3"
+   "prev_hash": "63a620994c259813d8837bd1f0fa96420b01637df42f0d6d58f26b368ea93f53",
+   "pick_hash": "2cd765e16d2b5377e9d8dc4ca5ed49a12a8198c3e4eb386720f83c7bb7099ed5"
   },
   {
    "date": "2026-11-06",
@@ -61384,8 +60885,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "7f287fd820808780400ec60f8937a27eaced46d876f2b6f4ada12560b8c3e8b3",
-   "pick_hash": "cd414183e0e0c46d43cce3d025a8b8e6cf13c39d66d02b0c86a210beb7d3036a"
+   "prev_hash": "2cd765e16d2b5377e9d8dc4ca5ed49a12a8198c3e4eb386720f83c7bb7099ed5",
+   "pick_hash": "b7d71e54147d6becd9c6afcf4bd95ae211d537a14e70a05b359069dfbf45295b"
   },
   {
    "date": "2026-11-06",
@@ -61883,8 +61384,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "cd414183e0e0c46d43cce3d025a8b8e6cf13c39d66d02b0c86a210beb7d3036a",
-   "pick_hash": "1ecf46b31492a265f27972a24500f0b2fdb01d7f4c0523ca820535188331fe2c"
+   "prev_hash": "b7d71e54147d6becd9c6afcf4bd95ae211d537a14e70a05b359069dfbf45295b",
+   "pick_hash": "203a43a01ca6dc7e10f324f59ca299d6a88ce6da9b737ff31579638bc552e84b"
   },
   {
    "date": "2026-11-06",
@@ -62382,8 +61883,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "1ecf46b31492a265f27972a24500f0b2fdb01d7f4c0523ca820535188331fe2c",
-   "pick_hash": "198780bc3cd017aaa162efaf499a9874d8596a4b3ac1217933e39939aec1bbf7"
+   "prev_hash": "203a43a01ca6dc7e10f324f59ca299d6a88ce6da9b737ff31579638bc552e84b",
+   "pick_hash": "8b3a23f86a1b1c8ab396b9057dc7aa5d1c271b87032601e2e5a7c6894c031b94"
   },
   {
    "date": "2026-11-06",
@@ -62881,8 +62382,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "198780bc3cd017aaa162efaf499a9874d8596a4b3ac1217933e39939aec1bbf7",
-   "pick_hash": "2ab47afe92dfa251015278a2ba7594d05c32090422ef6358106137803d027088"
+   "prev_hash": "8b3a23f86a1b1c8ab396b9057dc7aa5d1c271b87032601e2e5a7c6894c031b94",
+   "pick_hash": "f8c5517cac8bf2101763e3804582fd68e5c73de1ae459c8341c4d3eedf9dee89"
   },
   {
    "date": "2026-11-06",
@@ -63380,8 +62881,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "2ab47afe92dfa251015278a2ba7594d05c32090422ef6358106137803d027088",
-   "pick_hash": "1cc412cdaab177ffdfd90aa32669ba5a9e6350d01414607c46515ac4f7ed50f5"
+   "prev_hash": "f8c5517cac8bf2101763e3804582fd68e5c73de1ae459c8341c4d3eedf9dee89",
+   "pick_hash": "2d2d274b027b6dae16cea2f7d64ad27dd7821a51fcf1d43c3fc524c4179f8849"
   },
   {
    "date": "2026-11-06",
@@ -63879,8 +63380,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "1cc412cdaab177ffdfd90aa32669ba5a9e6350d01414607c46515ac4f7ed50f5",
-   "pick_hash": "ca15a21fdd98b1df8a552afe85a1c3a5c8537df5fba764211654d9da0e6a8cb5"
+   "prev_hash": "2d2d274b027b6dae16cea2f7d64ad27dd7821a51fcf1d43c3fc524c4179f8849",
+   "pick_hash": "a66088e549796e5bcfe8e6213f278841d07f0480c2d01bfcce08d40ecdf71efe"
   },
   {
    "date": "2026-11-06",
@@ -64378,8 +63879,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "ca15a21fdd98b1df8a552afe85a1c3a5c8537df5fba764211654d9da0e6a8cb5",
-   "pick_hash": "9d1997542909a2346a491b53ebce4d6c079a4173cee4f24d2d44e25c5486886d"
+   "prev_hash": "a66088e549796e5bcfe8e6213f278841d07f0480c2d01bfcce08d40ecdf71efe",
+   "pick_hash": "11b1d90e249d9e001efd43a0241351689be15a3344824beec54b37d525f523f2"
   },
   {
    "date": "2026-11-06",
@@ -64877,8 +64378,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "9d1997542909a2346a491b53ebce4d6c079a4173cee4f24d2d44e25c5486886d",
-   "pick_hash": "99c82f668fcf865fbf9e2fcfd1bbd3c361d53085c0be7663b60d97a29e4e7021"
+   "prev_hash": "11b1d90e249d9e001efd43a0241351689be15a3344824beec54b37d525f523f2",
+   "pick_hash": "9806e430aee595f2c1bc08730c6ab9bb65ff22b3f5650ca7e53ece3427899213"
   },
   {
    "date": "2026-11-06",
@@ -65376,8 +64877,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "99c82f668fcf865fbf9e2fcfd1bbd3c361d53085c0be7663b60d97a29e4e7021",
-   "pick_hash": "ffe25c53069358009be2e6c8f1c502fef86fcdcabb14376b2ddd2fefd439e641"
+   "prev_hash": "9806e430aee595f2c1bc08730c6ab9bb65ff22b3f5650ca7e53ece3427899213",
+   "pick_hash": "952e80418de0226ed5263bb0fdee99b507a44722e04c9a10b873198a3ef7494f"
   },
   {
    "date": "2026-11-06",
@@ -65875,8 +65376,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "ffe25c53069358009be2e6c8f1c502fef86fcdcabb14376b2ddd2fefd439e641",
-   "pick_hash": "b8ab55eb3706b997b3715f9839b58855c3be315d7f5b789c1458869ee30dce84"
+   "prev_hash": "952e80418de0226ed5263bb0fdee99b507a44722e04c9a10b873198a3ef7494f",
+   "pick_hash": "3ad7682f7e1bdf66eb689f8d290ecefeac959fede55a2ef0a55d90e535971ab6"
   },
   {
    "date": "2026-11-06",
@@ -66374,8 +65875,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "b8ab55eb3706b997b3715f9839b58855c3be315d7f5b789c1458869ee30dce84",
-   "pick_hash": "3a43a81f58bb49a1507dc491faa1934d7f8594624d796cf69c853996d3d8e483"
+   "prev_hash": "3ad7682f7e1bdf66eb689f8d290ecefeac959fede55a2ef0a55d90e535971ab6",
+   "pick_hash": "482ee739f597f6f2360165f0bffbc54e98e77ef41ab69cefeb2c64bee18fb2ec"
   },
   {
    "date": "2026-11-06",
@@ -66873,8 +66374,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "3a43a81f58bb49a1507dc491faa1934d7f8594624d796cf69c853996d3d8e483",
-   "pick_hash": "ba07733b7ab3c2a16a08d262ded87912807ac97f9437a15e6ea9a4b75270fe3c"
+   "prev_hash": "482ee739f597f6f2360165f0bffbc54e98e77ef41ab69cefeb2c64bee18fb2ec",
+   "pick_hash": "173bf93022c4da280f7cd40e051158f79497952c20283f10a6869498d3b44aa5"
   },
   {
    "date": "2026-11-06",
@@ -67372,8 +66873,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "ba07733b7ab3c2a16a08d262ded87912807ac97f9437a15e6ea9a4b75270fe3c",
-   "pick_hash": "61aa3d171e1be0096dafa54d3ae5def68b5b0f22d3527d0922428ee0f5d83f51"
+   "prev_hash": "173bf93022c4da280f7cd40e051158f79497952c20283f10a6869498d3b44aa5",
+   "pick_hash": "cda215a819680d9ec56386e8db9c0334a77c9f1fa442c2720e74b41fba9b7243"
   },
   {
    "date": "2026-11-06",
@@ -67871,8 +67372,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "61aa3d171e1be0096dafa54d3ae5def68b5b0f22d3527d0922428ee0f5d83f51",
-   "pick_hash": "b103ddf19b2d00019f686841c175af8f85c3914d63d2500820f19b12504dba24"
+   "prev_hash": "cda215a819680d9ec56386e8db9c0334a77c9f1fa442c2720e74b41fba9b7243",
+   "pick_hash": "fbe53404d612085bcb0400622b2b6237f43177296b8b0f57b0d2562f87e2ffaf"
   },
   {
    "date": "2026-11-06",
@@ -68370,8 +67871,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "b103ddf19b2d00019f686841c175af8f85c3914d63d2500820f19b12504dba24",
-   "pick_hash": "103588f7ef04eabae62b3d0f33906fb79784da7b2963f28de135a38b1fe6c0b7"
+   "prev_hash": "fbe53404d612085bcb0400622b2b6237f43177296b8b0f57b0d2562f87e2ffaf",
+   "pick_hash": "1238adb5a308a21ac3debd0815626d5d7f477aabc915d3f9df7013c1cae83321"
   },
   {
    "date": "2026-11-06",
@@ -68869,8 +68370,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "103588f7ef04eabae62b3d0f33906fb79784da7b2963f28de135a38b1fe6c0b7",
-   "pick_hash": "ad672ffb3284b98845c66a5d68e42fbb75e16542bd2fece3b24eb02931d794f4"
+   "prev_hash": "1238adb5a308a21ac3debd0815626d5d7f477aabc915d3f9df7013c1cae83321",
+   "pick_hash": "580db97bb1f6ca26cb039516c71a4109c39f73daf7473fae26859ca374f7049a"
   },
   {
    "date": "2026-11-06",
@@ -69368,8 +68869,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "ad672ffb3284b98845c66a5d68e42fbb75e16542bd2fece3b24eb02931d794f4",
-   "pick_hash": "d76de5cf5df7e248b02dbbfe103c9b1841ac70cf6502228caf2d25b52837d5af"
+   "prev_hash": "580db97bb1f6ca26cb039516c71a4109c39f73daf7473fae26859ca374f7049a",
+   "pick_hash": "57fde15609f57de9bb05d4fbd35eee96445e96f01443010c71712884244007c2"
   },
   {
    "date": "2026-11-06",
@@ -69867,8 +69368,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d76de5cf5df7e248b02dbbfe103c9b1841ac70cf6502228caf2d25b52837d5af",
-   "pick_hash": "6a1983eb00683b67c6a5106f8ba315f9decb839ae8d0144434c61c6bc7d56890"
+   "prev_hash": "57fde15609f57de9bb05d4fbd35eee96445e96f01443010c71712884244007c2",
+   "pick_hash": "a1164f86e0652141051fc0f364b1afe71bc625c62cd9ff6bf7c6d352683fd460"
   },
   {
    "date": "2026-11-06",
@@ -70366,8 +69867,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "6a1983eb00683b67c6a5106f8ba315f9decb839ae8d0144434c61c6bc7d56890",
-   "pick_hash": "f70522bd31d00ff089cf34a084183150fba8cd459d5758e012072944a832570a"
+   "prev_hash": "a1164f86e0652141051fc0f364b1afe71bc625c62cd9ff6bf7c6d352683fd460",
+   "pick_hash": "26474015f5aa15ba5f40b678c04a1deab56bd80e3c7e2b5b9da8c516b35fd50e"
   },
   {
    "date": "2026-11-06",
@@ -70865,8 +70366,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "f70522bd31d00ff089cf34a084183150fba8cd459d5758e012072944a832570a",
-   "pick_hash": "bdee5a9f49c899263efc8449108c2d654c0bd1e070d5778880a161787a1902a1"
+   "prev_hash": "26474015f5aa15ba5f40b678c04a1deab56bd80e3c7e2b5b9da8c516b35fd50e",
+   "pick_hash": "e2ec4466000d2908dfd1691935a578a08c06e68255995d7051c86ddb5bd23232"
   },
   {
    "date": "2026-11-06",
@@ -71364,8 +70865,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "bdee5a9f49c899263efc8449108c2d654c0bd1e070d5778880a161787a1902a1",
-   "pick_hash": "d0c129e116e918e517bb8fe7464f1b09a96ddb1d6f4193133dd0c0a63282d26a"
+   "prev_hash": "e2ec4466000d2908dfd1691935a578a08c06e68255995d7051c86ddb5bd23232",
+   "pick_hash": "b01af52aa87ec033225036548aecbac865b8d34f6fd10ea17c39530a868c6238"
   },
   {
    "date": "2026-11-06",
@@ -71863,8 +71364,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "d0c129e116e918e517bb8fe7464f1b09a96ddb1d6f4193133dd0c0a63282d26a",
-   "pick_hash": "8090dbc69d7f045462f8a8f47609e8bcbd5afff119784db29af40e0f66c42ec0"
+   "prev_hash": "b01af52aa87ec033225036548aecbac865b8d34f6fd10ea17c39530a868c6238",
+   "pick_hash": "e135d9230f8346db6fa5b35dd3287d9ce5b918cc95048c0774dbca1bd935bcef"
   },
   {
    "date": "2026-11-06",
@@ -72362,8 +71863,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "8090dbc69d7f045462f8a8f47609e8bcbd5afff119784db29af40e0f66c42ec0",
-   "pick_hash": "29cb023ee8f07e2d5c7adf1812aa404d5410d5f08ae29115cc248811c0a76f94"
+   "prev_hash": "e135d9230f8346db6fa5b35dd3287d9ce5b918cc95048c0774dbca1bd935bcef",
+   "pick_hash": "c3096ab0ff231021960384f82ad57857a5438b2a764c92830d9930689876eb16"
   },
   {
    "date": "2026-11-06",
@@ -72861,8 +72362,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "29cb023ee8f07e2d5c7adf1812aa404d5410d5f08ae29115cc248811c0a76f94",
-   "pick_hash": "a853c282f05d1b383c3f5fb138d6556f92446b3003152dc7a470b84a75b1093c"
+   "prev_hash": "c3096ab0ff231021960384f82ad57857a5438b2a764c92830d9930689876eb16",
+   "pick_hash": "5cc34ff1deea20d345f559fe43598cf315812091e6fd71c9a381c9ff6b178256"
   },
   {
    "date": "2026-11-06",
@@ -73360,8 +72861,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "a853c282f05d1b383c3f5fb138d6556f92446b3003152dc7a470b84a75b1093c",
-   "pick_hash": "84e94ed1d18df48baa901da7145e19b4b3e75edae98b73f4b52167dcc5b19039"
+   "prev_hash": "5cc34ff1deea20d345f559fe43598cf315812091e6fd71c9a381c9ff6b178256",
+   "pick_hash": "582598bee789f0deb915c46eabeb650667aa8fc1206931adba6ab4156a4d25fb"
   },
   {
    "date": "2026-11-06",
@@ -73859,8 +73360,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "84e94ed1d18df48baa901da7145e19b4b3e75edae98b73f4b52167dcc5b19039",
-   "pick_hash": "9235b97fc091a39471d6d5f25d7dadf110d31649b602f4845616120bfce9603c"
+   "prev_hash": "582598bee789f0deb915c46eabeb650667aa8fc1206931adba6ab4156a4d25fb",
+   "pick_hash": "6ec2467a1937898df5abaf050a8424fa63d1fcd48fb51994ffb4b744314c45e4"
   },
   {
    "date": "2026-11-06",
@@ -74358,8 +73859,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "9235b97fc091a39471d6d5f25d7dadf110d31649b602f4845616120bfce9603c",
-   "pick_hash": "ee0ff725ac9b699c74252b021f2695928c60b14605029ae6ce15ec797b69e5e9"
+   "prev_hash": "6ec2467a1937898df5abaf050a8424fa63d1fcd48fb51994ffb4b744314c45e4",
+   "pick_hash": "ea889e9f4c69c084068ba741b5707da041502744d7724347ab2db6ae4557b2d8"
   },
   {
    "date": "2026-11-06",
@@ -74857,8 +74358,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "ee0ff725ac9b699c74252b021f2695928c60b14605029ae6ce15ec797b69e5e9",
-   "pick_hash": "abd6290dbeba775543aa8292584db6e0d04b67ef78b56659d559f3f246480e1f"
+   "prev_hash": "ea889e9f4c69c084068ba741b5707da041502744d7724347ab2db6ae4557b2d8",
+   "pick_hash": "dfce58db472ca87f85b350efb396e6f66902a1d0bac06633b0c37bc176bfe184"
   },
   {
    "date": "2026-11-06",
@@ -75356,8 +74857,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "abd6290dbeba775543aa8292584db6e0d04b67ef78b56659d559f3f246480e1f",
-   "pick_hash": "fb889014fad3e903eb2619ae161a2b6531881aef9cd56c7b3015d1d465271caa"
+   "prev_hash": "dfce58db472ca87f85b350efb396e6f66902a1d0bac06633b0c37bc176bfe184",
+   "pick_hash": "dcda1689dae3f18bbf4e168636204de266c8fc31a442c896a120a3a6b8afd142"
   },
   {
    "date": "2026-11-06",
@@ -75855,8 +75356,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "fb889014fad3e903eb2619ae161a2b6531881aef9cd56c7b3015d1d465271caa",
-   "pick_hash": "09821433fbffeabbefd1acd46d6e223926cf484ddc983ab2b55900deeca4a635"
+   "prev_hash": "dcda1689dae3f18bbf4e168636204de266c8fc31a442c896a120a3a6b8afd142",
+   "pick_hash": "2eb2612f8fd3f8ac0b83589bdacb9eb57122545596eeef42202272e76e8cda7c"
   },
   {
    "date": "2026-11-06",
@@ -76354,8 +75855,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "09821433fbffeabbefd1acd46d6e223926cf484ddc983ab2b55900deeca4a635",
-   "pick_hash": "e28dd13318664e44455a3b3dd6c275518f70313e537e8ced05e6d070057b7acb"
+   "prev_hash": "2eb2612f8fd3f8ac0b83589bdacb9eb57122545596eeef42202272e76e8cda7c",
+   "pick_hash": "168a77440ecdfaf1daa5fc98b9146d4a151432a1920837ec72c8bc1cd4b96d6e"
   },
   {
    "date": "2026-11-06",
@@ -76853,8 +76354,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "e28dd13318664e44455a3b3dd6c275518f70313e537e8ced05e6d070057b7acb",
-   "pick_hash": "33cea7849aeada052ccaf1b62e5ada1070326f277ab0d7b0bee7e3d32dcf37df"
+   "prev_hash": "168a77440ecdfaf1daa5fc98b9146d4a151432a1920837ec72c8bc1cd4b96d6e",
+   "pick_hash": "c95e07984fb72c4f64ce36d20c166f826d4ef6ac17effa2843d4e340a22bb4e2"
   },
   {
    "date": "2026-11-06",
@@ -77352,8 +76853,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "33cea7849aeada052ccaf1b62e5ada1070326f277ab0d7b0bee7e3d32dcf37df",
-   "pick_hash": "234e8dd4ab09e5ca63815ab312a4d769e8f78c635e687cd055b5f9ec8e91a67b"
+   "prev_hash": "c95e07984fb72c4f64ce36d20c166f826d4ef6ac17effa2843d4e340a22bb4e2",
+   "pick_hash": "fe9ef0c9c74363cafc5360f56a82486c679fb9937297d713de0886ca87ae737c"
   },
   {
    "date": "2026-11-06",
@@ -77851,8 +77352,8 @@
    ],
    "model": "dc-poisson-v0.2",
    "source": "espn-temporary",
-   "prev_hash": "234e8dd4ab09e5ca63815ab312a4d769e8f78c635e687cd055b5f9ec8e91a67b",
-   "pick_hash": "5f6cc4e894424cc0bf4416aacc87c582504a22ff29f3643e9e56217af8c2699f"
+   "prev_hash": "fe9ef0c9c74363cafc5360f56a82486c679fb9937297d713de0886ca87ae737c",
+   "pick_hash": "070d5844722a1202c97a15671f2fd7ad66a5f26eac53285c8b8a41aea1859e6f"
   }
  ]
 }
