@@ -1,17 +1,104 @@
 {
- "generado": "2026-11-06T17:00:49+00:00",
+ "generado": "2026-11-06T19:02:57+00:00",
  "dia": "2026-11-06",
- "en_juego": 1,
+ "en_juego": 2,
  "partidos": [
+  {
+   "id": "401841670",
+   "liga": "Liga Profesional (ARG)",
+   "slug": "arg.1",
+   "hora": "18:00",
+   "estado": "EN JUEGO",
+   "minuto": "45'+5'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "10060",
+    "nombre": "Barracas Central",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "15",
+    "nombre": "Racing Club",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 49.6,
+     "tiros": 12,
+     "a_puerta": 2,
+     "faltas": 2,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 1,
+     "pases": 140
+    },
+    "visit": {
+     "posesion": 50.4,
+     "tiros": 5,
+     "a_puerta": 1,
+     "faltas": 5,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 1,
+     "pases": 132
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "43'",
+     "tipo": "goal",
+     "texto": "Goal! Barracas Central 1, Racing Club 0. Nicolás Orsini (Barracas Central) right footed shot from very close range to the bottom right corner. Assisted by Rodrigo Bogarín.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barracas Central. Esteban Rolón replaces Dardo Miloc because of an injury.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401875556",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "19:00",
+   "estado": "EN JUEGO",
+   "minuto": "1'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "156",
+    "nombre": "Willem II",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "2565",
+    "nombre": "PEC Zwolle",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {},
+    "visit": {}
+   },
+   "eventos": []
+  },
   {
    "id": "401888256",
    "liga": "Super Lig",
    "slug": "tur.1",
    "hora": "17:00",
-   "estado": "EN JUEGO",
-   "minuto": "1'",
-   "en_juego": true,
-   "terminado": false,
+   "estado": "FINAL",
+   "minuto": "90'+3'",
+   "en_juego": false,
+   "terminado": true,
    "local": {
     "id": "20070",
     "nombre": "Gaziantep FK",
@@ -22,13 +109,124 @@
     "id": "6870",
     "nombre": "Kasimpasa",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
-    "goles": 0
+    "goles": 2
    },
    "stats": {
-    "local": {},
-    "visit": {}
+    "local": {
+     "posesion": 61.9,
+     "tiros": 16,
+     "a_puerta": 4,
+     "faltas": 10,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 7,
+     "paradas": 3,
+     "pases": 460
+    },
+    "visit": {
+     "posesion": 38.1,
+     "tiros": 11,
+     "a_puerta": 5,
+     "faltas": 15,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 4,
+     "pases": 242
+    }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "3'",
+     "tipo": "goal",
+     "texto": "Haris Hajradinovic (Kasimpasa) Goal at 3'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "21'",
+     "tipo": "penalty---scored",
+     "texto": "Adrian Benedyczak (Kasimpasa) Penalty - Scored at 21'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "30'",
+     "tipo": "yellow-card",
+     "texto": "Deian Sorescu (Gaziantep FK) Yellow Card at 30'",
+     "lado": "local"
+    },
+    {
+     "minuto": "36'",
+     "tipo": "yellow-card",
+     "texto": "Elson Mendes Da Silva (Kasimpasa) Yellow Card at 36'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Serdar Dursun (Gaziantep FK) Substitution at 45'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Ogün Özçiçek (Gaziantep FK) Substitution at 45'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Victor Gidado (Gaziantep FK) Substitution at 45'",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Sabahattin Destici (Gaziantep FK) Substitution at 63'",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Thiemoko Diarra (Kasimpasa) Substitution at 63'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Marcus Rafferty (Kasimpasa) Substitution at 63'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "substitution",
+     "texto": "Halil Dervisoglu (Gaziantep FK) Substitution at 72'",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Emi̇Rhan Boz (Kasimpasa) Substitution at 75'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "yellow-card",
+     "texto": "Ayberk Karapo (Kasimpasa) Yellow Card at 82'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Guven Yalcin (Kasimpasa) Substitution at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Jakob Jessen (Kasimpasa) Substitution at 86'",
+     "lado": "visit"
+    }
+   ]
   }
  ]
 }
