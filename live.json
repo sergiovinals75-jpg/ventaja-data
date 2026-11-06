@@ -1,92 +1,399 @@
 {
- "generado": "2026-11-06T19:02:57+00:00",
+ "generado": "2026-11-06T21:02:55+00:00",
  "dia": "2026-11-06",
- "en_juego": 2,
+ "en_juego": 6,
  "partidos": [
   {
-   "id": "401841670",
-   "liga": "Liga Profesional (ARG)",
-   "slug": "arg.1",
-   "hora": "18:00",
+   "id": "401884739",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "19:30",
    "estado": "EN JUEGO",
-   "minuto": "45'+5'",
+   "minuto": "75'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "10060",
-    "nombre": "Barracas Central",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
-    "goles": 1
+    "id": "127",
+    "nombre": "Hamburg SV",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+    "goles": 3
    },
    "visit": {
-    "id": "15",
-    "nombre": "Racing Club",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
-    "goles": 0
+    "id": "268",
+    "nombre": "Borussia Mönchengladbach",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+    "goles": 1
    },
    "stats": {
     "local": {
-     "posesion": 49.6,
-     "tiros": 12,
-     "a_puerta": 2,
-     "faltas": 2,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 1,
-     "pases": 140
-    },
-    "visit": {
-     "posesion": 50.4,
-     "tiros": 5,
-     "a_puerta": 1,
+     "posesion": 60.3,
+     "tiros": 13,
+     "a_puerta": 7,
      "faltas": 5,
      "amarillas": 0,
      "rojas": 0,
      "corners": 5,
-     "paradas": 1,
-     "pases": 132
+     "paradas": 2,
+     "pases": 338
+    },
+    "visit": {
+     "posesion": 39.7,
+     "tiros": 15,
+     "a_puerta": 4,
+     "faltas": 14,
+     "amarillas": 0,
+     "rojas": 1,
+     "corners": 3,
+     "paradas": 4,
+     "pases": 197
     }
    },
    "eventos": [
     {
-     "minuto": "43'",
+     "minuto": "11'",
      "tipo": "goal",
-     "texto": "Goal! Barracas Central 1, Racing Club 0. Nicolás Orsini (Barracas Central) right footed shot from very close range to the bottom right corner. Assisted by Rodrigo Bogarín.",
+     "texto": "Goal! Hamburger SV 1, Borussia M'gladbach 0. Miro Muheim (Hamburger SV) left footed shot from outside the box to the bottom right corner. Assisted by Albert Sambi Lokonga.",
      "lado": "local"
     },
     {
-     "minuto": "45'",
+     "minuto": "38'",
+     "tipo": "yellow-card",
+     "texto": "Ko Itakura (Borussia M'gladbach) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "44'",
+     "tipo": "goal",
+     "texto": "Goal! Hamburger SV 1, Borussia M'gladbach 1. Robin Hack (Borussia M'gladbach) left footed shot from the centre of the box to the bottom left corner. Assisted by Joe Scally.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "49'",
+     "tipo": "red-card",
+     "texto": "Second yellow card to Ko Itakura (Borussia M'gladbach) for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
      "tipo": "substitution",
-     "texto": "Substitution, Barracas Central. Esteban Rolón replaces Dardo Miloc because of an injury.",
+     "texto": "Substitution, Borussia M'gladbach. Kevin Diks replaces Robin Hack.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "goal",
+     "texto": "Goal! Hamburger SV 2, Borussia M'gladbach 1. Shafiq Nandja (Hamburger SV) right footed shot from the centre of the box to the high centre of the goal. Assisted by Albert Grønbæk.",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hamburger SV. Alexander Røssing-Lelesiit replaces Shafiq Nandja.",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hamburger SV. Terem Moffi replaces Martin Adeline.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "goal",
+     "texto": "Goal! Hamburger SV 3, Borussia M'gladbach 1. Albert Grønbæk (Hamburger SV) right footed shot from outside the box to the top right corner.",
      "lado": "local"
     }
    ]
   },
   {
-   "id": "401875556",
-   "liga": "Eredivisie",
-   "slug": "ned.1",
-   "hora": "19:00",
+   "id": "401874815",
+   "liga": "Serie A",
+   "slug": "ita.1",
+   "hora": "19:45",
    "estado": "EN JUEGO",
-   "minuto": "1'",
+   "minuto": "60'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "156",
-    "nombre": "Willem II",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
-    "goles": 0
+    "id": "17530",
+    "nombre": "Venezia",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+    "goles": 1
    },
    "visit": {
-    "id": "2565",
-    "nombre": "PEC Zwolle",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+    "id": "118",
+    "nombre": "Udinese",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 48.7,
+     "tiros": 11,
+     "a_puerta": 3,
+     "faltas": 8,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 4,
+     "pases": 244
+    },
+    "visit": {
+     "posesion": 51.3,
+     "tiros": 11,
+     "a_puerta": 4,
+     "faltas": 5,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 2,
+     "pases": 250
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "51'",
+     "tipo": "yellow-card",
+     "texto": "Pasquale Mazzocchi (Venezia) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "53'",
+     "tipo": "goal",
+     "texto": "Goal! Venezia 1, Udinese 0. Toma Basic (Venezia) left footed shot from the centre of the box to the bottom left corner. Assisted by Antoine Hainaut with a cross.",
+     "lado": "local"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Matías Moreno, Venezia. Venezia 1, Udinese 1.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401876405",
+   "liga": "Ligue 1",
+   "slug": "fra.1",
+   "hora": "19:45",
+   "estado": "EN JUEGO",
+   "minuto": "58'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "179",
+    "nombre": "Toulouse",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "180",
+    "nombre": "Strasbourg",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
     "goles": 0
    },
    "stats": {
-    "local": {},
-    "visit": {}
+    "local": {
+     "posesion": 40.6,
+     "tiros": 7,
+     "a_puerta": 4,
+     "faltas": 11,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 2,
+     "pases": 202
+    },
+    "visit": {
+     "posesion": 59.4,
+     "tiros": 5,
+     "a_puerta": 2,
+     "faltas": 9,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 2,
+     "pases": 306
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "27'",
+     "tipo": "yellow-card",
+     "texto": "Karim Coulibaly (Strasbourg) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "38'",
+     "tipo": "yellow-card",
+     "texto": "Gessime Yassine (Strasbourg) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "38'",
+     "tipo": "yellow-card",
+     "texto": "Christ Tapé (Toulouse) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "40'",
+     "tipo": "yellow-card",
+     "texto": "Thomas Jørgensen (Toulouse) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'+1'",
+     "tipo": "goal",
+     "texto": "Goal! Toulouse 1, Strasbourg 0. Santiago Hidalgo (Toulouse) left footed shot from the centre of the box to the high centre of the goal. Assisted by Sion Oppong.Goal awarded followi",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401882809",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "20:00",
+   "estado": "EN JUEGO",
+   "minuto": "45'+5'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "243",
+    "nombre": "Sevilla",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "96",
+    "nombre": "Alavés",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 61.8,
+     "tiros": 4,
+     "a_puerta": 1,
+     "faltas": 6,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 2,
+     "pases": 162
+    },
+    "visit": {
+     "posesion": 38.2,
+     "tiros": 5,
+     "a_puerta": 2,
+     "faltas": 10,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 1,
+     "pases": 82
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "30'",
+     "tipo": "yellow-card",
+     "texto": "Pablo Ibáñez (Alaves) is shown the yellow card.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401879242",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "20:00",
+   "estado": "EN JUEGO",
+   "minuto": "45'+1'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "368",
+    "nombre": "Everton",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "388",
+    "nombre": "Coventry City",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 51.6,
+     "tiros": 4,
+     "a_puerta": 1,
+     "faltas": 5,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 2,
+     "pases": 184
+    },
+    "visit": {
+     "posesion": 48.4,
+     "tiros": 8,
+     "a_puerta": 2,
+     "faltas": 4,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 1,
+     "pases": 170
+    }
+   },
+   "eventos": []
+  },
+  {
+   "id": "401885399",
+   "liga": "Primeira Liga",
+   "slug": "por.1",
+   "hora": "20:45",
+   "estado": "EN JUEGO",
+   "minuto": "17'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "12698",
+    "nombre": "FC Famalicao",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "15784",
+    "nombre": "Arouca",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 38.1,
+     "tiros": 2,
+     "a_puerta": 0,
+     "faltas": 1,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 0,
+     "pases": 71
+    },
+    "visit": {
+     "posesion": 61.9,
+     "tiros": 1,
+     "a_puerta": 0,
+     "faltas": 0,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 0,
+     "pases": 134
+    }
    },
    "eventos": []
   },
@@ -113,7 +420,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 61.9,
+     "posesion": 61.8,
      "tiros": 16,
      "a_puerta": 4,
      "faltas": 10,
@@ -121,10 +428,10 @@
      "rojas": 0,
      "corners": 7,
      "paradas": 3,
-     "pases": 460
+     "pases": 462
     },
     "visit": {
-     "posesion": 38.1,
+     "posesion": 38.2,
      "tiros": 11,
      "a_puerta": 5,
      "faltas": 15,
@@ -132,7 +439,7 @@
      "rojas": 0,
      "corners": 2,
      "paradas": 4,
-     "pases": 242
+     "pases": 244
     }
    },
    "eventos": [
@@ -224,6 +531,270 @@
      "minuto": "86'",
      "tipo": "substitution",
      "texto": "Jakob Jessen (Kasimpasa) Substitution at 86'",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401841670",
+   "liga": "Liga Profesional (ARG)",
+   "slug": "arg.1",
+   "hora": "18:00",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "10060",
+    "nombre": "Barracas Central",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "15",
+    "nombre": "Racing Club",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 44.1,
+     "tiros": 17,
+     "a_puerta": 4,
+     "faltas": 8,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 2,
+     "pases": 263
+    },
+    "visit": {
+     "posesion": 55.9,
+     "tiros": 10,
+     "a_puerta": 2,
+     "faltas": 11,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 2,
+     "pases": 347
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "43'",
+     "tipo": "goal",
+     "texto": "Goal! Barracas Central 1, Racing Club 0. Nicolás Orsini (Barracas Central) right footed shot from very close range to the bottom right corner. Assisted by Rodrigo Bogarín.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barracas Central. Esteban Rolón replaces Dardo Miloc because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "yellow-card",
+     "texto": "Rodrigo Insúa (Barracas Central) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "substitution",
+     "texto": "Substitution, Racing Club. Adrián Fernández replaces Tomás Conechny.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "substitution",
+     "texto": "Substitution, Racing Club. Lautaro Díaz replaces Elías Torres.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Racing Club. Francisco Fraga replaces Alejandro Tello.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barracas Central. Norberto Briasco replaces Tomás Porra.",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barracas Central. Elías Pereyra replaces Rodrigo Insúa.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barracas Central. Juan Insúa replaces Juan Espínola because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barracas Central. Facundo Bruera replaces Nicolás Orsini.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Racing Club. Ulises Ortegoza replaces Matías Zaracho.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "goal",
+     "texto": "Goal! Barracas Central 2, Racing Club 0. Norberto Briasco (Barracas Central) left footed shot from the centre of the box to the high centre of the goal following a fast break.",
+     "lado": "local"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Racing Club. Leonel Pérez replaces Matías Kranevitter.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "yellow-card",
+     "texto": "Ignacio Rodríguez (Racing Club) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "yellow-card",
+     "texto": "Gonzalo Escudero (Racing Club) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401875556",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "19:00",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "156",
+    "nombre": "Willem II",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "2565",
+    "nombre": "PEC Zwolle",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 42.1,
+     "tiros": 13,
+     "a_puerta": 5,
+     "faltas": 9,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 1,
+     "pases": 335
+    },
+    "visit": {
+     "posesion": 57.9,
+     "tiros": 14,
+     "a_puerta": 2,
+     "faltas": 8,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 7,
+     "paradas": 4,
+     "pases": 472
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "2'",
+     "tipo": "goal",
+     "texto": "Goal! Willem II 0, PEC Zwolle 1. Sydney van Hooijdonk (PEC Zwolle) right footed shot from the centre of the box to the top right corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "3'",
+     "tipo": "goal",
+     "texto": "Goal! Willem II 1, PEC Zwolle 1. Hidde ter Avest (Willem II) right footed shot from outside the box to the bottom left corner.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Willem II. Kasper Boogaard replaces Anass Zarrouk.",
+     "lado": "local"
+    },
+    {
+     "minuto": "55'",
+     "tipo": "substitution",
+     "texto": "Substitution, Willem II. Jari Schuurman replaces Uriel van Aalst.",
+     "lado": "local"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Substitution, PEC Zwolle. Elias Sørensen replaces Gilles van der Wal.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Willem II. Eser Gürbüz replaces Tonny Vilhena.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "yellow-card",
+     "texto": "Vito van Crooij (Willem II) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, PEC Zwolle. Jan Bürger replaces Olivier Aertssen.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, PEC Zwolle. Thijs Oosting replaces Dylan Mbayo.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Willem II. Thomas Verheydt replaces Vito van Crooij.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Willem II. Mats Lemmens replaces Calvin Twigt.",
+     "lado": "local"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, PEC Zwolle. Gabriel Reiziger replaces Younes Namli.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, PEC Zwolle. Nick Fichtinger replaces Ryan Thomas.",
      "lado": "visit"
     }
    ]
