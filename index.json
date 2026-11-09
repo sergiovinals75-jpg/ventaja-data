@@ -65,6 +65,12 @@
    "n_picks": 13,
    "n_no_bet": 135,
    "chain_head": "e0956c24c975678adbc5421116c86d643d92253b633e28f7fbac2becf034a0da"
+  },
+  {
+   "date": "2026-11-09",
+   "n_picks": 2,
+   "n_no_bet": 13,
+   "chain_head": "d9043d49653cf3901dc736585aff13e8f1764b2bf50669eb413269da5c536aeb"
   }
  ]
 }
