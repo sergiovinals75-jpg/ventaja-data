@@ -1,0 +1,6002 @@
+{
+ "meta": {
+  "date": "2026-11-10",
+  "created_at": "2026-11-10T07:44:15+00:00",
+  "model": "dc-poisson-v0.2",
+  "source": "espn-temporary",
+  "note": "Sin cuotas: se publica probabilidad del modelo, no EV ni stake.",
+  "ventana_hasta": "mié 18",
+  "n_leagues": 2,
+  "chain_prev": "d9043d49653cf3901dc736585aff13e8f1764b2bf50669eb413269da5c536aeb"
+ },
+ "picks": [
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-13T19:30Z",
+   "kickoff_local": "20:30",
+   "dia": "vie 13",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883136",
+   "home": "Leganés",
+   "away": "Burgos",
+   "home_id": "17534",
+   "away_id": "12597",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17534.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12597.png",
+   "home_color": "6cace4",
+   "away_color": "000000",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
+   "prob": 0.3664,
+   "edge_vs_league": 0.0388,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 0.93,
+    "xg_away": 1.04,
+    "p_home": 0.3266,
+    "p_draw": 0.3069,
+    "p_away": 0.3664,
+    "p_over": 0.3161,
+    "p_under": 0.6839,
+    "p_btts_yes": 0.3856,
+    "p_btts_no": 0.6144,
+    "score": "0-1"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "3-4-2-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "113097",
+       "nombre": "Raúl Fernández",
+       "corto": "Raúl Fernández",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.2575,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "276650",
+       "nombre": "Francisco Montero",
+       "corto": "F. Montero",
+       "dorsal": "3",
+       "posicion": "CD-L",
+       "p_titular": 0.6039,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "177803",
+       "nombre": "Rubén Peña",
+       "corto": "R. Peña",
+       "dorsal": "7",
+       "posicion": "RB",
+       "p_titular": 0.5738,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "300350",
+       "nombre": "Ruben Pulido Peñas",
+       "corto": "R. Peñas",
+       "dorsal": "4",
+       "posicion": "CD-R",
+       "p_titular": 0.4085,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "317473",
+       "nombre": "Ismaël Gharbi",
+       "corto": "I. Gharbi",
+       "dorsal": "17",
+       "posicion": "RM",
+       "p_titular": 0.9123,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "264124",
+       "nombre": "Miguel Atienza",
+       "corto": "M. Atienza",
+       "dorsal": "20",
+       "posicion": "CM",
+       "p_titular": 0.881,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "231405",
+       "nombre": "Álvaro Tejero",
+       "corto": "Á. Tejero",
+       "dorsal": "23",
+       "posicion": "RM",
+       "p_titular": 0.5634,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "312013",
+       "nombre": "Álex Millán",
+       "corto": "A. Millán",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.2575,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "354342",
+       "nombre": "Álex Sancris",
+       "corto": "Á. Sancris",
+       "dorsal": "22",
+       "posicion": "AM-L",
+       "p_titular": 0.7425,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "325005",
+       "nombre": "Naim García",
+       "corto": "N. García",
+       "dorsal": "11",
+       "posicion": "",
+       "p_titular": 0.7425,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "225561",
+       "nombre": "Luca Zidane",
+       "corto": "L. Zidane",
+       "dorsal": "13",
+       "posicion": "",
+       "p_titular": 0.7425,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "123864",
+       "nombre": "Gonzalo Aguilar",
+       "corto": "G. Aguilar",
+       "dorsal": "6",
+       "posicion": "",
+       "p_titular": 0.7192,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "356366",
+       "nombre": "Marvel",
+       "corto": "Marvel",
+       "dorsal": "2",
+       "posicion": "",
+       "p_titular": 0.6967,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "260078",
+       "nombre": "Serge Patrick Njoh",
+       "corto": "S. Njoh",
+       "dorsal": "19",
+       "posicion": "AM-R",
+       "p_titular": 0.6785,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "306400",
+       "nombre": "Zico Buurmeester",
+       "corto": "Z. Buurmeester",
+       "dorsal": "10",
+       "posicion": "",
+       "p_titular": 0.6359,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "154446",
+       "nombre": "Álvaro Morata",
+       "corto": "Á. Morata",
+       "dorsal": "21",
+       "posicion": "",
+       "p_titular": 0.6285,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "319290",
+       "nombre": "Yassine Kechta",
+       "corto": "Y. Kechta",
+       "dorsal": "8",
+       "posicion": "",
+       "p_titular": 0.6181,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "153442",
+       "nombre": "Ignasi Miquel",
+       "corto": "I. Miquel",
+       "dorsal": "5",
+       "posicion": "",
+       "p_titular": 0.5471,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-4-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "189960",
+       "nombre": "Ander Cantero",
+       "corto": "A. Cantero",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "259821",
+       "nombre": "Gregorio Sierra",
+       "corto": "G. Sierra",
+       "dorsal": "8",
+       "posicion": "CD-L",
+       "p_titular": 0.9087,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "245822",
+       "nombre": "Oier Luengo",
+       "corto": "O. Luengo",
+       "dorsal": "15",
+       "posicion": "CD-R",
+       "p_titular": 0.8249,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331721",
+       "nombre": "Brais Martínez",
+       "corto": "B. Martínez",
+       "dorsal": "22",
+       "posicion": "LB",
+       "p_titular": 0.6217,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "346404",
+       "nombre": "David González",
+       "corto": "D. González",
+       "dorsal": "14",
+       "posicion": "AM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "302945",
+       "nombre": "Unai Vencedor",
+       "corto": "U. Vencedor",
+       "dorsal": "12",
+       "posicion": "RM",
+       "p_titular": 0.848,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "34390",
+       "nombre": "Pablo Galdames",
+       "corto": "P. Galdames",
+       "dorsal": "4",
+       "posicion": "LM",
+       "p_titular": 0.5258,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "324350",
+       "nombre": "Jon Karrikaburu",
+       "corto": "J. Karrikaburu",
+       "dorsal": "7",
+       "posicion": "F",
+       "p_titular": 0.6519,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331154",
+       "nombre": "Javi Llabrés",
+       "corto": "J. Llabrés",
+       "dorsal": "19",
+       "posicion": "AM-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "231344",
+       "nombre": "Curro",
+       "corto": "Curro",
+       "dorsal": "16",
+       "posicion": "",
+       "p_titular": 0.6359,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "333167",
+       "nombre": "Alberto Dadie",
+       "corto": "A. Dadie",
+       "dorsal": "23",
+       "posicion": "",
+       "p_titular": 0.5915,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "375963",
+       "nombre": "Álex Lizancos",
+       "corto": "Á. Lizancos",
+       "dorsal": "2",
+       "posicion": "RB",
+       "p_titular": 0.5679,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "288761",
+       "nombre": "José Gragera",
+       "corto": "J. Gragera",
+       "dorsal": "20",
+       "posicion": "",
+       "p_titular": 0.5027,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "343629",
+       "nombre": "Alex Fores",
+       "corto": "Alex Fores",
+       "dorsal": "9",
+       "posicion": "",
+       "p_titular": 0.4547,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "388525",
+       "nombre": "Marcelo Expósito",
+       "corto": "Marcelo Expósito",
+       "dorsal": "5",
+       "posicion": "",
+       "p_titular": 0.3937,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "276262",
+       "nombre": "Kevin Appin",
+       "corto": "K. Appin",
+       "dorsal": "10",
+       "posicion": "AM-R",
+       "p_titular": 0.3786,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "279554",
+       "nombre": "Ignasi Vilarrasa",
+       "corto": "I. Vilarrasa",
+       "dorsal": "3",
+       "posicion": "",
+       "p_titular": 0.3783,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "394375",
+       "nombre": "Cristian Torrelavid",
+       "corto": "C. Torrelavid",
+       "dorsal": "37",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Burgos, 37 %.",
+   "razon": [
+    "Forma: Leganés llega con D D D D E en sus últimos 5 (7 goles a favor, 16 en contra en 11 partidos); Burgos con V V D D V.",
+    "En casa Leganés promedia 1,00 goles a favor y 1,20 en contra en 5 partidos.",
+    "Fuera Burgos promedia 0,75 a favor y 1,00 en contra en 4 partidos.",
+    "El modelo da 37 % a que gane el visitante; la media de LaLiga Hypermotion en ese mercado es 33 %: se aparta +4 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 0,93 - 1,04 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 37 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "D",
+    "D",
+    "D",
+    "D",
+    "E"
+   ],
+   "forma_away": [
+    "V",
+    "V",
+    "D",
+    "D",
+    "V"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "d9043d49653cf3901dc736585aff13e8f1764b2bf50669eb413269da5c536aeb",
+   "pick_hash": "e38e04e14babf47255cc5974e23319fdb983d3717c990e16655fdcf34e4fefe5"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-14T13:00Z",
+   "kickoff_local": "14:00",
+   "dia": "sáb 14",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883114",
+   "home": "Real Valladolid",
+   "away": "Castellón",
+   "home_id": "95",
+   "away_id": "4438",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/95.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4438.png",
+   "home_color": "7a2d9d",
+   "away_color": "000000",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
+   "prob": 0.4339,
+   "edge_vs_league": 0.1063,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 0.94,
+    "xg_away": 1.37,
+    "p_home": 0.2843,
+    "p_draw": 0.2819,
+    "p_away": 0.4339,
+    "p_over": 0.407,
+    "p_under": 0.593,
+    "p_btts_yes": 0.4488,
+    "p_btts_no": 0.5512,
+    "score": "0-1"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-1-3-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "347431",
+       "nombre": "Álvaro Aceves",
+       "corto": "Á. Aceves",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "347433",
+       "nombre": "David Torres",
+       "corto": "D. Torres",
+       "dorsal": "4",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "276578",
+       "nombre": "Stanko Juric",
+       "corto": "S. Juric",
+       "dorsal": "24",
+       "posicion": "SW",
+       "p_titular": 0.848,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "367677",
+       "nombre": "Iván Garriel",
+       "corto": "I. Garriel",
+       "dorsal": "27",
+       "posicion": "LB",
+       "p_titular": 0.8028,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "276450",
+       "nombre": "Julien Ponceau",
+       "corto": "J. Ponceau",
+       "dorsal": "21",
+       "posicion": "LM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "367679",
+       "nombre": "Víctor Fernández",
+       "corto": "V. Fernández",
+       "dorsal": "30",
+       "posicion": "CM",
+       "p_titular": 0.8251,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331411",
+       "nombre": "Luis Rodriguez",
+       "corto": "Luis Rodriguez",
+       "dorsal": "7",
+       "posicion": "RM",
+       "p_titular": 0.8185,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "371617",
+       "nombre": "Adrián Arnun",
+       "corto": "A. Arnun",
+       "dorsal": "19",
+       "posicion": "CF-L",
+       "p_titular": 0.8028,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "335235",
+       "nombre": "Juan Latasa",
+       "corto": "J. Latasa",
+       "dorsal": "9",
+       "posicion": "CF-R",
+       "p_titular": 0.7603,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "273291",
+       "nombre": "Miguel Rubio",
+       "corto": "M. Rubio",
+       "dorsal": "12",
+       "posicion": "CD-R",
+       "p_titular": 0.7527,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "318125",
+       "nombre": "Thiago Ojeda",
+       "corto": "T. Ojeda",
+       "dorsal": "8",
+       "posicion": "RM",
+       "p_titular": 0.7407,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "206473",
+       "nombre": "Iván Alejo",
+       "corto": "I. Alejo",
+       "dorsal": "14",
+       "posicion": "RB",
+       "p_titular": 0.6803,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "324949",
+       "nombre": "Pablo Tomeo",
+       "corto": "P. Tomeo",
+       "dorsal": "15",
+       "posicion": "CD-R",
+       "p_titular": 0.6394,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "324954",
+       "nombre": "Tai Abed",
+       "corto": "T. Abed",
+       "dorsal": "23",
+       "posicion": "CM",
+       "p_titular": 0.3996,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3125552",
+       "nombre": "Hugo Calvo Vadillo",
+       "corto": "H. Calvo Vadillo",
+       "dorsal": "37",
+       "posicion": "",
+       "p_titular": 0.3214,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "331988",
+       "nombre": "Trilli",
+       "corto": "Trilli",
+       "dorsal": "2",
+       "posicion": "",
+       "p_titular": 0.3197,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "422017",
+       "nombre": "Brain Obosso",
+       "corto": "B. Obosso",
+       "dorsal": "34",
+       "posicion": "",
+       "p_titular": 0.3,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "409248",
+       "nombre": "Alejandro Galdeano",
+       "corto": "A. Galdeano",
+       "dorsal": "35",
+       "posicion": "",
+       "p_titular": 0.3,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "3-4-2-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "290546",
+       "nombre": "Romain Matthys",
+       "corto": "R. Matthys",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "192132",
+       "nombre": "Alberto",
+       "corto": "Alberto",
+       "dorsal": "5",
+       "posicion": "CD",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "303324",
+       "nombre": "Agustín Sienra",
+       "corto": "A. Sienra",
+       "dorsal": "4",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "289894",
+       "nombre": "Jeremy Mellot",
+       "corto": "J. Mellot",
+       "dorsal": "22",
+       "posicion": "CD-R",
+       "p_titular": 0.8235,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "261186",
+       "nombre": "Diego Hernández Barriuso",
+       "corto": "D. Hernández Barriuso",
+       "dorsal": "8",
+       "posicion": "CM-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "251935",
+       "nombre": "Juanjo",
+       "corto": "Juanjo",
+       "dorsal": "2",
+       "posicion": "RM",
+       "p_titular": 0.8539,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "405713",
+       "nombre": "Matías Orozco",
+       "corto": "M. Orozco",
+       "dorsal": "6",
+       "posicion": "CM-R",
+       "p_titular": 0.799,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "412188",
+       "nombre": "Ousmane Camara",
+       "corto": "O. Camara",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.8539,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "274984",
+       "nombre": "Adam Jakobsen",
+       "corto": "A. Jakobsen",
+       "dorsal": "16",
+       "posicion": "CF-L",
+       "p_titular": 0.8249,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "278015",
+       "nombre": "Israel Suero",
+       "corto": "I. Suero",
+       "dorsal": "10",
+       "posicion": "CF-R",
+       "p_titular": 0.8028,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "227414",
+       "nombre": "Iñigo Córdoba",
+       "corto": "I. Córdoba",
+       "dorsal": "14",
+       "posicion": "LM",
+       "p_titular": 0.6945,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "375769",
+       "nombre": "Pablo Santiago",
+       "corto": "P. Santiago",
+       "dorsal": "18",
+       "posicion": "RM",
+       "p_titular": 0.6501,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "331546",
+       "nombre": "Álvaro Martín",
+       "corto": "Álvaro Martín",
+       "dorsal": "21",
+       "posicion": "AM",
+       "p_titular": 0.6057,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "97583",
+       "nombre": "Francisco Castillo",
+       "corto": "F. Castillo",
+       "dorsal": "17",
+       "posicion": "",
+       "p_titular": 0.4968,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "388057",
+       "nombre": "Lucas Alcázar",
+       "corto": "L. Alcázar",
+       "dorsal": "12",
+       "posicion": "",
+       "p_titular": 0.3055,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "412307",
+       "nombre": "Miguelon",
+       "corto": "Miguelon",
+       "dorsal": "33",
+       "posicion": "",
+       "p_titular": 0.2812,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "193909",
+       "nombre": "Axel Pérez",
+       "corto": "A. Pérez",
+       "dorsal": "32",
+       "posicion": "",
+       "p_titular": 0.2812,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3125585",
+       "nombre": "Óscar Albiol Giner",
+       "corto": "Ó. Albiol Giner",
+       "dorsal": "31",
+       "posicion": "",
+       "p_titular": 0.2812,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Castellón, 43 %.",
+   "razon": [
+    "Forma: Real Valladolid llega con V E V D D en sus últimos 5 (16 goles a favor, 16 en contra en 11 partidos); Castellón con V V E D V.",
+    "En casa Real Valladolid promedia 2,20 goles a favor y 1,40 en contra en 5 partidos.",
+    "Fuera Castellón promedia 1,67 a favor y 0,50 en contra en 6 partidos.",
+    "El modelo da 43 % a que gane el visitante; la media de LaLiga Hypermotion en ese mercado es 33 %: se aparta +11 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 0,94 - 1,37 y da como marcador más probable 0-1.",
+    "Lectura SIN ventaja: 43 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "V",
+    "E",
+    "V",
+    "D",
+    "D"
+   ],
+   "forma_away": [
+    "V",
+    "V",
+    "E",
+    "D",
+    "V"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "e38e04e14babf47255cc5974e23319fdb983d3717c990e16655fdcf34e4fefe5",
+   "pick_hash": "6ac69e3decb3bc34ed821a7d92f460d1280e264f0c2e79c896ef24cd3f0f39f6"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-14T15:15Z",
+   "kickoff_local": "16:15",
+   "dia": "sáb 14",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883134",
+   "home": "Real Sociedad II",
+   "away": "Sporting Gijón",
+   "home_id": "20983",
+   "away_id": "3788",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20983.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3788.png",
+   "home_color": "000000",
+   "away_color": "C8142F",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
+   "prob": 0.3762,
+   "edge_vs_league": 0.0486,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 1.24,
+    "xg_away": 1.32,
+    "p_home": 0.3496,
+    "p_draw": 0.2743,
+    "p_away": 0.3762,
+    "p_over": 0.4728,
+    "p_under": 0.5272,
+    "p_btts_yes": 0.5155,
+    "p_btts_no": 0.4845,
+    "score": "1-1"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-4-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "406381",
+       "nombre": "Lander Olasagasti",
+       "corto": "L. Olasagasti",
+       "dorsal": "32",
+       "posicion": "G",
+       "p_titular": 0.2827,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "396608",
+       "nombre": "Jon Balda",
+       "corto": "J. Balda",
+       "dorsal": "3",
+       "posicion": "LB",
+       "p_titular": 0.9146,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "360178",
+       "nombre": "Kazunari Kita",
+       "corto": "K. Kita",
+       "dorsal": "5",
+       "posicion": "CD-L",
+       "p_titular": 0.9105,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "411583",
+       "nombre": "Iker Calderon",
+       "corto": "I. Calderon",
+       "dorsal": "15",
+       "posicion": "CD-R",
+       "p_titular": 0.7912,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "387496",
+       "nombre": "Daniel Díaz",
+       "corto": "D. Díaz",
+       "dorsal": "7",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "406396",
+       "nombre": "Tomás Carbonell",
+       "corto": "T. Carbonell",
+       "dorsal": "14",
+       "posicion": "CM-R",
+       "p_titular": 0.8668,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "396613",
+       "nombre": "Alex Marchal",
+       "corto": "A. Marchal",
+       "dorsal": "11",
+       "posicion": "LM",
+       "p_titular": 0.8125,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "406389",
+       "nombre": "Gorka Gorosabel",
+       "corto": "G. Gorosabel",
+       "dorsal": "16",
+       "posicion": "CF-R",
+       "p_titular": 0.778,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "406380",
+       "nombre": "Iker Ropero",
+       "corto": "I. Ropero",
+       "dorsal": "29",
+       "posicion": "CD-R",
+       "p_titular": 0.7565,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "379457",
+       "nombre": "Iñaki Rupérez",
+       "corto": "I. Rupérez",
+       "dorsal": "22",
+       "posicion": "RB",
+       "p_titular": 0.7515,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "368327",
+       "nombre": "Aitor Fraga",
+       "corto": "A. Fraga",
+       "dorsal": "1",
+       "posicion": "",
+       "p_titular": 0.7425,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "406383",
+       "nombre": "Gorka Carrera",
+       "corto": "G. Carrera",
+       "dorsal": "18",
+       "posicion": "CF-L",
+       "p_titular": 0.7363,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "406390",
+       "nombre": "Lander Astiazarán",
+       "corto": "L. Astiazarán",
+       "dorsal": "17",
+       "posicion": "",
+       "p_titular": 0.6536,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "410486",
+       "nombre": "Ibai Aguirre",
+       "corto": "I. Aguirre",
+       "dorsal": "8",
+       "posicion": "CM-L",
+       "p_titular": 0.643,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "396607",
+       "nombre": "Luken Beitia",
+       "corto": "L. Beitia",
+       "dorsal": "4",
+       "posicion": "CD-R",
+       "p_titular": 0.625,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "366886",
+       "nombre": "Alex Lebarbier",
+       "corto": "A. Lebarbier",
+       "dorsal": "6",
+       "posicion": "",
+       "p_titular": 0.4833,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3133188",
+       "nombre": "Peru Larrañaga Vázquez",
+       "corto": "P. Larrañaga Vázquez",
+       "dorsal": "30",
+       "posicion": "",
+       "p_titular": 0.3571,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "406386",
+       "nombre": "Jon Garro",
+       "corto": "J. Garro",
+       "dorsal": "2",
+       "posicion": "",
+       "p_titular": 0.3286,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-4-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "192718",
+       "nombre": "Rubén Yáñez",
+       "corto": "R. Yáñez",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "376421",
+       "nombre": "Andrés Cuenca",
+       "corto": "A. Cuenca",
+       "dorsal": "44",
+       "posicion": "LB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "303933",
+       "nombre": "Guillermo Rosas",
+       "corto": "G. Rosas",
+       "dorsal": "2",
+       "posicion": "RB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "388802",
+       "nombre": "Aimar Duñabeitia",
+       "corto": "A. Duñabeitia",
+       "dorsal": "24",
+       "posicion": "CD-R",
+       "p_titular": 0.881,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "261615",
+       "nombre": "Àlex Corredera",
+       "corto": "À. Corredera",
+       "dorsal": "14",
+       "posicion": "CM-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "265991",
+       "nombre": "César Gelabert",
+       "corto": "C. Gelabert",
+       "dorsal": "10",
+       "posicion": "RM",
+       "p_titular": 0.9087,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "394376",
+       "nombre": "Manu Rodríguez",
+       "corto": "M. Rodríguez",
+       "dorsal": "8",
+       "posicion": "CM-R",
+       "p_titular": 0.9011,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331786",
+       "nombre": "Antonio Casas",
+       "corto": "A. Casas",
+       "dorsal": "17",
+       "posicion": "F",
+       "p_titular": 0.463,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "304369",
+       "nombre": "Nikita Iosifov",
+       "corto": "N. Iosifov",
+       "dorsal": "20",
+       "posicion": "LM",
+       "p_titular": 0.8539,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "303829",
+       "nombre": "Gaspar Campos",
+       "corto": "G. Campos",
+       "dorsal": "7",
+       "posicion": "LM",
+       "p_titular": 0.7407,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "206554",
+       "nombre": "Juan Otero",
+       "corto": "J. Otero",
+       "dorsal": "19",
+       "posicion": "",
+       "p_titular": 0.6446,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "409509",
+       "nombre": "Enol Prendes",
+       "corto": "E. Prendes",
+       "dorsal": "27",
+       "posicion": "CF-L",
+       "p_titular": 0.5848,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "287498",
+       "nombre": "Konrad De La Fuente",
+       "corto": "K. De La Fuente",
+       "dorsal": "11",
+       "posicion": "",
+       "p_titular": 0.5606,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "209736",
+       "nombre": "Jorge",
+       "corto": "Jorge",
+       "dorsal": "23",
+       "posicion": "CD-L",
+       "p_titular": 0.5329,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "371484",
+       "nombre": "Alejo Sarco",
+       "corto": "A. Sarco",
+       "dorsal": "16",
+       "posicion": "CF-R",
+       "p_titular": 0.4831,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "128372",
+       "nombre": "Pablo Vázquez",
+       "corto": "P. Vázquez",
+       "dorsal": "15",
+       "posicion": "",
+       "p_titular": 0.4671,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "217524",
+       "nombre": "Emanuel Gularte",
+       "corto": "E. Gularte",
+       "dorsal": "4",
+       "posicion": "CD-R",
+       "p_titular": 0.4085,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "311586",
+       "nombre": "Ignacio Martín",
+       "corto": "I. Martín",
+       "dorsal": "6",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Sporting Gijón, 38 %.",
+   "razon": [
+    "Forma: Real Sociedad II llega con D D D D D en sus últimos 5 (14 goles a favor, 22 en contra en 11 partidos); Sporting Gijón con V D V V V.",
+    "En casa Real Sociedad II promedia 1,00 goles a favor y 2,00 en contra en 5 partidos.",
+    "Fuera Sporting Gijón promedia 1,25 a favor y 0,75 en contra en 4 partidos.",
+    "El modelo da 38 % a que gane el visitante; la media de LaLiga Hypermotion en ese mercado es 33 %: se aparta +5 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,24 - 1,32 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 38 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "D",
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "forma_away": [
+    "V",
+    "D",
+    "V",
+    "V",
+    "V"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "6ac69e3decb3bc34ed821a7d92f460d1280e264f0c2e79c896ef24cd3f0f39f6",
+   "pick_hash": "cb85c819ec2b01c13afca918b83d2430c4827ee165c556e9cd7a85d12a1c599a"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-14T17:30Z",
+   "kickoff_local": "18:30",
+   "dia": "sáb 14",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883118",
+   "home": "Almería",
+   "away": "FC Andorra",
+   "home_id": "6832",
+   "away_id": "20179",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6832.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
+   "home_color": "C8142F",
+   "away_color": "000000",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.6171,
+   "edge_vs_league": 0.1602,
+   "recomendado": true,
+   "nivel": "alta",
+   "detail": "sin ventaja",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 2.32,
+    "xg_away": 0.86,
+    "p_home": 0.6171,
+    "p_draw": 0.2109,
+    "p_away": 0.172,
+    "p_over": 0.6156,
+    "p_under": 0.3844,
+    "p_btts_yes": 0.5144,
+    "p_btts_no": 0.4856,
+    "score": "2-0"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "87897",
+       "nombre": "Andrés Fernández",
+       "corto": "A. Fernández",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "283833",
+       "nombre": "Federico Bonini",
+       "corto": "F. Bonini",
+       "dorsal": "18",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "155584",
+       "nombre": "Rodrigo Ely",
+       "corto": "R. Ely",
+       "dorsal": "19",
+       "posicion": "CD-R",
+       "p_titular": 0.7115,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "347438",
+       "nombre": "Marcos Luna Marcos Ruiz",
+       "corto": "M. Marcos Ruiz",
+       "dorsal": "2",
+       "posicion": "RB",
+       "p_titular": 0.7069,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "214275",
+       "nombre": "Javi Muñoz",
+       "corto": "J. Muñoz",
+       "dorsal": "14",
+       "posicion": "LM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "389437",
+       "nombre": "Stefan Dzodic",
+       "corto": "S. Dzodic",
+       "dorsal": "29",
+       "posicion": "RM",
+       "p_titular": 0.9007,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "307917",
+       "nombre": "Sergio Arribas",
+       "corto": "S. Arribas",
+       "dorsal": "11",
+       "posicion": "AM",
+       "p_titular": 0.7692,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "277717",
+       "nombre": "Miguel de la Fuente",
+       "corto": "M. de la Fuente",
+       "dorsal": "24",
+       "posicion": "F",
+       "p_titular": 0.6892,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "352285",
+       "nombre": "Brian Cipenga",
+       "corto": "B. Cipenga",
+       "dorsal": "17",
+       "posicion": "AM-L",
+       "p_titular": 0.9123,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "376425",
+       "nombre": "Quim Junyent",
+       "corto": "Q. Junyent",
+       "dorsal": "33",
+       "posicion": "AM-R",
+       "p_titular": 0.6353,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "178896",
+       "nombre": "Álex Muñoz",
+       "corto": "Á. Muñoz",
+       "dorsal": "3",
+       "posicion": "LB",
+       "p_titular": 0.5453,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "297291",
+       "nombre": "Daijiro Chirino",
+       "corto": "D. Chirino",
+       "dorsal": "22",
+       "posicion": "AM-R",
+       "p_titular": 0.54,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "222373",
+       "nombre": "Mikel Vesga",
+       "corto": "M. Vesga",
+       "dorsal": "6",
+       "posicion": "CM",
+       "p_titular": 0.5032,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "268439",
+       "nombre": "Chumi",
+       "corto": "Chumi",
+       "dorsal": "21",
+       "posicion": "",
+       "p_titular": 0.4742,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "344843",
+       "nombre": "Leonardo Lelo",
+       "corto": "L. Lelo",
+       "dorsal": "15",
+       "posicion": "",
+       "p_titular": 0.4547,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "152557",
+       "nombre": "Jorge Pulido",
+       "corto": "J. Pulido",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.4085,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "28065",
+       "nombre": "Jesus Lopez",
+       "corto": "J. Lopez",
+       "dorsal": "30",
+       "posicion": "",
+       "p_titular": 0.3409,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "361458",
+       "nombre": "Thalys",
+       "corto": "Thalys",
+       "dorsal": "9",
+       "posicion": "",
+       "p_titular": 0.3283,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-3-3",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "287165",
+       "nombre": "Jesús Owono",
+       "corto": "J. Owono",
+       "dorsal": "25",
+       "posicion": "G",
+       "p_titular": 0.6958,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "267058",
+       "nombre": "Thomas Carrique",
+       "corto": "T. Carrique",
+       "dorsal": "17",
+       "posicion": "RB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "347509",
+       "nombre": "Marc Bombardó",
+       "corto": "M. Bombardó",
+       "dorsal": "5",
+       "posicion": "CD-L",
+       "p_titular": 0.881,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "219073",
+       "nombre": "Diego Alende",
+       "corto": "D. Alende",
+       "dorsal": "23",
+       "posicion": "CD-L",
+       "p_titular": 0.8455,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "345239",
+       "nombre": "Efe Akman",
+       "corto": "E. Akman",
+       "dorsal": "8",
+       "posicion": "LM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "389455",
+       "nombre": "Marc Domenech",
+       "corto": "M. Domenech",
+       "dorsal": "10",
+       "posicion": "RM",
+       "p_titular": 0.7815,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "171552",
+       "nombre": "Sergio Molina",
+       "corto": "S. Molina",
+       "dorsal": "14",
+       "posicion": "CM",
+       "p_titular": 0.7602,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331370",
+       "nombre": "Jordi Cano",
+       "corto": "J. Cano",
+       "dorsal": "15",
+       "posicion": "F",
+       "p_titular": 0.6927,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331382",
+       "nombre": "Moró Sidibe",
+       "corto": "M. Sidibe",
+       "dorsal": "21",
+       "posicion": "LF",
+       "p_titular": 0.6714,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "278214",
+       "nombre": "Marti Vila Garcia",
+       "corto": "M. Vila Garcia",
+       "dorsal": "20",
+       "posicion": "LB",
+       "p_titular": 0.6589,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "236593",
+       "nombre": "Andoni López",
+       "corto": "A. López",
+       "dorsal": "18",
+       "posicion": "LB",
+       "p_titular": 0.5952,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "203061",
+       "nombre": "Pau López",
+       "corto": "P. López",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.6916,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "354532",
+       "nombre": "Lautaro Spatz",
+       "corto": "L. Spatz",
+       "dorsal": "3",
+       "posicion": "CD-R",
+       "p_titular": 0.5897,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "396027",
+       "nombre": "Diego Diaz",
+       "corto": "D. Diaz",
+       "dorsal": "22",
+       "posicion": "RF",
+       "p_titular": 0.4315,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "310973",
+       "nombre": "Lautaro De León",
+       "corto": "L. De León",
+       "dorsal": "11",
+       "posicion": "",
+       "p_titular": 0.3771,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "194253",
+       "nombre": "Hugo López",
+       "corto": "H. López",
+       "dorsal": "29",
+       "posicion": "",
+       "p_titular": 0.3606,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "353815",
+       "nombre": "Hugo Solozabal",
+       "corto": "H. Solozabal",
+       "dorsal": "6",
+       "posicion": "",
+       "p_titular": 0.325,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "332016",
+       "nombre": "Nacho Quintana",
+       "corto": "I. Quintana",
+       "dorsal": "19",
+       "posicion": "",
+       "p_titular": 0.1865,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Almería, 62 %.",
+   "razon": [
+    "Forma: Almería llega con V V V V E en sus últimos 5 (22 goles a favor, 9 en contra en 11 partidos); FC Andorra con D V E V D.",
+    "En casa Almería promedia 2,50 goles a favor y 0,83 en contra en 6 partidos.",
+    "Fuera FC Andorra promedia 1,00 a favor y 1,80 en contra en 5 partidos.",
+    "El modelo da 62 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 46 %: se aparta +16 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 2,32 - 0,86 y da como marcador más probable 2-0.",
+    "Lectura media (62 %): es de las que sostenemos. Aun así, sin cuota no hay valor esperado ni stake; esto no es una recomendación de dinero."
+   ],
+   "forma_home": [
+    "V",
+    "V",
+    "V",
+    "V",
+    "E"
+   ],
+   "forma_away": [
+    "D",
+    "V",
+    "E",
+    "V",
+    "D"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "cb85c819ec2b01c13afca918b83d2430c4827ee165c556e9cd7a85d12a1c599a",
+   "pick_hash": "4887518ee7fa97a2c0b5f74bbdde51a3e769422286ba4f74eff90eafcf9bd94b"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-14T17:30Z",
+   "kickoff_local": "18:30",
+   "dia": "sáb 14",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883135",
+   "home": "Mallorca",
+   "away": "Córdoba",
+   "home_id": "84",
+   "away_id": "8447",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8447.png",
+   "home_color": "C8142F",
+   "away_color": "288A00",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.526,
+   "edge_vs_league": 0.0691,
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 1.72,
+    "xg_away": 0.81,
+    "p_home": 0.526,
+    "p_draw": 0.2557,
+    "p_away": 0.2184,
+    "p_over": 0.465,
+    "p_under": 0.535,
+    "p_btts_yes": 0.4513,
+    "p_btts_no": 0.5487,
+    "score": "1-0"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "290043",
+       "nombre": "Arnau Tenas",
+       "corto": "A. Tenas",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "222333",
+       "nombre": "Antonio Raíllo",
+       "corto": "A. Raíllo",
+       "dorsal": "21",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "193397",
+       "nombre": "Martin Valjent",
+       "corto": "M. Valjent",
+       "dorsal": "24",
+       "posicion": "CD-R",
+       "p_titular": 0.9007,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "172998",
+       "nombre": "Alberto Moreno",
+       "corto": "A. Moreno",
+       "dorsal": "5",
+       "posicion": "LB",
+       "p_titular": 0.7243,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "119310",
+       "nombre": "Álex Sala",
+       "corto": "Á. Sala",
+       "dorsal": "7",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "268753",
+       "nombre": "Manu Morlanes",
+       "corto": "M. Morlanes",
+       "dorsal": "8",
+       "posicion": "DM",
+       "p_titular": 0.8185,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "206110",
+       "nombre": "Pablo Torre",
+       "corto": "P. Torre",
+       "dorsal": "20",
+       "posicion": "AM",
+       "p_titular": 0.8028,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331787",
+       "nombre": "Fuentes",
+       "corto": "Fuentes",
+       "dorsal": "18",
+       "posicion": "F",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "381682",
+       "nombre": "Adrián Liso",
+       "corto": "A. Liso",
+       "dorsal": "33",
+       "posicion": "AM-L",
+       "p_titular": 0.7602,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "311996",
+       "nombre": "John Donald",
+       "corto": "J. Donald",
+       "dorsal": "15",
+       "posicion": "RB",
+       "p_titular": 0.6695,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "279511",
+       "nombre": "Antonio Sánchez",
+       "corto": "A. Sánchez",
+       "dorsal": "6",
+       "posicion": "LM",
+       "p_titular": 0.6394,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "297035",
+       "nombre": "Zito Luvumbo",
+       "corto": "Z. Luvumbo",
+       "dorsal": "11",
+       "posicion": "AM-R",
+       "p_titular": 0.574,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "422183",
+       "nombre": "Miguel Calatayud",
+       "corto": "M. Calatayud",
+       "dorsal": "34",
+       "posicion": "RB",
+       "p_titular": 0.5382,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "381633",
+       "nombre": "Aboubaka Soumahoro",
+       "corto": "A. Soumahoro",
+       "dorsal": "22",
+       "posicion": "",
+       "p_titular": 0.4726,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "354218",
+       "nombre": "Josep Cerdà",
+       "corto": "J. Cerdà",
+       "dorsal": "19",
+       "posicion": "",
+       "p_titular": 0.3909,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "368332",
+       "nombre": "Antoniu Roca",
+       "corto": "A. Roca",
+       "dorsal": "23",
+       "posicion": "RM",
+       "p_titular": 0.3831,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "291437",
+       "nombre": "Arnau Puigmal",
+       "corto": "A. Puigmal",
+       "dorsal": "17",
+       "posicion": "",
+       "p_titular": 0.3017,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "165519",
+       "nombre": "Sergi Darder",
+       "corto": "S. Darder",
+       "dorsal": "10",
+       "posicion": "",
+       "p_titular": 0.2718,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-3-3",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "24278",
+       "nombre": "Iker Álvarez",
+       "corto": "I. Álvarez",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.5848,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "332007",
+       "nombre": "Dani Tasende",
+       "corto": "D. Tasende",
+       "dorsal": "3",
+       "posicion": "LB",
+       "p_titular": 0.8313,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "381110",
+       "nombre": "Daniel Budesca",
+       "corto": "D. Budesca",
+       "dorsal": "30",
+       "posicion": "RB",
+       "p_titular": 0.7815,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "289625",
+       "nombre": "Álex Martín",
+       "corto": "Á. Martín",
+       "dorsal": "4",
+       "posicion": "CD-L",
+       "p_titular": 0.6892,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "108464",
+       "nombre": "Isma Ruiz",
+       "corto": "I. Ruiz",
+       "dorsal": "8",
+       "posicion": "CM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "415364",
+       "nombre": "Eder García",
+       "corto": "E. García",
+       "dorsal": "28",
+       "posicion": "RM",
+       "p_titular": 0.8313,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "354360",
+       "nombre": "Youssouf Diarra",
+       "corto": "Y. Diarra",
+       "dorsal": "22",
+       "posicion": "RM",
+       "p_titular": 0.8185,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331812",
+       "nombre": "Percan",
+       "corto": "Percan",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "300285",
+       "nombre": "Cristian Carracedo",
+       "corto": "C. Carracedo",
+       "dorsal": "23",
+       "posicion": "RF",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "303809",
+       "nombre": "Diego Bri",
+       "corto": "D. Bri",
+       "dorsal": "11",
+       "posicion": "LF",
+       "p_titular": 0.8313,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "395130",
+       "nombre": "Adnane Ghailan",
+       "corto": "A. Ghailan",
+       "dorsal": "14",
+       "posicion": "LM",
+       "p_titular": 0.7282,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "240592",
+       "nombre": "Rubén González",
+       "corto": "R. González",
+       "dorsal": "16",
+       "posicion": "",
+       "p_titular": 0.5915,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "362882",
+       "nombre": "Guilherme Fernandes",
+       "corto": "Guilherme Fernandes",
+       "dorsal": "13",
+       "posicion": "",
+       "p_titular": 0.4671,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "347358",
+       "nombre": "Juan Gutiérrez",
+       "corto": "J. Gutiérrez",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.4085,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "141666",
+       "nombre": "Nélson Monte",
+       "corto": "N. Monte",
+       "dorsal": "20",
+       "posicion": "",
+       "p_titular": 0.3321,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3116693",
+       "nombre": "Borja García Criado",
+       "corto": "B. García Criado",
+       "dorsal": "38",
+       "posicion": "",
+       "p_titular": 0.2571,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "311040",
+       "nombre": "Kevin Villodres",
+       "corto": "K. Villodres",
+       "dorsal": "10",
+       "posicion": "",
+       "p_titular": 0.2513,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "390844",
+       "nombre": "Alejandro Arevalo",
+       "corto": "A. Arevalo",
+       "dorsal": "26",
+       "posicion": "",
+       "p_titular": 0.225,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Mallorca, 53 %.",
+   "razon": [
+    "Forma: Mallorca llega con D E V E E en sus últimos 5 (13 goles a favor, 6 en contra en 11 partidos); Córdoba con D V D V V.",
+    "En casa Mallorca promedia 2,00 goles a favor y 0,40 en contra en 5 partidos.",
+    "Fuera Córdoba promedia 1,50 a favor y 2,00 en contra en 6 partidos.",
+    "El modelo da 53 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 46 %: se aparta +7 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,72 - 0,81 y da como marcador más probable 1-0.",
+    "Lectura SIN ventaja: 53 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "D",
+    "E",
+    "V",
+    "E",
+    "E"
+   ],
+   "forma_away": [
+    "D",
+    "V",
+    "D",
+    "V",
+    "V"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "4887518ee7fa97a2c0b5f74bbdde51a3e769422286ba4f74eff90eafcf9bd94b",
+   "pick_hash": "3c5a9d83fc2c5474742eb7fb807ecfd2f1e643d423fb7653c004d8867567c4d8"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-14T20:00Z",
+   "kickoff_local": "21:00",
+   "dia": "sáb 14",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883115",
+   "home": "Real Oviedo",
+   "away": "Girona",
+   "home_id": "92",
+   "away_id": "9812",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
+   "home_color": "e23627",
+   "away_color": "C60000",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.3725,
+   "edge_vs_league": -0.0844,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 1.34,
+    "xg_away": 1.29,
+    "p_home": 0.3725,
+    "p_draw": 0.2719,
+    "p_away": 0.3556,
+    "p_over": 0.4874,
+    "p_under": 0.5126,
+    "p_btts_yes": 0.5274,
+    "p_btts_no": 0.4726,
+    "score": "1-1"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "200964",
+       "nombre": "Aarón Escandell",
+       "corto": "A. Escandell",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.9105,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "123743",
+       "nombre": "Dani Calvo",
+       "corto": "D. Calvo",
+       "dorsal": "12",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "312376",
+       "nombre": "Carlos Domínguez",
+       "corto": "C. Domínguez",
+       "dorsal": "23",
+       "posicion": "CD-L",
+       "p_titular": 0.9028,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "395613",
+       "nombre": "Samu Rodríguez",
+       "corto": "S. Rodríguez",
+       "dorsal": "15",
+       "posicion": "LB",
+       "p_titular": 0.7815,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "347357",
+       "nombre": "Youness Lachhab",
+       "corto": "Y. Lachhab",
+       "dorsal": "5",
+       "posicion": "LM",
+       "p_titular": 0.8668,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "320768",
+       "nombre": "Aritz Aldasoro",
+       "corto": "A. Aldasoro",
+       "dorsal": "16",
+       "posicion": "RM",
+       "p_titular": 0.7966,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "396611",
+       "nombre": "Mikel Goti",
+       "corto": "M. Goti",
+       "dorsal": "8",
+       "posicion": "AM",
+       "p_titular": 0.7922,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "269266",
+       "nombre": "Chris Ramos",
+       "corto": "C. Ramos",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.522,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "253732",
+       "nombre": "Alberto Reina",
+       "corto": "A. Reina",
+       "dorsal": "10",
+       "posicion": "AM-R",
+       "p_titular": 0.8313,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "157965",
+       "nombre": "David Jiménez",
+       "corto": "D. Jiménez",
+       "dorsal": "21",
+       "posicion": "",
+       "p_titular": 0.5506,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "3128635",
+       "nombre": "Enzo Pérez Miranda",
+       "corto": "E. Pérez Miranda",
+       "dorsal": "32",
+       "posicion": "AM-L",
+       "p_titular": 0.5329,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "304881",
+       "nombre": "Alexandru Mihai Isfan",
+       "corto": "A. Isfan",
+       "dorsal": "24",
+       "posicion": "",
+       "p_titular": 0.5134,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "155392",
+       "nombre": "Juan Cruz",
+       "corto": "J. Cruz",
+       "dorsal": "3",
+       "posicion": "",
+       "p_titular": 0.4767,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "353537",
+       "nombre": "Pablo Sáenz",
+       "corto": "P. Sáenz",
+       "dorsal": "20",
+       "posicion": "",
+       "p_titular": 0.4671,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "303968",
+       "nombre": "Daniel Villahermosa",
+       "corto": "D. Villahermosa",
+       "dorsal": "6",
+       "posicion": "",
+       "p_titular": 0.4671,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "184640",
+       "nombre": "José Luis Morales",
+       "corto": "J. Morales",
+       "dorsal": "25",
+       "posicion": "F",
+       "p_titular": 0.4203,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "240102",
+       "nombre": "Nacho Vidal",
+       "corto": "N. Vidal",
+       "dorsal": "22",
+       "posicion": "RB",
+       "p_titular": 0.358,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3108501",
+       "nombre": "Víctor García Mingo",
+       "corto": "V. García Mingo",
+       "dorsal": "18",
+       "posicion": "",
+       "p_titular": 0.3552,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "164469",
+       "nombre": "Paulo Gazzaniga",
+       "corto": "P. Gazzaniga",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "30377",
+       "nombre": "Álex Moreno",
+       "corto": "Á. Moreno",
+       "dorsal": "11",
+       "posicion": "LB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "297825",
+       "nombre": "Alejandro Francés",
+       "corto": "A. Francés",
+       "dorsal": "16",
+       "posicion": "CD-L",
+       "p_titular": 0.8455,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "160740",
+       "nombre": "David López",
+       "corto": "D. López",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.7957,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "375753",
+       "nombre": "Izan González",
+       "corto": "I. González",
+       "dorsal": "24",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "242383",
+       "nombre": "Fran Beltrán",
+       "corto": "F. Beltrán",
+       "dorsal": "8",
+       "posicion": "LM",
+       "p_titular": 0.7953,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "284429",
+       "nombre": "Bryan Gil",
+       "corto": "B. Gil",
+       "dorsal": "17",
+       "posicion": "LM",
+       "p_titular": 0.5283,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "314176",
+       "nombre": "Vladyslav Vanat",
+       "corto": "V. Vanat",
+       "dorsal": "19",
+       "posicion": "F",
+       "p_titular": 0.9007,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "261468",
+       "nombre": "Carles Pérez",
+       "corto": "C. Pérez",
+       "dorsal": "23",
+       "posicion": "AM-L",
+       "p_titular": 0.8028,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "411877",
+       "nombre": "Javier Sarasa",
+       "corto": "J. Sarasa",
+       "dorsal": "36",
+       "posicion": "AM-L",
+       "p_titular": 0.775,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "311056",
+       "nombre": "Yáser Asprilla",
+       "corto": "Y. Asprilla",
+       "dorsal": "22",
+       "posicion": "AM-R",
+       "p_titular": 0.713,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "373877",
+       "nombre": "Javier Boñar",
+       "corto": "J. Boñar",
+       "dorsal": "4",
+       "posicion": "",
+       "p_titular": 0.5767,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "261613",
+       "nombre": "Abel Ruiz",
+       "corto": "A. Ruiz",
+       "dorsal": "9",
+       "posicion": "",
+       "p_titular": 0.5585,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "422939",
+       "nombre": "Holmes Zamorano",
+       "corto": "H. Zamorano",
+       "dorsal": "38",
+       "posicion": "",
+       "p_titular": 0.4923,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "265992",
+       "nombre": "Mateu Morey",
+       "corto": "M. Morey",
+       "dorsal": "3",
+       "posicion": "RB",
+       "p_titular": 0.4415,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "215717",
+       "nombre": "Donny van de Beek",
+       "corto": "D. van de Beek",
+       "dorsal": "6",
+       "posicion": "",
+       "p_titular": 0.3499,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3130648",
+       "nombre": "Javier González Diaz",
+       "corto": "J. González Diaz",
+       "dorsal": "36",
+       "posicion": "",
+       "p_titular": 0.3409,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3118648",
+       "nombre": "Guillem Badía Gutiérrez",
+       "corto": "G. Badía Gutiérrez",
+       "dorsal": "39",
+       "posicion": "",
+       "p_titular": 0.3214,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Real Oviedo, 37 %.",
+   "razon": [
+    "Forma: Real Oviedo llega con V D V V E en sus últimos 5 (15 goles a favor, 12 en contra en 11 partidos); Girona con V E E V V.",
+    "En casa Real Oviedo promedia 1,00 goles a favor y 0,40 en contra en 5 partidos.",
+    "Fuera Girona promedia 1,50 a favor y 1,00 en contra en 4 partidos.",
+    "El modelo da 37 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 46 %: se aparta -8 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,34 - 1,29 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 37 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "V",
+    "D",
+    "V",
+    "V",
+    "E"
+   ],
+   "forma_away": [
+    "V",
+    "E",
+    "E",
+    "V",
+    "V"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "3c5a9d83fc2c5474742eb7fb807ecfd2f1e643d423fb7653c004d8867567c4d8",
+   "pick_hash": "a02569498352653cb10d6316e5868842e4f1470936413002e6bb743311710f6e"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-14T23:00Z",
+   "kickoff_local": "00:00",
+   "dia": "dom 15",
+   "league": "Liga MX",
+   "league_slug": "mex.1",
+   "event_id": "401876988",
+   "home": "Querétaro",
+   "away": "Monterrey",
+   "home_id": "222",
+   "away_id": "220",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
+   "home_color": "212121",
+   "away_color": "001C58",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.3949,
+   "edge_vs_league": -0.0451,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 1.51,
+    "xg_away": 1.31,
+    "p_home": 0.3949,
+    "p_draw": 0.2741,
+    "p_away": 0.3309,
+    "p_over": 0.5352,
+    "p_under": 0.4648,
+    "p_btts_yes": 0.57,
+    "p_btts_no": 0.43,
+    "score": "1-1"
+   },
+   "base_league": {
+    "p_home": 0.44,
+    "p_draw": 0.16,
+    "p_away": 0.4,
+    "p_over": 0.52,
+    "p_under": 0.48,
+    "p_btts_yes": 0.56,
+    "p_btts_no": 0.44
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "149407",
+       "nombre": "Guillermo Allison",
+       "corto": "G. Allison",
+       "dorsal": "25",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "240560",
+       "nombre": "Daniel Parra",
+       "corto": "D. Parra",
+       "dorsal": "27",
+       "posicion": "LB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "315939",
+       "nombre": "Lucas Abascia",
+       "corto": "L. Abascia",
+       "dorsal": "2",
+       "posicion": "CD-L",
+       "p_titular": 0.9087,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "83869",
+       "nombre": "Diego Reyes",
+       "corto": "D. Reyes",
+       "dorsal": "13",
+       "posicion": "CD-R",
+       "p_titular": 0.9028,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "309109",
+       "nombre": "Carlo García",
+       "corto": "C. García",
+       "dorsal": "4",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "309201",
+       "nombre": "Santiago Homenchenko",
+       "corto": "S. Homenchenko",
+       "dorsal": "5",
+       "posicion": "LM",
+       "p_titular": 0.9028,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "263219",
+       "nombre": "Mateo Coronel",
+       "corto": "M. Coronel",
+       "dorsal": "11",
+       "posicion": "AM",
+       "p_titular": 0.8668,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "297287",
+       "nombre": "Ali Avila",
+       "corto": "A. Avila",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "252571",
+       "nombre": "Enzo Giménez",
+       "corto": "E. Giménez",
+       "dorsal": "16",
+       "posicion": "AM-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "372374",
+       "nombre": "Bayron Duarte",
+       "corto": "B. Duarte",
+       "dorsal": "24",
+       "posicion": "RB",
+       "p_titular": 0.7363,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "116745",
+       "nombre": "Paulo Victor",
+       "corto": "P. Victor",
+       "dorsal": "12",
+       "posicion": "AM-L",
+       "p_titular": 0.5382,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "333379",
+       "nombre": "Iker Benito",
+       "corto": "I. Benito",
+       "dorsal": "7",
+       "posicion": "",
+       "p_titular": 0.4618,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "171317",
+       "nombre": "Carlos Villanueva",
+       "corto": "C. Villanueva",
+       "dorsal": "15",
+       "posicion": "CD-R",
+       "p_titular": 0.4034,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3106052",
+       "nombre": "Denilson Muñoz",
+       "corto": "D. Muñoz",
+       "dorsal": "17",
+       "posicion": "",
+       "p_titular": 0.4024,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "416544",
+       "nombre": "Jean Unjanque",
+       "corto": "J. Unjanque",
+       "dorsal": "22",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3102565",
+       "nombre": "Sergio John Garcia Brothers",
+       "corto": "S. Garcia Brothers",
+       "dorsal": "199",
+       "posicion": "",
+       "p_titular": 0.3571,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3145446",
+       "nombre": "Joaquín Yael Cruz Sosa",
+       "corto": "J. Cruz Sosa",
+       "dorsal": "197",
+       "posicion": "",
+       "p_titular": 0.2812,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "362417",
+       "nombre": "Bernardo Parra",
+       "corto": "B. Parra",
+       "dorsal": "8",
+       "posicion": "LM",
+       "p_titular": 0.2575,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "138328",
+       "nombre": "Esteban Andrada",
+       "corto": "E. Andrada",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.8668,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "245848",
+       "nombre": "Gerardo Arteaga",
+       "corto": "G. Arteaga",
+       "dorsal": "3",
+       "posicion": "LB",
+       "p_titular": 0.9084,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "290348",
+       "nombre": "Víctor Guzmán",
+       "corto": "V. Guzmán",
+       "dorsal": "4",
+       "posicion": "CD-L",
+       "p_titular": 0.9068,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "202106",
+       "nombre": "Ricardo Chávez",
+       "corto": "R. Chávez",
+       "dorsal": "2",
+       "posicion": "RB",
+       "p_titular": 0.8668,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "207011",
+       "nombre": "Orbelín Pineda",
+       "corto": "O. Pineda",
+       "dorsal": "25",
+       "posicion": "CM",
+       "p_titular": 0.8538,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "159263",
+       "nombre": "Lucas Ocampos",
+       "corto": "L. Ocampos",
+       "dorsal": "7",
+       "posicion": "RM",
+       "p_titular": 0.7826,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "117977",
+       "nombre": "Jesús Corona",
+       "corto": "J. Corona",
+       "dorsal": "17",
+       "posicion": "LM",
+       "p_titular": 0.7158,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "235511",
+       "nombre": "Hugo Cuypers",
+       "corto": "H. Cuypers",
+       "dorsal": "99",
+       "posicion": "CF-L",
+       "p_titular": 0.8668,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "375061",
+       "nombre": "Cesar Garza",
+       "corto": "C. Garza",
+       "dorsal": "18",
+       "posicion": "SW",
+       "p_titular": 0.8577,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "235817",
+       "nombre": "Diego Rossi",
+       "corto": "D. Rossi",
+       "dorsal": "9",
+       "posicion": "CF-R",
+       "p_titular": 0.7601,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "184299",
+       "nombre": "Carlos Salcedo",
+       "corto": "C. Salcedo",
+       "dorsal": "13",
+       "posicion": "",
+       "p_titular": 0.7217,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "173233",
+       "nombre": "Óliver Torres",
+       "corto": "Ó. Torres",
+       "dorsal": "8",
+       "posicion": "",
+       "p_titular": 0.5648,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "417642",
+       "nombre": "Omar Gálvez",
+       "corto": "O. Gálvez",
+       "dorsal": "200",
+       "posicion": "",
+       "p_titular": 0.4412,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "298860",
+       "nombre": "Fidel Ambríz",
+       "corto": "F. Ambríz",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.3996,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "276305",
+       "nombre": "Luca Orellano",
+       "corto": "L. Orellano",
+       "dorsal": "10",
+       "posicion": "",
+       "p_titular": 0.332,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "195220",
+       "nombre": "Uros Djurdjevic",
+       "corto": "U. Djurdjevic",
+       "dorsal": "32",
+       "posicion": "",
+       "p_titular": 0.3024,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "379211",
+       "nombre": "Cristian Reyes",
+       "corto": "C. Reyes",
+       "dorsal": "194",
+       "posicion": "",
+       "p_titular": 0.3,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "145261",
+       "nombre": "Aldo De Nigris",
+       "corto": "A. De Nigris",
+       "dorsal": "203",
+       "posicion": "",
+       "p_titular": 0.2778,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Querétaro, 39 %.",
+   "razon": [
+    "Forma: Querétaro llega con E V V D D en sus últimos 5 (16 goles a favor, 15 en contra en 12 partidos); Monterrey con D E V V D.",
+    "En casa Querétaro promedia 1,40 goles a favor y 1,20 en contra en 5 partidos.",
+    "Fuera Monterrey promedia 1,67 a favor y 1,67 en contra en 6 partidos.",
+    "El modelo da 39 % a que gane el local; la media de Liga MX en ese mercado es 44 %: se aparta -5 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,51 - 1,31 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 39 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "E",
+    "V",
+    "V",
+    "D",
+    "D"
+   ],
+   "forma_away": [
+    "D",
+    "E",
+    "V",
+    "V",
+    "D"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "a02569498352653cb10d6316e5868842e4f1470936413002e6bb743311710f6e",
+   "pick_hash": "7b54ca66a84992b4666e1e0785b73672ebfd31e1599850abfad9a8ab8d29e489"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-15T13:00Z",
+   "kickoff_local": "14:00",
+   "dia": "dom 15",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883113",
+   "home": "Tenerife",
+   "away": "Ceuta",
+   "home_id": "245",
+   "away_id": "5404",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/245.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5404.png",
+   "home_color": "008bc4",
+   "away_color": "000000",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.5867,
+   "edge_vs_league": 0.1298,
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 2.15,
+    "xg_away": 0.87,
+    "p_home": 0.5867,
+    "p_draw": 0.224,
+    "p_away": 0.1893,
+    "p_over": 0.581,
+    "p_under": 0.419,
+    "p_btts_yes": 0.509,
+    "p_btts_no": 0.491,
+    "score": "2-0"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-4-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "264077",
+       "nombre": "Dani Martín",
+       "corto": "D. Martín",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "235018",
+       "nombre": "Anthony Landázuri",
+       "corto": "A. Landázuri",
+       "dorsal": "12",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "308453",
+       "nombre": "David Rodríguez Ramos",
+       "corto": "D. Rodríguez Ramos",
+       "dorsal": "2",
+       "posicion": "LB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "377597",
+       "nombre": "César Álvarez",
+       "corto": "C. Álvarez",
+       "dorsal": "19",
+       "posicion": "RB",
+       "p_titular": 0.7673,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "231574",
+       "nombre": "Nacho Gil",
+       "corto": "N. Gil",
+       "dorsal": "10",
+       "posicion": "LM",
+       "p_titular": 0.7461,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "102805",
+       "nombre": "Jesús Álvarez",
+       "corto": "J. Álvarez",
+       "dorsal": "16",
+       "posicion": "CM-L",
+       "p_titular": 0.6188,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "384650",
+       "nombre": "Daniel Fernández",
+       "corto": "D. Fernández",
+       "dorsal": "29",
+       "posicion": "RM",
+       "p_titular": 0.4831,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "195785",
+       "nombre": "Víctor Moreno",
+       "corto": "V. Moreno",
+       "dorsal": "8",
+       "posicion": "CF-L",
+       "p_titular": 0.8539,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "276634",
+       "nombre": "Enric Gallego",
+       "corto": "E. Gallego",
+       "dorsal": "18",
+       "posicion": "CF-L",
+       "p_titular": 0.8313,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "185866",
+       "nombre": "Juanjo",
+       "corto": "Juanjo",
+       "dorsal": "6",
+       "posicion": "",
+       "p_titular": 0.6967,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "322156",
+       "nombre": "Christian Gomis",
+       "corto": "C. Gomis",
+       "dorsal": "17",
+       "posicion": "CF-R",
+       "p_titular": 0.6567,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "412263",
+       "nombre": "Fabricio",
+       "corto": "Fabricio",
+       "dorsal": "15",
+       "posicion": "",
+       "p_titular": 0.6252,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "204899",
+       "nombre": "José León",
+       "corto": "J. León",
+       "dorsal": "4",
+       "posicion": "",
+       "p_titular": 0.6181,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "222379",
+       "nombre": "Gerard Valentín",
+       "corto": "G. Valentín",
+       "dorsal": "14",
+       "posicion": "",
+       "p_titular": 0.4408,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "324482",
+       "nombre": "Iván Chapela",
+       "corto": "I. Chapela",
+       "dorsal": "24",
+       "posicion": "LM",
+       "p_titular": 0.4365,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "84064",
+       "nombre": "Jorge Moreno",
+       "corto": "J. Moreno",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.4103,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "220073",
+       "nombre": "Mauro Pittón",
+       "corto": "M. Pittón",
+       "dorsal": "20",
+       "posicion": "CM-R",
+       "p_titular": 0.4085,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "412103",
+       "nombre": "Baba Diocou",
+       "corto": "B. Diocou",
+       "dorsal": "26",
+       "posicion": "",
+       "p_titular": 0.3788,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-3-3",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "183413",
+       "nombre": "Pedro López",
+       "corto": "P. López",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.3961,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "175089",
+       "nombre": "Carlos Hernández",
+       "corto": "C. Hernández",
+       "dorsal": "6",
+       "posicion": "CD-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "223097",
+       "nombre": "Matos",
+       "corto": "Matos",
+       "dorsal": "3",
+       "posicion": "LB",
+       "p_titular": 0.8028,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "354257",
+       "nombre": "Capa",
+       "corto": "Capa",
+       "dorsal": "4",
+       "posicion": "CD-L",
+       "p_titular": 0.7869,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "250658",
+       "nombre": "Kuki Zalazar",
+       "corto": "K. Zalazar",
+       "dorsal": "8",
+       "posicion": "AM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "419964",
+       "nombre": "Gabriel Okoro",
+       "corto": "G. Okoro",
+       "dorsal": "32",
+       "posicion": "RM",
+       "p_titular": 0.8028,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "213068",
+       "nombre": "Anuar",
+       "corto": "Anuar",
+       "dorsal": "23",
+       "posicion": "AM",
+       "p_titular": 0.75,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "276349",
+       "nombre": "Jordi Escobar",
+       "corto": "J. Escobar",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.6501,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "331653",
+       "nombre": "Kialy Kone",
+       "corto": "K. Kone",
+       "dorsal": "22",
+       "posicion": "AM-L",
+       "p_titular": 0.8594,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "279875",
+       "nombre": "Alejandro Camacho",
+       "corto": "A. Camacho",
+       "dorsal": "7",
+       "posicion": "",
+       "p_titular": 0.7425,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "311104",
+       "nombre": "Edgar Sevikyan",
+       "corto": "E. Sevikyan",
+       "dorsal": "19",
+       "posicion": "AM-R",
+       "p_titular": 0.6808,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "218218",
+       "nombre": "Guillermo",
+       "corto": "Guillermo",
+       "dorsal": "13",
+       "posicion": "",
+       "p_titular": 0.6039,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "354788",
+       "nombre": "Joaquín Felipe González Rodríguez",
+       "corto": "J. González Rodríguez",
+       "dorsal": "15",
+       "posicion": "",
+       "p_titular": 0.5553,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "261110",
+       "nombre": "Redru",
+       "corto": "Redru",
+       "dorsal": "16",
+       "posicion": "",
+       "p_titular": 0.5134,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "320874",
+       "nombre": "Alex Petxarromán",
+       "corto": "A. Petxarromán",
+       "dorsal": "18",
+       "posicion": "RB",
+       "p_titular": 0.4404,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3128492",
+       "nombre": "Daniel Mas Soria",
+       "corto": "D. Mas Soria",
+       "dorsal": "34",
+       "posicion": "CD-L",
+       "p_titular": 0.432,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "300216",
+       "nombre": "José Antonio Abad",
+       "corto": "J. Abad",
+       "dorsal": "2",
+       "posicion": "RB",
+       "p_titular": 0.3777,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "357345",
+       "nombre": "Marino Illescas",
+       "corto": "M. Illescas",
+       "dorsal": "10",
+       "posicion": "LM",
+       "p_titular": 0.3333,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Tenerife, 59 %.",
+   "razon": [
+    "Forma: Tenerife llega con D E D E E en sus últimos 5 (12 goles a favor, 14 en contra en 10 partidos); Ceuta con E V E D D.",
+    "En casa Tenerife promedia 1,00 goles a favor y 0,60 en contra en 5 partidos.",
+    "Fuera Ceuta promedia 0,75 a favor y 3,00 en contra en 4 partidos.",
+    "El modelo da 59 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 46 %: se aparta +13 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 2,15 - 0,87 y da como marcador más probable 2-0.",
+    "Lectura SIN ventaja: 59 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "D",
+    "E",
+    "D",
+    "E",
+    "E"
+   ],
+   "forma_away": [
+    "E",
+    "V",
+    "E",
+    "D",
+    "D"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "7b54ca66a84992b4666e1e0785b73672ebfd31e1599850abfad9a8ab8d29e489",
+   "pick_hash": "f747944f66b8e530045144e689229a271ae8a9b40098c359119f9fbfb7223aba"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-15T15:15Z",
+   "kickoff_local": "16:15",
+   "dia": "dom 15",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883116",
+   "home": "Granada",
+   "away": "Las Palmas",
+   "home_id": "3747",
+   "away_id": "98",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/98.png",
+   "home_color": "C8142F",
+   "away_color": "ffff00",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.5498,
+   "edge_vs_league": 0.0929,
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 2.14,
+    "xg_away": 1.05,
+    "p_home": 0.5498,
+    "p_draw": 0.2291,
+    "p_away": 0.221,
+    "p_over": 0.6188,
+    "p_under": 0.3812,
+    "p_btts_yes": 0.5703,
+    "p_btts_no": 0.4297,
+    "score": "2-1"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "185100",
+       "nombre": "Alberto Flores",
+       "corto": "A. Flores",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.6394,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "312144",
+       "nombre": "Manu Lama",
+       "corto": "Manu Lama",
+       "dorsal": "5",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "173611",
+       "nombre": "Sergio López",
+       "corto": "S. López",
+       "dorsal": "18",
+       "posicion": "RB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "412251",
+       "nombre": "Juanjo",
+       "corto": "Juanjo",
+       "dorsal": "30",
+       "posicion": "CD-R",
+       "p_titular": 0.6394,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "186181",
+       "nombre": "Gerard Gumbau",
+       "corto": "G. Gumbau",
+       "dorsal": "6",
+       "posicion": "LM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "214317",
+       "nombre": "Rubén Alcaraz",
+       "corto": "R. Alcaraz",
+       "dorsal": "4",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "409385",
+       "nombre": "Mario Jiménez Gambin",
+       "corto": "M. Jiménez Gambin",
+       "dorsal": "27",
+       "posicion": "AM",
+       "p_titular": 0.3819,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "271900",
+       "nombre": "Alejandro Marqués",
+       "corto": "A. Marqués",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.6976,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "229522",
+       "nombre": "José Arnaiz",
+       "corto": "J. Arnaiz",
+       "dorsal": "11",
+       "posicion": "AM-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "384447",
+       "nombre": "Sergio Rodelas",
+       "corto": "S. Rodelas",
+       "dorsal": "7",
+       "posicion": "AM-R",
+       "p_titular": 0.6217,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "330246",
+       "nombre": "Pedro Alemañ",
+       "corto": "P. Alemañ",
+       "dorsal": "8",
+       "posicion": "CF-R",
+       "p_titular": 0.5745,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "343634",
+       "nombre": "Jorge Pascual Medina",
+       "corto": "J. Pascual Medina",
+       "dorsal": "10",
+       "posicion": "F",
+       "p_titular": 0.5719,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "313347",
+       "nombre": "Baila Diallo",
+       "corto": "B. Diallo",
+       "dorsal": "22",
+       "posicion": "LB",
+       "p_titular": 0.5679,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "264488",
+       "nombre": "Diego Pampín",
+       "corto": "D. Pampín",
+       "dorsal": "16",
+       "posicion": "",
+       "p_titular": 0.4849,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "153481",
+       "nombre": "Raúl Lizoain",
+       "corto": "R. Lizoain",
+       "dorsal": "13",
+       "posicion": "",
+       "p_titular": 0.4247,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "220716",
+       "nombre": "Benedikt Gimber",
+       "corto": "B. Gimber",
+       "dorsal": "23",
+       "posicion": "",
+       "p_titular": 0.4139,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3094492",
+       "nombre": "Owen Mira Chukwuemeka",
+       "corto": "O. Mira Chukwuemeka",
+       "dorsal": "36",
+       "posicion": "",
+       "p_titular": 0.3377,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "392986",
+       "nombre": "Íker García",
+       "corto": "Í. García",
+       "dorsal": "37",
+       "posicion": "",
+       "p_titular": 0.2571,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-4-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "239387",
+       "nombre": "Caro",
+       "corto": "Caro",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "388727",
+       "nombre": "Valentín Pezzolesi",
+       "corto": "V. Pezzolesi",
+       "dorsal": "25",
+       "posicion": "RB",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "121611",
+       "nombre": "Álex Suárez",
+       "corto": "Á. Suárez",
+       "dorsal": "4",
+       "posicion": "CD-R",
+       "p_titular": 0.9072,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "367729",
+       "nombre": "Juanma Herzog",
+       "corto": "J. Herzog",
+       "dorsal": "15",
+       "posicion": "CD-L",
+       "p_titular": 0.9007,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "265959",
+       "nombre": "Taisei Miyashiro",
+       "corto": "T. Miyashiro",
+       "dorsal": "11",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "367731",
+       "nombre": "Iñaki González",
+       "corto": "I. González",
+       "dorsal": "6",
+       "posicion": "CM-L",
+       "p_titular": 0.8883,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "280489",
+       "nombre": "Iván Jaime",
+       "corto": "I. Jaime",
+       "dorsal": "24",
+       "posicion": "LM",
+       "p_titular": 0.8668,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "5326095",
+       "nombre": "Sergio Viera García",
+       "corto": "S. Viera García",
+       "dorsal": "34",
+       "posicion": "CM-L",
+       "p_titular": 0.7632,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "162453",
+       "nombre": "Jesé",
+       "corto": "Jesé",
+       "dorsal": "10",
+       "posicion": "CF-R",
+       "p_titular": 0.7192,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "272870",
+       "nombre": "Enzo Loiodice",
+       "corto": "E. Loiodice",
+       "dorsal": "12",
+       "posicion": "CM-R",
+       "p_titular": 0.7158,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "288936",
+       "nombre": "Kirian Rodríguez",
+       "corto": "K. Rodríguez",
+       "dorsal": "20",
+       "posicion": "",
+       "p_titular": 0.6785,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "335952",
+       "nombre": "Giovanni Bonfanti",
+       "corto": "G. Bonfanti",
+       "dorsal": "21",
+       "posicion": "LB",
+       "p_titular": 0.6448,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "292774",
+       "nombre": "Manu Fuster",
+       "corto": "M. Fuster",
+       "dorsal": "14",
+       "posicion": "CF-L",
+       "p_titular": 0.5382,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "292217",
+       "nombre": "Enrique Clemente",
+       "corto": "E. Clemente",
+       "dorsal": "5",
+       "posicion": "LB",
+       "p_titular": 0.5192,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "165671",
+       "nombre": "Jefté",
+       "corto": "Jefté",
+       "dorsal": "7",
+       "posicion": "",
+       "p_titular": 0.4085,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3144268",
+       "nombre": "Adrián Rodríguez Del Rosario",
+       "corto": "A. Rodríguez Del Rosario",
+       "dorsal": "44",
+       "posicion": "",
+       "p_titular": 0.377,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "375799",
+       "nombre": "Andrés Rodríguez",
+       "corto": "A. Rodríguez",
+       "dorsal": "23",
+       "posicion": "",
+       "p_titular": 0.3375,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "265867",
+       "nombre": "Adrián Vázquez",
+       "corto": "A. Vázquez",
+       "dorsal": "44",
+       "posicion": "",
+       "p_titular": 0.3214,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Granada, 55 %.",
+   "razon": [
+    "Forma: Granada llega con D V V V V en sus últimos 5 (18 goles a favor, 14 en contra en 11 partidos); Las Palmas con D E D D V.",
+    "En casa Granada promedia 1,80 goles a favor y 1,00 en contra en 5 partidos.",
+    "Fuera Las Palmas promedia 1,60 a favor y 2,20 en contra en 5 partidos.",
+    "El modelo da 55 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 46 %: se aparta +9 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 2,14 - 1,05 y da como marcador más probable 2-1.",
+    "Lectura SIN ventaja: 55 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "D",
+    "V",
+    "V",
+    "V",
+    "V"
+   ],
+   "forma_away": [
+    "D",
+    "E",
+    "D",
+    "D",
+    "V"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "f747944f66b8e530045144e689229a271ae8a9b40098c359119f9fbfb7223aba",
+   "pick_hash": "de2fb15ec89d1eb2607407af114634247cb7d6abd48818b1ece0efcdcffba883"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-15T17:30Z",
+   "kickoff_local": "18:30",
+   "dia": "dom 15",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883117",
+   "home": "Eibar",
+   "away": "Cádiz",
+   "home_id": "3752",
+   "away_id": "3842",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+   "home_color": "c00000",
+   "away_color": "ffff00",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.5214,
+   "edge_vs_league": 0.0645,
+   "recomendado": false,
+   "nivel": "media",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 1.79,
+    "xg_away": 0.9,
+    "p_home": 0.5214,
+    "p_draw": 0.2507,
+    "p_away": 0.2279,
+    "p_over": 0.5047,
+    "p_under": 0.4953,
+    "p_btts_yes": 0.4891,
+    "p_btts_no": 0.5109,
+    "score": "1-0"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "290751",
+       "nombre": "Jon Mikel Magunagoitia",
+       "corto": "J. Magunagoitia",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "150806",
+       "nombre": "Anaitz Arbilla",
+       "corto": "A. Arbilla",
+       "dorsal": "23",
+       "posicion": "CD-L",
+       "p_titular": 0.9028,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "231214",
+       "nombre": "Unai Elgezabel",
+       "corto": "U. Elgezabel",
+       "dorsal": "4",
+       "posicion": "CD-R",
+       "p_titular": 0.9028,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "164194",
+       "nombre": "Juan Bernat",
+       "corto": "J. Bernat",
+       "dorsal": "24",
+       "posicion": "LB",
+       "p_titular": 0.8946,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "367721",
+       "nombre": "Ander Madariaga",
+       "corto": "A. Madariaga",
+       "dorsal": "8",
+       "posicion": "LM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "361257",
+       "nombre": "Aleix Garrido",
+       "corto": "A. Garrido",
+       "dorsal": "30",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "325010",
+       "nombre": "Jon Magunacelaya",
+       "corto": "J. Magunacelaya",
+       "dorsal": "11",
+       "posicion": "AM",
+       "p_titular": 0.6435,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "324351",
+       "nombre": "Javier Martón",
+       "corto": "J. Martón",
+       "dorsal": "20",
+       "posicion": "F",
+       "p_titular": 0.3464,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "347412",
+       "nombre": "Malcom Adu Ares",
+       "corto": "A. Ares",
+       "dorsal": "7",
+       "posicion": "AM-R",
+       "p_titular": 0.9028,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "251661",
+       "nombre": "Álvaro Rodríguez Pérez",
+       "corto": "Á. Rodríguez Pérez",
+       "dorsal": "22",
+       "posicion": "",
+       "p_titular": 0.6785,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "376033",
+       "nombre": "Jon Guruzeta",
+       "corto": "J. Guruzeta",
+       "dorsal": "10",
+       "posicion": "",
+       "p_titular": 0.6679,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "234335",
+       "nombre": "Jon Bautista",
+       "corto": "J. Bautista",
+       "dorsal": "9",
+       "posicion": "",
+       "p_titular": 0.6536,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "331283",
+       "nombre": "Iván Gil",
+       "corto": "I. Gil",
+       "dorsal": "21",
+       "posicion": "",
+       "p_titular": 0.4654,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "271822",
+       "nombre": "Peru Nolaskoain",
+       "corto": "P. Nolaskoain",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.4203,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3133547",
+       "nombre": "Iker Zubiría Azpiroz",
+       "corto": "I. Zubiría Azpiroz",
+       "dorsal": "29",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "398861",
+       "nombre": "Carlos Lumbreras",
+       "corto": "C. Lumbreras",
+       "dorsal": "32",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "418212",
+       "nombre": "Elijah Gift",
+       "corto": "Elijah Gift",
+       "dorsal": "27",
+       "posicion": "AM-R",
+       "p_titular": 0.3598,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "300512",
+       "nombre": "Sergio Cubero",
+       "corto": "S. Cubero",
+       "dorsal": "2",
+       "posicion": "RB",
+       "p_titular": 0.3215,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "195604",
+       "nombre": "David Gil",
+       "corto": "D. Gil",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.6394,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "128374",
+       "nombre": "Javier Castro",
+       "corto": "J. Castro",
+       "dorsal": "4",
+       "posicion": "CD-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "409477",
+       "nombre": "Manuel Fernández",
+       "corto": "M. Fernández",
+       "dorsal": "6",
+       "posicion": "CD-L",
+       "p_titular": 0.7815,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "399240",
+       "nombre": "Sergio Arribas",
+       "corto": "S. Arribas",
+       "dorsal": "3",
+       "posicion": "LB",
+       "p_titular": 0.7692,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "291262",
+       "nombre": "Marc-Oliver Doué",
+       "corto": "M. Doué",
+       "dorsal": "5",
+       "posicion": "RM",
+       "p_titular": 0.7561,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "387838",
+       "nombre": "Dilan Zárate",
+       "corto": "D. Zárate",
+       "dorsal": "28",
+       "posicion": "LM",
+       "p_titular": 0.6501,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "291401",
+       "nombre": "Aimen Moueffek",
+       "corto": "A. Moueffek",
+       "dorsal": "17",
+       "posicion": "AM",
+       "p_titular": 0.5055,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "394420",
+       "nombre": "Vladyslav Kopotun",
+       "corto": "V. Kopotun",
+       "dorsal": "21",
+       "posicion": "F",
+       "p_titular": 0.6394,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "375875",
+       "nombre": "Antonio Cordero",
+       "corto": "A. Cordero",
+       "dorsal": "16",
+       "posicion": "AM-L",
+       "p_titular": 0.7567,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "411758",
+       "nombre": "Ibon Sánchez",
+       "corto": "I. Sánchez",
+       "dorsal": "24",
+       "posicion": "AM-R",
+       "p_titular": 0.7282,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "306347",
+       "nombre": "Giorgi Gocholeishvili",
+       "corto": "G. Gocholeishvili",
+       "dorsal": "12",
+       "posicion": "RB",
+       "p_titular": 0.7115,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "290048",
+       "nombre": "Jandro Orellana",
+       "corto": "J. Orellana",
+       "dorsal": "18",
+       "posicion": "",
+       "p_titular": 0.6679,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "397417",
+       "nombre": "Juan Díaz",
+       "corto": "J. Díaz",
+       "dorsal": "27",
+       "posicion": "",
+       "p_titular": 0.6252,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "362125",
+       "nombre": "José Antonio De La Rosa",
+       "corto": "J. De La Rosa",
+       "dorsal": "11",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "354788",
+       "nombre": "Joaquín Felipe González Rodríguez",
+       "corto": "J. González Rodríguez",
+       "dorsal": "5",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "209578",
+       "nombre": "Jokin Ezkieta",
+       "corto": "J. Ezkieta",
+       "dorsal": "13",
+       "posicion": "",
+       "p_titular": 0.3606,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "319121",
+       "nombre": "Kenan Toubibou",
+       "corto": "K. Toubibou",
+       "dorsal": "15",
+       "posicion": "",
+       "p_titular": 0.3571,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "342140",
+       "nombre": "Bojan Kovacevic",
+       "corto": "B. Kovacevic",
+       "dorsal": "14",
+       "posicion": "",
+       "p_titular": 0.3533,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Eibar, 52 %.",
+   "razon": [
+    "Forma: Eibar llega con V V D E D en sus últimos 5 (20 goles a favor, 13 en contra en 11 partidos); Cádiz con D E V D D.",
+    "En casa Eibar promedia 1,80 goles a favor y 1,20 en contra en 5 partidos.",
+    "Fuera Cádiz promedia 1,25 a favor y 2,00 en contra en 4 partidos.",
+    "El modelo da 52 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 46 %: se aparta +6 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,79 - 0,90 y da como marcador más probable 1-0.",
+    "Lectura SIN ventaja: 52 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "V",
+    "V",
+    "D",
+    "E",
+    "D"
+   ],
+   "forma_away": [
+    "D",
+    "E",
+    "V",
+    "D",
+    "D"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "de2fb15ec89d1eb2607407af114634247cb7d6abd48818b1ece0efcdcffba883",
+   "pick_hash": "8a7ed1fda2627791a03a555266e6bb0976b9ecb5c0d910fe16b3be86a0e60610"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-15T17:30Z",
+   "kickoff_local": "18:30",
+   "dia": "dom 15",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883137",
+   "home": "Eldense",
+   "away": "CD Sabadell",
+   "home_id": "7320",
+   "away_id": "11487",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7320.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11487.png",
+   "home_color": "000000",
+   "away_color": "000000",
+   "status": "PICK",
+   "market": "1",
+   "selection_label": "Gana LOCAL",
+   "prob": 0.3907,
+   "edge_vs_league": -0.0662,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 1.17,
+    "xg_away": 0.96,
+    "p_home": 0.3907,
+    "p_draw": 0.2956,
+    "p_away": 0.3137,
+    "p_over": 0.3589,
+    "p_under": 0.6411,
+    "p_btts_yes": 0.4192,
+    "p_btts_no": 0.5808,
+    "score": "1-0"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-2-3-1",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "354450",
+       "nombre": "Ramon Vila",
+       "corto": "R. Vila",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9059,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "346837",
+       "nombre": "Floris Smand",
+       "corto": "F. Smand",
+       "dorsal": "4",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "375724",
+       "nombre": "Álex Serra",
+       "corto": "Álex Serra",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "412135",
+       "nombre": "David Ruiz Montero",
+       "corto": "D. Montero",
+       "dorsal": "21",
+       "posicion": "LB",
+       "p_titular": 0.8185,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "113146",
+       "nombre": "Justin Smith",
+       "corto": "J. Smith",
+       "dorsal": "14",
+       "posicion": "LM",
+       "p_titular": 0.9087,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "389266",
+       "nombre": "Carlos Guirao",
+       "corto": "C. Guirao",
+       "dorsal": "15",
+       "posicion": "RM",
+       "p_titular": 0.848,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "393755",
+       "nombre": "Guillermo Macho",
+       "corto": "Guillermo Macho",
+       "dorsal": "18",
+       "posicion": "LM",
+       "p_titular": 0.4788,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "374618",
+       "nombre": "Jorge Rastrojo",
+       "corto": "J. Rastrojo",
+       "dorsal": "7",
+       "posicion": "F",
+       "p_titular": 0.5151,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "147491",
+       "nombre": "Fidel",
+       "corto": "Fidel",
+       "dorsal": "10",
+       "posicion": "AM-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "377833",
+       "nombre": "Aingeru Olabarrieta",
+       "corto": "A. Olabarrieta",
+       "dorsal": "33",
+       "posicion": "AM-L",
+       "p_titular": 0.7167,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "308145",
+       "nombre": "Roberto López",
+       "corto": "R. López",
+       "dorsal": "12",
+       "posicion": "",
+       "p_titular": 0.5661,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "325545",
+       "nombre": "Juan Larios",
+       "corto": "J. Larios",
+       "dorsal": "3",
+       "posicion": "LB",
+       "p_titular": 0.5441,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "311264",
+       "nombre": "Jesus Clemente",
+       "corto": "J. Clemente",
+       "dorsal": "17",
+       "posicion": "RB",
+       "p_titular": 0.5202,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "299935",
+       "nombre": "Manuel Nieto",
+       "corto": "M. Nieto",
+       "dorsal": "11",
+       "posicion": "",
+       "p_titular": 0.5187,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "407406",
+       "nombre": "Álex Ibarrondo",
+       "corto": "Á. Ibarrondo",
+       "dorsal": "19",
+       "posicion": "",
+       "p_titular": 0.5187,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "278205",
+       "nombre": "Javier Martínez",
+       "corto": "J. Martínez",
+       "dorsal": "24",
+       "posicion": "AM",
+       "p_titular": 0.4458,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "395201",
+       "nombre": "Mariano Carmona",
+       "corto": "M. Carmona",
+       "dorsal": "9",
+       "posicion": "",
+       "p_titular": 0.4336,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3129707",
+       "nombre": "Antonio David Marín Fernández",
+       "corto": "A. Marín Fernández",
+       "dorsal": "31",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "4-4-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "306293",
+       "nombre": "Diego Fuoli",
+       "corto": "Diego Fuoli",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "155283",
+       "nombre": "Óscar Sanz",
+       "corto": "Ó. Sanz",
+       "dorsal": "14",
+       "posicion": "CD",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "345216",
+       "nombre": "Urri",
+       "corto": "Urri",
+       "dorsal": "20",
+       "posicion": "SW",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "128669",
+       "nombre": "Edgar González",
+       "corto": "E. González",
+       "dorsal": "6",
+       "posicion": "CD-R",
+       "p_titular": 0.8961,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "287445",
+       "nombre": "Quadri Liameed",
+       "corto": "Q. Liameed",
+       "dorsal": "22",
+       "posicion": "CM-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "300272",
+       "nombre": "Ton Ripoll",
+       "corto": "T. Ripoll",
+       "dorsal": "7",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "178565",
+       "nombre": "Pere Pons",
+       "corto": "P. Pons",
+       "dorsal": "8",
+       "posicion": "CM-L",
+       "p_titular": 0.7691,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "307709",
+       "nombre": "Joel Priego",
+       "corto": "J. Priego",
+       "dorsal": "23",
+       "posicion": "CF-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "296749",
+       "nombre": "Nicholas Gioacchini",
+       "corto": "N. Gioacchini",
+       "dorsal": "16",
+       "posicion": "CF-L",
+       "p_titular": 0.7727,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "356085",
+       "nombre": "Miquel Codina",
+       "corto": "M. Codina",
+       "dorsal": "4",
+       "posicion": "LB",
+       "p_titular": 0.7516,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "253008",
+       "nombre": "Arthur Bonaldo",
+       "corto": "A. Bonaldo",
+       "dorsal": "5",
+       "posicion": "CD-L",
+       "p_titular": 0.6933,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "303843",
+       "nombre": "Ángel Baena",
+       "corto": "Á. Baena",
+       "dorsal": "10",
+       "posicion": "CF-L",
+       "p_titular": 0.6417,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "376662",
+       "nombre": "José Luis Català Vázquez",
+       "corto": "J. Català Vázquez",
+       "dorsal": "27",
+       "posicion": "CD-R",
+       "p_titular": 0.5702,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3129557",
+       "nombre": "Manel Estévez Rubio",
+       "corto": "M. Estévez Rubio",
+       "dorsal": "31",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "243084",
+       "nombre": "Agustín Coscia",
+       "corto": "A. Coscia",
+       "dorsal": "17",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "311296",
+       "nombre": "Miguelete",
+       "corto": "Miguelete",
+       "dorsal": "10",
+       "posicion": "",
+       "p_titular": 0.375,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "260245",
+       "nombre": "Pipa",
+       "corto": "Pipa",
+       "dorsal": "2",
+       "posicion": "LM",
+       "p_titular": 0.3033,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "380822",
+       "nombre": "Gastón Valles",
+       "corto": "G. Valles",
+       "dorsal": "12",
+       "posicion": "",
+       "p_titular": 0.2753,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana Eldense, 39 %.",
+   "razon": [
+    "Forma: Eldense llega con D D V V V en sus últimos 5 (13 goles a favor, 13 en contra en 10 partidos); CD Sabadell con V E E V D.",
+    "En casa Eldense promedia 1,80 goles a favor y 1,20 en contra en 5 partidos.",
+    "Fuera CD Sabadell promedia 0,50 a favor y 0,83 en contra en 6 partidos.",
+    "El modelo da 39 % a que gane el local; la media de LaLiga Hypermotion en ese mercado es 46 %: se aparta -7 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,17 - 0,96 y da como marcador más probable 1-0.",
+    "Lectura SIN ventaja: 39 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "D",
+    "D",
+    "V",
+    "V",
+    "V"
+   ],
+   "forma_away": [
+    "V",
+    "E",
+    "E",
+    "V",
+    "D"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "8a7ed1fda2627791a03a555266e6bb0976b9ecb5c0d910fe16b3be86a0e60610",
+   "pick_hash": "886095b092277b0a2b7ed92c453db6eefe01eb4140c2167ce7fdb3fc8cfa3aa0"
+  },
+  {
+   "date": "2026-11-10",
+   "kickoff": "2026-11-16T19:30Z",
+   "kickoff_local": "20:30",
+   "dia": "lun 16",
+   "league": "LaLiga Hypermotion",
+   "league_slug": "esp.2",
+   "event_id": "401883305",
+   "home": "Albacete",
+   "away": "RC Celta Fortuna",
+   "home_id": "2737",
+   "away_id": "131858",
+   "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2737.png",
+   "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131858.png",
+   "home_color": "BC0814",
+   "away_color": "6cace4",
+   "status": "PICK",
+   "market": "2",
+   "selection_label": "Gana VISITANTE",
+   "prob": 0.412,
+   "edge_vs_league": 0.0844,
+   "recomendado": false,
+   "nivel": "baja",
+   "detail": "lectura sin ventaja: la probabilidad no llega al 60 % que exigimos para sostenerla",
+   "mejor_candidato_label": null,
+   "probs": {
+    "xg_home": 1.34,
+    "xg_away": 1.6,
+    "p_home": 0.3294,
+    "p_draw": 0.2586,
+    "p_away": 0.412,
+    "p_over": 0.5629,
+    "p_under": 0.4371,
+    "p_btts_yes": 0.5831,
+    "p_btts_no": 0.4169,
+    "score": "1-1"
+   },
+   "base_league": {
+    "p_home": 0.4569,
+    "p_draw": 0.2155,
+    "p_away": 0.3276,
+    "p_over": 0.4914,
+    "p_under": 0.5086,
+    "p_btts_yes": 0.5086,
+    "p_btts_no": 0.4914
+   },
+   "odds_at_publish": null,
+   "stake_units": null,
+   "settle": {
+    "result": "PENDING",
+    "final_score": null,
+    "odds_close": null,
+    "clv": null
+   },
+   "alineacion": null,
+   "once": {
+    "home": {
+     "formacion": "4-4-2",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "140342",
+       "nombre": "Diego Mariño",
+       "corto": "D. Mariño",
+       "dorsal": "13",
+       "posicion": "G",
+       "p_titular": 0.5258,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "236153",
+       "nombre": "Lluis López",
+       "corto": "L. López",
+       "dorsal": "22",
+       "posicion": "CD",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "283862",
+       "nombre": "Carlos Neva",
+       "corto": "C. Neva",
+       "dorsal": "21",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "276637",
+       "nombre": "Fran Gamez",
+       "corto": "F. Gamez",
+       "dorsal": "15",
+       "posicion": "RB",
+       "p_titular": 0.7041,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "264181",
+       "nombre": "José Corpas",
+       "corto": "J. Corpas",
+       "dorsal": "17",
+       "posicion": "RM",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "274015",
+       "nombre": "Victor San Bartolomé",
+       "corto": "V. San Bartolomé",
+       "dorsal": "14",
+       "posicion": "CM-R",
+       "p_titular": 0.8696,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "297361",
+       "nombre": "Antonio Pacheco Ruiz",
+       "corto": "A. Pacheco Ruiz",
+       "dorsal": "6",
+       "posicion": "AM",
+       "p_titular": 0.6927,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "279697",
+       "nombre": "Mario Soberón",
+       "corto": "M. Soberón",
+       "dorsal": "9",
+       "posicion": "",
+       "p_titular": 0.7425,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "356770",
+       "nombre": "Víctor Valverde Da Silva",
+       "corto": "V. Valverde Da Silva",
+       "dorsal": "11",
+       "posicion": "CF-L",
+       "p_titular": 0.7243,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "101307",
+       "nombre": "Javier Moreno",
+       "corto": "J. Moreno",
+       "dorsal": "5",
+       "posicion": "CD-R",
+       "p_titular": 0.6976,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "300877",
+       "nombre": "Pepe Sanchez",
+       "corto": "Pepe Sanchez",
+       "dorsal": "23",
+       "posicion": "CD-R",
+       "p_titular": 0.625,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "331513",
+       "nombre": "Ortu",
+       "corto": "Ortu",
+       "dorsal": "18",
+       "posicion": "CM-L",
+       "p_titular": 0.6146,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "388337",
+       "nombre": "Lorenzo Aguado",
+       "corto": "L. Aguado",
+       "dorsal": "2",
+       "posicion": "",
+       "p_titular": 0.5833,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "209592",
+       "nombre": "Jesús Vallejo",
+       "corto": "J. Vallejo",
+       "dorsal": "24",
+       "posicion": "CD-R",
+       "p_titular": 0.5596,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "207352",
+       "nombre": "Agus Medina",
+       "corto": "A. Medina",
+       "dorsal": "4",
+       "posicion": "",
+       "p_titular": 0.5382,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "282682",
+       "nombre": "Roberto González",
+       "corto": "R. González",
+       "dorsal": "10",
+       "posicion": "",
+       "p_titular": 0.4938,
+       "titularidades": 2,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "375419",
+       "nombre": "Álex Rubio",
+       "corto": "Á. Rubio",
+       "dorsal": "19",
+       "posicion": "CF-R",
+       "p_titular": 0.4894,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "240648",
+       "nombre": "Carlos Marín",
+       "corto": "C. Marín",
+       "dorsal": "1",
+       "posicion": "",
+       "p_titular": 0.4742,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    },
+    "away": {
+     "formacion": "3-4-3",
+     "partidos_base": 8,
+     "jugadores": [
+      {
+       "id": "329669",
+       "nombre": "Coke Carrillo",
+       "corto": "Coke Carrillo",
+       "dorsal": "1",
+       "posicion": "G",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "3100794",
+       "nombre": "Enrique Ribes",
+       "corto": "E. Ribes",
+       "dorsal": "3",
+       "posicion": "CD-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "421889",
+       "nombre": "Anxo Rodríguez",
+       "corto": "A. Rodríguez",
+       "dorsal": "20",
+       "posicion": "CD-L",
+       "p_titular": 0.8539,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "3100793",
+       "nombre": "Pablo Gavián Alonso",
+       "corto": "P. Gavián Alonso",
+       "dorsal": "2",
+       "posicion": "CD-R",
+       "p_titular": 0.7282,
+       "titularidades": 5,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "374626",
+       "nombre": "Adrià Capdevila",
+       "corto": "A. Capdevila",
+       "dorsal": "16",
+       "posicion": "CM-L",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "308763",
+       "nombre": "Joel Lopez Salguero",
+       "corto": "J. Lopez Salguero",
+       "dorsal": "18",
+       "posicion": "LM",
+       "p_titular": 0.8313,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "414293",
+       "nombre": "Hugo Burcio",
+       "corto": "H. Burcio",
+       "dorsal": "5",
+       "posicion": "CM-L",
+       "p_titular": 0.6786,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "367442",
+       "nombre": "Alvaro Marin",
+       "corto": "Alvaro Marin",
+       "dorsal": "9",
+       "posicion": "F",
+       "p_titular": 0.8455,
+       "titularidades": 7,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "405521",
+       "nombre": "Óscar Marcos",
+       "corto": "Ó. Marcos",
+       "dorsal": "10",
+       "posicion": "CF-R",
+       "p_titular": 0.9201,
+       "titularidades": 8,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "415036",
+       "nombre": "Ángel Arcos",
+       "corto": "Á. Arcos",
+       "dorsal": "11",
+       "posicion": "CF-L",
+       "p_titular": 0.7247,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": false
+      },
+      {
+       "id": "414291",
+       "nombre": "Pablo Meixús",
+       "corto": "P. Meixús",
+       "dorsal": "6",
+       "posicion": "CD",
+       "p_titular": 0.6734,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": false
+      }
+     ],
+     "suplentes": [
+      {
+       "id": "3100792",
+       "nombre": "Frank Germain Jonathan Miller",
+       "corto": "F. Miller",
+       "dorsal": "23",
+       "posicion": "RM",
+       "p_titular": 0.6448,
+       "titularidades": 6,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "365843",
+       "nombre": "Hugo Cuenca",
+       "corto": "H. Cuenca",
+       "dorsal": "17",
+       "posicion": "CM-R",
+       "p_titular": 0.6004,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "386167",
+       "nombre": "Aldrine Kibet",
+       "corto": "A. Kibet",
+       "dorsal": "15",
+       "posicion": "",
+       "p_titular": 0.5506,
+       "titularidades": 4,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3100789",
+       "nombre": "Bernard Sarppong Somuah",
+       "corto": "B. Somuah",
+       "dorsal": "7",
+       "posicion": "F",
+       "p_titular": 0.4394,
+       "titularidades": 1,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "3101284",
+       "nombre": "Mateo Sobral Sabajanes",
+       "corto": "M. Sobral Sabajanes",
+       "dorsal": "29",
+       "posicion": "",
+       "p_titular": 0.3996,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "388287",
+       "nombre": "Alexis Olmedo",
+       "corto": "A. Olmedo",
+       "dorsal": "21",
+       "posicion": "",
+       "p_titular": 0.3909,
+       "titularidades": 3,
+       "partidos": 8,
+       "suplente": true
+      },
+      {
+       "id": "158004",
+       "nombre": "Raúl Blanco",
+       "corto": "R. Blanco",
+       "dorsal": "31",
+       "posicion": "",
+       "p_titular": 0.2812,
+       "titularidades": 0,
+       "partidos": 8,
+       "suplente": true
+      }
+     ]
+    }
+   },
+   "bajas": null,
+   "bajas_fuente": "sin-fuente",
+   "razon_titular": "Lo más probable: gana RC Celta Fortuna, 41 %.",
+   "razon": [
+    "Forma: Albacete llega con D D D D D en sus últimos 5 (6 goles a favor, 22 en contra en 10 partidos); RC Celta Fortuna con E D V E D.",
+    "En casa Albacete promedia 0,75 goles a favor y 2,00 en contra en 4 partidos.",
+    "Fuera RC Celta Fortuna promedia 1,00 a favor y 2,00 en contra en 5 partidos.",
+    "El modelo da 41 % a que gane el visitante; la media de LaLiga Hypermotion en ese mercado es 33 %: se aparta +8 pp de la media (referencia, no es una ventaja real).",
+    "El modelo estima xG 1,34 - 1,60 y da como marcador más probable 1-1.",
+    "Lectura SIN ventaja: 41 % no llega al 60 % que exigimos. Publicamos el pronóstico porque leer el partido es útil, pero no lo sostendríamos con dinero."
+   ],
+   "forma_home": [
+    "D",
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "forma_away": [
+    "E",
+    "D",
+    "V",
+    "E",
+    "D"
+   ],
+   "model": "dc-poisson-v0.2",
+   "source": "espn-temporary",
+   "prev_hash": "886095b092277b0a2b7ed92c453db6eefe01eb4140c2167ce7fdb3fc8cfa3aa0",
+   "pick_hash": "a0265946680c1339bc84083b85f46258181470946c5832d99363571f3fe0251e"
+  }
+ ]
+}
