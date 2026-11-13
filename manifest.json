@@ -1,10 +1,10 @@
 {
- "generado": "2026-11-13T17:45:43+00:00",
+ "generado": "2026-11-13T18:30:34+00:00",
  "dia": "2026-11-13",
  "modelo": "dc-poisson-v0.2",
  "ficheros": {
   "2026-11-13.json": {
-   "sha256": "383357615cb3aba9186cc7750138f5d9032071f7b4866a9f42efefd5305a1df4",
+   "sha256": "b43b045132db3bf5b36aecbb7be488cbd63130b496d97aa2789c5a1e77723666",
    "bytes": 902415
   },
   "2026-11-13.canonical.jsonl": {
@@ -12,15 +12,15 @@
    "bytes": 608345
   },
   "ligas.json": {
-   "sha256": "2f91e358efa222e706fc7e084707a1d0473a2305dd51f7826ca1daf87890960f",
-   "bytes": 56266
+   "sha256": "d28ff5871f7e9710f2d27f2c5f35923e252cca4314e7cecd6fb527c5912a5d78",
+   "bytes": 56320
   },
   "live.json": {
    "sha256": "4f1cdfc6dd53c2b9d498fcdf33aeb2b93c5bd80421735744d241ff7f2768aefa",
    "bytes": 99
   },
   "resultados.json": {
-   "sha256": "e7e910935ee80ea7bfbb74589b290bca6966b116f6082d56d57ff44cd73c3bcb",
+   "sha256": "a9a1f31da3a02c5aae74c85045380be176b3a9a3990786151c95df590a841df1",
    "bytes": 110383
   },
   "index.json": {
