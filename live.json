@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T21:31:19+00:00",
+ "generado": "2026-11-13T21:45:44+00:00",
  "dia": "2026-11-13",
  "en_juego": 0,
  "partidos": [
@@ -26,7 +26,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 40.2,
+     "posesion": 39.8,
      "tiros": 7,
      "a_puerta": 3,
      "faltas": 10,
@@ -34,10 +34,10 @@
      "rojas": 0,
      "corners": 4,
      "paradas": 2,
-     "pases": 258
+     "pases": 260
     },
     "visit": {
-     "posesion": 59.8,
+     "posesion": 60.2,
      "tiros": 21,
      "a_puerta": 3,
      "faltas": 18,
@@ -45,7 +45,7 @@
      "rojas": 0,
      "corners": 9,
      "paradas": 1,
-     "pases": 400
+     "pases": 409
     }
    },
    "eventos": [
