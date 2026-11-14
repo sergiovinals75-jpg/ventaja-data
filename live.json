@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T16:30:48+00:00",
+ "generado": "2026-11-14T17:00:50+00:00",
  "dia": "2026-11-14",
  "en_juego": 1,
  "partidos": [
@@ -9,7 +9,7 @@
    "slug": "esp.2",
    "hora": "15:15",
    "estado": "EN JUEGO",
-   "minuto": "58'",
+   "minuto": "89'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -26,26 +26,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 56.7,
-     "tiros": 8,
+     "posesion": 51.7,
+     "tiros": 10,
      "a_puerta": 4,
-     "faltas": 6,
-     "amarillas": 0,
+     "faltas": 13,
+     "amarillas": 2,
      "rojas": 0,
-     "corners": 3,
+     "corners": 5,
      "paradas": 1,
-     "pases": 289
+     "pases": 357
     },
     "visit": {
-     "posesion": 43.3,
-     "tiros": 8,
+     "posesion": 48.3,
+     "tiros": 14,
      "a_puerta": 4,
-     "faltas": 7,
-     "amarillas": 3,
-     "rojas": 0,
-     "corners": 2,
+     "faltas": 8,
+     "amarillas": 2,
+     "rojas": 1,
+     "corners": 6,
      "paradas": 2,
-     "pases": 200
+     "pases": 314
     }
    },
    "eventos": [
@@ -102,6 +102,66 @@
      "tipo": "goal",
      "texto": "Aimar Duñabeitia (Sporting Gijón) Goal at 57'",
      "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Gorka Carrera (Real Sociedad II) Substitution at 58'",
+     "lado": "local"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Gorka Gorosabel (Real Sociedad II) Substitution at 58'",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Daniel Díaz (Real Sociedad II) Yellow Card at 63'",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Bruno Rubio (Sporting Gijón) Substitution at 70'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Andrews Adjabeng (Real Sociedad II) Substitution at 73'",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Jon Balda (Real Sociedad II) Yellow Card at 77'",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "red-card",
+     "texto": "Àlex Corredera (Sporting Gijón) Red Card at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Mamadou Loum (Sporting Gijón) Substitution at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Unax Agote (Real Sociedad II) Substitution at 87'",
+     "lado": "local"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Arkaitz Mariezkurrena (Real Sociedad II) Substitution at 87'",
+     "lado": "local"
     }
    ]
   },
