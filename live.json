@@ -1,230 +1,8 @@
 {
- "generado": "2026-11-14T19:01:03+00:00",
+ "generado": "2026-11-14T19:46:22+00:00",
  "dia": "2026-11-14",
- "en_juego": 2,
+ "en_juego": 0,
  "partidos": [
-  {
-   "id": "401883118",
-   "liga": "LaLiga Hypermotion",
-   "slug": "esp.2",
-   "hora": "17:30",
-   "estado": "EN JUEGO",
-   "minuto": "72'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "6832",
-    "nombre": "Almería",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6832.png",
-    "goles": 2
-   },
-   "visit": {
-    "id": "20179",
-    "nombre": "FC Andorra",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 51.7,
-     "tiros": 5,
-     "a_puerta": 4,
-     "faltas": 9,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 0,
-     "paradas": 4,
-     "pases": 335
-    },
-    "visit": {
-     "posesion": 48.3,
-     "tiros": 12,
-     "a_puerta": 5,
-     "faltas": 11,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 4,
-     "paradas": 2,
-     "pases": 309
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "24'",
-     "tipo": "yellow-card",
-     "texto": "Diego Alende (FC Andorra) Yellow Card at 24'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "26'",
-     "tipo": "penalty---scored",
-     "texto": "Sergio Arribas (Almería) Penalty - Scored at 26'",
-     "lado": "local"
-    },
-    {
-     "minuto": "32'",
-     "tipo": "yellow-card",
-     "texto": "Mikel Vesga (Almería) Yellow Card at 32'",
-     "lado": "local"
-    },
-    {
-     "minuto": "39'",
-     "tipo": "goal",
-     "texto": "Miguel de la Fuente (Almería) Goal at 39'",
-     "lado": "local"
-    },
-    {
-     "minuto": "45'+1'",
-     "tipo": "yellow-card",
-     "texto": "Randy Schneider (FC Andorra) Yellow Card at 45'+1'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Enes Sali (FC Andorra) Substitution at 45'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Hugo Solozabal (FC Andorra) Substitution at 45'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Stefan Golubović (FC Andorra) Substitution at 45'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "61'",
-     "tipo": "substitution",
-     "texto": "Hugo López (FC Andorra) Substitution at 61'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "66'",
-     "tipo": "penalty---scored",
-     "texto": "Hugo López (FC Andorra) Penalty - Scored at 66'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Guilherme Borges Guedes (Almería) Substitution at 70'",
-     "lado": "local"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Daijiro Chirino (Almería) Substitution at 70'",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401883135",
-   "liga": "LaLiga Hypermotion",
-   "slug": "esp.2",
-   "hora": "17:30",
-   "estado": "EN JUEGO",
-   "minuto": "71'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "84",
-    "nombre": "Mallorca",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
-    "goles": 1
-   },
-   "visit": {
-    "id": "8447",
-    "nombre": "Córdoba",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8447.png",
-    "goles": 2
-   },
-   "stats": {
-    "local": {
-     "posesion": 57.9,
-     "tiros": 10,
-     "a_puerta": 3,
-     "faltas": 9,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 6,
-     "paradas": 0,
-     "pases": 264
-    },
-    "visit": {
-     "posesion": 42.1,
-     "tiros": 7,
-     "a_puerta": 2,
-     "faltas": 15,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 2,
-     "pases": 175
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "3'",
-     "tipo": "goal",
-     "texto": "Adnane Ghailan (Córdoba) Goal at 3'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Toni Lato (Mallorca) Substitution at 45'",
-     "lado": "local"
-    },
-    {
-     "minuto": "52'",
-     "tipo": "goal",
-     "texto": "Salim El Jebari (Córdoba) Goal at 52'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "54'",
-     "tipo": "yellow-card",
-     "texto": "Dani Tasende (Córdoba) Yellow Card at 54'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "60'",
-     "tipo": "substitution",
-     "texto": "Miguel Calatayud (Mallorca) Substitution at 60'",
-     "lado": "local"
-    },
-    {
-     "minuto": "60'",
-     "tipo": "substitution",
-     "texto": "Adam Buksa (Mallorca) Substitution at 60'",
-     "lado": "local"
-    },
-    {
-     "minuto": "63'",
-     "tipo": "goal",
-     "texto": "Sergi Darder (Mallorca) Goal at 63'",
-     "lado": "local"
-    },
-    {
-     "minuto": "64'",
-     "tipo": "substitution",
-     "texto": "Victor Sánchez (Córdoba) Substitution at 64'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "yellow-card",
-     "texto": "Eder García (Córdoba) Yellow Card at 67'",
-     "lado": "visit"
-    }
-   ]
-  },
   {
    "id": "401883114",
    "liga": "LaLiga Hypermotion",
@@ -545,6 +323,336 @@
      "minuto": "87'",
      "tipo": "substitution",
      "texto": "Arkaitz Mariezkurrena (Real Sociedad II) Substitution at 87'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401883118",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "17:30",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "6832",
+    "nombre": "Almería",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6832.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "20179",
+    "nombre": "FC Andorra",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 50.6,
+     "tiros": 5,
+     "a_puerta": 4,
+     "faltas": 11,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 4,
+     "pases": 403
+    },
+    "visit": {
+     "posesion": 49.4,
+     "tiros": 16,
+     "a_puerta": 5,
+     "faltas": 16,
+     "amarillas": 2,
+     "rojas": 1,
+     "corners": 6,
+     "paradas": 2,
+     "pases": 395
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "24'",
+     "tipo": "yellow-card",
+     "texto": "Diego Alende (FC Andorra) Yellow Card at 24'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "26'",
+     "tipo": "penalty---scored",
+     "texto": "Sergio Arribas (Almería) Penalty - Scored at 26'",
+     "lado": "local"
+    },
+    {
+     "minuto": "32'",
+     "tipo": "yellow-card",
+     "texto": "Mikel Vesga (Almería) Yellow Card at 32'",
+     "lado": "local"
+    },
+    {
+     "minuto": "39'",
+     "tipo": "goal",
+     "texto": "Miguel de la Fuente (Almería) Goal at 39'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'+1'",
+     "tipo": "yellow-card",
+     "texto": "Randy Schneider (FC Andorra) Yellow Card at 45'+1'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Enes Sali (FC Andorra) Substitution at 45'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Hugo Solozabal (FC Andorra) Substitution at 45'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Stefan Golubović (FC Andorra) Substitution at 45'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Hugo López (FC Andorra) Substitution at 61'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "penalty---scored",
+     "texto": "Hugo López (FC Andorra) Penalty - Scored at 66'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Guilherme Borges Guedes (Almería) Substitution at 70'",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Daijiro Chirino (Almería) Substitution at 70'",
+     "lado": "local"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "yellow-card",
+     "texto": "Marc Doménech (FC Andorra) Yellow Card at 81'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "substitution",
+     "texto": "Léo Baptistão (Almería) Substitution at 82'",
+     "lado": "local"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "substitution",
+     "texto": "Álex Muñoz (Almería) Substitution at 82'",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Álex Calvo (FC Andorra) Substitution at 84'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "red-card",
+     "texto": "Diego Alende (FC Andorra) Red Card at 90'",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401883135",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "17:30",
+   "estado": "FINAL",
+   "minuto": "90'+8'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "84",
+    "nombre": "Mallorca",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "8447",
+    "nombre": "Córdoba",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8447.png",
+    "goles": 3
+   },
+   "stats": {
+    "local": {
+     "posesion": 56.9,
+     "tiros": 16,
+     "a_puerta": 7,
+     "faltas": 10,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 1,
+     "pases": 359
+    },
+    "visit": {
+     "posesion": 43.1,
+     "tiros": 14,
+     "a_puerta": 4,
+     "faltas": 23,
+     "amarillas": 5,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 4,
+     "pases": 255
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "3'",
+     "tipo": "goal",
+     "texto": "Adnane Ghailan (Córdoba) Goal at 3'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Toni Lato (Mallorca) Substitution at 45'",
+     "lado": "local"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "goal",
+     "texto": "Salim El Jebari (Córdoba) Goal at 52'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "yellow-card",
+     "texto": "Dani Tasende (Córdoba) Yellow Card at 54'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Miguel Calatayud (Mallorca) Substitution at 60'",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Adam Buksa (Mallorca) Substitution at 60'",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "goal",
+     "texto": "Sergi Darder (Mallorca) Goal at 63'",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Victor Sánchez (Córdoba) Substitution at 64'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "yellow-card",
+     "texto": "Eder García (Córdoba) Yellow Card at 67'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "yellow-card",
+     "texto": "Toni Lato (Mallorca) Yellow Card at 70'",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "yellow-card",
+     "texto": "Diego Bri (Córdoba) Yellow Card at 74'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "goal",
+     "texto": "Adnane Ghailan (Córdoba) Goal at 75'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Enol Rodríguez (Córdoba) Substitution at 78'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Damián (Córdoba) Substitution at 78'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "yellow-card",
+     "texto": "Damián (Córdoba) Yellow Card at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "substitution",
+     "texto": "Egoitz Muñoz (Córdoba) Substitution at 82'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "substitution",
+     "texto": "Álex Martín (Córdoba) Substitution at 82'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "goal",
+     "texto": "Adam Buksa (Mallorca) Goal at 83'",
+     "lado": "local"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "yellow-card",
+     "texto": "Álex Martín (Córdoba) Yellow Card at 87'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Luis Orejuela (Mallorca) Substitution at 89'",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Abdón Prats (Mallorca) Substitution at 89'",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+4'",
+     "tipo": "goal",
+     "texto": "Sergi Darder (Mallorca) Goal at 90'+4'",
      "lado": "local"
     }
    ]
