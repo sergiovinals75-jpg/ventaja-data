@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T13:52:11+00:00",
+ "generado": "2026-11-14T14:31:05+00:00",
  "dia": "2026-11-14",
  "en_juego": 1,
  "partidos": [
@@ -9,7 +9,7 @@
    "slug": "esp.2",
    "hora": "13:00",
    "estado": "EN JUEGO",
-   "minuto": "45'+3'",
+   "minuto": "66'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -27,25 +27,25 @@
    "stats": {
     "local": {
      "posesion": 36.9,
-     "tiros": 3,
+     "tiros": 4,
      "a_puerta": 2,
-     "faltas": 7,
-     "amarillas": 2,
+     "faltas": 8,
+     "amarillas": 3,
      "rojas": 0,
      "corners": 2,
      "paradas": 1,
-     "pases": 123
+     "pases": 192
     },
     "visit": {
      "posesion": 63.1,
-     "tiros": 5,
+     "tiros": 9,
      "a_puerta": 1,
-     "faltas": 4,
-     "amarillas": 0,
+     "faltas": 8,
+     "amarillas": 2,
      "rojas": 0,
-     "corners": 3,
+     "corners": 8,
      "paradas": 2,
-     "pases": 235
+     "pases": 345
     }
    },
    "eventos": [
@@ -65,6 +65,42 @@
      "minuto": "45'",
      "tipo": "yellow-card",
      "texto": "Julien Ponceau (Real Valladolid) Yellow Card at 45'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'+4'",
+     "tipo": "yellow-card",
+     "texto": "Thiago Ojeda (Real Valladolid) Yellow Card at 45'+4'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'+4'",
+     "tipo": "yellow-card",
+     "texto": "Alberto (Castellón) Yellow Card at 45'+4'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Antonio Gala (Castellón) Substitution at 58'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "yellow-card",
+     "texto": "Álvaro Martín (Castellón) Yellow Card at 59'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Mathis Lachuer (Real Valladolid) Substitution at 61'",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Luis Rodriguez (Real Valladolid) Substitution at 61'",
      "lado": "local"
     }
    ]
