@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T17:46:24+00:00",
+ "generado": "2026-11-14T18:30:40+00:00",
  "dia": "2026-11-14",
  "en_juego": 2,
  "partidos": [
@@ -9,14 +9,14 @@
    "slug": "esp.2",
    "hora": "17:30",
    "estado": "EN JUEGO",
-   "minuto": "16'",
+   "minuto": "45'+2'",
    "en_juego": true,
    "terminado": false,
    "local": {
     "id": "6832",
     "nombre": "Almería",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6832.png",
-    "goles": 0
+    "goles": 2
    },
    "visit": {
     "id": "20179",
@@ -26,29 +26,60 @@
    },
    "stats": {
     "local": {
-     "posesion": 55,
-     "tiros": 1,
-     "a_puerta": 1,
-     "faltas": 1,
-     "amarillas": 0,
+     "posesion": 51.2,
+     "tiros": 4,
+     "a_puerta": 4,
+     "faltas": 6,
+     "amarillas": 1,
      "rojas": 0,
      "corners": 0,
-     "paradas": 1,
-     "pases": 89
+     "paradas": 2,
+     "pases": 202
     },
     "visit": {
-     "posesion": 45,
-     "tiros": 2,
-     "a_puerta": 1,
-     "faltas": 2,
-     "amarillas": 0,
+     "posesion": 48.8,
+     "tiros": 3,
+     "a_puerta": 2,
+     "faltas": 10,
+     "amarillas": 2,
      "rojas": 0,
-     "corners": 0,
-     "paradas": 1,
-     "pases": 76
+     "corners": 2,
+     "paradas": 2,
+     "pases": 197
     }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "24'",
+     "tipo": "yellow-card",
+     "texto": "Diego Alende (FC Andorra) Yellow Card at 24'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "26'",
+     "tipo": "penalty---scored",
+     "texto": "Sergio Arribas (Almería) Penalty - Scored at 26'",
+     "lado": "local"
+    },
+    {
+     "minuto": "32'",
+     "tipo": "yellow-card",
+     "texto": "Mikel Vesga (Almería) Yellow Card at 32'",
+     "lado": "local"
+    },
+    {
+     "minuto": "39'",
+     "tipo": "goal",
+     "texto": "Miguel de la Fuente (Almería) Goal at 39'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'+1'",
+     "tipo": "yellow-card",
+     "texto": "Randy Schneider (FC Andorra) Yellow Card at 45'+1'",
+     "lado": "visit"
+    }
+   ]
   },
   {
    "id": "401883135",
@@ -56,7 +87,7 @@
    "slug": "esp.2",
    "hora": "17:30",
    "estado": "EN JUEGO",
-   "minuto": "14'",
+   "minuto": "45'+3'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -73,26 +104,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 72.9,
-     "tiros": 0,
-     "a_puerta": 0,
-     "faltas": 2,
+     "posesion": 51,
+     "tiros": 3,
+     "a_puerta": 1,
+     "faltas": 7,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 0,
+     "corners": 3,
      "paradas": 0,
-     "pases": 60
+     "pases": 155
     },
     "visit": {
-     "posesion": 27.1,
-     "tiros": 1,
+     "posesion": 49,
+     "tiros": 4,
      "a_puerta": 1,
-     "faltas": 3,
+     "faltas": 7,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 0,
+     "corners": 2,
      "paradas": 1,
-     "pases": 17
+     "pases": 136
     }
    },
    "eventos": [
