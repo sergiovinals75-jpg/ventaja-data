@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-14T13:13:53+00:00",
+ "generado": "2026-11-14T13:52:11+00:00",
  "dia": "2026-11-14",
  "en_juego": 1,
  "partidos": [
@@ -9,7 +9,7 @@
    "slug": "esp.2",
    "hora": "13:00",
    "estado": "EN JUEGO",
-   "minuto": "9'",
+   "minuto": "45'+3'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -26,26 +26,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 29.7,
-     "tiros": 0,
-     "a_puerta": 0,
-     "faltas": 1,
-     "amarillas": 0,
+     "posesion": 36.9,
+     "tiros": 3,
+     "a_puerta": 2,
+     "faltas": 7,
+     "amarillas": 2,
      "rojas": 0,
-     "corners": 0,
-     "paradas": 0,
-     "pases": 14
+     "corners": 2,
+     "paradas": 1,
+     "pases": 123
     },
     "visit": {
-     "posesion": 70.3,
-     "tiros": 1,
-     "a_puerta": 0,
-     "faltas": 0,
+     "posesion": 63.1,
+     "tiros": 5,
+     "a_puerta": 1,
+     "faltas": 4,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 0,
-     "paradas": 0,
-     "pases": 39
+     "corners": 3,
+     "paradas": 2,
+     "pases": 235
     }
    },
    "eventos": [
@@ -53,6 +53,18 @@
      "minuto": "5'",
      "tipo": "substitution",
      "texto": "Ramón Martínez (Real Valladolid) Substitution at 5'",
+     "lado": "local"
+    },
+    {
+     "minuto": "28'",
+     "tipo": "yellow-card",
+     "texto": "Carlos Clerc (Real Valladolid) Yellow Card at 28'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "yellow-card",
+     "texto": "Julien Ponceau (Real Valladolid) Yellow Card at 45'",
      "lado": "local"
     }
    ]
