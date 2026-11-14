@@ -1,167 +1,106 @@
 {
- "generado": "2026-11-14T17:00:50+00:00",
+ "generado": "2026-11-14T17:46:24+00:00",
  "dia": "2026-11-14",
- "en_juego": 1,
+ "en_juego": 2,
  "partidos": [
   {
-   "id": "401883134",
+   "id": "401883118",
    "liga": "LaLiga Hypermotion",
    "slug": "esp.2",
-   "hora": "15:15",
+   "hora": "17:30",
    "estado": "EN JUEGO",
-   "minuto": "89'",
+   "minuto": "16'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "20983",
-    "nombre": "Real Sociedad II",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20983.png",
-    "goles": 2
+    "id": "6832",
+    "nombre": "Almería",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6832.png",
+    "goles": 0
    },
    "visit": {
-    "id": "3788",
-    "nombre": "Sporting Gijón",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3788.png",
-    "goles": 2
+    "id": "20179",
+    "nombre": "FC Andorra",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
+    "goles": 0
    },
    "stats": {
     "local": {
-     "posesion": 51.7,
-     "tiros": 10,
-     "a_puerta": 4,
-     "faltas": 13,
-     "amarillas": 2,
+     "posesion": 55,
+     "tiros": 1,
+     "a_puerta": 1,
+     "faltas": 1,
+     "amarillas": 0,
      "rojas": 0,
-     "corners": 5,
+     "corners": 0,
      "paradas": 1,
-     "pases": 357
+     "pases": 89
     },
     "visit": {
-     "posesion": 48.3,
-     "tiros": 14,
-     "a_puerta": 4,
-     "faltas": 8,
-     "amarillas": 2,
-     "rojas": 1,
-     "corners": 6,
-     "paradas": 2,
-     "pases": 314
+     "posesion": 45,
+     "tiros": 2,
+     "a_puerta": 1,
+     "faltas": 2,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 1,
+     "pases": 76
+    }
+   },
+   "eventos": []
+  },
+  {
+   "id": "401883135",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "17:30",
+   "estado": "EN JUEGO",
+   "minuto": "14'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "84",
+    "nombre": "Mallorca",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "8447",
+    "nombre": "Córdoba",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8447.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 72.9,
+     "tiros": 0,
+     "a_puerta": 0,
+     "faltas": 2,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 0,
+     "pases": 60
+    },
+    "visit": {
+     "posesion": 27.1,
+     "tiros": 1,
+     "a_puerta": 1,
+     "faltas": 3,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 1,
+     "pases": 17
     }
    },
    "eventos": [
     {
-     "minuto": "7'",
-     "tipo": "penalty---scored",
-     "texto": "Àlex Corredera (Sporting Gijón) Penalty - Scored at 7'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "19'",
-     "tipo": "yellow-card",
-     "texto": "Miguel Conde (Sporting Gijón) Yellow Card at 19'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "38'",
-     "tipo": "yellow-card",
-     "texto": "Gaspar Campos (Sporting Gijón) Yellow Card at 38'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "46'",
-     "tipo": "yellow-card",
-     "texto": "Àlex Corredera (Sporting Gijón) Yellow Card at 46'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "47'",
+     "minuto": "3'",
      "tipo": "goal",
-     "texto": "Alex Lebarbier (Real Sociedad II) Goal at 47'",
-     "lado": "local"
-    },
-    {
-     "minuto": "56'",
-     "tipo": "goal",
-     "texto": "Daniel Díaz (Real Sociedad II) Goal at 56'",
-     "lado": "local"
-    },
-    {
-     "minuto": "57'",
-     "tipo": "substitution",
-     "texto": "Enol Prendes (Sporting Gijón) Substitution at 57'",
+     "texto": "Adnane Ghailan (Córdoba) Goal at 3'",
      "lado": "visit"
-    },
-    {
-     "minuto": "57'",
-     "tipo": "substitution",
-     "texto": "Andrés Ferrari (Sporting Gijón) Substitution at 57'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "57'",
-     "tipo": "goal",
-     "texto": "Aimar Duñabeitia (Sporting Gijón) Goal at 57'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "58'",
-     "tipo": "substitution",
-     "texto": "Gorka Carrera (Real Sociedad II) Substitution at 58'",
-     "lado": "local"
-    },
-    {
-     "minuto": "58'",
-     "tipo": "substitution",
-     "texto": "Gorka Gorosabel (Real Sociedad II) Substitution at 58'",
-     "lado": "local"
-    },
-    {
-     "minuto": "63'",
-     "tipo": "yellow-card",
-     "texto": "Daniel Díaz (Real Sociedad II) Yellow Card at 63'",
-     "lado": "local"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Bruno Rubio (Sporting Gijón) Substitution at 70'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "73'",
-     "tipo": "substitution",
-     "texto": "Andrews Adjabeng (Real Sociedad II) Substitution at 73'",
-     "lado": "local"
-    },
-    {
-     "minuto": "77'",
-     "tipo": "yellow-card",
-     "texto": "Jon Balda (Real Sociedad II) Yellow Card at 77'",
-     "lado": "local"
-    },
-    {
-     "minuto": "80'",
-     "tipo": "red-card",
-     "texto": "Àlex Corredera (Sporting Gijón) Red Card at 80'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "86'",
-     "tipo": "substitution",
-     "texto": "Mamadou Loum (Sporting Gijón) Substitution at 86'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "87'",
-     "tipo": "substitution",
-     "texto": "Unax Agote (Real Sociedad II) Substitution at 87'",
-     "lado": "local"
-    },
-    {
-     "minuto": "87'",
-     "tipo": "substitution",
-     "texto": "Arkaitz Mariezkurrena (Real Sociedad II) Substitution at 87'",
-     "lado": "local"
     }
    ]
   },
@@ -324,6 +263,168 @@
      "tipo": "substitution",
      "texto": "Varo (Castellón) Substitution at 82'",
      "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401883134",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "15:15",
+   "estado": "FINAL",
+   "minuto": "90'+9'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "20983",
+    "nombre": "Real Sociedad II",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20983.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "3788",
+    "nombre": "Sporting Gijón",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3788.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 54.2,
+     "tiros": 18,
+     "a_puerta": 4,
+     "faltas": 15,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 6,
+     "paradas": 1,
+     "pases": 406
+    },
+    "visit": {
+     "posesion": 45.8,
+     "tiros": 13,
+     "a_puerta": 4,
+     "faltas": 9,
+     "amarillas": 2,
+     "rojas": 1,
+     "corners": 6,
+     "paradas": 2,
+     "pases": 321
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "7'",
+     "tipo": "penalty---scored",
+     "texto": "Àlex Corredera (Sporting Gijón) Penalty - Scored at 7'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "19'",
+     "tipo": "yellow-card",
+     "texto": "Miguel Conde (Sporting Gijón) Yellow Card at 19'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "38'",
+     "tipo": "yellow-card",
+     "texto": "Gaspar Campos (Sporting Gijón) Yellow Card at 38'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "46'",
+     "tipo": "yellow-card",
+     "texto": "Àlex Corredera (Sporting Gijón) Yellow Card at 46'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "47'",
+     "tipo": "goal",
+     "texto": "Alex Lebarbier (Real Sociedad II) Goal at 47'",
+     "lado": "local"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "goal",
+     "texto": "Daniel Díaz (Real Sociedad II) Goal at 56'",
+     "lado": "local"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Enol Prendes (Sporting Gijón) Substitution at 57'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Andrés Ferrari (Sporting Gijón) Substitution at 57'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "goal",
+     "texto": "Aimar Duñabeitia (Sporting Gijón) Goal at 57'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Gorka Carrera (Real Sociedad II) Substitution at 58'",
+     "lado": "local"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Gorka Gorosabel (Real Sociedad II) Substitution at 58'",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Daniel Díaz (Real Sociedad II) Yellow Card at 63'",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Bruno Rubio (Sporting Gijón) Substitution at 70'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Andrews Adjabeng (Real Sociedad II) Substitution at 73'",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Jon Balda (Real Sociedad II) Yellow Card at 77'",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "red-card",
+     "texto": "Àlex Corredera (Sporting Gijón) Red Card at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Mamadou Loum (Sporting Gijón) Substitution at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Unax Agote (Real Sociedad II) Substitution at 87'",
+     "lado": "local"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Arkaitz Mariezkurrena (Real Sociedad II) Substitution at 87'",
+     "lado": "local"
     }
    ]
   }
