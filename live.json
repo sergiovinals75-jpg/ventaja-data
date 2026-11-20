@@ -1,17 +1,119 @@
 {
- "generado": "2026-11-20T21:06:39+00:00",
+ "generado": "2026-11-20T22:30:49+00:00",
  "dia": "2026-11-20",
- "en_juego": 4,
+ "en_juego": 1,
  "partidos": [
+  {
+   "id": "401850692",
+   "liga": "Primera Division (CHI)",
+   "slug": "chi.1",
+   "hora": "21:00",
+   "estado": "EN JUEGO",
+   "minuto": "70'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "4133",
+    "nombre": "Cobresal",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4133.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "4138",
+    "nombre": "Audax Italiano",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4138.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 39.9,
+     "tiros": 9,
+     "a_puerta": 5,
+     "faltas": 6,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 5,
+     "pases": 155
+    },
+    "visit": {
+     "posesion": 60.1,
+     "tiros": 15,
+     "a_puerta": 6,
+     "faltas": 14,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 2,
+     "pases": 241
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "10'",
+     "tipo": "yellow-card",
+     "texto": "Julián Brea (Cobresal) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "19'",
+     "tipo": "yellow-card",
+     "texto": "Enzo Ferrario (Audax Italiano) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "23'",
+     "tipo": "goal",
+     "texto": "Goal! Cobresal 2, Audax Italiano 0. Julián Brea (Cobresal) right footed shot from a difficult angle on the left to the top left corner. Assisted by Felipe Villagrán.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'+3'",
+     "tipo": "yellow-card",
+     "texto": "Nicolás Orellana (Audax Italiano) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Audax Italiano. Ariel Uribe replaces Nicolás Orellana.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Substitution, Cobresal. Janpol Morales replaces Bryan Carvallo.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Audax Italiano. Michael Fuentes replaces Diego Coelho.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Audax Italiano. Federico Mateos replaces César Pinares.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "yellow-card",
+     "texto": "Marcelo Ortiz (Audax Italiano) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
+  },
   {
    "id": "401883112",
    "liga": "LaLiga Hypermotion",
    "slug": "esp.2",
    "hora": "19:30",
-   "estado": "EN JUEGO",
-   "minuto": "70'",
-   "en_juego": true,
-   "terminado": false,
+   "estado": "FINAL",
+   "minuto": "90'+7'",
+   "en_juego": false,
+   "terminado": true,
    "local": {
     "id": "20179",
     "nombre": "FC Andorra",
@@ -22,30 +124,30 @@
     "id": "17534",
     "nombre": "Leganés",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17534.png",
-    "goles": 2
+    "goles": 3
    },
    "stats": {
     "local": {
-     "posesion": 41.7,
-     "tiros": 16,
-     "a_puerta": 4,
-     "faltas": 8,
-     "amarillas": 2,
+     "posesion": 44.7,
+     "tiros": 23,
+     "a_puerta": 8,
+     "faltas": 10,
+     "amarillas": 4,
      "rojas": 1,
-     "corners": 4,
-     "paradas": 3,
-     "pases": 192
+     "corners": 7,
+     "paradas": 4,
+     "pases": 301
     },
     "visit": {
-     "posesion": 58.3,
-     "tiros": 7,
-     "a_puerta": 5,
-     "faltas": 11,
-     "amarillas": 2,
+     "posesion": 55.3,
+     "tiros": 10,
+     "a_puerta": 7,
+     "faltas": 14,
+     "amarillas": 3,
      "rojas": 0,
      "corners": 1,
-     "paradas": 3,
-     "pases": 289
+     "paradas": 7,
+     "pases": 397
     }
    },
    "eventos": [
@@ -126,6 +228,66 @@
      "tipo": "substitution",
      "texto": "Julian Rijkhoff (FC Andorra) Substitution at 61'",
      "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "yellow-card",
+     "texto": "Pau López (FC Andorra) Yellow Card at 70'",
+     "lado": "local"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "substitution",
+     "texto": "Serge Patrick Njoh (Leganés) Substitution at 71'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "substitution",
+     "texto": "Yassine Kechta (Leganés) Substitution at 71'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "yellow-card",
+     "texto": "Jorge Martínez Jiménez (Leganés) Yellow Card at 76'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Enes Sali (FC Andorra) Substitution at 77'",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Naim García (Leganés) Substitution at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Enric Franquesa (Leganés) Substitution at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "goal",
+     "texto": "Naim García (Leganés) Goal at 83'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Stefan Golubović (FC Andorra) Substitution at 90'",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "yellow-card",
+     "texto": "Nacho Quintana (FC Andorra) Yellow Card at 90'+3'",
+     "lado": "local"
     }
    ]
   },
@@ -134,10 +296,10 @@
    "liga": "Bundesliga",
    "slug": "ger.1",
    "hora": "19:30",
-   "estado": "EN JUEGO",
-   "minuto": "75'",
-   "en_juego": true,
-   "terminado": false,
+   "estado": "FINAL",
+   "minuto": "90'+3'",
+   "en_juego": false,
+   "terminado": true,
    "local": {
     "id": "132",
     "nombre": "Bayern Munich",
@@ -152,26 +314,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 72.3,
-     "tiros": 15,
+     "posesion": 71.4,
+     "tiros": 17,
      "a_puerta": 1,
      "faltas": 6,
      "amarillas": 1,
      "rojas": 0,
-     "corners": 4,
+     "corners": 5,
      "paradas": 3,
-     "pases": 613
+     "pases": 747
     },
     "visit": {
-     "posesion": 27.7,
-     "tiros": 4,
+     "posesion": 28.6,
+     "tiros": 7,
      "a_puerta": 4,
-     "faltas": 2,
+     "faltas": 3,
      "amarillas": 2,
      "rojas": 0,
      "corners": 0,
      "paradas": 0,
-     "pases": 202
+     "pases": 263
     }
    },
    "eventos": [
@@ -228,6 +390,210 @@
      "tipo": "substitution",
      "texto": "Substitution, Bayern Munich. Kim Min-Jae replaces Dayot Upamecano.",
      "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Substitution, FC Cologne. Jan Thielmann replaces Linton Maina.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Substitution, FC Cologne. Ísak Jóhannesson replaces Paul Okon-Engstler.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, FC Cologne. Reigan Heskey replaces Saïd El Mala.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, FC Cologne. Alessio Castro-Montes replaces Sebastian Sebulonsen.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bayern Munich. Noah Codjo-Evora replaces Aleksandar Pavlovic.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "substitution",
+     "texto": "Substitution, FC Cologne. Marius Bülter replaces Mikey Moore.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401876395",
+   "liga": "Ligue 1",
+   "slug": "fra.1",
+   "hora": "19:45",
+   "estado": "FINAL",
+   "minuto": "90'+9'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "170",
+    "nombre": "Troyes",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "3236",
+    "nombre": "Le Havre AC",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 46.5,
+     "tiros": 19,
+     "a_puerta": 7,
+     "faltas": 19,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 7,
+     "paradas": 1,
+     "pases": 319
+    },
+    "visit": {
+     "posesion": 53.5,
+     "tiros": 7,
+     "a_puerta": 3,
+     "faltas": 22,
+     "amarillas": 3,
+     "rojas": 1,
+     "corners": 0,
+     "paradas": 5,
+     "pases": 400
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "3'",
+     "tipo": "goal",
+     "texto": "Goal! Troyes 0, Le Havre 1. Josh Maja (Le Havre) right footed shot from outside the box to the centre of the goal.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "19'",
+     "tipo": "goal",
+     "texto": "Goal! Troyes 1, Le Havre 1. Antoine Mille (Troyes) left footed shot from the centre of the box to the bottom left corner. Assisted by Kandet Diawara.",
+     "lado": "local"
+    },
+    {
+     "minuto": "34'",
+     "tipo": "yellow-card",
+     "texto": "Josh Maja (Le Havre) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "40'",
+     "tipo": "yellow-card",
+     "texto": "Junior Mwanga (Le Havre) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "40'",
+     "tipo": "yellow-card",
+     "texto": "Dermane Karim (Troyes) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Troyes. Lucas Maronnier replaces Yvann Titi.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "yellow-card",
+     "texto": "Ismaël Boura (Troyes) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Le Havre. Hakim Dongopandji replaces Rayan Fofana.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Le Havre. Djibril Ouziad replaces Kaito Mizuta.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "goal",
+     "texto": "Goal! Troyes 2, Le Havre 1. Antoine Mille (Troyes) left footed shot from the centre of the box to the high centre of the goal. Assisted by Anis Ouzenadji.",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Ahmed Touba (Le Havre) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Troyes. Renaud Ripart replaces Jérémy Le Douaron.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Troyes. Hugo Picard replaces Merwan Ifnaoui because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Le Havre. Ismaïl Bouneb replaces Simon Ebonog.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Substitution, Troyes. Iron Gomis replaces Mouhamed Diop.",
+     "lado": "local"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Substitution, Le Havre. Bocar Wade replaces Vincent Sasso.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Substitution, Le Havre. Mbwana Samatta replaces Josh Maja.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "red-card",
+     "texto": "Enzo Koffi (Le Havre) is shown the red card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "substitution",
+     "texto": "Substitution, Troyes. Timothé Nkada replaces Kandet Diawara.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+8'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Troyes 3, Le Havre 1. Renaud Ripart (Troyes) converts the penalty with a right footed shot to the centre of the goal.",
+     "lado": "local"
     }
    ]
   },
@@ -236,10 +602,10 @@
    "liga": "LaLiga",
    "slug": "esp.1",
    "hora": "20:00",
-   "estado": "EN JUEGO",
-   "minuto": "47'",
-   "en_juego": true,
-   "terminado": false,
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
    "local": {
     "id": "93",
     "nombre": "Athletic Club",
@@ -250,80 +616,124 @@
     "id": "88",
     "nombre": "Espanyol",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 49.4,
-     "tiros": 6,
-     "a_puerta": 3,
-     "faltas": 9,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 3,
-     "paradas": 2,
-     "pases": 169
-    },
-    "visit": {
-     "posesion": 50.6,
-     "tiros": 4,
-     "a_puerta": 2,
-     "faltas": 7,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 3,
-     "pases": 166
-    }
-   },
-   "eventos": []
-  },
-  {
-   "id": "401850692",
-   "liga": "Primera Division (CHI)",
-   "slug": "chi.1",
-   "hora": "21:00",
-   "estado": "EN JUEGO",
-   "minuto": "5'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "4133",
-    "nombre": "Cobresal",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4133.png",
     "goles": 1
    },
-   "visit": {
-    "id": "4138",
-    "nombre": "Audax Italiano",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4138.png",
-    "goles": 0
-   },
    "stats": {
     "local": {
-     "posesion": 61.3,
-     "tiros": 0,
-     "a_puerta": 0,
-     "faltas": 0,
-     "amarillas": 0,
+     "posesion": 57.8,
+     "tiros": 17,
+     "a_puerta": 6,
+     "faltas": 16,
+     "amarillas": 3,
      "rojas": 0,
-     "corners": 0,
-     "paradas": 0,
-     "pases": 15
+     "corners": 9,
+     "paradas": 2,
+     "pases": 394
     },
     "visit": {
-     "posesion": 38.7,
-     "tiros": 1,
-     "a_puerta": 0,
-     "faltas": 1,
-     "amarillas": 0,
+     "posesion": 42.2,
+     "tiros": 6,
+     "a_puerta": 3,
+     "faltas": 13,
+     "amarillas": 1,
      "rojas": 0,
-     "corners": 0,
-     "paradas": 0,
-     "pases": 6
+     "corners": 2,
+     "paradas": 6,
+     "pases": 261
     }
    },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Substitution, Espanyol. Tyrhys Dolan replaces Pere Milla.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "yellow-card",
+     "texto": "Iñaki Williams (Athletic Club) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Athletic Club. Iñigo Ruiz de Galarreta replaces Peio Canales.",
+     "lado": "local"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Substitution, Espanyol. Javi Hernández replaces Rafel Bauzà.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Substitution, Espanyol. Gabriel Moscardo replaces Roger Hinojo.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "goal",
+     "texto": "Goal! Athletic Club 0, Espanyol 1. Roberto Fernández (Espanyol) right footed shot from the left side of the box to the centre of the goal. Assisted by Tyrhys Dolan.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Athletic Club. Beñat Gerenabarrena replaces Beñat Prados.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Athletic Club. Robert Navarro replaces Hugo Rincón.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "yellow-card",
+     "texto": "Iñigo Ruiz de Galarreta (Athletic Club) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "yellow-card",
+     "texto": "Yeray Álvarez (Athletic Club) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, Athletic Club. Alejandro Rego replaces Aymeric Laporte.",
+     "lado": "local"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, Athletic Club. Txus Vizcay replaces Oihan Sancet.",
+     "lado": "local"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, Espanyol. Unai Núñez replaces Alejandro Santiago.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, Espanyol. Javi Puado replaces Quilindschy Hartman.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "yellow-card",
+     "texto": "Clemens Riedel (Espanyol) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
   }
  ]
 }
