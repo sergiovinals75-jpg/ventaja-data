@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-20T22:30:53+00:00",
+ "generado": "2026-11-20T23:00:53+00:00",
  "dia": "2026-11-20",
  "modelo": "dc-poisson-v0.2",
  "ficheros": {
@@ -16,8 +16,8 @@
    "bytes": 56249
   },
   "live.json": {
-   "sha256": "27808e51d26e26018e57e4d141fa7ce2be205c09d8929ed307f2701cb6bdeb9e",
-   "bytes": 18629
+   "sha256": "d34a257a528514d1ac49bac8990eb9921d7fd75afa51e465161629017546520b",
+   "bytes": 99
   },
   "resultados.json": {
    "sha256": "583f8e8dd2b3c0b493e7b4de79b1cb3cd63c9a7854ccd2e83d2a17a68b830016",
