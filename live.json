@@ -1,415 +1,631 @@
 {
- "generado": "2026-11-21T15:00:49+00:00",
+ "generado": "2026-11-21T17:00:49+00:00",
  "dia": "2026-11-21",
- "en_juego": 8,
+ "en_juego": 6,
  "partidos": [
   {
-   "id": "401875056",
-   "liga": "Serie A",
-   "slug": "ita.1",
-   "hora": "14:00",
+   "id": "401850699",
+   "liga": "Primera Division (CHI)",
+   "slug": "chi.1",
+   "hora": "15:00",
    "estado": "EN JUEGO",
-   "minuto": "45'+1'",
+   "minuto": "90'+4'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "2572",
-    "nombre": "Como",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+    "id": "8186",
+    "nombre": "Coquimbo Unido",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
     "goles": 1
    },
    "visit": {
-    "id": "2925",
-    "nombre": "Cagliari",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 55.8,
-     "tiros": 3,
-     "a_puerta": 1,
-     "faltas": 4,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 0,
-     "pases": 289
-    },
-    "visit": {
-     "posesion": 44.2,
-     "tiros": 4,
-     "a_puerta": 0,
-     "faltas": 4,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 0,
-     "paradas": 0,
-     "pases": 208
-    }
-   },
-   "eventos": []
-  },
-  {
-   "id": "401874981",
-   "liga": "Serie A",
-   "slug": "ita.1",
-   "hora": "14:00",
-   "estado": "EN JUEGO",
-   "minuto": "45'+2'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "112",
-    "nombre": "Lazio",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-    "goles": 1
-   },
-   "visit": {
-    "id": "113",
-    "nombre": "Lecce",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 59.8,
-     "tiros": 2,
-     "a_puerta": 2,
-     "faltas": 3,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 4,
-     "paradas": 2,
-     "pases": 222
-    },
-    "visit": {
-     "posesion": 40.2,
-     "tiros": 6,
-     "a_puerta": 2,
-     "faltas": 4,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 1,
-     "pases": 138
-    }
-   },
-   "eventos": []
-  },
-  {
-   "id": "401884732",
-   "liga": "Bundesliga",
-   "slug": "ger.1",
-   "hora": "14:30",
-   "estado": "EN JUEGO",
-   "minuto": "31'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "598",
-    "nombre": "1. FC Union Berlin",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "11420",
-    "nombre": "RB Leipzig",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+    "id": "4129",
+    "nombre": "Everton CD",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4129.png",
     "goles": 1
    },
    "stats": {
     "local": {
-     "posesion": 32,
-     "tiros": 2,
-     "a_puerta": 1,
-     "faltas": 4,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 2,
-     "pases": 47
-    },
-    "visit": {
-     "posesion": 68,
-     "tiros": 7,
+     "posesion": 59.5,
+     "tiros": 13,
      "a_puerta": 3,
-     "faltas": 5,
-     "amarillas": 2,
+     "faltas": 15,
+     "amarillas": 3,
      "rojas": 0,
-     "corners": 2,
-     "paradas": 0,
-     "pases": 128
+     "corners": 8,
+     "paradas": 4,
+     "pases": 324
+    },
+    "visit": {
+     "posesion": 40.5,
+     "tiros": 15,
+     "a_puerta": 5,
+     "faltas": 9,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 2,
+     "pases": 205
     }
    },
    "eventos": [
     {
-     "minuto": "5'",
-     "tipo": "yellow-card",
-     "texto": "Brajan Gruda (RB Leipzig) is shown the yellow card.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "9'",
-     "tipo": "yellow-card",
-     "texto": "András Schäfer (Union Berlin) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "13'",
-     "tipo": "yellow-card",
-     "texto": "Ezechiel Banzuzi (RB Leipzig) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "17'",
-     "tipo": "yellow-card",
-     "texto": "Zeno Van den Bosch (Union Berlin) is shown the yellow card for a bad foul.",
+     "minuto": "10'",
+     "tipo": "goal",
+     "texto": "Goal! Coquimbo Unido 1, Everton de Viña del Mar 1. Luis Riveros (Coquimbo Unido) right footed shot from the centre of the box to the bottom right corner. Assisted by Cristián Zaval",
      "lado": "local"
     },
     {
      "minuto": "18'",
-     "tipo": "penalty---scored",
-     "texto": "Goal! Union Berlin 0, RB Leipzig 1. Antonio Nusa (RB Leipzig) converts the penalty with a right footed shot to the top left corner.",
+     "tipo": "yellow-card",
+     "texto": "Juan Cornejo (Coquimbo Unido) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "yellow-card",
+     "texto": "Elvis Hernández (Coquimbo Unido) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "50'",
+     "tipo": "yellow-card",
+     "texto": "Nicolás Montiel (Everton de Viña del Mar) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "53'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Vicente Fernández replaces Nicolás Baeza because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Pablo Rodríguez replaces Guido Vadalá.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Dixon Pereira replaces Benjamín Chandía.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "yellow-card",
+     "texto": "Pablo Rodríguez (Coquimbo Unido) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Lucas Pratto replaces Luis Riveros.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Salvador Cordero replaces Matías Zepeda.",
+     "lado": "local"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Gustavo Charrupí replaces Óscar Opazo.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Josué Ovalle replaces Julián Alfaro.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Ythans Blanco replaces Cristián Zavala.",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Braian Martínez replaces Nicolás Montiel.",
      "lado": "visit"
     }
    ]
   },
   {
-   "id": "401884735",
-   "liga": "Bundesliga",
-   "slug": "ger.1",
-   "hora": "14:30",
+   "id": "401882799",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "15:15",
    "estado": "EN JUEGO",
-   "minuto": "31'",
+   "minuto": "85'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "131",
-    "nombre": "Bayer Leverkusen",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-    "goles": 1
+    "id": "101",
+    "nombre": "Rayo Vallecano",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+    "goles": 0
    },
    "visit": {
-    "id": "3307",
-    "nombre": "SC Paderborn 07",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
-    "goles": 0
+    "id": "94",
+    "nombre": "Valencia",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+    "goles": 1
    },
    "stats": {
     "local": {
-     "posesion": 69.1,
-     "tiros": 9,
+     "posesion": 61,
+     "tiros": 19,
      "a_puerta": 5,
-     "faltas": 4,
-     "amarillas": 0,
+     "faltas": 10,
+     "amarillas": 2,
      "rojas": 0,
-     "corners": 5,
-     "paradas": 0,
-     "pases": 217
+     "corners": 8,
+     "paradas": 1,
+     "pases": 384
     },
     "visit": {
-     "posesion": 30.9,
-     "tiros": 0,
-     "a_puerta": 0,
-     "faltas": 3,
-     "amarillas": 0,
+     "posesion": 39,
+     "tiros": 11,
+     "a_puerta": 2,
+     "faltas": 17,
+     "amarillas": 1,
      "rojas": 0,
-     "corners": 0,
+     "corners": 5,
      "paradas": 5,
-     "pases": 85
+     "pases": 236
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "45'+1'",
+     "tipo": "yellow-card",
+     "texto": "Sergio Camello (Rayo Vallecano) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Adrià Pedrosa replaces Giorgi Tsitaishvili.",
+     "lado": "local"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Pedro Díaz replaces Randy Nteka.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "yellow-card",
+     "texto": "Javi Guerra (Valencia) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Filip Ugrinic replaces Dani Raba.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Álvaro García replaces Mujaid Sadick.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Alemão replaces Isi Palazón.",
+     "lado": "local"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "yellow-card",
+     "texto": "Jorge de Frutos (Rayo Vallecano) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Mouctar Diakhaby replaces Copete.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Gnangoro replaces Unai López.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Aaron Mayol replaces Guido Rodríguez.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401883108",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "15:15",
+   "estado": "EN JUEGO",
+   "minuto": "88'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "20983",
+    "nombre": "Real Sociedad II",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20983.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "3842",
+    "nombre": "Cádiz",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 47.2,
+     "tiros": 8,
+     "a_puerta": 0,
+     "faltas": 9,
+     "amarillas": 3,
+     "rojas": 1,
+     "corners": 5,
+     "paradas": 2,
+     "pases": 291
+    },
+    "visit": {
+     "posesion": 52.8,
+     "tiros": 9,
+     "a_puerta": 4,
+     "faltas": 11,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 0,
+     "pases": 339
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "23'",
+     "tipo": "yellow-card",
+     "texto": "Noah Ukwuije (Cádiz) Yellow Card at 23'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "30'",
+     "tipo": "substitution",
+     "texto": "Jon Garro (Real Sociedad II) Substitution at 30'",
+     "lado": "local"
+    },
+    {
+     "minuto": "35'",
+     "tipo": "yellow-card",
+     "texto": "Damián Rodríguez (Cádiz) Yellow Card at 35'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "41'",
+     "tipo": "goal",
+     "texto": "Antonio Cordero (Cádiz) Goal at 41'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'+1'",
+     "tipo": "yellow-card",
+     "texto": "Gorka Carrera (Real Sociedad II) Yellow Card at 45'+1'",
+     "lado": "local"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "yellow-card",
+     "texto": "Tomás Carbonell (Real Sociedad II) Yellow Card at 52'",
+     "lado": "local"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "yellow-card",
+     "texto": "Alex Marchal (Real Sociedad II) Yellow Card at 52'",
+     "lado": "local"
+    },
+    {
+     "minuto": "53'",
+     "tipo": "red-card",
+     "texto": "Alex Marchal (Real Sociedad II) Red Card at 53'",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Javier Soroeta (Real Sociedad II) Substitution at 66'",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Vladyslav Kopotun (Cádiz) Substitution at 77'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Daniel Díaz (Real Sociedad II) Yellow Card at 77'",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "goal",
+     "texto": "Urko Izeta (Cádiz) Goal at 83'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Andrews Adjabeng (Real Sociedad II) Substitution at 84'",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Sydney Osazuwa (Real Sociedad II) Substitution at 84'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401875541",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "15:30",
+   "estado": "EN JUEGO",
+   "minuto": "66'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "147",
+    "nombre": "NEC Nijmegen",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "148",
+    "nombre": "PSV Eindhoven",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+    "goles": 4
+   },
+   "stats": {
+    "local": {
+     "posesion": 52.8,
+     "tiros": 10,
+     "a_puerta": 6,
+     "faltas": 5,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 1,
+     "pases": 255
+    },
+    "visit": {
+     "posesion": 47.2,
+     "tiros": 8,
+     "a_puerta": 4,
+     "faltas": 8,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 6,
+     "pases": 218
     }
    },
    "eventos": [
     {
      "minuto": "14'",
      "tipo": "goal",
-     "texto": "Goal! Bayer 04 Leverkusen 1, Paderborn 0. Afonso Moreira (Bayer 04 Leverkusen) right footed shot from the centre of the box to the centre of the goal. Assisted by Malik Tillman wit",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401884731",
-   "liga": "Bundesliga",
-   "slug": "ger.1",
-   "hora": "14:30",
-   "estado": "EN JUEGO",
-   "minuto": "30'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "268",
-    "nombre": "Borussia Mönchengladbach",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "124",
-    "nombre": "Borussia Dortmund",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 44.1,
-     "tiros": 3,
-     "a_puerta": 0,
-     "faltas": 4,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 4,
-     "paradas": 2,
-     "pases": 91
+     "texto": "Goal! NEC 0, PSV Eindhoven 1. Filip Kostic (PSV Eindhoven) left footed shot from outside the box to the bottom right corner. Assisted by Sven Mijnans.",
+     "lado": "visit"
     },
-    "visit": {
-     "posesion": 55.9,
-     "tiros": 4,
-     "a_puerta": 2,
-     "faltas": 3,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 0,
-     "pases": 139
-    }
-   },
-   "eventos": [
     {
-     "minuto": "16'",
+     "minuto": "18'",
      "tipo": "yellow-card",
-     "texto": "Joane Gadou (Borussia Dortmund) is shown the yellow card for a bad foul.",
+     "texto": "Mitchel Bakker (NEC) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "24'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! NEC 0, PSV Eindhoven 2. Ivan Perisic (PSV Eindhoven) converts the penalty with a right footed shot to the bottom left corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "41'",
+     "tipo": "substitution",
+     "texto": "Substitution, PSV Eindhoven. Noah Fernandez replaces Mauro Júnior because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "42'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Ahmetcan Kaplan, NEC. NEC 0, PSV Eindhoven 3.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, PSV Eindhoven. Kiliann Sildillia replaces Sergiño Dest.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "yellow-card",
+     "texto": "Noah Fernandez (PSV Eindhoven) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Guus Til (PSV Eindhoven) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Ahmetcan Kaplan (NEC) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "goal",
+     "texto": "Goal! NEC 0, PSV Eindhoven 4. Ruben van Bommel (PSV Eindhoven) right footed shot from the centre of the box to the centre of the goal. Assisted by Guus Til following a fast break.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Esmir Bajraktarevic (PSV Eindhoven) Substitution at 65'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Ayoni Santos (PSV Eindhoven) Substitution at 65'",
      "lado": "visit"
     }
    ]
   },
   {
-   "id": "401884734",
-   "liga": "Bundesliga",
-   "slug": "ger.1",
-   "hora": "14:30",
+   "id": "401888244",
+   "liga": "Super Lig",
+   "slug": "tur.1",
+   "hora": "16:00",
    "estado": "EN JUEGO",
-   "minuto": "31'",
+   "minuto": "45'+1'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "125",
-    "nombre": "Eintracht Frankfurt",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-    "goles": 1
+    "id": "995",
+    "nombre": "Kocaelispor",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
+    "goles": 0
    },
    "visit": {
-    "id": "7911",
-    "nombre": "TSG Hoffenheim",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+    "id": "436",
+    "nombre": "Fenerbahce",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
     "goles": 0
    },
    "stats": {
     "local": {
-     "posesion": 47.8,
+     "posesion": 40.5,
      "tiros": 8,
+     "a_puerta": 3,
+     "faltas": 6,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 2,
+     "pases": 146
+    },
+    "visit": {
+     "posesion": 59.5,
+     "tiros": 4,
      "a_puerta": 2,
-     "faltas": 3,
+     "faltas": 8,
      "amarillas": 0,
      "rojas": 0,
      "corners": 1,
-     "paradas": 1,
-     "pases": 101
-    },
-    "visit": {
-     "posesion": 52.2,
-     "tiros": 3,
-     "a_puerta": 0,
-     "faltas": 1,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 1,
-     "pases": 115
+     "paradas": 3,
+     "pases": 246
     }
    },
    "eventos": [
     {
-     "minuto": "25'",
-     "tipo": "goal",
-     "texto": "Goal! Eintracht Frankfurt 1, Hoffenheim 0. Jonathan Burkardt (Eintracht Frankfurt) right footed shot from the right side of the box to the bottom left corner. Assisted by Ansgar Kn",
+     "minuto": "4'",
+     "tipo": "yellow-card",
+     "texto": "Makana Baku (Kocaelispor) Yellow Card at 4'",
      "lado": "local"
     }
    ]
   },
   {
-   "id": "401884728",
-   "liga": "Bundesliga",
-   "slug": "ger.1",
-   "hora": "14:30",
+   "id": "401876398",
+   "liga": "Ligue 1",
+   "slug": "fra.1",
+   "hora": "16:15",
    "estado": "EN JUEGO",
-   "minuto": "30'",
+   "minuto": "45'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "10388",
-    "nombre": "SV Elversberg",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
-    "goles": 0
+    "id": "2502",
+    "nombre": "Nice",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+    "goles": 1
    },
    "visit": {
-    "id": "126",
-    "nombre": "SC Freiburg",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-    "goles": 0
+    "id": "160",
+    "nombre": "Paris Saint-Germain",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+    "goles": 2
    },
    "stats": {
     "local": {
-     "posesion": 42.1,
-     "tiros": 5,
+     "posesion": 35.9,
+     "tiros": 1,
      "a_puerta": 1,
      "faltas": 3,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 3,
+     "corners": 1,
      "paradas": 0,
-     "pases": 81
+     "pases": 126
     },
     "visit": {
-     "posesion": 57.9,
-     "tiros": 2,
-     "a_puerta": 0,
-     "faltas": 2,
+     "posesion": 64.1,
+     "tiros": 5,
+     "a_puerta": 2,
+     "faltas": 5,
      "amarillas": 0,
      "rojas": 0,
      "corners": 2,
-     "paradas": 1,
-     "pases": 120
+     "paradas": 0,
+     "pases": 263
     }
    },
-   "eventos": []
-  },
-  {
-   "id": "401879238",
-   "liga": "Premier League",
-   "slug": "eng.1",
-   "hora": "15:00",
-   "estado": "EN JUEGO",
-   "minuto": "1'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "349",
-    "nombre": "AFC Bournemouth",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "393",
-    "nombre": "Nottingham Forest",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {},
-    "visit": {}
-   },
-   "eventos": []
+   "eventos": [
+    {
+     "minuto": "8'",
+     "tipo": "goal",
+     "texto": "Goal! Nice 1, Paris Saint Germain 0. Mohammed Amoura (Nice) right footed shot from the centre of the box to the bottom left corner. Assisted by Jonathan Clauss.",
+     "lado": "local"
+    },
+    {
+     "minuto": "31'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Nice 1, Paris Saint Germain 1. Senny Mayulu (Paris Saint Germain) converts the penalty with a right footed shot to the bottom left corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "32'",
+     "tipo": "goal",
+     "texto": "Goal! Nice 1, Paris Saint Germain 2. Désiré Doué (Paris Saint Germain) right footed shot from the left side of the six yard box to the centre of the goal. Assisted by Achraf Hakimi",
+     "lado": "visit"
+    },
+    {
+     "minuto": "44'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris Saint Germain. Ferran Torres replaces Désiré Doué because of an injury.",
+     "lado": "visit"
+    }
+   ]
   },
   {
    "id": "401888247",
@@ -886,7 +1102,7 @@
      "rojas": 0,
      "corners": 10,
      "paradas": 2,
-     "pases": 307
+     "pases": 306
     },
     "visit": {
      "posesion": 46.2,
@@ -1046,7 +1262,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 56.4,
+     "posesion": 56.3,
      "tiros": 16,
      "a_puerta": 7,
      "faltas": 10,
@@ -1054,10 +1270,10 @@
      "rojas": 0,
      "corners": 7,
      "paradas": 3,
-     "pases": 435
+     "pases": 434
     },
     "visit": {
-     "posesion": 43.6,
+     "posesion": 43.7,
      "tiros": 10,
      "a_puerta": 5,
      "faltas": 7,
@@ -1065,7 +1281,7 @@
      "rojas": 0,
      "corners": 4,
      "paradas": 7,
-     "pases": 348
+     "pases": 345
     }
    },
    "eventos": [
@@ -1202,7 +1418,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 55.9,
+     "posesion": 56.1,
      "tiros": 11,
      "a_puerta": 5,
      "faltas": 10,
@@ -1210,10 +1426,10 @@
      "rojas": 0,
      "corners": 5,
      "paradas": 6,
-     "pases": 466
+     "pases": 475
     },
     "visit": {
-     "posesion": 44.1,
+     "posesion": 43.9,
      "tiros": 18,
      "a_puerta": 7,
      "faltas": 9,
@@ -1221,7 +1437,7 @@
      "rojas": 0,
      "corners": 8,
      "paradas": 3,
-     "pases": 345
+     "pases": 346
     }
    },
    "eventos": [
@@ -1319,6 +1535,1662 @@
      "minuto": "90'",
      "tipo": "substitution",
      "texto": "Lesley Ugochukwu (Galatasaray) Substitution at 90'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401875056",
+   "liga": "Serie A",
+   "slug": "ita.1",
+   "hora": "14:00",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "2572",
+    "nombre": "Como",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "2925",
+    "nombre": "Cagliari",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 63.3,
+     "tiros": 10,
+     "a_puerta": 6,
+     "faltas": 6,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 1,
+     "pases": 677
+    },
+    "visit": {
+     "posesion": 36.7,
+     "tiros": 6,
+     "a_puerta": 1,
+     "faltas": 12,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 4,
+     "pases": 335
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Cagliari. M'Bala Nzola replaces Paul Mendy.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "50'",
+     "tipo": "substitution",
+     "texto": "Substitution, Cagliari. Juan Rodríguez replaces Michel Adopo because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Substitution, Como. Máximo Perrone replaces Luis Milla.",
+     "lado": "local"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Substitution, Como. Nico Paz replaces Mattia Liberali.",
+     "lado": "local"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Substitution, Cagliari. Yael Trepy replaces Nicola Grandu.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Como. Adrian Lahdo replaces Samuele Ricci.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Como. Ivan Smolcic replaces Lucas da Cunha.",
+     "lado": "local"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Cagliari. Alieu Fadera replaces Daniel Maldini.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Cagliari. Yanis Massolin replaces Alessandro Deiola.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "88'",
+     "tipo": "substitution",
+     "texto": "Substitution, Como. Álex Valle replaces Martin Baturina.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401874981",
+   "liga": "Serie A",
+   "slug": "ita.1",
+   "hora": "14:00",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "112",
+    "nombre": "Lazio",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "113",
+    "nombre": "Lecce",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 61.4,
+     "tiros": 10,
+     "a_puerta": 6,
+     "faltas": 11,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 9,
+     "paradas": 2,
+     "pases": 406
+    },
+    "visit": {
+     "posesion": 38.6,
+     "tiros": 10,
+     "a_puerta": 2,
+     "faltas": 13,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 3,
+     "pases": 231
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "50'",
+     "tipo": "yellow-card",
+     "texto": "Jamil Siebert (Lecce) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lecce. Oumar Ngom replaces Mohamed Kaba.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lecce. Paco Esteban replaces Willem Geubbels.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "goal",
+     "texto": "Goal! Lazio 2, Lecce 0. Tijjani Noslin (Lazio) left footed shot from the centre of the box to the bottom left corner. Assisted by Kenneth Taylor.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lecce. Joël Monteiro replaces Youssef Maleh.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Danilo Veiga (Lecce) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lazio. Luca Pellegrini replaces Alfonso Pedraza.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lazio. Matteo Cancellieri replaces Gustav Isaksen.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lazio. Nicolò Rovella replaces Reda Belahyane.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lazio. Fisayo Dele-Bashiru replaces Tijjani Noslin.",
+     "lado": "local"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lecce. Nikola Stulic replaces Konan N’Dri.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lecce. Sadik Fofana replaces Lassana Coulibaly.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "yellow-card",
+     "texto": "Luca Pellegrini (Lazio) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "88'",
+     "tipo": "substitution",
+     "texto": "Substitution, Lazio. Albert Gudmundsson replaces Andrea Pinamonti.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "goal",
+     "texto": "Goal! Lazio 3, Lecce 0. Davide Frattesi (Lazio) left footed shot from outside the box to the bottom right corner. Assisted by Matteo Cancellieri with a headed pass following a fast",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401884732",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "598",
+    "nombre": "1. FC Union Berlin",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "11420",
+    "nombre": "RB Leipzig",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+    "goles": 5
+   },
+   "stats": {
+    "local": {
+     "posesion": 33.2,
+     "tiros": 13,
+     "a_puerta": 8,
+     "faltas": 10,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 5,
+     "pases": 217
+    },
+    "visit": {
+     "posesion": 66.8,
+     "tiros": 32,
+     "a_puerta": 10,
+     "faltas": 12,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 6,
+     "pases": 550
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "5'",
+     "tipo": "yellow-card",
+     "texto": "Brajan Gruda (RB Leipzig) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "9'",
+     "tipo": "yellow-card",
+     "texto": "András Schäfer (Union Berlin) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "13'",
+     "tipo": "yellow-card",
+     "texto": "Ezechiel Banzuzi (RB Leipzig) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "17'",
+     "tipo": "yellow-card",
+     "texto": "Zeno Van den Bosch (Union Berlin) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "18'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Union Berlin 0, RB Leipzig 1. Antonio Nusa (RB Leipzig) converts the penalty with a right footed shot to the top left corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "41'",
+     "tipo": "goal",
+     "texto": "Goal! Union Berlin 1, RB Leipzig 1. Michel Aebischer (Union Berlin) left footed shot from the centre of the box to the bottom left corner.",
+     "lado": "local"
+    },
+    {
+     "minuto": "50'",
+     "tipo": "goal",
+     "texto": "Goal! Union Berlin 1, RB Leipzig 2. Rômulo (RB Leipzig) right footed shot from the centre of the box to the bottom left corner. Assisted by Brajan Gruda following a corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, RB Leipzig. Nicolas Seiwald replaces Ezechiel Banzuzi.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, RB Leipzig. Christopher Nkunku replaces Christoph Baumgartner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Union Berlin. Mekhi Gray replaces Andrej Ilic.",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Union Berlin. Jeong Woo-Yeong replaces Kastriot Imeri.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, RB Leipzig. Rocco Reitz replaces Neil El Aynaoui.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, RB Leipzig. Tidiam Gomis replaces Rômulo.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "goal",
+     "texto": "Goal! Union Berlin 1, RB Leipzig 3. Brajan Gruda (RB Leipzig) left footed shot from the centre of the box to the bottom right corner. Assisted by Christopher Nkunku.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Union Berlin. Aljoscha Kemlein replaces András Schäfer.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Union Berlin. Tim Skarke replaces Oliver Burke.",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Substitution, RB Leipzig. Andrija Maksimovic replaces Brajan Gruda.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "goal",
+     "texto": "Goal! Union Berlin 1, RB Leipzig 4. Rocco Reitz (RB Leipzig) left footed shot from a difficult angle on the left to the top left corner. Assisted by David Raum with a through ball.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Union Berlin. Linus Güther replaces Michel Aebischer.",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "goal",
+     "texto": "Goal! Union Berlin 1, RB Leipzig 5. Ridle Baku (RB Leipzig) left footed shot from the centre of the box to the centre of the goal. Assisted by Tidiam Gomis with a through ball.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401884735",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "131",
+    "nombre": "Bayer Leverkusen",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+    "goles": 4
+   },
+   "visit": {
+    "id": "3307",
+    "nombre": "SC Paderborn 07",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 63.7,
+     "tiros": 20,
+     "a_puerta": 10,
+     "faltas": 9,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 1,
+     "pases": 674
+    },
+    "visit": {
+     "posesion": 36.3,
+     "tiros": 8,
+     "a_puerta": 1,
+     "faltas": 8,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 7,
+     "pases": 355
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "14'",
+     "tipo": "goal",
+     "texto": "Goal! Bayer 04 Leverkusen 1, Paderborn 0. Afonso Moreira (Bayer 04 Leverkusen) right footed shot from the centre of the box to the centre of the goal. Assisted by Malik Tillman wit",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paderborn. Felix Götze replaces Jano ter Horst.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "47'",
+     "tipo": "goal",
+     "texto": "Goal! Bayer 04 Leverkusen 2, Paderborn 0. Afonso Moreira (Bayer 04 Leverkusen) left footed shot from very close range to the centre of the goal. Assisted by Nathan Tella.",
+     "lado": "local"
+    },
+    {
+     "minuto": "51'",
+     "tipo": "goal",
+     "texto": "Goal! Bayer 04 Leverkusen 3, Paderborn 0. Patrik Schick (Bayer 04 Leverkusen) left footed shot from the centre of the box to the bottom right corner. Assisted by Nathan Tella.",
+     "lado": "local"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "yellow-card",
+     "texto": "Equi Fernández (Bayer 04 Leverkusen) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "55'",
+     "tipo": "yellow-card",
+     "texto": "Miguel Gutiérrez (Bayer 04 Leverkusen) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paderborn. Deniz Zeitler replaces Gabriel Vidovic.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paderborn. Laurin Ulrich replaces Ruben Müller.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "goal",
+     "texto": "Goal! Bayer 04 Leverkusen 4, Paderborn 0. Equi Fernández (Bayer 04 Leverkusen) left footed shot from the centre of the box to the centre of the goal. Assisted by Afonso Moreira.",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bayer 04 Leverkusen. Robert Andrich replaces Equi Fernández.",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bayer 04 Leverkusen. Moussa Diaby replaces Nathan Tella.",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bayer 04 Leverkusen. Christian Kofane replaces Patrik Schick.",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bayer 04 Leverkusen. Jonas Hofmann replaces Malik Tillman.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paderborn. Jonah Sticker replaces Tom Baack.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bayer 04 Leverkusen. Tim Oermann replaces Edmond Tapsoba.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paderborn. Marvin Pieringer replaces Stefano Marino because of an injury.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401884731",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "268",
+    "nombre": "Borussia Mönchengladbach",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "124",
+    "nombre": "Borussia Dortmund",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 42.6,
+     "tiros": 9,
+     "a_puerta": 2,
+     "faltas": 16,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 7,
+     "paradas": 4,
+     "pases": 284
+    },
+    "visit": {
+     "posesion": 57.4,
+     "tiros": 15,
+     "a_puerta": 5,
+     "faltas": 7,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 7,
+     "paradas": 2,
+     "pases": 424
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "16'",
+     "tipo": "yellow-card",
+     "texto": "Joane Gadou (Borussia Dortmund) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "32'",
+     "tipo": "yellow-card",
+     "texto": "Zento Uno (Borussia M'gladbach) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia M'gladbach. Mathieu Nguefack replaces Zento Uno.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia Dortmund. Waldemar Anton replaces Joane Gadou.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia Dortmund. Joey Veerman replaces Jobe Bellingham.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "yellow-card",
+     "texto": "Kevin Diks (Borussia M'gladbach) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia Dortmund. Mathis Albert replaces Fábio Silva.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia Dortmund. Marcel Sabitzer replaces Konstantinos Karetsas.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia M'gladbach. Isac Lidberg replaces Shuto Machino.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia M'gladbach. David Herold replaces Robin Hack.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia M'gladbach. Franck Honorat replaces Jens Castrop.",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "goal",
+     "texto": "Goal! Borussia M'gladbach 0, Borussia Dortmund 1. Felix Nmecha (Borussia Dortmund) right footed shot from outside the box to the high centre of the goal.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia M'gladbach. Nicolas Kühn replaces Joe Scally.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+2'",
+     "tipo": "substitution",
+     "texto": "Substitution, Borussia Dortmund. Ethan Nwaneri replaces Maximilian Beier.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401884734",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "125",
+    "nombre": "Eintracht Frankfurt",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "7911",
+    "nombre": "TSG Hoffenheim",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 41.5,
+     "tiros": 21,
+     "a_puerta": 6,
+     "faltas": 11,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 9,
+     "paradas": 5,
+     "pases": 237
+    },
+    "visit": {
+     "posesion": 58.5,
+     "tiros": 16,
+     "a_puerta": 4,
+     "faltas": 12,
+     "amarillas": 2,
+     "rojas": 1,
+     "corners": 5,
+     "paradas": 5,
+     "pases": 395
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "25'",
+     "tipo": "goal",
+     "texto": "Goal! Eintracht Frankfurt 1, Hoffenheim 0. Jonathan Burkardt (Eintracht Frankfurt) right footed shot from the right side of the box to the bottom left corner. Assisted by Ansgar Kn",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hoffenheim. Adam Hlozek replaces Andrej Kramaric.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hoffenheim. Adam Daghim replaces Tim Lemperle.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Eintracht Frankfurt. Oscar Højlund replaces Noël Aséko.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "yellow-card",
+     "texto": "Leon Avdullahu (Hoffenheim) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hoffenheim. Bambasé Conté replaces Fisnik Asllani.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hoffenheim. Mats Rots replaces Bernardo.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hoffenheim. Max Moerstedt replaces Alexander Prass.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Eintracht Frankfurt. Nnamdi Collins replaces Ansgar Knauff.",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Substitution, Eintracht Frankfurt. Mario Götze replaces Younes Ebnoutalib.",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Substitution, Eintracht Frankfurt. Malik Pimpong replaces Jonathan Burkardt.",
+     "lado": "local"
+    },
+    {
+     "minuto": "88'",
+     "tipo": "yellow-card",
+     "texto": "Wouter Burger (Hoffenheim) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "red-card",
+     "texto": "Ozan Kabak (Hoffenheim) is shown the red card for violent conduct.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+4'",
+     "tipo": "yellow-card",
+     "texto": "Noah Atubolu (Eintracht Frankfurt) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+5'",
+     "tipo": "yellow-card",
+     "texto": "Malik Pimpong (Eintracht Frankfurt) is shown the yellow card.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401884728",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "FINAL",
+   "minuto": "90'+2'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "10388",
+    "nombre": "SV Elversberg",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "126",
+    "nombre": "SC Freiburg",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 57.6,
+     "tiros": 10,
+     "a_puerta": 2,
+     "faltas": 12,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 0,
+     "pases": 424
+    },
+    "visit": {
+     "posesion": 42.4,
+     "tiros": 9,
+     "a_puerta": 1,
+     "faltas": 11,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 1,
+     "pases": 290
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "33'",
+     "tipo": "yellow-card",
+     "texto": "Niklas Beste (Freiburg) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Elversberg. Luca Sirch replaces Jan Gyamerah.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Elversberg. Noel Futkeu replaces Francis Onyeka.",
+     "lado": "local"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "goal",
+     "texto": "Goal! Elversberg 0, Freiburg 1. Igor Matanovic (Freiburg) right footed shot from the centre of the box to the bottom right corner. Assisted by Niklas Beste.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "yellow-card",
+     "texto": "Igor Matanovic (Freiburg) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "substitution",
+     "texto": "Substitution, Freiburg. Yuito Suzuki replaces Lucas Höler.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "substitution",
+     "texto": "Substitution, Freiburg. Cyriaque Irié replaces Niklas Beste.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Elversberg. Maurice Krattenmacher replaces David Mokwa.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Elversberg. Tom Zimmerschied replaces Cole Campbell.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "yellow-card",
+     "texto": "Philipp Lienhart (Freiburg) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Freiburg. Vincenzo Grifo replaces Derry Scherhant.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Freiburg. Keisuke Goto replaces Igor Matanovic.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Substitution, Elversberg. Raif Adam replaces Maximilian Rohr.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401879238",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "15:00",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "349",
+    "nombre": "AFC Bournemouth",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "393",
+    "nombre": "Nottingham Forest",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 51.1,
+     "tiros": 19,
+     "a_puerta": 7,
+     "faltas": 13,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 6,
+     "paradas": 1,
+     "pases": 359
+    },
+    "visit": {
+     "posesion": 48.9,
+     "tiros": 19,
+     "a_puerta": 1,
+     "faltas": 15,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 5,
+     "pases": 323
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "19'",
+     "tipo": "goal",
+     "texto": "Goal! Bournemouth 1, Nottingham Forest 0. Evanilson (Bournemouth) left footed shot from the centre of the box to the top left corner. Assisted by James Hill with a headed pass.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "yellow-card",
+     "texto": "Liam Delap (Nottingham Forest) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'+3'",
+     "tipo": "goal",
+     "texto": "Goal! Bournemouth 2, Nottingham Forest 0. Justin Kluivert (Bournemouth) right footed shot from very close range to the bottom right corner. Assisted by Marcus Tavernier following a",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nottingham Forest. Igor Jesus replaces Dan Ndoye.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nottingham Forest. Xaver Schlager replaces Ryan Yates.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "yellow-card",
+     "texto": "Daniel Muñoz (Nottingham Forest) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bournemouth. Junior Kroupi replaces Justin Kluivert.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bournemouth. Lewis Cook replaces Tyler Adams.",
+     "lado": "local"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bournemouth. Alex Scott replaces Ryan Christie.",
+     "lado": "local"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nottingham Forest. Chris Wood replaces James McAtee.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nottingham Forest. Luca Netz replaces Neco Williams.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nottingham Forest. Ola Aina replaces Daniel Muñoz.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bournemouth. Bafodé Diakité replaces Adam Smith.",
+     "lado": "local"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "yellow-card",
+     "texto": "Alex Scott (Bournemouth) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bournemouth. Ben Gannon-Doak replaces Rayan.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "yellow-card",
+     "texto": "Murillo (Nottingham Forest) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401878756",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "15:00",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "362",
+    "nombre": "Aston Villa",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "366",
+    "nombre": "Sunderland",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 72.5,
+     "tiros": 19,
+     "a_puerta": 7,
+     "faltas": 15,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 7,
+     "paradas": 1,
+     "pases": 625
+    },
+    "visit": {
+     "posesion": 27.5,
+     "tiros": 7,
+     "a_puerta": 1,
+     "faltas": 20,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 8,
+     "pases": 198
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "38'",
+     "tipo": "yellow-card",
+     "texto": "Trai Hume (Sunderland) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "yellow-card",
+     "texto": "Leon Goretzka (Aston Villa) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Aston Villa. John McGinn replaces Johan Manzambi.",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Aston Villa. Ibrahim Mbaye replaces Emiliano Buendía.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "yellow-card",
+     "texto": "Ian Maatsen (Aston Villa) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Aston Villa. Ross Barkley replaces Leon Goretzka.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Aston Villa. Brian Madjo replaces Nicolas Jackson.",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sunderland. Nilson Angulo replaces Wilson Isidor.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "yellow-card",
+     "texto": "Nilson Angulo (Sunderland) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401879236",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "15:00",
+   "estado": "FINAL",
+   "minuto": "90'+6'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "363",
+    "nombre": "Chelsea",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "357",
+    "nombre": "Leeds United",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+    "goles": 4
+   },
+   "stats": {
+    "local": {
+     "posesion": 56.5,
+     "tiros": 14,
+     "a_puerta": 3,
+     "faltas": 6,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 4,
+     "pases": 464
+    },
+    "visit": {
+     "posesion": 43.5,
+     "tiros": 21,
+     "a_puerta": 8,
+     "faltas": 15,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 2,
+     "pases": 336
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "22'",
+     "tipo": "substitution",
+     "texto": "Substitution, Chelsea. Jordan Henderson replaces Moisés Caicedo because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "25'",
+     "tipo": "goal",
+     "texto": "Goal! Chelsea 1, Leeds United 0. Emmanuel Emegha (Chelsea) left footed shot from the centre of the box to the bottom left corner. Assisted by Morgan Rogers.",
+     "lado": "local"
+    },
+    {
+     "minuto": "28'",
+     "tipo": "goal",
+     "texto": "Goal! Chelsea 1, Leeds United 1. Noah Okafor (Leeds United) left footed shot from the left side of the box to the centre of the goal. Assisted by Dominic Calvert-Lewin.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "38'",
+     "tipo": "yellow-card",
+     "texto": "Gabriel Gudmundsson (Leeds United) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "47'",
+     "tipo": "yellow-card",
+     "texto": "Roméo Lavia (Chelsea) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "53'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Chelsea 1, Leeds United 2. Dominic Calvert-Lewin (Leeds United) converts the penalty with a right footed shot to the bottom right corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "goal",
+     "texto": "Goal! Chelsea 1, Leeds United 3. Noah Okafor (Leeds United) right footed shot from the centre of the box to the top left corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Chelsea. Pedro Neto replaces Estêvão.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Chelsea. Danny Welbeck replaces Emmanuel Emegha.",
+     "lado": "local"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "yellow-card",
+     "texto": "Jayden Bogle (Leeds United) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Leeds United. Brenden Aaronson replaces Noah Okafor.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Chelsea. Geovany Quenda replaces Pep Chavarría.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Chelsea. Malo Gusto replaces Josh Acheampong.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "yellow-card",
+     "texto": "Sean Longstaff (Leeds United) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Substitution, Leeds United. Anton Stach replaces Jayden Bogle.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Substitution, Leeds United. Joe Rodon replaces Ao Tanaka.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "substitution",
+     "texto": "Substitution, Leeds United. Harry Wilson replaces Sean Longstaff.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "substitution",
+     "texto": "Substitution, Leeds United. Melvin Bard replaces Gabriel Gudmundsson.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "goal",
+     "texto": "Goal! Chelsea 1, Leeds United 4. Brenden Aaronson (Leeds United) left footed shot from a difficult angle on the right to the centre of the goal. Assisted by Harry Wilson following ",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401879235",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "15:00",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "388",
+    "nombre": "Coventry City",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "384",
+    "nombre": "Crystal Palace",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 41.6,
+     "tiros": 11,
+     "a_puerta": 7,
+     "faltas": 12,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 3,
+     "pases": 267
+    },
+    "visit": {
+     "posesion": 58.4,
+     "tiros": 14,
+     "a_puerta": 5,
+     "faltas": 14,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 6,
+     "paradas": 4,
+     "pases": 367
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "5'",
+     "tipo": "goal",
+     "texto": "Goal! Coventry City 1, Crystal Palace 0. Taiwo Awoniyi (Coventry City) right footed shot from the centre of the box to the bottom right corner. Assisted by Jack Rudoni.",
+     "lado": "local"
+    },
+    {
+     "minuto": "13'",
+     "tipo": "goal",
+     "texto": "Goal! Coventry City 1, Crystal Palace 1. Yéremy Pino (Crystal Palace) left footed shot from the centre of the box to the high centre of the goal. Assisted by Jørgen Strand Larsen.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "30'",
+     "tipo": "goal",
+     "texto": "Goal! Coventry City 2, Crystal Palace 1. Tatsuhiro Sakamoto (Coventry City) left footed shot from outside the box to the top right corner. Assisted by Jack Rudoni following a fast ",
+     "lado": "local"
+    },
+    {
+     "minuto": "36'",
+     "tipo": "yellow-card",
+     "texto": "Adam Wharton (Crystal Palace) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coventry City. Sidiki Cherif replaces Taiwo Awoniyi because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "yellow-card",
+     "texto": "Matt Grimes (Coventry City) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coventry City. Brandon Thomas-Asante replaces Yann Gboho.",
+     "lado": "local"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coventry City. Gustavo Hamer replaces Victor Torp.",
+     "lado": "local"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coventry City. Frank Onyeka replaces Matt Grimes.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Crystal Palace. Jefferson Lerma replaces Quinten Timber.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Crystal Palace. Jaydee Canvot replaces Anan Khalaili.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "yellow-card",
+     "texto": "Yéremy Pino (Crystal Palace) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Crystal Palace. Eddie Nketiah replaces Jørgen Strand Larsen.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Crystal Palace. Evann Guessand replaces Yéremy Pino.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Dwight McNeil, Crystal Palace. Coventry City 3, Crystal Palace 2.",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Substitution, Crystal Palace. Darío Osorio replaces Dwight McNeil.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401878754",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "15:00",
+   "estado": "FINAL",
+   "minuto": "90'+7'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "367",
+    "nombre": "Tottenham Hotspur",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "373",
+    "nombre": "Ipswich Town",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 62.7,
+     "tiros": 18,
+     "a_puerta": 9,
+     "faltas": 17,
+     "amarillas": 4,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 3,
+     "pases": 521
+    },
+    "visit": {
+     "posesion": 37.3,
+     "tiros": 11,
+     "a_puerta": 3,
+     "faltas": 17,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 6,
+     "paradas": 8,
+     "pases": 284
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "15'",
+     "tipo": "goal",
+     "texto": "Goal! Tottenham Hotspur 1, Ipswich Town 0. Luca Williams-Barnett (Tottenham Hotspur) left footed shot from the centre of the box to the bottom right corner. Assisted by Pedro Porro",
+     "lado": "local"
+    },
+    {
+     "minuto": "41'",
+     "tipo": "yellow-card",
+     "texto": "James Maddison (Tottenham Hotspur) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "51'",
+     "tipo": "goal",
+     "texto": "Goal! Tottenham Hotspur 2, Ipswich Town 0. Dominic Solanke (Tottenham Hotspur) right footed shot from very close range to the centre of the goal.",
+     "lado": "local"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "yellow-card",
+     "texto": "Luca Williams-Barnett (Tottenham Hotspur) is shown the yellow card for excessive celebration.",
+     "lado": "local"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ipswich Town. Florentino replaces Exequiel Palacios.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ipswich Town. Abdul Fatawu Issahaku replaces Abdoul Ouattara.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ipswich Town. Jack Clarke replaces Daizen Maeda.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Tottenham Hotspur. Lucas Bergvall replaces James Maddison.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Tottenham Hotspur. Sávio replaces Luca Williams-Barnett.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Substitution, Tottenham Hotspur. Omar Marmoush replaces Dominic Solanke.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ipswich Town. Emersonn replaces Zian Flemming.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "yellow-card",
+     "texto": "Mohammed Kudus (Tottenham Hotspur) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Tottenham Hotspur. Andy Robertson replaces Destiny Udogie.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ipswich Town. Jacob Greaves replaces Leif Davis because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "yellow-card",
+     "texto": "Issa Diop (Ipswich Town) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Substitution, Tottenham Hotspur. Archie Gray replaces Sávio because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+5'",
+     "tipo": "yellow-card",
+     "texto": "Mateus Fernandes (Tottenham Hotspur) is shown the yellow card for a bad foul.",
      "lado": "local"
     }
    ]
