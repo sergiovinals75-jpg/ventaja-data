@@ -1,629 +1,587 @@
 {
- "generado": "2026-11-21T17:00:49+00:00",
+ "generado": "2026-11-21T19:00:53+00:00",
  "dia": "2026-11-21",
- "en_juego": 6,
+ "en_juego": 7,
  "partidos": [
   {
-   "id": "401850699",
-   "liga": "Primera Division (CHI)",
-   "slug": "chi.1",
-   "hora": "15:00",
+   "id": "401882797",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "17:30",
    "estado": "EN JUEGO",
-   "minuto": "90'+4'",
+   "minuto": "68'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "8186",
-    "nombre": "Coquimbo Unido",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
-    "goles": 1
+    "id": "243",
+    "nombre": "Sevilla",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+    "goles": 0
    },
    "visit": {
-    "id": "4129",
-    "nombre": "Everton CD",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4129.png",
+    "id": "244",
+    "nombre": "Real Betis",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
     "goles": 1
    },
    "stats": {
     "local": {
-     "posesion": 59.5,
-     "tiros": 13,
+     "posesion": 47.6,
+     "tiros": 17,
      "a_puerta": 3,
-     "faltas": 15,
+     "faltas": 14,
      "amarillas": 3,
      "rojas": 0,
-     "corners": 8,
-     "paradas": 4,
-     "pases": 324
+     "corners": 3,
+     "paradas": 2,
+     "pases": 227
     },
     "visit": {
-     "posesion": 40.5,
-     "tiros": 15,
-     "a_puerta": 5,
-     "faltas": 9,
-     "amarillas": 1,
+     "posesion": 52.4,
+     "tiros": 5,
+     "a_puerta": 3,
+     "faltas": 5,
+     "amarillas": 2,
      "rojas": 0,
-     "corners": 8,
-     "paradas": 2,
-     "pases": 205
+     "corners": 2,
+     "paradas": 3,
+     "pases": 260
     }
    },
    "eventos": [
     {
-     "minuto": "10'",
-     "tipo": "goal",
-     "texto": "Goal! Coquimbo Unido 1, Everton de Viña del Mar 1. Luis Riveros (Coquimbo Unido) right footed shot from the centre of the box to the bottom right corner. Assisted by Cristián Zaval",
+     "minuto": "11'",
+     "tipo": "yellow-card",
+     "texto": "Junior Firpo (Real Betis) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "11'",
+     "tipo": "yellow-card",
+     "texto": "Cucho Hernández (Real Betis) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "15'",
+     "tipo": "yellow-card",
+     "texto": "Lucien Agoumé (Sevilla) is shown the yellow card.",
      "lado": "local"
     },
     {
      "minuto": "18'",
      "tipo": "yellow-card",
-     "texto": "Juan Cornejo (Coquimbo Unido) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "43'",
-     "tipo": "yellow-card",
-     "texto": "Elvis Hernández (Coquimbo Unido) is shown the yellow card for a bad foul.",
+     "texto": "Kike Salas (Sevilla) is shown the yellow card for a bad foul.",
      "lado": "local"
     },
     {
      "minuto": "50'",
-     "tipo": "yellow-card",
-     "texto": "Nicolás Montiel (Everton de Viña del Mar) is shown the yellow card for a bad foul.",
+     "tipo": "goal",
+     "texto": "Goal! Sevilla 0, Real Betis 1. Antony (Real Betis) left footed shot from the right side of the box to the bottom right corner. Assisted by Isco.",
      "lado": "visit"
     },
     {
-     "minuto": "53'",
+     "minuto": "59'",
      "tipo": "substitution",
-     "texto": "Substitution, Everton de Viña del Mar. Vicente Fernández replaces Nicolás Baeza because of an injury.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "66'",
-     "tipo": "substitution",
-     "texto": "Substitution, Coquimbo Unido. Pablo Rodríguez replaces Guido Vadalá.",
+     "texto": "Substitution, Sevilla. Chidera Ejuke replaces Félix Correia.",
      "lado": "local"
     },
     {
-     "minuto": "66'",
+     "minuto": "59'",
      "tipo": "substitution",
-     "texto": "Substitution, Coquimbo Unido. Dixon Pereira replaces Benjamín Chandía.",
-     "lado": "local"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "yellow-card",
-     "texto": "Pablo Rodríguez (Coquimbo Unido) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "74'",
-     "tipo": "substitution",
-     "texto": "Substitution, Coquimbo Unido. Lucas Pratto replaces Luis Riveros.",
-     "lado": "local"
-    },
-    {
-     "minuto": "74'",
-     "tipo": "substitution",
-     "texto": "Substitution, Coquimbo Unido. Salvador Cordero replaces Matías Zepeda.",
-     "lado": "local"
-    },
-    {
-     "minuto": "81'",
-     "tipo": "substitution",
-     "texto": "Substitution, Everton de Viña del Mar. Gustavo Charrupí replaces Óscar Opazo.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "81'",
-     "tipo": "substitution",
-     "texto": "Substitution, Everton de Viña del Mar. Josué Ovalle replaces Julián Alfaro.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "81'",
-     "tipo": "substitution",
-     "texto": "Substitution, Coquimbo Unido. Ythans Blanco replaces Cristián Zavala.",
-     "lado": "local"
-    },
-    {
-     "minuto": "89'",
-     "tipo": "substitution",
-     "texto": "Substitution, Everton de Viña del Mar. Braian Martínez replaces Nicolás Montiel.",
-     "lado": "visit"
-    }
-   ]
-  },
-  {
-   "id": "401882799",
-   "liga": "LaLiga",
-   "slug": "esp.1",
-   "hora": "15:15",
-   "estado": "EN JUEGO",
-   "minuto": "85'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "101",
-    "nombre": "Rayo Vallecano",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "94",
-    "nombre": "Valencia",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 61,
-     "tiros": 19,
-     "a_puerta": 5,
-     "faltas": 10,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 8,
-     "paradas": 1,
-     "pases": 384
-    },
-    "visit": {
-     "posesion": 39,
-     "tiros": 11,
-     "a_puerta": 2,
-     "faltas": 17,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 5,
-     "paradas": 5,
-     "pases": 236
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "45'+1'",
-     "tipo": "yellow-card",
-     "texto": "Sergio Camello (Rayo Vallecano) is shown the yellow card for a bad foul.",
+     "texto": "Substitution, Sevilla. Giorgi Kochorashvili replaces Jon Guridi.",
      "lado": "local"
     },
     {
      "minuto": "61'",
-     "tipo": "substitution",
-     "texto": "Substitution, Rayo Vallecano. Adrià Pedrosa replaces Giorgi Tsitaishvili.",
+     "tipo": "yellow-card",
+     "texto": "Andrés Castrín (Sevilla) is shown the yellow card.",
      "lado": "local"
     },
     {
      "minuto": "62'",
      "tipo": "substitution",
-     "texto": "Substitution, Rayo Vallecano. Pedro Díaz replaces Randy Nteka.",
-     "lado": "local"
-    },
-    {
-     "minuto": "64'",
-     "tipo": "yellow-card",
-     "texto": "Javi Guerra (Valencia) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "69'",
-     "tipo": "substitution",
-     "texto": "Substitution, Valencia. Filip Ugrinic replaces Dani Raba.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Substitution, Rayo Vallecano. Álvaro García replaces Mujaid Sadick.",
-     "lado": "local"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Substitution, Rayo Vallecano. Alemão replaces Isi Palazón.",
-     "lado": "local"
-    },
-    {
-     "minuto": "71'",
-     "tipo": "yellow-card",
-     "texto": "Jorge de Frutos (Rayo Vallecano) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "73'",
-     "tipo": "substitution",
-     "texto": "Substitution, Valencia. Mouctar Diakhaby replaces Copete.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "80'",
-     "tipo": "substitution",
-     "texto": "Substitution, Rayo Vallecano. Gnangoro replaces Unai López.",
-     "lado": "local"
-    },
-    {
-     "minuto": "83'",
-     "tipo": "substitution",
-     "texto": "Substitution, Valencia. Aaron Mayol replaces Guido Rodríguez.",
+     "texto": "Substitution, Real Betis. Troy Parrott replaces Aitor Ruibal.",
      "lado": "visit"
     }
    ]
   },
   {
-   "id": "401883108",
+   "id": "401882301",
    "liga": "LaLiga Hypermotion",
    "slug": "esp.2",
-   "hora": "15:15",
+   "hora": "17:30",
    "estado": "EN JUEGO",
-   "minuto": "88'",
+   "minuto": "68'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "20983",
-    "nombre": "Real Sociedad II",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20983.png",
-    "goles": 0
+    "id": "4438",
+    "nombre": "Castellón",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4438.png",
+    "goles": 1
    },
    "visit": {
-    "id": "3842",
-    "nombre": "Cádiz",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-    "goles": 2
+    "id": "7320",
+    "nombre": "Eldense",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7320.png",
+    "goles": 0
    },
    "stats": {
     "local": {
-     "posesion": 47.2,
-     "tiros": 8,
-     "a_puerta": 0,
-     "faltas": 9,
-     "amarillas": 3,
-     "rojas": 1,
+     "posesion": 55.4,
+     "tiros": 10,
+     "a_puerta": 3,
+     "faltas": 12,
+     "amarillas": 1,
+     "rojas": 0,
      "corners": 5,
-     "paradas": 2,
-     "pases": 291
+     "paradas": 1,
+     "pases": 323
     },
     "visit": {
-     "posesion": 52.8,
-     "tiros": 9,
-     "a_puerta": 4,
+     "posesion": 44.6,
+     "tiros": 3,
+     "a_puerta": 1,
      "faltas": 11,
-     "amarillas": 2,
+     "amarillas": 0,
      "rojas": 0,
      "corners": 1,
-     "paradas": 0,
-     "pases": 339
+     "paradas": 2,
+     "pases": 247
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "33'",
+     "tipo": "yellow-card",
+     "texto": "Jeremy Mellot (Castellón) Yellow Card at 33'",
+     "lado": "local"
+    },
+    {
+     "minuto": "39'",
+     "tipo": "goal",
+     "texto": "Agustín Sienra (Castellón) Goal at 39'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Jorge Rastrojo (Eldense) Substitution at 45'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Manuel Nieto (Eldense) Substitution at 60'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Álvaro Martín (Castellón) Substitution at 62'",
+     "lado": "local"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Antonio Gala (Castellón) Substitution at 62'",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Javier Martínez (Eldense) Substitution at 67'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Roberto López (Eldense) Substitution at 67'",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401879232",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "17:30",
+   "estado": "EN JUEGO",
+   "minuto": "73'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "361",
+    "nombre": "Newcastle United",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "359",
+    "nombre": "Arsenal",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 37.5,
+     "tiros": 10,
+     "a_puerta": 3,
+     "faltas": 14,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 2,
+     "pases": 161
+    },
+    "visit": {
+     "posesion": 62.5,
+     "tiros": 11,
+     "a_puerta": 3,
+     "faltas": 5,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 1,
+     "pases": 303
     }
    },
    "eventos": [
     {
      "minuto": "23'",
      "tipo": "yellow-card",
-     "texto": "Noah Ukwuije (Cádiz) Yellow Card at 23'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "30'",
-     "tipo": "substitution",
-     "texto": "Jon Garro (Real Sociedad II) Substitution at 30'",
+     "texto": "Amar Dedic (Newcastle United) is shown the yellow card for a bad foul.",
      "lado": "local"
     },
     {
-     "minuto": "35'",
-     "tipo": "yellow-card",
-     "texto": "Damián Rodríguez (Cádiz) Yellow Card at 35'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "41'",
+     "minuto": "33'",
      "tipo": "goal",
-     "texto": "Antonio Cordero (Cádiz) Goal at 41'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'+1'",
-     "tipo": "yellow-card",
-     "texto": "Gorka Carrera (Real Sociedad II) Yellow Card at 45'+1'",
-     "lado": "local"
-    },
-    {
-     "minuto": "52'",
-     "tipo": "yellow-card",
-     "texto": "Tomás Carbonell (Real Sociedad II) Yellow Card at 52'",
-     "lado": "local"
-    },
-    {
-     "minuto": "52'",
-     "tipo": "yellow-card",
-     "texto": "Alex Marchal (Real Sociedad II) Yellow Card at 52'",
-     "lado": "local"
-    },
-    {
-     "minuto": "53'",
-     "tipo": "red-card",
-     "texto": "Alex Marchal (Real Sociedad II) Red Card at 53'",
-     "lado": "local"
-    },
-    {
-     "minuto": "66'",
-     "tipo": "substitution",
-     "texto": "Javier Soroeta (Real Sociedad II) Substitution at 66'",
-     "lado": "local"
-    },
-    {
-     "minuto": "77'",
-     "tipo": "substitution",
-     "texto": "Vladyslav Kopotun (Cádiz) Substitution at 77'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "77'",
-     "tipo": "yellow-card",
-     "texto": "Daniel Díaz (Real Sociedad II) Yellow Card at 77'",
-     "lado": "local"
-    },
-    {
-     "minuto": "83'",
-     "tipo": "goal",
-     "texto": "Urko Izeta (Cádiz) Goal at 83'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "84'",
-     "tipo": "substitution",
-     "texto": "Andrews Adjabeng (Real Sociedad II) Substitution at 84'",
-     "lado": "local"
-    },
-    {
-     "minuto": "84'",
-     "tipo": "substitution",
-     "texto": "Sydney Osazuwa (Real Sociedad II) Substitution at 84'",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401875541",
-   "liga": "Eredivisie",
-   "slug": "ned.1",
-   "hora": "15:30",
-   "estado": "EN JUEGO",
-   "minuto": "66'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "147",
-    "nombre": "NEC Nijmegen",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "148",
-    "nombre": "PSV Eindhoven",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-    "goles": 4
-   },
-   "stats": {
-    "local": {
-     "posesion": 52.8,
-     "tiros": 10,
-     "a_puerta": 6,
-     "faltas": 5,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 4,
-     "paradas": 1,
-     "pases": 255
-    },
-    "visit": {
-     "posesion": 47.2,
-     "tiros": 8,
-     "a_puerta": 4,
-     "faltas": 8,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 6,
-     "pases": 218
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "14'",
-     "tipo": "goal",
-     "texto": "Goal! NEC 0, PSV Eindhoven 1. Filip Kostic (PSV Eindhoven) left footed shot from outside the box to the bottom right corner. Assisted by Sven Mijnans.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "18'",
-     "tipo": "yellow-card",
-     "texto": "Mitchel Bakker (NEC) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "24'",
-     "tipo": "penalty---scored",
-     "texto": "Goal! NEC 0, PSV Eindhoven 2. Ivan Perisic (PSV Eindhoven) converts the penalty with a right footed shot to the bottom left corner.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "41'",
-     "tipo": "substitution",
-     "texto": "Substitution, PSV Eindhoven. Noah Fernandez replaces Mauro Júnior because of an injury.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "42'",
-     "tipo": "own-goal",
-     "texto": "Own Goal by Ahmetcan Kaplan, NEC. NEC 0, PSV Eindhoven 3.",
+     "texto": "Goal! Newcastle United 0, Arsenal 1. Eberechi Eze (Arsenal) right footed shot from the centre of the box to the top left corner. Assisted by Kai Havertz with a through ball.",
      "lado": "visit"
     },
     {
      "minuto": "45'",
      "tipo": "substitution",
-     "texto": "Substitution, PSV Eindhoven. Kiliann Sildillia replaces Sergiño Dest.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "54'",
-     "tipo": "yellow-card",
-     "texto": "Noah Fernandez (PSV Eindhoven) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "63'",
-     "tipo": "yellow-card",
-     "texto": "Guus Til (PSV Eindhoven) is shown the yellow card.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "63'",
-     "tipo": "yellow-card",
-     "texto": "Ahmetcan Kaplan (NEC) is shown the yellow card.",
+     "texto": "Substitution, Newcastle United. Jacob Ramsey replaces Sean Steur.",
      "lado": "local"
     },
     {
-     "minuto": "64'",
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Newcastle United. Tino Livramento replaces Amar Dedic.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Newcastle United. Anthony Elanga replaces Jacob Murphy.",
+     "lado": "local"
+    },
+    {
+     "minuto": "49'",
      "tipo": "goal",
-     "texto": "Goal! NEC 0, PSV Eindhoven 4. Ruben van Bommel (PSV Eindhoven) right footed shot from the centre of the box to the centre of the goal. Assisted by Guus Til following a fast break.",
+     "texto": "Goal! Newcastle United 1, Arsenal 1. Harvey Barnes (Newcastle United) right footed shot from the centre of the box to the bottom left corner. Assisted by William Osula.",
+     "lado": "local"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "yellow-card",
+     "texto": "Declan Rice (Arsenal) is shown the yellow card for a bad foul.",
      "lado": "visit"
     },
     {
-     "minuto": "65'",
+     "minuto": "58'",
+     "tipo": "yellow-card",
+     "texto": "Harvey Barnes (Newcastle United) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "goal",
+     "texto": "Goal! Newcastle United 2, Arsenal 1. Malick Thiaw (Newcastle United) right footed shot from very close range to the bottom left corner. Assisted by Joe Willock following a corner.G",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
      "tipo": "substitution",
-     "texto": "Esmir Bajraktarevic (PSV Eindhoven) Substitution at 65'",
+     "texto": "Substitution, Arsenal. Myles Lewis-Skelly replaces Bruno Guimarães.",
      "lado": "visit"
     },
     {
-     "minuto": "65'",
+     "minuto": "70'",
      "tipo": "substitution",
-     "texto": "Ayoni Santos (PSV Eindhoven) Substitution at 65'",
+     "texto": "Substitution, Arsenal. Kepa Arrizabalaga replaces David Raya because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Arsenal. Christos Tzolis replaces Eberechi Eze.",
      "lado": "visit"
     }
    ]
   },
   {
-   "id": "401888244",
-   "liga": "Super Lig",
-   "slug": "tur.1",
-   "hora": "16:00",
+   "id": "401884729",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "17:30",
    "estado": "EN JUEGO",
-   "minuto": "45'+1'",
+   "minuto": "73'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "995",
-    "nombre": "Kocaelispor",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
+    "id": "133",
+    "nombre": "Schalke 04",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
     "goles": 0
    },
    "visit": {
-    "id": "436",
-    "nombre": "Fenerbahce",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+    "id": "134",
+    "nombre": "VfB Stuttgart",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
     "goles": 0
    },
    "stats": {
     "local": {
-     "posesion": 40.5,
-     "tiros": 8,
-     "a_puerta": 3,
-     "faltas": 6,
-     "amarillas": 1,
+     "posesion": 48.4,
+     "tiros": 15,
+     "a_puerta": 5,
+     "faltas": 9,
+     "amarillas": 0,
      "rojas": 0,
-     "corners": 2,
+     "corners": 3,
      "paradas": 2,
-     "pases": 146
+     "pases": 297
     },
     "visit": {
-     "posesion": 59.5,
+     "posesion": 51.6,
+     "tiros": 11,
+     "a_puerta": 3,
+     "faltas": 10,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 5,
+     "pases": 316
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Stuttgart. Bilal El Khannouss replaces Jamie Leweling.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Stuttgart. Dzenan Pejcinovic replaces Ermedin Demirovic.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "yellow-card",
+     "texto": "Maximilian Mittelstädt (Stuttgart) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Schalke 04. Moussa Sylla replaces Hwang Hee-Chan.",
+     "lado": "local"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "substitution",
+     "texto": "Substitution, Stuttgart. Nikolas Nartey replaces Yanik Spalt.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401875544",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "17:45",
+   "estado": "EN JUEGO",
+   "minuto": "40'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "153",
+    "nombre": "FC Utrecht",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "3736",
+    "nombre": "SC Cambuur",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 50.3,
      "tiros": 4,
-     "a_puerta": 2,
-     "faltas": 8,
+     "a_puerta": 1,
+     "faltas": 10,
      "amarillas": 0,
      "rojas": 0,
      "corners": 1,
      "paradas": 3,
-     "pases": 246
+     "pases": 147
+    },
+    "visit": {
+     "posesion": 49.7,
+     "tiros": 9,
+     "a_puerta": 4,
+     "faltas": 2,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 1,
+     "pases": 149
     }
    },
    "eventos": [
     {
-     "minuto": "4'",
-     "tipo": "yellow-card",
-     "texto": "Makana Baku (Kocaelispor) Yellow Card at 4'",
+     "minuto": "25'",
+     "tipo": "goal",
+     "texto": "Goal! Utrecht 0, Cambuur 1. Nicolas Binder (Cambuur) right footed shot from the centre of the box to the bottom left corner. Assisted by Jason Çeka.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401875543",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "17:45",
+   "estado": "EN JUEGO",
+   "minuto": "55'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "142",
+    "nombre": "Feyenoord Rotterdam",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "2566",
+    "nombre": "Excelsior",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 68.1,
+     "tiros": 5,
+     "a_puerta": 2,
+     "faltas": 2,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 2,
+     "pases": 351
+    },
+    "visit": {
+     "posesion": 31.9,
+     "tiros": 7,
+     "a_puerta": 4,
+     "faltas": 6,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 1,
+     "pases": 129
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "2'",
+     "tipo": "goal",
+     "texto": "Goal! Feyenoord 1, Excelsior 0. Givairo Read (Feyenoord) right footed shot from a difficult angle on the right to the bottom right corner. Assisted by Jerayno Schaken.",
+     "lado": "local"
+    },
+    {
+     "minuto": "6'",
+     "tipo": "goal",
+     "texto": "Goal! Feyenoord 1, Excelsior 1. Mario Domínguez (Excelsior) right footed shot from the centre of the box to the bottom left corner. Assisted by Ágúst Thorsteinsson with a through b",
+     "lado": "visit"
+    },
+    {
+     "minuto": "40'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Feyenoord 1, Excelsior 2. Irakli Yegoian (Excelsior) converts the penalty with a right footed shot to the bottom right corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Feyenoord. Sem Steijn replaces Charles Vanhoutte.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Feyenoord. Javi López replaces Tsuyoshi Watanabe.",
      "lado": "local"
     }
    ]
   },
   {
-   "id": "401876398",
-   "liga": "Ligue 1",
-   "slug": "fra.1",
-   "hora": "16:15",
+   "id": "401933758",
+   "liga": "Liga Profesional (ARG)",
+   "slug": "arg.1",
+   "hora": "18:00",
    "estado": "EN JUEGO",
-   "minuto": "45'",
+   "minuto": "45'+2'",
    "en_juego": true,
    "terminado": false,
    "local": {
-    "id": "2502",
-    "nombre": "Nice",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-    "goles": 1
+    "id": "8950",
+    "nombre": "Defensa y Justicia",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
+    "goles": 0
    },
    "visit": {
-    "id": "160",
-    "nombre": "Paris Saint-Germain",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-    "goles": 2
+    "id": "10060",
+    "nombre": "Barracas Central",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
+    "goles": 1
    },
    "stats": {
     "local": {
-     "posesion": 35.9,
-     "tiros": 1,
-     "a_puerta": 1,
+     "posesion": 55.6,
+     "tiros": 6,
+     "a_puerta": 2,
+     "faltas": 3,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 3,
+     "pases": 184
+    },
+    "visit": {
+     "posesion": 44.4,
+     "tiros": 9,
+     "a_puerta": 4,
      "faltas": 3,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 1,
-     "paradas": 0,
-     "pases": 126
-    },
-    "visit": {
-     "posesion": 64.1,
-     "tiros": 5,
-     "a_puerta": 2,
-     "faltas": 5,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 0,
-     "pases": 263
+     "corners": 3,
+     "paradas": 2,
+     "pases": 136
     }
    },
    "eventos": [
     {
-     "minuto": "8'",
-     "tipo": "goal",
-     "texto": "Goal! Nice 1, Paris Saint Germain 0. Mohammed Amoura (Nice) right footed shot from the centre of the box to the bottom left corner. Assisted by Jonathan Clauss.",
+     "minuto": "18'",
+     "tipo": "yellow-card",
+     "texto": "Leandro Fernández (Defensa y Justicia) is shown the yellow card for a bad foul.",
      "lado": "local"
-    },
-    {
-     "minuto": "31'",
-     "tipo": "penalty---scored",
-     "texto": "Goal! Nice 1, Paris Saint Germain 1. Senny Mayulu (Paris Saint Germain) converts the penalty with a right footed shot to the bottom left corner.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "32'",
-     "tipo": "goal",
-     "texto": "Goal! Nice 1, Paris Saint Germain 2. Désiré Doué (Paris Saint Germain) right footed shot from the left side of the six yard box to the centre of the goal. Assisted by Achraf Hakimi",
-     "lado": "visit"
-    },
-    {
-     "minuto": "44'",
-     "tipo": "substitution",
-     "texto": "Substitution, Paris Saint Germain. Ferran Torres replaces Désiré Doué because of an injury.",
-     "lado": "visit"
     }
    ]
   },
@@ -2524,11 +2482,11 @@
      "rojas": 0,
      "corners": 6,
      "paradas": 1,
-     "pases": 359
+     "pases": 358
     },
     "visit": {
      "posesion": 48.9,
-     "tiros": 19,
+     "tiros": 18,
      "a_puerta": 1,
      "faltas": 15,
      "amarillas": 3,
@@ -2762,7 +2720,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 56.5,
+     "posesion": 57.1,
      "tiros": 14,
      "a_puerta": 3,
      "faltas": 6,
@@ -2770,18 +2728,18 @@
      "rojas": 0,
      "corners": 3,
      "paradas": 4,
-     "pases": 464
+     "pases": 477
     },
     "visit": {
-     "posesion": 43.5,
+     "posesion": 42.9,
      "tiros": 21,
      "a_puerta": 8,
-     "faltas": 15,
+     "faltas": 16,
      "amarillas": 3,
      "rojas": 0,
      "corners": 2,
      "paradas": 2,
-     "pases": 336
+     "pases": 331
     }
    },
    "eventos": [
@@ -2924,7 +2882,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 41.6,
+     "posesion": 41.7,
      "tiros": 11,
      "a_puerta": 7,
      "faltas": 12,
@@ -2935,7 +2893,7 @@
      "pases": 267
     },
     "visit": {
-     "posesion": 58.4,
+     "posesion": 58.3,
      "tiros": 14,
      "a_puerta": 5,
      "faltas": 14,
@@ -3192,6 +3150,1092 @@
      "tipo": "yellow-card",
      "texto": "Mateus Fernandes (Tottenham Hotspur) is shown the yellow card for a bad foul.",
      "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401850699",
+   "liga": "Primera Division (CHI)",
+   "slug": "chi.1",
+   "hora": "15:00",
+   "estado": "FINAL",
+   "minuto": "90'+8'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "8186",
+    "nombre": "Coquimbo Unido",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "4129",
+    "nombre": "Everton CD",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4129.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 59.2,
+     "tiros": 14,
+     "a_puerta": 4,
+     "faltas": 15,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 9,
+     "paradas": 4,
+     "pases": 327
+    },
+    "visit": {
+     "posesion": 40.8,
+     "tiros": 18,
+     "a_puerta": 5,
+     "faltas": 11,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 2,
+     "pases": 210
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "10'",
+     "tipo": "goal",
+     "texto": "Goal! Coquimbo Unido 1, Everton de Viña del Mar 1. Luis Riveros (Coquimbo Unido) right footed shot from the centre of the box to the bottom right corner. Assisted by Cristián Zaval",
+     "lado": "local"
+    },
+    {
+     "minuto": "18'",
+     "tipo": "yellow-card",
+     "texto": "Juan Cornejo (Coquimbo Unido) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "yellow-card",
+     "texto": "Elvis Hernández (Coquimbo Unido) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "50'",
+     "tipo": "yellow-card",
+     "texto": "Nicolás Montiel (Everton de Viña del Mar) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "53'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Vicente Fernández replaces Nicolás Baeza because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Pablo Rodríguez replaces Guido Vadalá.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Dixon Pereira replaces Benjamín Chandía.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "yellow-card",
+     "texto": "Pablo Rodríguez (Coquimbo Unido) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Lucas Pratto replaces Luis Riveros.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Salvador Cordero replaces Matías Zepeda.",
+     "lado": "local"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Gustavo Charrupí replaces Óscar Opazo.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Josué Ovalle replaces Julián Alfaro.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, Coquimbo Unido. Ythans Blanco replaces Cristián Zavala.",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "substitution",
+     "texto": "Substitution, Everton de Viña del Mar. Braian Martínez replaces Nicolás Montiel.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+4'",
+     "tipo": "yellow-card",
+     "texto": "Braian Martínez (Everton de Viña del Mar) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+6'",
+     "tipo": "yellow-card",
+     "texto": "Ignacio González (Everton de Viña del Mar) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+7'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Coquimbo Unido 2, Everton de Viña del Mar 1. Lucas Pratto (Coquimbo Unido) converts the penalty with a right footed shot to the bottom right corner.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401882799",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "15:15",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "101",
+    "nombre": "Rayo Vallecano",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "94",
+    "nombre": "Valencia",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 63.9,
+     "tiros": 21,
+     "a_puerta": 5,
+     "faltas": 12,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 1,
+     "pases": 456
+    },
+    "visit": {
+     "posesion": 36.1,
+     "tiros": 11,
+     "a_puerta": 2,
+     "faltas": 17,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 5,
+     "pases": 242
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "45'+1'",
+     "tipo": "yellow-card",
+     "texto": "Sergio Camello (Rayo Vallecano) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Adrià Pedrosa replaces Giorgi Tsitaishvili.",
+     "lado": "local"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Pedro Díaz replaces Randy Nteka.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "yellow-card",
+     "texto": "Javi Guerra (Valencia) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Filip Ugrinic replaces Dani Raba.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Álvaro García replaces Mujaid Sadick.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Alemão replaces Isi Palazón.",
+     "lado": "local"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "yellow-card",
+     "texto": "Jorge de Frutos (Rayo Vallecano) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Mouctar Diakhaby replaces Copete.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, Rayo Vallecano. Gnangoro replaces Unai López.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Aaron Mayol replaces Guido Rodríguez.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Hugo Duro replaces Umar Sadiq.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Valencia. Aliou Dieng replaces Javi Guerra.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401883108",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "15:15",
+   "estado": "FINAL",
+   "minuto": "90'+6'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "20983",
+    "nombre": "Real Sociedad II",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20983.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "3842",
+    "nombre": "Cádiz",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+    "goles": 3
+   },
+   "stats": {
+    "local": {
+     "posesion": 47.8,
+     "tiros": 10,
+     "a_puerta": 1,
+     "faltas": 12,
+     "amarillas": 3,
+     "rojas": 2,
+     "corners": 7,
+     "paradas": 2,
+     "pases": 301
+    },
+    "visit": {
+     "posesion": 52.2,
+     "tiros": 10,
+     "a_puerta": 5,
+     "faltas": 12,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 1,
+     "pases": 348
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "23'",
+     "tipo": "yellow-card",
+     "texto": "Noah Ukwuije (Cádiz) Yellow Card at 23'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "30'",
+     "tipo": "substitution",
+     "texto": "Jon Garro (Real Sociedad II) Substitution at 30'",
+     "lado": "local"
+    },
+    {
+     "minuto": "35'",
+     "tipo": "yellow-card",
+     "texto": "Damián Rodríguez (Cádiz) Yellow Card at 35'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "41'",
+     "tipo": "goal",
+     "texto": "Antonio Cordero (Cádiz) Goal at 41'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'+1'",
+     "tipo": "yellow-card",
+     "texto": "Gorka Carrera (Real Sociedad II) Yellow Card at 45'+1'",
+     "lado": "local"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "yellow-card",
+     "texto": "Tomás Carbonell (Real Sociedad II) Yellow Card at 52'",
+     "lado": "local"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "yellow-card",
+     "texto": "Alex Marchal (Real Sociedad II) Yellow Card at 52'",
+     "lado": "local"
+    },
+    {
+     "minuto": "53'",
+     "tipo": "red-card",
+     "texto": "Alex Marchal (Real Sociedad II) Red Card at 53'",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Javier Soroeta (Real Sociedad II) Substitution at 66'",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Vladyslav Kopotun (Cádiz) Substitution at 77'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Daniel Díaz (Real Sociedad II) Yellow Card at 77'",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "goal",
+     "texto": "Urko Izeta (Cádiz) Goal at 83'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Andrews Adjabeng (Real Sociedad II) Substitution at 84'",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Sydney Osazuwa (Real Sociedad II) Substitution at 84'",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "yellow-card",
+     "texto": "Luken Beitia (Real Sociedad II) Yellow Card at 89'",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "goal",
+     "texto": "Borja Vázquez (Cádiz) Goal at 89'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "substitution",
+     "texto": "Bojan Kovacevic (Cádiz) Substitution at 90'+1'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+5'",
+     "tipo": "red-card",
+     "texto": "Gorka Carrera (Real Sociedad II) Red Card at 90'+5'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401875541",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "15:30",
+   "estado": "FINAL",
+   "minuto": "90'+3'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "147",
+    "nombre": "NEC Nijmegen",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "148",
+    "nombre": "PSV Eindhoven",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+    "goles": 4
+   },
+   "stats": {
+    "local": {
+     "posesion": 52.7,
+     "tiros": 13,
+     "a_puerta": 8,
+     "faltas": 7,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 1,
+     "pases": 365
+    },
+    "visit": {
+     "posesion": 47.3,
+     "tiros": 16,
+     "a_puerta": 4,
+     "faltas": 12,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 7,
+     "pases": 308
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "14'",
+     "tipo": "goal",
+     "texto": "Goal! NEC 0, PSV Eindhoven 1. Filip Kostic (PSV Eindhoven) left footed shot from outside the box to the bottom right corner. Assisted by Sven Mijnans.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "18'",
+     "tipo": "yellow-card",
+     "texto": "Mitchel Bakker (NEC) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "24'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! NEC 0, PSV Eindhoven 2. Ivan Perisic (PSV Eindhoven) converts the penalty with a right footed shot to the bottom left corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "41'",
+     "tipo": "substitution",
+     "texto": "Substitution, PSV Eindhoven. Noah Fernandez replaces Mauro Júnior because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "42'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Ahmetcan Kaplan, NEC. NEC 0, PSV Eindhoven 3.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, PSV Eindhoven. Kiliann Sildillia replaces Sergiño Dest.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "yellow-card",
+     "texto": "Noah Fernandez (PSV Eindhoven) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Guus Til (PSV Eindhoven) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Ahmetcan Kaplan (NEC) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "goal",
+     "texto": "Goal! NEC 0, PSV Eindhoven 4. Ruben van Bommel (PSV Eindhoven) right footed shot from the centre of the box to the centre of the goal. Assisted by Guus Til following a fast break.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Substitution, PSV Eindhoven. Esmir Bajraktarevic replaces Ivan Perisic.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Substitution, PSV Eindhoven. Ayoni Santos replaces Ruben van Bommel.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "yellow-card",
+     "texto": "Filip Kostic (PSV Eindhoven) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, NEC. Tobias Storm replaces Tjaronn Chery.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, NEC. Dennis Geiger replaces Gabriel Brás.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, NEC. Willum Willumsson replaces Darko Nejasmic.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, NEC. Clement Bischoff replaces Deveron Fonville.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, NEC. Kaj Sierhuis replaces Kevin Kers.",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "goal",
+     "texto": "Goal! NEC 1, PSV Eindhoven 4. Bryan Linssen (NEC) right footed shot from very close range to the top left corner.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "substitution",
+     "texto": "Substitution, PSV Eindhoven. Ricardo Pepi replaces Guus Til.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401888244",
+   "liga": "Super Lig",
+   "slug": "tur.1",
+   "hora": "16:00",
+   "estado": "FINAL",
+   "minuto": "90'+6'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "995",
+    "nombre": "Kocaelispor",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/995.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "436",
+    "nombre": "Fenerbahce",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 36.3,
+     "tiros": 14,
+     "a_puerta": 5,
+     "faltas": 17,
+     "amarillas": 4,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 4,
+     "pases": 222
+    },
+    "visit": {
+     "posesion": 63.7,
+     "tiros": 13,
+     "a_puerta": 6,
+     "faltas": 19,
+     "amarillas": 6,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 3,
+     "pases": 460
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "4'",
+     "tipo": "yellow-card",
+     "texto": "Makana Baku (Kocaelispor) Yellow Card at 4'",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Vedat Muriqi (Fenerbahce) Substitution at 45'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Tobias Gulliksen (Kocaelispor) Substitution at 60'",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Metehan Altunbas (Kocaelispor) Substitution at 60'",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "goal",
+     "texto": "Milan Skriniar (Fenerbahce) Goal at 61'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "yellow-card",
+     "texto": "Munir Mercan (Fenerbahce) Yellow Card at 69'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "69'",
+     "tipo": "yellow-card",
+     "texto": "Matteo Guendouzi (Fenerbahce) Yellow Card at 69'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "yellow-card",
+     "texto": "Ederson (Fenerbahce) Yellow Card at 71'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "penalty---scored",
+     "texto": "Berkan Kutlu (Kocaelispor) Penalty - Scored at 71'",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "yellow-card",
+     "texto": "Milan Skriniar (Fenerbahce) Yellow Card at 75'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "goal",
+     "texto": "Matej Maglica (Kocaelispor) Goal at 76'",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Kerem Aktürkoglu (Fenerbahce) Substitution at 78'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "N'Golo Kanté (Fenerbahce) Substitution at 78'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "yellow-card",
+     "texto": "Tobias Gulliksen (Kocaelispor) Yellow Card at 81'",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "yellow-card",
+     "texto": "Kojo Peprah Oppong (Fenerbahce) Yellow Card at 83'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Emir Ortakaya (Kocaelispor) Substitution at 85'",
+     "lado": "local"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "yellow-card",
+     "texto": "Serhat Öztasdelen (Kocaelispor) Yellow Card at 85'",
+     "lado": "local"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Nene Dorgeles (Fenerbahce) Substitution at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Mert Müldür (Fenerbahce) Substitution at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "yellow-card",
+     "texto": "Mason Greenwood (Fenerbahce) Yellow Card at 90'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "substitution",
+     "texto": "Florian Ayé (Kocaelispor) Substitution at 90'+1'",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "goal",
+     "texto": "Mason Greenwood (Fenerbahce) Goal at 90'+3'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+5'",
+     "tipo": "yellow-card",
+     "texto": "Metehan Altunbas (Kocaelispor) Yellow Card at 90'+5'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401876398",
+   "liga": "Ligue 1",
+   "slug": "fra.1",
+   "hora": "16:15",
+   "estado": "FINAL",
+   "minuto": "90'+7'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "2502",
+    "nombre": "Nice",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "160",
+    "nombre": "Paris Saint-Germain",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+    "goles": 3
+   },
+   "stats": {
+    "local": {
+     "posesion": 36.7,
+     "tiros": 4,
+     "a_puerta": 3,
+     "faltas": 11,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 2,
+     "pases": 353
+    },
+    "visit": {
+     "posesion": 63.3,
+     "tiros": 14,
+     "a_puerta": 5,
+     "faltas": 12,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 1,
+     "pases": 705
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "8'",
+     "tipo": "goal",
+     "texto": "Goal! Nice 1, Paris Saint Germain 0. Mohammed Amoura (Nice) right footed shot from the centre of the box to the bottom left corner. Assisted by Jonathan Clauss.",
+     "lado": "local"
+    },
+    {
+     "minuto": "31'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Nice 1, Paris Saint Germain 1. Senny Mayulu (Paris Saint Germain) converts the penalty with a right footed shot to the bottom left corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "32'",
+     "tipo": "goal",
+     "texto": "Goal! Nice 1, Paris Saint Germain 2. Désiré Doué (Paris Saint Germain) right footed shot from the left side of the six yard box to the centre of the goal. Assisted by Achraf Hakimi",
+     "lado": "visit"
+    },
+    {
+     "minuto": "44'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris Saint Germain. Ferran Torres replaces Désiré Doué because of an injury.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "yellow-card",
+     "texto": "Hicham Boudaoui (Nice) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris Saint Germain. Willian Pacho replaces Nuno Mendes.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris Saint Germain. Ousmane Dembélé replaces Senny Mayulu.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris Saint Germain. Mika Godts replaces Maghnes Akliouche.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nice. Morgan Sanson replaces Sofiane Diop.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nice. Ali Abdi replaces Xavier Mandza.",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nice. Gauthier Hein replaces Mohammed Amoura.",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "yellow-card",
+     "texto": "Alidu Seidu (Nice) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nice. Djibril Coulibaly replaces Axel Witsel.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Nice. Nathan Ngoumou replaces Elye Wahi.",
+     "lado": "local"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris Saint Germain. Marquinhos replaces Lucas Hernández.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "goal",
+     "texto": "Goal! Nice 1, Paris Saint Germain 3. Ferran Torres (Paris Saint Germain) right footed shot from the centre of the box to the centre of the goal. Assisted by Ousmane Dembélé.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+5'",
+     "tipo": "goal",
+     "texto": "Goal! Nice 2, Paris Saint Germain 3. Ali Abdi (Nice) left footed shot from the centre of the box to the centre of the goal. Assisted by Jonathan Clauss.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401874967",
+   "liga": "Serie A",
+   "slug": "ita.1",
+   "hora": "17:00",
+   "estado": "FINAL",
+   "minuto": "90'+3'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "115",
+    "nombre": "Parma",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "104",
+    "nombre": "AS Roma",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+    "goles": 5
+   },
+   "stats": {
+    "local": {
+     "posesion": 31.2,
+     "tiros": 17,
+     "a_puerta": 6,
+     "faltas": 6,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 4,
+     "pases": 202
+    },
+    "visit": {
+     "posesion": 68.8,
+     "tiros": 19,
+     "a_puerta": 9,
+     "faltas": 9,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 5,
+     "pases": 554
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "39'",
+     "tipo": "goal",
+     "texto": "Goal! Parma 0, Roma 1. Donyell Malen (Roma) right footed shot from the centre of the box to the bottom left corner. Assisted by Emanuele Lulli with a cross following a set piece si",
+     "lado": "visit"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "yellow-card",
+     "texto": "Emanuele Valeri (Parma) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "goal",
+     "texto": "Goal! Parma 1, Roma 1. Nesta Elphege (Parma) left footed shot from outside the box to the bottom left corner. Assisted by Mariano Troilo following a fast break.",
+     "lado": "local"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Roma. Wesley replaces Emanuele Lulli.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Roma. Evan Ndicka replaces Leonardo Balerdi.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Roma. Matías Soulé replaces Paulo Dybala.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Simone Lontani replaces El Bilal Touré.",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Christian Ordóñez replaces Giovanni Fabbian.",
+     "lado": "local"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "goal",
+     "texto": "Goal! Parma 1, Roma 2. Donyell Malen (Roma) right footed shot from the centre of the box to the bottom left corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "71'",
+     "tipo": "goal",
+     "texto": "Goal! Parma 1, Roma 3. Rodrigo Mora (Roma) right footed shot from the centre of the box to the centre of the goal.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Hans Nicolussi Caviglia replaces Vincent Sierro.",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Ousmane Diallo replaces Sascha Britschgi.",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "goal",
+     "texto": "Goal! Parma 1, Roma 4. Donyell Malen (Roma) right footed shot from the centre of the box to the top left corner. Assisted by Wesley with a cross.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Roma. Konstantinos Koulierakis replaces Nahuel Molina.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Substitution, Roma. Niccolò Pisilli replaces Rodrigo Mora.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Substitution, Parma. Thomás de Martis replaces Nesta Elphege.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "goal",
+     "texto": "Goal! Parma 1, Roma 5. Donyell Malen (Roma) right footed shot from a difficult angle on the left to the bottom left corner. Assisted by Wesley following a fast break.",
+     "lado": "visit"
     }
    ]
   }
