@@ -1,454 +1,22 @@
 {
- "generado": "2026-11-21T14:11:50+00:00",
+ "generado": "2026-11-21T15:00:49+00:00",
  "dia": "2026-11-21",
- "en_juego": 7,
+ "en_juego": 8,
  "partidos": [
-  {
-   "id": "401879233",
-   "liga": "Premier League",
-   "slug": "eng.1",
-   "hora": "12:30",
-   "estado": "EN JUEGO",
-   "minuto": "83'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "382",
-    "nombre": "Manchester City",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-    "goles": 1
-   },
-   "visit": {
-    "id": "370",
-    "nombre": "Fulham",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 58.4,
-     "tiros": 14,
-     "a_puerta": 3,
-     "faltas": 8,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 8,
-     "paradas": 3,
-     "pases": 467
-    },
-    "visit": {
-     "posesion": 41.6,
-     "tiros": 5,
-     "a_puerta": 4,
-     "faltas": 10,
-     "amarillas": 3,
-     "rojas": 0,
-     "corners": 6,
-     "paradas": 2,
-     "pases": 308
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "7'",
-     "tipo": "yellow-card",
-     "texto": "Alex Iwobi (Fulham) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "16'",
-     "tipo": "goal",
-     "texto": "Goal! Manchester City 0, Fulham 1. Rodrigo Muniz (Fulham) right footed shot from the centre of the box to the top right corner. Assisted by Oscar Bobb.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "22'",
-     "tipo": "yellow-card",
-     "texto": "Calvin Bassey (Fulham) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "44'",
-     "tipo": "yellow-card",
-     "texto": "Shea Charles (Fulham) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Substitution, Fulham. Hugo Larsson replaces Josh King.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Substitution, Fulham. Antonee Robinson replaces Alex Iwobi.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Substitution, Manchester City. Rayan Cherki replaces Phil Foden.",
-     "lado": "local"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "yellow-card",
-     "texto": "Gianluigi Donnarumma (Manchester City) is shown the yellow card.",
-     "lado": "local"
-    },
-    {
-     "minuto": "78'",
-     "tipo": "substitution",
-     "texto": "Substitution, Fulham. Gonzalo García replaces Oscar Bobb.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "78'",
-     "tipo": "substitution",
-     "texto": "Substitution, Manchester City. Allan replaces Iliman Ndiaye.",
-     "lado": "local"
-    },
-    {
-     "minuto": "78'",
-     "tipo": "substitution",
-     "texto": "Substitution, Manchester City. Josko Gvardiol replaces Nico O'Reilly.",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401882806",
-   "liga": "LaLiga",
-   "slug": "esp.1",
-   "hora": "13:00",
-   "estado": "EN JUEGO",
-   "minuto": "52'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "96",
-    "nombre": "Alavés",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-    "goles": 1
-   },
-   "visit": {
-    "id": "90",
-    "nombre": "Deportivo",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 50.3,
-     "tiros": 10,
-     "a_puerta": 3,
-     "faltas": 7,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 5,
-     "paradas": 0,
-     "pases": 181
-    },
-    "visit": {
-     "posesion": 49.7,
-     "tiros": 1,
-     "a_puerta": 0,
-     "faltas": 8,
-     "amarillas": 3,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 3,
-     "pases": 183
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "2'",
-     "tipo": "goal",
-     "texto": "Goal! Alaves 1, Deportivo de A Coruña 0. Ángel Pérez (Alaves) right footed shot from the right side of the six yard box to the top right corner. Assisted by Antonio Blanco with a t",
-     "lado": "local"
-    },
-    {
-     "minuto": "5'",
-     "tipo": "yellow-card",
-     "texto": "Ximo Navarro (Deportivo de A Coruña) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "19'",
-     "tipo": "yellow-card",
-     "texto": "Giacomo Quagliata (Deportivo de A Coruña) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "32'",
-     "tipo": "yellow-card",
-     "texto": "Ángel Pérez (Alaves) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "41'",
-     "tipo": "own-goal",
-     "texto": "Own Goal by Nahuel Tenaglia, Alaves. Alaves 1, Deportivo de A Coruña 1.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Substitution, Deportivo de A Coruña. Adama Traoré replaces Ximo Navarro.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Substitution, Deportivo de A Coruña. José María Giménez replaces Riki Rodríguez.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "48'",
-     "tipo": "yellow-card",
-     "texto": "Miguel Loureiro (Deportivo de A Coruña) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    }
-   ]
-  },
-  {
-   "id": "401882299",
-   "liga": "LaLiga Hypermotion",
-   "slug": "esp.2",
-   "hora": "13:00",
-   "estado": "EN JUEGO",
-   "minuto": "49'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "11487",
-    "nombre": "CD Sabadell",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11487.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "3747",
-    "nombre": "Granada",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 41.2,
-     "tiros": 5,
-     "a_puerta": 3,
-     "faltas": 12,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 6,
-     "paradas": 0,
-     "pases": 106
-    },
-    "visit": {
-     "posesion": 58.8,
-     "tiros": 2,
-     "a_puerta": 1,
-     "faltas": 6,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 0,
-     "paradas": 2,
-     "pases": 178
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "31'",
-     "tipo": "yellow-card",
-     "texto": "Rubén Alcaraz (Granada) Yellow Card at 31'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "37'",
-     "tipo": "yellow-card",
-     "texto": "Óscar Sanz (CD Sabadell) Yellow Card at 37'",
-     "lado": "local"
-    },
-    {
-     "minuto": "43'",
-     "tipo": "goal",
-     "texto": "Pedro Alemañ (Granada) Goal at 43'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'+4'",
-     "tipo": "yellow-card",
-     "texto": "Sergio Rodelas (Granada) Yellow Card at 45'+4'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "46'",
-     "tipo": "yellow-card",
-     "texto": "Pere Pons (CD Sabadell) Yellow Card at 46'",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401888369",
-   "liga": "Super Lig",
-   "slug": "tur.1",
-   "hora": "13:00",
-   "estado": "EN JUEGO",
-   "minuto": "53'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "132335",
-    "nombre": "Amed SFK",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png",
-    "goles": 0
-   },
-   "visit": {
-    "id": "7656",
-    "nombre": "Caykur Rizespor",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
-    "goles": 1
-   },
-   "stats": {
-    "local": {
-     "posesion": 54,
-     "tiros": 7,
-     "a_puerta": 3,
-     "faltas": 5,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 3,
-     "paradas": 3,
-     "pases": 230
-    },
-    "visit": {
-     "posesion": 46,
-     "tiros": 7,
-     "a_puerta": 4,
-     "faltas": 6,
-     "amarillas": 3,
-     "rojas": 0,
-     "corners": 3,
-     "paradas": 3,
-     "pases": 211
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "19'",
-     "tipo": "goal",
-     "texto": "Ali Sowe (Caykur Rizespor) Goal at 19'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "27'",
-     "tipo": "yellow-card",
-     "texto": "Zafer Görgen (Caykur Rizespor) Yellow Card at 27'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'+1'",
-     "tipo": "yellow-card",
-     "texto": "Ahmed Kutucu (Caykur Rizespor) Yellow Card at 45'+1'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Amadou Cissé (Amed SFK) Substitution at 45'",
-     "lado": "local"
-    },
-    {
-     "minuto": "51'",
-     "tipo": "yellow-card",
-     "texto": "Adedire Mebude (Caykur Rizespor) Yellow Card at 51'",
-     "lado": "visit"
-    }
-   ]
-  },
-  {
-   "id": "401888245",
-   "liga": "Super Lig",
-   "slug": "tur.1",
-   "hora": "13:00",
-   "estado": "EN JUEGO",
-   "minuto": "52'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "432",
-    "nombre": "Galatasaray",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-    "goles": 1
-   },
-   "visit": {
-    "id": "11429",
-    "nombre": "Samsunspor",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 51.9,
-     "tiros": 5,
-     "a_puerta": 2,
-     "faltas": 7,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 2,
-     "pases": 243
-    },
-    "visit": {
-     "posesion": 48.1,
-     "tiros": 6,
-     "a_puerta": 2,
-     "faltas": 7,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 3,
-     "paradas": 1,
-     "pases": 217
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "4'",
-     "tipo": "goal",
-     "texto": "Lucas Torreira (Galatasaray) Goal at 4'",
-     "lado": "local"
-    },
-    {
-     "minuto": "33'",
-     "tipo": "yellow-card",
-     "texto": "Josafat Mendes (Samsunspor) Yellow Card at 33'",
-     "lado": "visit"
-    },
-    {
-     "minuto": "33'",
-     "tipo": "yellow-card",
-     "texto": "Baris Alper Yilmaz (Galatasaray) Yellow Card at 33'",
-     "lado": "local"
-    }
-   ]
-  },
   {
    "id": "401875056",
    "liga": "Serie A",
    "slug": "ita.1",
    "hora": "14:00",
    "estado": "EN JUEGO",
-   "minuto": "9'",
+   "minuto": "45'+1'",
    "en_juego": true,
    "terminado": false,
    "local": {
     "id": "2572",
     "nombre": "Como",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-    "goles": 0
+    "goles": 1
    },
    "visit": {
     "id": "2925",
@@ -458,26 +26,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 67.9,
-     "tiros": 0,
-     "a_puerta": 0,
-     "faltas": 1,
+     "posesion": 55.8,
+     "tiros": 3,
+     "a_puerta": 1,
+     "faltas": 4,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 0,
+     "corners": 2,
      "paradas": 0,
-     "pases": 47
+     "pases": 289
     },
     "visit": {
-     "posesion": 32.1,
-     "tiros": 0,
+     "posesion": 44.2,
+     "tiros": 4,
      "a_puerta": 0,
-     "faltas": 1,
+     "faltas": 4,
      "amarillas": 0,
      "rojas": 0,
      "corners": 0,
      "paradas": 0,
-     "pases": 14
+     "pases": 208
     }
    },
    "eventos": []
@@ -488,14 +56,14 @@
    "slug": "ita.1",
    "hora": "14:00",
    "estado": "EN JUEGO",
-   "minuto": "11'",
+   "minuto": "45'+2'",
    "en_juego": true,
    "terminado": false,
    "local": {
     "id": "112",
     "nombre": "Lazio",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-    "goles": 0
+    "goles": 1
    },
    "visit": {
     "id": "113",
@@ -505,27 +73,341 @@
    },
    "stats": {
     "local": {
-     "posesion": 54,
+     "posesion": 59.8,
+     "tiros": 2,
+     "a_puerta": 2,
+     "faltas": 3,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 2,
+     "pases": 222
+    },
+    "visit": {
+     "posesion": 40.2,
+     "tiros": 6,
+     "a_puerta": 2,
+     "faltas": 4,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 1,
+     "pases": 138
+    }
+   },
+   "eventos": []
+  },
+  {
+   "id": "401884732",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "EN JUEGO",
+   "minuto": "31'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "598",
+    "nombre": "1. FC Union Berlin",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "11420",
+    "nombre": "RB Leipzig",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 32,
+     "tiros": 2,
+     "a_puerta": 1,
+     "faltas": 4,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 2,
+     "pases": 47
+    },
+    "visit": {
+     "posesion": 68,
+     "tiros": 7,
+     "a_puerta": 3,
+     "faltas": 5,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 0,
+     "pases": 128
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "5'",
+     "tipo": "yellow-card",
+     "texto": "Brajan Gruda (RB Leipzig) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "9'",
+     "tipo": "yellow-card",
+     "texto": "András Schäfer (Union Berlin) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "13'",
+     "tipo": "yellow-card",
+     "texto": "Ezechiel Banzuzi (RB Leipzig) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "17'",
+     "tipo": "yellow-card",
+     "texto": "Zeno Van den Bosch (Union Berlin) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "18'",
+     "tipo": "penalty---scored",
+     "texto": "Goal! Union Berlin 0, RB Leipzig 1. Antonio Nusa (RB Leipzig) converts the penalty with a right footed shot to the top left corner.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401884735",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "EN JUEGO",
+   "minuto": "31'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "131",
+    "nombre": "Bayer Leverkusen",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "3307",
+    "nombre": "SC Paderborn 07",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 69.1,
+     "tiros": 9,
+     "a_puerta": 5,
+     "faltas": 4,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 0,
+     "pases": 217
+    },
+    "visit": {
+     "posesion": 30.9,
      "tiros": 0,
+     "a_puerta": 0,
+     "faltas": 3,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 5,
+     "pases": 85
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "14'",
+     "tipo": "goal",
+     "texto": "Goal! Bayer 04 Leverkusen 1, Paderborn 0. Afonso Moreira (Bayer 04 Leverkusen) right footed shot from the centre of the box to the centre of the goal. Assisted by Malik Tillman wit",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401884731",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "EN JUEGO",
+   "minuto": "30'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "268",
+    "nombre": "Borussia Mönchengladbach",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "124",
+    "nombre": "Borussia Dortmund",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 44.1,
+     "tiros": 3,
+     "a_puerta": 0,
+     "faltas": 4,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 2,
+     "pases": 91
+    },
+    "visit": {
+     "posesion": 55.9,
+     "tiros": 4,
+     "a_puerta": 2,
+     "faltas": 3,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 0,
+     "pases": 139
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "16'",
+     "tipo": "yellow-card",
+     "texto": "Joane Gadou (Borussia Dortmund) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401884734",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "EN JUEGO",
+   "minuto": "31'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "125",
+    "nombre": "Eintracht Frankfurt",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "7911",
+    "nombre": "TSG Hoffenheim",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 47.8,
+     "tiros": 8,
+     "a_puerta": 2,
+     "faltas": 3,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 1,
+     "paradas": 1,
+     "pases": 101
+    },
+    "visit": {
+     "posesion": 52.2,
+     "tiros": 3,
+     "a_puerta": 0,
+     "faltas": 1,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 1,
+     "pases": 115
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "25'",
+     "tipo": "goal",
+     "texto": "Goal! Eintracht Frankfurt 1, Hoffenheim 0. Jonathan Burkardt (Eintracht Frankfurt) right footed shot from the right side of the box to the bottom left corner. Assisted by Ansgar Kn",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401884728",
+   "liga": "Bundesliga",
+   "slug": "ger.1",
+   "hora": "14:30",
+   "estado": "EN JUEGO",
+   "minuto": "30'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "10388",
+    "nombre": "SV Elversberg",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "126",
+    "nombre": "SC Freiburg",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 42.1,
+     "tiros": 5,
+     "a_puerta": 1,
+     "faltas": 3,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 0,
+     "pases": 81
+    },
+    "visit": {
+     "posesion": 57.9,
+     "tiros": 2,
      "a_puerta": 0,
      "faltas": 2,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 1,
-     "paradas": 0,
-     "pases": 39
-    },
-    "visit": {
-     "posesion": 46,
-     "tiros": 1,
-     "a_puerta": 0,
-     "faltas": 0,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 0,
-     "paradas": 0,
-     "pases": 33
+     "corners": 2,
+     "paradas": 1,
+     "pases": 120
     }
+   },
+   "eventos": []
+  },
+  {
+   "id": "401879238",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "15:00",
+   "estado": "EN JUEGO",
+   "minuto": "1'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "349",
+    "nombre": "AFC Bournemouth",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "393",
+    "nombre": "Nottingham Forest",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {},
+    "visit": {}
    },
    "eventos": []
   },
@@ -663,6 +545,780 @@
      "minuto": "90'+9'",
      "tipo": "substitution",
      "texto": "Victor Orakpo (Genclerbirligi) Substitution at 90'+9'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401879233",
+   "liga": "Premier League",
+   "slug": "eng.1",
+   "hora": "12:30",
+   "estado": "FINAL",
+   "minuto": "90'+3'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "382",
+    "nombre": "Manchester City",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "370",
+    "nombre": "Fulham",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 58.5,
+     "tiros": 15,
+     "a_puerta": 3,
+     "faltas": 8,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 3,
+     "pases": 522
+    },
+    "visit": {
+     "posesion": 41.5,
+     "tiros": 5,
+     "a_puerta": 4,
+     "faltas": 11,
+     "amarillas": 3,
+     "rojas": 0,
+     "corners": 6,
+     "paradas": 2,
+     "pases": 344
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "7'",
+     "tipo": "yellow-card",
+     "texto": "Alex Iwobi (Fulham) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "16'",
+     "tipo": "goal",
+     "texto": "Goal! Manchester City 0, Fulham 1. Rodrigo Muniz (Fulham) right footed shot from the centre of the box to the top right corner. Assisted by Oscar Bobb.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "22'",
+     "tipo": "yellow-card",
+     "texto": "Calvin Bassey (Fulham) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "44'",
+     "tipo": "yellow-card",
+     "texto": "Shea Charles (Fulham) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Fulham. Hugo Larsson replaces Josh King.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Fulham. Antonee Robinson replaces Alex Iwobi.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Manchester City. Rayan Cherki replaces Phil Foden.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "yellow-card",
+     "texto": "Gianluigi Donnarumma (Manchester City) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Fulham. Gonzalo García replaces Oscar Bobb.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Manchester City. Allan replaces Iliman Ndiaye.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Substitution, Manchester City. Josko Gvardiol replaces Nico O'Reilly.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Fulham. César Palacios replaces Ryan Sessegnon.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, Fulham. Tom Cairney replaces Rodrigo Muniz.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "85'",
+     "tipo": "substitution",
+     "texto": "Substitution, Manchester City. Enzo Fernández replaces Ayyoub Bouaddi.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401882806",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "13:00",
+   "estado": "FINAL",
+   "minuto": "90'+6'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "96",
+    "nombre": "Alavés",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "90",
+    "nombre": "Deportivo",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 48.4,
+     "tiros": 21,
+     "a_puerta": 8,
+     "faltas": 20,
+     "amarillas": 4,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 2,
+     "pases": 292
+    },
+    "visit": {
+     "posesion": 51.6,
+     "tiros": 7,
+     "a_puerta": 2,
+     "faltas": 15,
+     "amarillas": 4,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 5,
+     "pases": 306
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "2'",
+     "tipo": "goal",
+     "texto": "Goal! Alaves 1, Deportivo de A Coruña 0. Ángel Pérez (Alaves) right footed shot from the right side of the six yard box to the top right corner. Assisted by Antonio Blanco with a t",
+     "lado": "local"
+    },
+    {
+     "minuto": "5'",
+     "tipo": "yellow-card",
+     "texto": "Ximo Navarro (Deportivo de A Coruña) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "19'",
+     "tipo": "yellow-card",
+     "texto": "Giacomo Quagliata (Deportivo de A Coruña) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "32'",
+     "tipo": "yellow-card",
+     "texto": "Ángel Pérez (Alaves) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "41'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Nahuel Tenaglia, Alaves. Alaves 1, Deportivo de A Coruña 1.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Adama Traoré replaces Ximo Navarro.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. José María Giménez replaces Riki Rodríguez.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "48'",
+     "tipo": "yellow-card",
+     "texto": "Miguel Loureiro (Deportivo de A Coruña) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "yellow-card",
+     "texto": "Adama Traoré (Deportivo de A Coruña) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "yellow-card",
+     "texto": "Abde Rebbach (Alaves) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Lorenzo Amatucci replaces Mario Soriano.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "yellow-card",
+     "texto": "Lucas Boyé (Alaves) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Jonathan Asp Jensen replaces Luismi Cruz.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Deportivo de A Coruña. Bil Nsongo replaces Yeremay Hernández.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alaves. Youssef Enriquez replaces Abde Rebbach.",
+     "lado": "local"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alaves. Hugo Novoa replaces Ángel Pérez.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alaves. Mariano Díaz replaces Toni Martínez.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alaves. Ander Guevara replaces Pablo Ibáñez.",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, Alaves. Xanet Oláiz replaces Hugo Novoa because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "89'",
+     "tipo": "yellow-card",
+     "texto": "Ander Guevara (Alaves) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "goal",
+     "texto": "Goal! Alaves 3, Deportivo de A Coruña 1. Denis Suárez (Alaves) right footed shot from the centre of the box to the bottom right corner. Assisted by Lucas Boyé.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401882299",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "13:00",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "11487",
+    "nombre": "CD Sabadell",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11487.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "3747",
+    "nombre": "Granada",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 53.8,
+     "tiros": 13,
+     "a_puerta": 6,
+     "faltas": 20,
+     "amarillas": 4,
+     "rojas": 0,
+     "corners": 10,
+     "paradas": 2,
+     "pases": 307
+    },
+    "visit": {
+     "posesion": 46.2,
+     "tiros": 9,
+     "a_puerta": 3,
+     "faltas": 15,
+     "amarillas": 5,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 4,
+     "pases": 265
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "31'",
+     "tipo": "yellow-card",
+     "texto": "Rubén Alcaraz (Granada) Yellow Card at 31'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "37'",
+     "tipo": "yellow-card",
+     "texto": "Óscar Sanz (CD Sabadell) Yellow Card at 37'",
+     "lado": "local"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "goal",
+     "texto": "Pedro Alemañ (Granada) Goal at 43'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'+4'",
+     "tipo": "yellow-card",
+     "texto": "Sergio Rodelas (Granada) Yellow Card at 45'+4'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "46'",
+     "tipo": "yellow-card",
+     "texto": "Pere Pons (CD Sabadell) Yellow Card at 46'",
+     "lado": "local"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Javi López (CD Sabadell) Substitution at 56'",
+     "lado": "local"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "substitution",
+     "texto": "Miquel Codina (CD Sabadell) Substitution at 57'",
+     "lado": "local"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Mario Jiménez Gambin (Granada) Substitution at 60'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "60'",
+     "tipo": "substitution",
+     "texto": "Alejandro Marqués (Granada) Substitution at 60'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Alain Ribeiro (CD Sabadell) Substitution at 66'",
+     "lado": "local"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "substitution",
+     "texto": "José Arnaiz (Granada) Substitution at 68'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "substitution",
+     "texto": "Diego Hormigo (Granada) Substitution at 68'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "yellow-card",
+     "texto": "Mario Jiménez Gambin (Granada) Yellow Card at 70'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Miquel Codina (CD Sabadell) Yellow Card at 77'",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "substitution",
+     "texto": "Eneko Aguilar (CD Sabadell) Substitution at 78'",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "goal",
+     "texto": "Alain Ribeiro (CD Sabadell) Goal at 78'",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Chinaza Marvellous Onouha Okonyia (Granada) Substitution at 84'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "yellow-card",
+     "texto": "Chinaza Marvellous Onouha Okonyia (Granada) Yellow Card at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "87'",
+     "tipo": "yellow-card",
+     "texto": "Gerard Gumbau (Granada) Yellow Card at 87'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "yellow-card",
+     "texto": "Javi López (CD Sabadell) Yellow Card at 90'+1'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401888369",
+   "liga": "Super Lig",
+   "slug": "tur.1",
+   "hora": "13:00",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "132335",
+    "nombre": "Amed SFK",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "7656",
+    "nombre": "Caykur Rizespor",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 56.4,
+     "tiros": 16,
+     "a_puerta": 7,
+     "faltas": 10,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 7,
+     "paradas": 3,
+     "pases": 435
+    },
+    "visit": {
+     "posesion": 43.6,
+     "tiros": 10,
+     "a_puerta": 5,
+     "faltas": 7,
+     "amarillas": 5,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 7,
+     "pases": 348
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "19'",
+     "tipo": "goal",
+     "texto": "Ali Sowe (Caykur Rizespor) Goal at 19'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "27'",
+     "tipo": "yellow-card",
+     "texto": "Zafer Görgen (Caykur Rizespor) Yellow Card at 27'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'+1'",
+     "tipo": "yellow-card",
+     "texto": "Ahmed Kutucu (Caykur Rizespor) Yellow Card at 45'+1'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Amadou Cissé (Amed SFK) Substitution at 45'",
+     "lado": "local"
+    },
+    {
+     "minuto": "51'",
+     "tipo": "yellow-card",
+     "texto": "Adedire Mebude (Caykur Rizespor) Yellow Card at 51'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "goal",
+     "texto": "Ali Sowe (Caykur Rizespor) Goal at 54'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Emrecan Bulut (Caykur Rizespor) Substitution at 63'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Mohamed Khalil (Amed SFK) Substitution at 64'",
+     "lado": "local"
+    },
+    {
+     "minuto": "64'",
+     "tipo": "substitution",
+     "texto": "Gökhan Gül (Amed SFK) Substitution at 64'",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Moussa Diakité (Caykur Rizespor) Substitution at 75'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "substitution",
+     "texto": "Iustin Doicaru (Caykur Rizespor) Substitution at 75'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Umut Erdem (Caykur Rizespor) Substitution at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Modibo Sagnan (Caykur Rizespor) Substitution at 80'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "yellow-card",
+     "texto": "Ibrahim Olawoyin (Caykur Rizespor) Yellow Card at 81'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Berk Kizildemir (Amed SFK) Substitution at 81'",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "yellow-card",
+     "texto": "Emrecan Bulut (Caykur Rizespor) Yellow Card at 83'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "yellow-card",
+     "texto": "Umut Meras (Amed SFK) Yellow Card at 90'+1'",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+2'",
+     "tipo": "yellow-card",
+     "texto": "Mehmet Yesil (Amed SFK) Yellow Card at 90'+2'",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401888245",
+   "liga": "Super Lig",
+   "slug": "tur.1",
+   "hora": "13:00",
+   "estado": "FINAL",
+   "minuto": "90'+5'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "432",
+    "nombre": "Galatasaray",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "11429",
+    "nombre": "Samsunspor",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png",
+    "goles": 1
+   },
+   "stats": {
+    "local": {
+     "posesion": 55.9,
+     "tiros": 11,
+     "a_puerta": 5,
+     "faltas": 10,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 5,
+     "paradas": 6,
+     "pases": 466
+    },
+    "visit": {
+     "posesion": 44.1,
+     "tiros": 18,
+     "a_puerta": 7,
+     "faltas": 9,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 3,
+     "pases": 345
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "4'",
+     "tipo": "goal",
+     "texto": "Lucas Torreira (Galatasaray) Goal at 4'",
+     "lado": "local"
+    },
+    {
+     "minuto": "33'",
+     "tipo": "yellow-card",
+     "texto": "Josafat Mendes (Samsunspor) Yellow Card at 33'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "33'",
+     "tipo": "yellow-card",
+     "texto": "Baris Alper Yilmaz (Galatasaray) Yellow Card at 33'",
+     "lado": "local"
+    },
+    {
+     "minuto": "53'",
+     "tipo": "goal",
+     "texto": "Yunus Akgün (Galatasaray) Goal at 53'",
+     "lado": "local"
+    },
+    {
+     "minuto": "57'",
+     "tipo": "goal",
+     "texto": "Mohamed Bayo (Samsunspor) Goal at 57'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Mario Lemina (Galatasaray) Substitution at 66'",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Leroy Sané (Galatasaray) Substitution at 66'",
+     "lado": "local"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Elayis Tavsan (Samsunspor) Substitution at 73'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Emre Kilinc (Samsunspor) Substitution at 73'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "73'",
+     "tipo": "substitution",
+     "texto": "Yalcin Kayan (Samsunspor) Substitution at 73'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "yellow-card",
+     "texto": "Mario Lemina (Galatasaray) Yellow Card at 77'",
+     "lado": "local"
+    },
+    {
+     "minuto": "79'",
+     "tipo": "substitution",
+     "texto": "Kazimcan Karatas (Galatasaray) Substitution at 79'",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Ilkay Gündogan (Galatasaray) Substitution at 80'",
+     "lado": "local"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Samed Onur (Samsunspor) Substitution at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Kouadou Assoumou (Samsunspor) Substitution at 86'",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'",
+     "tipo": "substitution",
+     "texto": "Lesley Ugochukwu (Galatasaray) Substitution at 90'",
      "lado": "local"
     }
    ]
