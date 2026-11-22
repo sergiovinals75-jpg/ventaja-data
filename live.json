@@ -1,423 +1,15 @@
 {
- "generado": "2026-11-22T15:01:05+00:00",
+ "generado": "2026-11-22T15:29:34+00:00",
  "dia": "2026-11-22",
  "en_juego": 8,
  "partidos": [
-  {
-   "id": "401882804",
-   "liga": "LaLiga",
-   "slug": "esp.1",
-   "hora": "13:00",
-   "estado": "EN JUEGO",
-   "minuto": "90'+6'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "83",
-    "nombre": "Barcelona",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-    "goles": 3
-   },
-   "visit": {
-    "id": "102",
-    "nombre": "Villarreal",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-    "goles": 2
-   },
-   "stats": {
-    "local": {
-     "posesion": 69.8,
-     "tiros": 29,
-     "a_puerta": 9,
-     "faltas": 11,
-     "amarillas": 2,
-     "rojas": 0,
-     "corners": 10,
-     "paradas": 0,
-     "pases": 544
-    },
-    "visit": {
-     "posesion": 30.2,
-     "tiros": 4,
-     "a_puerta": 2,
-     "faltas": 19,
-     "amarillas": 4,
-     "rojas": 1,
-     "corners": 0,
-     "paradas": 7,
-     "pases": 198
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "5'",
-     "tipo": "goal",
-     "texto": "Goal! Barcelona 0, Villarreal 1. Tajon Buchanan (Villarreal) right footed shot from outside the box to the bottom right corner.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "7'",
-     "tipo": "goal",
-     "texto": "Goal! Barcelona 0, Villarreal 2. Tani Oluwaseyi (Villarreal) left footed shot from the left side of the box to the high centre of the goal. Assisted by Alberto Moleiro following a ",
-     "lado": "visit"
-    },
-    {
-     "minuto": "11'",
-     "tipo": "yellow-card",
-     "texto": "Pape Gueye (Villarreal) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "23'",
-     "tipo": "penalty---missed",
-     "texto": "Penalty missed! Still Barcelona 0, Villarreal 2. Lamine Yamal (Barcelona) hits the right post with a left footed shot.",
-     "lado": "local"
-    },
-    {
-     "minuto": "32'",
-     "tipo": "yellow-card",
-     "texto": "Alberto Moleiro (Villarreal) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "47'",
-     "tipo": "yellow-card",
-     "texto": "Pau Navarro (Villarreal) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "49'",
-     "tipo": "yellow-card",
-     "texto": "Alex Freeman (Villarreal) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "61'",
-     "tipo": "goal",
-     "texto": "Goal! Barcelona 2, Villarreal 2. Fermín López (Barcelona) left footed shot from the centre of the box to the bottom left corner. Assisted by Lamine Yamal.",
-     "lado": "local"
-    },
-    {
-     "minuto": "63'",
-     "tipo": "yellow-card",
-     "texto": "Carlos Romero (Villarreal) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "65'",
-     "tipo": "substitution",
-     "texto": "Substitution, Villarreal. Carlos Maciá replaces Alberto Moleiro.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "65'",
-     "tipo": "substitution",
-     "texto": "Substitution, Villarreal. Sergi Cardona replaces Carlos Romero.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "own-goal",
-     "texto": "Own Goal by Pau Navarro, Villarreal. Barcelona 3, Villarreal 2.",
-     "lado": "local"
-    },
-    {
-     "minuto": "68'",
-     "tipo": "substitution",
-     "texto": "Substitution, Barcelona. Anthony Gordon replaces Karim Adeyemi.",
-     "lado": "local"
-    },
-    {
-     "minuto": "68'",
-     "tipo": "substitution",
-     "texto": "Substitution, Barcelona. Dani Olmo replaces Fermín López.",
-     "lado": "local"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "yellow-card",
-     "texto": "Raphinha (Barcelona) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "substitution",
-     "texto": "Substitution, Villarreal. Nicolas Pepe replaces Santi Comesaña.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "76'",
-     "tipo": "substitution",
-     "texto": "Substitution, Villarreal. Ayoze Pérez replaces Tajon Buchanan.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "80'",
-     "tipo": "yellow-card",
-     "texto": "Marc Bernal (Barcelona) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "84'",
-     "tipo": "substitution",
-     "texto": "Substitution, Barcelona. Jules Koundé replaces Eric García.",
-     "lado": "local"
-    },
-    {
-     "minuto": "86'",
-     "tipo": "substitution",
-     "texto": "Substitution, Villarreal. Santiago Mouriño replaces Georges Mikautadze.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "90'+1'",
-     "tipo": "substitution",
-     "texto": "Substitution, Barcelona. Gavi replaces Marc Bernal because of an injury.",
-     "lado": "local"
-    },
-    {
-     "minuto": "90'+3'",
-     "tipo": "red-card",
-     "texto": "Second yellow card to Pau Navarro (Villarreal) for a bad foul.",
-     "lado": "visit"
-    }
-   ]
-  },
-  {
-   "id": "401875547",
-   "liga": "Eredivisie",
-   "slug": "ned.1",
-   "hora": "13:30",
-   "estado": "EN JUEGO",
-   "minuto": "72'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "139",
-    "nombre": "Ajax Amsterdam",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-    "goles": 3
-   },
-   "visit": {
-    "id": "2726",
-    "nombre": "ADO Den Haag",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
-    "goles": 0
-   },
-   "stats": {
-    "local": {
-     "posesion": 77.9,
-     "tiros": 15,
-     "a_puerta": 8,
-     "faltas": 4,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 5,
-     "paradas": 0,
-     "pases": 585
-    },
-    "visit": {
-     "posesion": 22.1,
-     "tiros": 2,
-     "a_puerta": 0,
-     "faltas": 6,
-     "amarillas": 0,
-     "rojas": 1,
-     "corners": 3,
-     "paradas": 5,
-     "pases": 129
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "3'",
-     "tipo": "goal",
-     "texto": "Goal! Ajax 1, ADO Den Haag 0. Davy Klaassen (Ajax) right footed shot from the centre of the box to the bottom left corner. Assisted by Oscar Gloukh.",
-     "lado": "local"
-    },
-    {
-     "minuto": "15'",
-     "tipo": "goal",
-     "texto": "Goal! Ajax 2, ADO Den Haag 0. Jorthy Mokio (Ajax) left footed shot from the centre of the box to the bottom right corner. Assisted by Davy Klaassen.",
-     "lado": "local"
-    },
-    {
-     "minuto": "37'",
-     "tipo": "red-card",
-     "texto": "Matteo Waem (ADO Den Haag) is shown the red card.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "39'",
-     "tipo": "substitution",
-     "texto": "Substitution, ADO Den Haag. Lasse Wilhelm replaces Yannick Eduardo.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "43'",
-     "tipo": "goal",
-     "texto": "Goal! Ajax 3, ADO Den Haag 0. Davy Klaassen (Ajax) right footed shot from the centre of the box to the bottom left corner. Assisted by Lucas Rosa with a cross following a fast brea",
-     "lado": "local"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Substitution, ADO Den Haag. Sékou Sylla replaces Matej Sín.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "substitution",
-     "texto": "Substitution, ADO Den Haag. Jonas Jensen-Abbew replaces Mylian Jiménez.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "62'",
-     "tipo": "substitution",
-     "texto": "Substitution, Ajax. Anton Gaaei replaces Lucas Rosa.",
-     "lado": "local"
-    },
-    {
-     "minuto": "62'",
-     "tipo": "substitution",
-     "texto": "Substitution, Ajax. Oliver Edvardsen replaces Oscar Gloukh.",
-     "lado": "local"
-    },
-    {
-     "minuto": "62'",
-     "tipo": "substitution",
-     "texto": "Substitution, Ajax. Marcos Leonardo replaces Tolu Arokodare.",
-     "lado": "local"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Substitution, Ajax. Steven Berghuis replaces Rayane Bounida.",
-     "lado": "local"
-    },
-    {
-     "minuto": "70'",
-     "tipo": "substitution",
-     "texto": "Substitution, Ajax. Julian Brandt replaces Davy Klaassen.",
-     "lado": "local"
-    }
-   ]
-  },
-  {
-   "id": "401875540",
-   "liga": "Eredivisie",
-   "slug": "ned.1",
-   "hora": "13:30",
-   "estado": "EN JUEGO",
-   "minuto": "72'",
-   "en_juego": true,
-   "terminado": false,
-   "local": {
-    "id": "151",
-    "nombre": "Sparta Rotterdam",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
-    "goles": 1
-   },
-   "visit": {
-    "id": "140",
-    "nombre": "AZ Alkmaar",
-    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-    "goles": 3
-   },
-   "stats": {
-    "local": {
-     "posesion": 51.8,
-     "tiros": 11,
-     "a_puerta": 2,
-     "faltas": 7,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 5,
-     "paradas": 1,
-     "pases": 318
-    },
-    "visit": {
-     "posesion": 48.2,
-     "tiros": 9,
-     "a_puerta": 4,
-     "faltas": 8,
-     "amarillas": 1,
-     "rojas": 0,
-     "corners": 1,
-     "paradas": 0,
-     "pases": 287
-    }
-   },
-   "eventos": [
-    {
-     "minuto": "15'",
-     "tipo": "goal",
-     "texto": "Goal! Sparta Rotterdam 1, AZ 0. Isaac Babadi (Sparta Rotterdam) left footed shot from the right side of the box to the centre of the goal. Assisted by Shunsuke Mito.",
-     "lado": "local"
-    },
-    {
-     "minuto": "17'",
-     "tipo": "goal",
-     "texto": "Goal! Sparta Rotterdam 1, AZ 1. Mateo Chávez (AZ) left footed shot from the centre of the box to the bottom right corner. Assisted by Ro-Zangelo Daal.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "45'",
-     "tipo": "yellow-card",
-     "texto": "Isaac Babadi (Sparta Rotterdam) is shown the yellow card for a bad foul.",
-     "lado": "local"
-    },
-    {
-     "minuto": "50'",
-     "tipo": "goal",
-     "texto": "Goal! Sparta Rotterdam 1, AZ 2. Calvin Stengs (AZ) right footed shot from the centre of the box to the bottom left corner. Assisted by Ro-Zangelo Daal.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "54'",
-     "tipo": "goal",
-     "texto": "Goal! Sparta Rotterdam 1, AZ 3. Dave Kwakman (AZ) right footed shot from outside the box to the bottom left corner. Assisted by Mateo Chávez.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "61'",
-     "tipo": "yellow-card",
-     "texto": "Peer Koopmeiners (AZ) is shown the yellow card for a bad foul.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "substitution",
-     "texto": "Substitution, AZ. Jordy Clasie replaces Calvin Stengs.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "substitution",
-     "texto": "Substitution, AZ. Bendegúz Kovács replaces Mexx Meerdink.",
-     "lado": "visit"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "substitution",
-     "texto": "Substitution, Sparta Rotterdam. Andrej Kostic replaces Isaac Babadi.",
-     "lado": "local"
-    },
-    {
-     "minuto": "67'",
-     "tipo": "substitution",
-     "texto": "Substitution, Sparta Rotterdam. Giannino Vianello replaces Bas Kuipers.",
-     "lado": "local"
-    }
-   ]
-  },
   {
    "id": "401879234",
    "liga": "Premier League",
    "slug": "eng.1",
    "hora": "14:00",
    "estado": "EN JUEGO",
-   "minuto": "45'+4'",
+   "minuto": "68'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -434,26 +26,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 28.3,
-     "tiros": 5,
-     "a_puerta": 2,
-     "faltas": 3,
-     "amarillas": 1,
+     "posesion": 27.6,
+     "tiros": 7,
+     "a_puerta": 3,
+     "faltas": 6,
+     "amarillas": 2,
      "rojas": 0,
      "corners": 1,
-     "paradas": 5,
-     "pases": 63
+     "paradas": 7,
+     "pases": 89
     },
     "visit": {
-     "posesion": 71.7,
-     "tiros": 10,
-     "a_puerta": 5,
-     "faltas": 9,
-     "amarillas": 1,
+     "posesion": 72.4,
+     "tiros": 14,
+     "a_puerta": 7,
+     "faltas": 13,
+     "amarillas": 2,
      "rojas": 0,
      "corners": 4,
-     "paradas": 2,
-     "pases": 257
+     "paradas": 3,
+     "pases": 390
     }
    },
    "eventos": [
@@ -474,6 +66,30 @@
      "tipo": "substitution",
      "texto": "Substitution, Hull City. Lucas Gourna-Douath replaces Tim Iroegbunam because of an injury.",
      "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Hull City. Sorba Thomas replaces Mohamed-Ali Cho.",
+     "lado": "local"
+    },
+    {
+     "minuto": "59'",
+     "tipo": "yellow-card",
+     "texto": "Lucas Gourna-Douath (Hull City) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Costinha (Brighton and Hove Albion) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Brighton and Hove Albion. Jack Hinshelwood replaces Yasin Ayari.",
+     "lado": "visit"
     }
    ]
   },
@@ -483,7 +99,7 @@
    "slug": "ita.1",
    "hora": "14:00",
    "estado": "EN JUEGO",
-   "minuto": "45'+2'",
+   "minuto": "70'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -496,30 +112,30 @@
     "id": "118",
     "nombre": "Udinese",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-    "goles": 0
+    "goles": 1
    },
    "stats": {
     "local": {
-     "posesion": 49.8,
-     "tiros": 8,
-     "a_puerta": 1,
-     "faltas": 6,
-     "amarillas": 0,
-     "rojas": 0,
-     "corners": 2,
-     "paradas": 2,
-     "pases": 154
-    },
-    "visit": {
-     "posesion": 50.2,
-     "tiros": 5,
-     "a_puerta": 2,
-     "faltas": 5,
+     "posesion": 48.5,
+     "tiros": 13,
+     "a_puerta": 3,
+     "faltas": 10,
      "amarillas": 1,
      "rojas": 0,
-     "corners": 3,
-     "paradas": 0,
-     "pases": 158
+     "corners": 6,
+     "paradas": 2,
+     "pases": 229
+    },
+    "visit": {
+     "posesion": 51.5,
+     "tiros": 7,
+     "a_puerta": 3,
+     "faltas": 9,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 2,
+     "pases": 246
     }
    },
    "eventos": [
@@ -534,6 +150,42 @@
      "tipo": "goal",
      "texto": "Goal! Bologna 1, Udinese 0. Nadir Zortea (Bologna) left footed shot from very close range to the centre of the goal. Assisted by Jens Odgaard.",
      "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Bologna. Rahim Alhassane replaces Riccardo Orsolini.",
+     "lado": "local"
+    },
+    {
+     "minuto": "51'",
+     "tipo": "yellow-card",
+     "texto": "Oumar Solet (Udinese) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "52'",
+     "tipo": "yellow-card",
+     "texto": "Federico Bernardeschi (Bologna) is shown the yellow card.",
+     "lado": "local"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Udinese. Alessandro Zanoli replaces Matteo Palma.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "56'",
+     "tipo": "substitution",
+     "texto": "Substitution, Udinese. Vakoun Bayo replaces Sandi Lovric.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "goal",
+     "texto": "Goal! Bologna 1, Udinese 1. Nicolò Zaniolo (Udinese) left footed shot from the left side of the box to the top left corner.",
+     "lado": "visit"
     }
    ]
   },
@@ -543,7 +195,7 @@
    "slug": "ita.1",
    "hora": "14:00",
    "estado": "EN JUEGO",
-   "minuto": "45'+1'",
+   "minuto": "69'",
    "en_juego": true,
    "terminado": false,
    "local": {
@@ -560,26 +212,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 55.4,
-     "tiros": 7,
-     "a_puerta": 3,
-     "faltas": 4,
-     "amarillas": 0,
+     "posesion": 60.2,
+     "tiros": 13,
+     "a_puerta": 5,
+     "faltas": 8,
+     "amarillas": 1,
      "rojas": 0,
-     "corners": 0,
+     "corners": 4,
      "paradas": 1,
-     "pases": 239
+     "pases": 381
     },
     "visit": {
-     "posesion": 44.6,
-     "tiros": 7,
+     "posesion": 39.8,
+     "tiros": 10,
      "a_puerta": 4,
-     "faltas": 6,
+     "faltas": 8,
      "amarillas": 0,
      "rojas": 0,
-     "corners": 1,
-     "paradas": 3,
-     "pases": 187
+     "corners": 2,
+     "paradas": 5,
+     "pases": 230
     }
    },
    "eventos": [
@@ -594,6 +246,36 @@
      "tipo": "goal",
      "texto": "Goal! Sassuolo 0, Genoa 2. Milutin Osmajic (Genoa) left footed shot from very close range to the bottom right corner following a fast break.",
      "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sassuolo. Kieron Bowie replaces Sebastiano Esposito.",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sassuolo. Ibrahim Sulemana replaces Fali Candé.",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Kristian Thorstvedt (Sassuolo) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Substitution, Genoa. Vítinha replaces Tommaso Baldanzi.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "substitution",
+     "texto": "Substitution, Genoa. Morten Frendrup replaces Alex Amorim.",
+     "lado": "visit"
     }
    ]
   },
@@ -603,14 +285,14 @@
    "slug": "fra.1",
    "hora": "14:00",
    "estado": "EN JUEGO",
-   "minuto": "45'+2'",
+   "minuto": "72'",
    "en_juego": true,
    "terminado": false,
    "local": {
     "id": "6851",
     "nombre": "Paris FC",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-    "goles": 0
+    "goles": 3
    },
    "visit": {
     "id": "7868",
@@ -620,26 +302,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 58.6,
-     "tiros": 8,
-     "a_puerta": 2,
-     "faltas": 9,
+     "posesion": 63.4,
+     "tiros": 14,
+     "a_puerta": 8,
+     "faltas": 13,
      "amarillas": 1,
      "rojas": 0,
-     "corners": 8,
+     "corners": 9,
      "paradas": 1,
-     "pases": 301
+     "pases": 520
     },
     "visit": {
-     "posesion": 41.4,
-     "tiros": 5,
+     "posesion": 36.6,
+     "tiros": 6,
      "a_puerta": 1,
-     "faltas": 4,
+     "faltas": 10,
      "amarillas": 0,
      "rojas": 0,
      "corners": 0,
-     "paradas": 2,
-     "pases": 211
+     "paradas": 5,
+     "pases": 288
     }
    },
    "eventos": [
@@ -647,6 +329,54 @@
      "minuto": "42'",
      "tipo": "yellow-card",
      "texto": "Luca Koleosho (Paris FC) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "47'",
+     "tipo": "goal",
+     "texto": "Goal! Paris FC 1, Angers 0. Patrick Zabi (Paris FC) right footed shot from very close range to the centre of the goal. Assisted by Diego Coppola with a headed pass following a corn",
+     "lado": "local"
+    },
+    {
+     "minuto": "55'",
+     "tipo": "goal",
+     "texto": "Goal! Paris FC 2, Angers 0. Luca Koleosho (Paris FC) left footed shot from the left side of the six yard box to the centre of the goal.",
+     "lado": "local"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Substitution, Angers. Jim Allevinah replaces Anthony Bermont.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Substitution, Angers. Amine El Ouazzani replaces Usman Simbakoli.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "58'",
+     "tipo": "substitution",
+     "texto": "Substitution, Angers. Lilian Raolisoa replaces Carlens Arcus.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "goal",
+     "texto": "Goal! Paris FC 3, Angers 0. Maxime Lopez (Paris FC) right footed shot from very close range to the centre of the goal.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris FC. Jonathan Ikoné replaces Ilan Kebbal.",
+     "lado": "local"
+    },
+    {
+     "minuto": "66'",
+     "tipo": "substitution",
+     "texto": "Substitution, Paris FC. Adama Camara replaces Rudy Matondo.",
      "lado": "local"
     }
    ]
@@ -657,14 +387,14 @@
    "slug": "ger.1",
    "hora": "14:30",
    "estado": "EN JUEGO",
-   "minuto": "31'",
+   "minuto": "45'+5'",
    "en_juego": true,
    "terminado": false,
    "local": {
     "id": "3841",
     "nombre": "FC Augsburg",
     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-    "goles": 1
+    "goles": 2
    },
    "visit": {
     "id": "2950",
@@ -674,26 +404,26 @@
    },
    "stats": {
     "local": {
-     "posesion": 64.2,
-     "tiros": 7,
-     "a_puerta": 2,
-     "faltas": 3,
-     "amarillas": 0,
+     "posesion": 62.8,
+     "tiros": 11,
+     "a_puerta": 4,
+     "faltas": 5,
+     "amarillas": 1,
      "rojas": 0,
-     "corners": 2,
+     "corners": 3,
      "paradas": 0,
-     "pases": 160
+     "pases": 212
     },
     "visit": {
-     "posesion": 35.8,
-     "tiros": 1,
+     "posesion": 37.2,
+     "tiros": 3,
      "a_puerta": 0,
-     "faltas": 4,
-     "amarillas": 0,
+     "faltas": 6,
+     "amarillas": 1,
      "rojas": 0,
      "corners": 0,
-     "paradas": 1,
-     "pases": 82
+     "paradas": 2,
+     "pases": 114
     }
    },
    "eventos": [
@@ -702,8 +432,187 @@
      "tipo": "goal",
      "texto": "Goal! Augsburg 1, Mainz 0. Michael Gregoritsch (Augsburg) right footed shot from very close range to the centre of the goal following a corner.",
      "lado": "local"
+    },
+    {
+     "minuto": "36'",
+     "tipo": "goal",
+     "texto": "Goal! Augsburg 2, Mainz 0. Juma Bah (Augsburg) right footed shot from very close range to the bottom left corner following a corner.",
+     "lado": "local"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "yellow-card",
+     "texto": "Nadiem Amiri (Mainz) is shown the yellow card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "44'",
+     "tipo": "yellow-card",
+     "texto": "Robin Fellhauer (Augsburg) is shown the yellow card for a bad foul.",
+     "lado": "local"
     }
    ]
+  },
+  {
+   "id": "401850697",
+   "liga": "Primera Division (CHI)",
+   "slug": "chi.1",
+   "hora": "15:00",
+   "estado": "EN JUEGO",
+   "minuto": "25'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "4134",
+    "nombre": "Huachipato",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4134.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "8110",
+    "nombre": "Deportes Concepcion",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8110.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 48.9,
+     "tiros": 2,
+     "a_puerta": 1,
+     "faltas": 6,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 0,
+     "pases": 72
+    },
+    "visit": {
+     "posesion": 51.1,
+     "tiros": 3,
+     "a_puerta": 0,
+     "faltas": 3,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 1,
+     "pases": 72
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "16'",
+     "tipo": "yellow-card",
+     "texto": "Lionel Altamirano (Huachipato) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401882800",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "15:15",
+   "estado": "EN JUEGO",
+   "minuto": "14'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "87",
+    "nombre": "Racing Santander",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+    "goles": 2
+   },
+   "visit": {
+    "id": "89",
+    "nombre": "Real Sociedad",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 38,
+     "tiros": 3,
+     "a_puerta": 3,
+     "faltas": 2,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 2,
+     "paradas": 1,
+     "pases": 31
+    },
+    "visit": {
+     "posesion": 62,
+     "tiros": 2,
+     "a_puerta": 2,
+     "faltas": 1,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 3,
+     "paradas": 0,
+     "pases": 60
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "6'",
+     "tipo": "goal",
+     "texto": "Goal! Racing de Santander 1, Real Sociedad 0. Yassir Zabiri (Racing de Santander) left footed shot from the centre of the box to the high centre of the goal. Assisted by Iker Luque",
+     "lado": "local"
+    },
+    {
+     "minuto": "8'",
+     "tipo": "goal",
+     "texto": "Goal! Racing de Santander 2, Real Sociedad 0. Yassir Zabiri (Racing de Santander) right footed shot from outside the box to the bottom left corner.",
+     "lado": "local"
+    }
+   ]
+  },
+  {
+   "id": "401882298",
+   "liga": "LaLiga Hypermotion",
+   "slug": "esp.2",
+   "hora": "15:15",
+   "estado": "EN JUEGO",
+   "minuto": "11'",
+   "en_juego": true,
+   "terminado": false,
+   "local": {
+    "id": "3788",
+    "nombre": "Sporting Gijón",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3788.png",
+    "goles": 0
+   },
+   "visit": {
+    "id": "98",
+    "nombre": "Las Palmas",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/98.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 56.4,
+     "tiros": 4,
+     "a_puerta": 1,
+     "faltas": 1,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 0,
+     "pases": 54
+    },
+    "visit": {
+     "posesion": 43.6,
+     "tiros": 0,
+     "a_puerta": 0,
+     "faltas": 1,
+     "amarillas": 0,
+     "rojas": 0,
+     "corners": 0,
+     "paradas": 1,
+     "pases": 39
+    }
+   },
+   "eventos": []
   },
   {
    "id": "401888243",
@@ -1096,6 +1005,186 @@
    ]
   },
   {
+   "id": "401882804",
+   "liga": "LaLiga",
+   "slug": "esp.1",
+   "hora": "13:00",
+   "estado": "FINAL",
+   "minuto": "90'+6'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "83",
+    "nombre": "Barcelona",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "102",
+    "nombre": "Villarreal",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+    "goles": 2
+   },
+   "stats": {
+    "local": {
+     "posesion": 69.9,
+     "tiros": 30,
+     "a_puerta": 9,
+     "faltas": 11,
+     "amarillas": 2,
+     "rojas": 0,
+     "corners": 10,
+     "paradas": 0,
+     "pases": 550
+    },
+    "visit": {
+     "posesion": 30.1,
+     "tiros": 4,
+     "a_puerta": 2,
+     "faltas": 19,
+     "amarillas": 4,
+     "rojas": 1,
+     "corners": 0,
+     "paradas": 7,
+     "pases": 199
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "5'",
+     "tipo": "goal",
+     "texto": "Goal! Barcelona 0, Villarreal 1. Tajon Buchanan (Villarreal) right footed shot from outside the box to the bottom right corner.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "7'",
+     "tipo": "goal",
+     "texto": "Goal! Barcelona 0, Villarreal 2. Tani Oluwaseyi (Villarreal) left footed shot from the left side of the box to the high centre of the goal. Assisted by Alberto Moleiro following a ",
+     "lado": "visit"
+    },
+    {
+     "minuto": "11'",
+     "tipo": "yellow-card",
+     "texto": "Pape Gueye (Villarreal) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "23'",
+     "tipo": "penalty---missed",
+     "texto": "Penalty missed! Still Barcelona 0, Villarreal 2. Lamine Yamal (Barcelona) hits the right post with a left footed shot.",
+     "lado": "local"
+    },
+    {
+     "minuto": "32'",
+     "tipo": "yellow-card",
+     "texto": "Alberto Moleiro (Villarreal) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "47'",
+     "tipo": "yellow-card",
+     "texto": "Pau Navarro (Villarreal) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "49'",
+     "tipo": "yellow-card",
+     "texto": "Alex Freeman (Villarreal) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "goal",
+     "texto": "Goal! Barcelona 2, Villarreal 2. Fermín López (Barcelona) left footed shot from the centre of the box to the bottom left corner. Assisted by Lamine Yamal.",
+     "lado": "local"
+    },
+    {
+     "minuto": "63'",
+     "tipo": "yellow-card",
+     "texto": "Carlos Romero (Villarreal) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Substitution, Villarreal. Carlos Maciá replaces Alberto Moleiro.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "65'",
+     "tipo": "substitution",
+     "texto": "Substitution, Villarreal. Sergi Cardona replaces Carlos Romero.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "own-goal",
+     "texto": "Own Goal by Pau Navarro, Villarreal. Barcelona 3, Villarreal 2.",
+     "lado": "local"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barcelona. Anthony Gordon replaces Karim Adeyemi.",
+     "lado": "local"
+    },
+    {
+     "minuto": "68'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barcelona. Dani Olmo replaces Fermín López.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "yellow-card",
+     "texto": "Raphinha (Barcelona) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Villarreal. Nicolas Pepe replaces Santi Comesaña.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "substitution",
+     "texto": "Substitution, Villarreal. Ayoze Pérez replaces Tajon Buchanan.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "yellow-card",
+     "texto": "Marc Bernal (Barcelona) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "84'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barcelona. Jules Koundé replaces Eric García.",
+     "lado": "local"
+    },
+    {
+     "minuto": "86'",
+     "tipo": "substitution",
+     "texto": "Substitution, Villarreal. Santiago Mouriño replaces Georges Mikautadze.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "90'+1'",
+     "tipo": "substitution",
+     "texto": "Substitution, Barcelona. Gavi replaces Marc Bernal because of an injury.",
+     "lado": "local"
+    },
+    {
+     "minuto": "90'+3'",
+     "tipo": "red-card",
+     "texto": "Second yellow card to Pau Navarro (Villarreal) for a bad foul.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
    "id": "401882300",
    "liga": "LaLiga Hypermotion",
    "slug": "esp.2",
@@ -1126,7 +1215,7 @@
      "rojas": 0,
      "corners": 7,
      "paradas": 2,
-     "pases": 299
+     "pases": 298
     },
     "visit": {
      "posesion": 51.7,
@@ -1292,7 +1381,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 51,
+     "posesion": 51.1,
      "tiros": 14,
      "a_puerta": 4,
      "faltas": 25,
@@ -1300,10 +1389,10 @@
      "rojas": 0,
      "corners": 4,
      "paradas": 1,
-     "pases": 386
+     "pases": 387
     },
     "visit": {
-     "posesion": 49,
+     "posesion": 48.9,
      "tiros": 7,
      "a_puerta": 2,
      "faltas": 20,
@@ -1466,7 +1555,7 @@
    },
    "stats": {
     "local": {
-     "posesion": 49.9,
+     "posesion": 50.2,
      "tiros": 10,
      "a_puerta": 6,
      "faltas": 10,
@@ -1474,10 +1563,10 @@
      "rojas": 0,
      "corners": 2,
      "paradas": 3,
-     "pases": 308
+     "pases": 313
     },
     "visit": {
-     "posesion": 50.1,
+     "posesion": 49.8,
      "tiros": 16,
      "a_puerta": 7,
      "faltas": 20,
@@ -1485,7 +1574,7 @@
      "rojas": 0,
      "corners": 3,
      "paradas": 4,
-     "pases": 322
+     "pases": 320
     }
    },
    "eventos": [
@@ -1601,6 +1690,324 @@
      "minuto": "90'+2'",
      "tipo": "goal",
      "texto": "Václav Cerný (Besiktas) Goal at 90'+2'",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401875547",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "13:30",
+   "estado": "FINAL",
+   "minuto": "90'+3'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "139",
+    "nombre": "Ajax Amsterdam",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+    "goles": 3
+   },
+   "visit": {
+    "id": "2726",
+    "nombre": "ADO Den Haag",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
+    "goles": 0
+   },
+   "stats": {
+    "local": {
+     "posesion": 78.8,
+     "tiros": 21,
+     "a_puerta": 10,
+     "faltas": 6,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 8,
+     "paradas": 1,
+     "pases": 719
+    },
+    "visit": {
+     "posesion": 21.2,
+     "tiros": 4,
+     "a_puerta": 1,
+     "faltas": 7,
+     "amarillas": 0,
+     "rojas": 1,
+     "corners": 3,
+     "paradas": 7,
+     "pases": 142
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "3'",
+     "tipo": "goal",
+     "texto": "Goal! Ajax 1, ADO Den Haag 0. Davy Klaassen (Ajax) right footed shot from the centre of the box to the bottom left corner. Assisted by Oscar Gloukh.",
+     "lado": "local"
+    },
+    {
+     "minuto": "15'",
+     "tipo": "goal",
+     "texto": "Goal! Ajax 2, ADO Den Haag 0. Jorthy Mokio (Ajax) left footed shot from the centre of the box to the bottom right corner. Assisted by Davy Klaassen.",
+     "lado": "local"
+    },
+    {
+     "minuto": "37'",
+     "tipo": "red-card",
+     "texto": "Matteo Waem (ADO Den Haag) is shown the red card.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "39'",
+     "tipo": "substitution",
+     "texto": "Substitution, ADO Den Haag. Lasse Wilhelm replaces Yannick Eduardo.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "43'",
+     "tipo": "goal",
+     "texto": "Goal! Ajax 3, ADO Den Haag 0. Davy Klaassen (Ajax) right footed shot from the centre of the box to the bottom left corner. Assisted by Lucas Rosa with a cross following a fast brea",
+     "lado": "local"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, ADO Den Haag. Sékou Sylla replaces Matej Sín.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "substitution",
+     "texto": "Substitution, ADO Den Haag. Jonas Jensen-Abbew replaces Mylian Jiménez.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ajax. Anton Gaaei replaces Lucas Rosa.",
+     "lado": "local"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ajax. Oliver Edvardsen replaces Oscar Gloukh.",
+     "lado": "local"
+    },
+    {
+     "minuto": "62'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ajax. Marcos Leonardo replaces Tolu Arokodare.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ajax. Steven Berghuis replaces Rayane Bounida.",
+     "lado": "local"
+    },
+    {
+     "minuto": "70'",
+     "tipo": "substitution",
+     "texto": "Substitution, Ajax. Julian Brandt replaces Davy Klaassen.",
+     "lado": "local"
+    },
+    {
+     "minuto": "76'",
+     "tipo": "yellow-card",
+     "texto": "Anton Gaaei (Ajax) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "81'",
+     "tipo": "substitution",
+     "texto": "Substitution, ADO Den Haag. Daryl van Mieghem replaces Othniël Raterink.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "88'",
+     "tipo": "substitution",
+     "texto": "Substitution, ADO Den Haag. Jesse Bal replaces Nigel Thomas.",
+     "lado": "visit"
+    }
+   ]
+  },
+  {
+   "id": "401875540",
+   "liga": "Eredivisie",
+   "slug": "ned.1",
+   "hora": "13:30",
+   "estado": "FINAL",
+   "minuto": "90'+4'",
+   "en_juego": false,
+   "terminado": true,
+   "local": {
+    "id": "151",
+    "nombre": "Sparta Rotterdam",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
+    "goles": 1
+   },
+   "visit": {
+    "id": "140",
+    "nombre": "AZ Alkmaar",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+    "goles": 5
+   },
+   "stats": {
+    "local": {
+     "posesion": 48.4,
+     "tiros": 11,
+     "a_puerta": 2,
+     "faltas": 14,
+     "amarillas": 3,
+     "rojas": 1,
+     "corners": 5,
+     "paradas": 3,
+     "pases": 387
+    },
+    "visit": {
+     "posesion": 51.6,
+     "tiros": 14,
+     "a_puerta": 8,
+     "faltas": 8,
+     "amarillas": 1,
+     "rojas": 0,
+     "corners": 4,
+     "paradas": 1,
+     "pases": 412
+    }
+   },
+   "eventos": [
+    {
+     "minuto": "15'",
+     "tipo": "goal",
+     "texto": "Goal! Sparta Rotterdam 1, AZ 0. Isaac Babadi (Sparta Rotterdam) left footed shot from the right side of the box to the centre of the goal. Assisted by Shunsuke Mito.",
+     "lado": "local"
+    },
+    {
+     "minuto": "17'",
+     "tipo": "goal",
+     "texto": "Goal! Sparta Rotterdam 1, AZ 1. Mateo Chávez (AZ) left footed shot from the centre of the box to the bottom right corner. Assisted by Ro-Zangelo Daal.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "45'",
+     "tipo": "yellow-card",
+     "texto": "Isaac Babadi (Sparta Rotterdam) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "50'",
+     "tipo": "goal",
+     "texto": "Goal! Sparta Rotterdam 1, AZ 2. Calvin Stengs (AZ) right footed shot from the centre of the box to the bottom left corner. Assisted by Ro-Zangelo Daal.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "54'",
+     "tipo": "goal",
+     "texto": "Goal! Sparta Rotterdam 1, AZ 3. Dave Kwakman (AZ) right footed shot from outside the box to the bottom left corner. Assisted by Mateo Chávez.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "61'",
+     "tipo": "yellow-card",
+     "texto": "Peer Koopmeiners (AZ) is shown the yellow card for a bad foul.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, AZ. Jordy Clasie replaces Calvin Stengs.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, AZ. Bendegúz Kovács replaces Mexx Meerdink.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sparta Rotterdam. Andrej Kostic replaces Isaac Babadi.",
+     "lado": "local"
+    },
+    {
+     "minuto": "67'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sparta Rotterdam. Giannino Vianello replaces Bas Kuipers.",
+     "lado": "local"
+    },
+    {
+     "minuto": "72'",
+     "tipo": "yellow-card",
+     "texto": "Bruno Martins Indi (Sparta Rotterdam) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "74'",
+     "tipo": "yellow-card",
+     "texto": "Andrej Kostic (Sparta Rotterdam) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "75'",
+     "tipo": "goal",
+     "texto": "Goal! Sparta Rotterdam 1, AZ 4. Ro-Zangelo Daal (AZ) right footed shot from the left side of the box to the top right corner. Assisted by Mateo Chávez.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sparta Rotterdam. Casper Terho replaces Shunsuke Mito.",
+     "lado": "local"
+    },
+    {
+     "minuto": "77'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sparta Rotterdam. Alwande Roaldsøy replaces Cedric Hatenboer.",
+     "lado": "local"
+    },
+    {
+     "minuto": "78'",
+     "tipo": "red-card",
+     "texto": "Second yellow card to Bruno Martins Indi (Sparta Rotterdam) for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, AZ. Valdemar Byskov replaces Dave Kwakman.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, Sparta Rotterdam. Djomar Giersthove replaces Milan Zonneveld.",
+     "lado": "local"
+    },
+    {
+     "minuto": "80'",
+     "tipo": "substitution",
+     "texto": "Substitution, AZ. Wassim Bouziane replaces Ro-Zangelo Daal.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "82'",
+     "tipo": "yellow-card",
+     "texto": "Julian Baas (Sparta Rotterdam) is shown the yellow card for a bad foul.",
+     "lado": "local"
+    },
+    {
+     "minuto": "83'",
+     "tipo": "substitution",
+     "texto": "Substitution, AZ. Seiya Maikuma replaces Elijah Dijkstra.",
+     "lado": "visit"
+    },
+    {
+     "minuto": "88'",
+     "tipo": "goal",
+     "texto": "Goal! Sparta Rotterdam 1, AZ 5. Seiya Maikuma (AZ) right footed shot from the centre of the box to the bottom left corner. Assisted by Wassim Bouziane with a cross.",
      "lado": "visit"
     }
    ]
